@@ -1,0 +1,236 @@
+[
+  {
+    "doi": "10.1021/acs.biochem.9b00237",
+    "title": "Revisiting Trade-offs\nbetween Rubisco Kinetic Parameters",
+    "date": "2019-07-01",
+    "first_author": "Flamholz"
+  },
+  {
+    "doi": "10.1093/molbev/msab079",
+    "title": "Rubisco Adaptation Is More Limited by Phylogenetic Constraint Than by Catalytic Trade-off",
+    "date": "2021-03-19",
+    "first_author": "Bouvier"
+  },
+  {
+    "doi": "10.1093/jxb/erab356",
+    "title": "Analyzing the causes of method-to-method variability among Rubisco kinetic traits: from the first to the current measurements",
+    "date": "2021-07-30",
+    "first_author": "Iñiguez"
+  },
+  {
+    "doi": "10.1038/s44318-025-00419-y",
+    "title": "Updated values for Table 1 of fastest rubisco carboxylation rates in Davidi et al 2020",
+    "date": "2025-04-07",
+    "first_author": "Tsai"
+  },
+  {
+    "doi": "10.1073/pnas.2321050121",
+    "title": "Rubisco is evolving for improved catalytic efficiency and CO\n                    2\n                    assimilation in plants",
+    "date": "2024-03-05",
+    "first_author": "Bouvier"
+  },
+  {
+    "doi": "10.1038/s41586-024-08455-0",
+    "title": "A map of the rubisco biochemical landscape",
+    "date": "2025-01-22",
+    "first_author": "Prywes"
+  },
+  {
+    "doi": "10.1073/pnas.2501433122",
+    "title": "Rubisco is slow across the tree of life",
+    "date": "2025-11-17",
+    "first_author": "de Pins"
+  },
+  {
+    "doi": "10.1016/j.bbrc.2025.151940",
+    "title": "A single amino acid substitution increases both carboxylation turnover number and CO2 affinity of form II Rubisco",
+    "date": "2025-07",
+    "first_author": "Zhang"
+  },
+  {
+    "doi": "10.1093/oxfordjournals.pcp.a028949",
+    "title": "A Rapid and Sensitive Method for Determination of Relative Specificity of RuBisCO from Various Species by Anion-Exchange Chromatography",
+    "date": "1996-04-01",
+    "first_author": "Uemura"
+  },
+  {
+    "doi": "10.1006/bbrc.1997.6497",
+    "title": "Ribulose-1,5-Bisphosphate Carboxylase/Oxygenase from Thermophilic Red Algae with a Strong Specificity for CO2Fixation",
+    "date": "1997-04",
+    "first_author": "Uemura"
+  },
+  {
+    "doi": "10.1093/jxb/erm283",
+    "title": "The biochemistry of Rubisco in Flaveria",
+    "date": "2008-01-27",
+    "first_author": "Kubien"
+  },
+  {
+    "doi": "10.1104/pp.16.01846",
+    "title": "Rubisco Catalytic Properties and Temperature Response in Crops",
+    "date": "2016-06-21",
+    "first_author": "Hermida-Carrera"
+  },
+  {
+    "doi": "10.1104/pp.16.00750",
+    "title": "Surveying Rubisco diversity and temperature response to improve crop photosynthetic efficiency",
+    "date": "2016-06-24",
+    "first_author": "Orr"
+  },
+  {
+    "doi": "10.1038/s41467-025-63483-2",
+    "title": "Physical vitrification and nanowarming at liter-scale CPA volumes: toward organ cryopreservation",
+    "date": "2025-09-26",
+    "first_author": "Gangwar"
+  },
+  {
+    "doi": "10.1038/s41467-023-38824-8",
+    "title": "Vitrification and nanowarming enable long-term organ cryopreservation and life-sustaining kidney transplantation in a rat model",
+    "date": "2023-06-09",
+    "first_author": "Han"
+  },
+  {
+    "doi": "10.1073/pnas.2516848123",
+    "title": "Functional recovery of the adult murine hippocampus after cryopreservation by vitrification",
+    "date": "2026-03-03",
+    "first_author": "German"
+  },
+  {
+    "doi": "10.1038/1731136a0",
+    "title": "Resuscitation of Hamsters after Supercooling or Partial Crystallization at Body Temperatures Below 0° C.",
+    "date": "1954-06",
+    "first_author": "SMITH"
+  },
+  {
+    "doi": "10.7554/eLife.76941",
+    "title": "Measuring the tolerance of the genetic code to altered codon size",
+    "date": "2022-03-16",
+    "first_author": "DeBenedictis"
+  },
+  {
+    "doi": "10.1038/s41467-021-25948-y",
+    "title": "Multiplex suppression of four quadruplet codons via tRNA directed evolution",
+    "date": "2021-09-29",
+    "first_author": "DeBenedictis"
+  },
+  {
+    "doi": "10.1093/nar/gkz745",
+    "title": "Fail-safe genetic codes designed to intrinsically contain engineered organisms",
+    "date": "2019-09-12",
+    "first_author": "Calles"
+  },
+  {
+    "doi": "10.1021/acssynbio.4c00630",
+    "title": "Toward a Quadruplet Codon Mitochondrial Genetic Code",
+    "date": "2024-12-04",
+    "first_author": "Pigula"
+  },
+  {
+    "doi": "10.1126/science.adt2760",
+    "title": "A small polymerase ribozyme that can synthesize itself and its complementary strand",
+    "date": "2026-03-05",
+    "first_author": "Gianni"
+  },
+  {
+    "doi": "10.1038/s41467-026-69531-9",
+    "title": "A synthetic cell with integrated DNA self-replication and lipid biosynthesis",
+    "date": "2026-02-13",
+    "first_author": "Restrepo Sierra"
+  },
+  {
+    "doi": "10.1038/s41587-026-03061-z",
+    "title": "Single-molecule peptide sequencing through reverse translation of peptides into DNA",
+    "date": "2026-03-18",
+    "first_author": "Zheng"
+  },
+  {
+    "doi": "10.1126/science.aed1656",
+    "title": "Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase",
+    "date": "2026-06-18",
+    "first_author": "Deng"
+  },
+  {
+    "doi": "10.1126/sciadv.abj2164",
+    "title": "Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult\n            Xenopus laevis",
+    "date": "2022-01-28",
+    "first_author": "Murugan"
+  },
+  {
+    "doi": "10.1038/s41467-026-72066-8",
+    "title": "Digit regeneration in mice is stimulated by sequential treatment with FGF2 and BMP2",
+    "date": "2026-04-17",
+    "first_author": "Yu"
+  },
+  {
+    "doi": "10.1021/acssynbio.2c00451",
+    "title": "Synthesis and Concomitant Assembly of Adeno-Associated Virus-like Particles in\n                    Escherichia coli",
+    "date": "2022-10-24",
+    "first_author": "Le"
+  },
+  {
+    "doi": "10.1038/s41586-026-11167-2",
+    "title": "Computational design of metalloproteases",
+    "date": "2026-10-14",
+    "first_author": "Chen"
+  },
+  {
+    "doi": "10.1038/ncomms15090",
+    "title": "Antibody targeting intracellular oncogenic Ras mutants exerts anti-tumour effects after systemic administration",
+    "date": "2017-05-10",
+    "first_author": "Shin"
+  },
+  {
+    "doi": "10.1038/s41586-025-09721-5",
+    "title": "Atomically accurate de novo design of antibodies with RFdiffusion",
+    "date": "2025-11-05",
+    "first_author": "Bennett"
+  },
+  {
+    "doi": "10.1038/382525a0",
+    "title": "A self-replicating peptide",
+    "date": "1996-08",
+    "first_author": "Lee"
+  },
+  {
+    "doi": "10.1021/ja026024i",
+    "title": "Approaching Exponential Growth with a Self-Replicating Peptide",
+    "date": "2002-05-22",
+    "first_author": "Issac"
+  },
+  {
+    "doi": "10.1038/s41467-026-73783-w",
+    "title": "Chloroplast genome editing of Rubisco boosts photosynthesis and plant growth",
+    "date": "2026-06-19",
+    "first_author": "Yamori"
+  },
+  {
+    "doi": "10.64898/2026.10.07.756990",
+    "title": "Functional recovery of vitrified and nanowarmed human-scale pig kidneys",
+    "date": "2026-10-14",
+    "first_author": "Han"
+  },
+  {
+    "doi": "10.1080/15476286.2017.1372076",
+    "title": "Minimal requirements for reverse polymerization and tRNA repair by tRNAHis guanylyltransferase",
+    "date": "2017-09-29",
+    "first_author": "Desai"
+  },
+  {
+    "doi": "10.1126/sciadv.1501397",
+    "title": "Template-dependent nucleotide addition in the reverse (3′-5′) direction by Thg1-like protein",
+    "date": "2016-03-04",
+    "first_author": "Kimura"
+  },
+  {
+    "doi": "10.1038/srep20086",
+    "title": "Streptomyces thermoautotrophicus does not fix nitrogen",
+    "date": "2016-02-01",
+    "first_author": "MacKellar"
+  },
+  {
+    "doi": "10.1038/s41467-025-67423-y",
+    "title": "Resurrected nitrogenases recapitulate canonical N-isotope biosignatures over two billion years",
+    "date": "2026-01-22",
+    "first_author": "Rucker"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "n_overlaps": 11,
+  "n_original_30C": 0,
+  "design_columns": [
+    "intercept",
+    "(30-T_literature)/10"
+  ],
+  "rank": 1,
+  "columns": 2,
+  "singular_values": [
+    3.708099243547832,
+    1.396770973404795e-17
+  ],
+  "author_Q10": 2.2,
+  "deposited_factor": 2.1292109150998813,
+  "temperature_independent_identifiable_ratio_c_over_sqrtQ": 1.4355137061155736,
+  "limitation": "Only log(c)-0.5*log(Q10) is identified by this calibration table. This does not invalidate correction conditional on the stipulated Q10 or additional information outside the table. No rates converted here."
+}

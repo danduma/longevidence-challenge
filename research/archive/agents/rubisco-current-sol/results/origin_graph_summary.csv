@@ -1,0 +1,5 @@
+regime,trait,edges,nodes,components,cycle_rank,Galdieria_Griffithsia_connected,Griffithsia_maize_connected,Galdieria_maize_connected
+paper_label,S,327,312,12,27,True,True,True
+paper_label,vC,276,281,18,13,False,False,True
+endpoint_origin,S,327,314,14,27,False,False,True
+endpoint_origin,vC,276,283,20,13,False,False,True

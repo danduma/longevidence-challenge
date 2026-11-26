@@ -1,0 +1,10 @@
+{
+  "same_original_row_historical_pairs": 139,
+  "appended_new2026_pairs_including_wheat": 4,
+  "reused2023_pairs": 2,
+  "total_pairs": 145,
+  "mutation_name_conflict_pairs": 1,
+  "joint_historical_diagnostic_positives": 0,
+  "certified_challenge_labels": 0,
+  "warning": "A zero historical-threshold diagnostic is not a measured challenge negative. Frontier membership is within source/endpoint condition only; singleton cohorts are uninformative."
+}

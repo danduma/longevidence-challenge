@@ -1,0 +1,2310 @@
+[
+  {
+    "file": ".github/ISSUE_TEMPLATE/config.yml",
+    "sha256": "13064e7bea658e01e718b414fbb7b3b244f36411fe25ee2055c151f7b534547a"
+  },
+  {
+    "file": ".github/ISSUE_TEMPLATE/credit.yml",
+    "sha256": "f2d0d7114a9151b18bab3354188dd52e55d3555f509cc57aabf3c62408323b7f"
+  },
+  {
+    "file": ".github/ISSUE_TEMPLATE/research.yml",
+    "sha256": "292adc0a38d4c409d2fa8460578e35c419ee53bdc6d8dc0570a5683ee4f66854"
+  },
+  {
+    "file": ".github/ISSUE_TEMPLATE/review.yml",
+    "sha256": "d955148bce080035836594f6db67b1c61f8a10f7c8e63b7b3df7d49d7faec298"
+  },
+  {
+    "file": ".github/PULL_REQUEST_TEMPLATE.md",
+    "sha256": "0495bacf3b0384ab39b4283d2a3f20c38213060aa99a2fc044dd2b7dfd7ce967"
+  },
+  {
+    "file": ".github/workflows/check.yml",
+    "sha256": "ef688d305d01277544b5ad36430966ceeb931bf511f685cdd45828e75ac60350"
+  },
+  {
+    "file": ".gitignore",
+    "sha256": "a6b634811d39a427f3846eb9ca75b7a6f43306005584c71e4d29be6e35b82be2"
+  },
+  {
+    "file": "CITATION.cff",
+    "sha256": "ce2bc97ff0386061b39c77b4b79357d72aaed2e9b03168c1383e166932e0d158"
+  },
+  {
+    "file": "CONTENT_LICENSE.md",
+    "sha256": "deeb083a503af85900e42860797f7d39a28c4735c10c62521107589fbb772409"
+  },
+  {
+    "file": "CONTRIBUTING.md",
+    "sha256": "c4727c9e4c34dfdc565420f103af7fe0e00f8712b9acbce42042b916097c0e09"
+  },
+  {
+    "file": "LICENSE",
+    "sha256": "f76ce4a758791b5545349bdf2464754d01578033034f8e007773d0cdb50c2509"
+  },
+  {
+    "file": "README.md",
+    "sha256": "c34f22ab8aa72e2c85386e260d7ccd3b78f554f3733634ae112522a68af5f9a5"
+  },
+  {
+    "file": "REVIEWING.md",
+    "sha256": "33169031e0723f5be6d28cc3f409039c885b388e86c096a2e2b7c81c0c1db2cf"
+  },
+  {
+    "file": "THIRD_PARTY_NOTICES.md",
+    "sha256": "a4abb140e1a68b90c85c518fcdf76d0b0ba54f307a486b7a8e95584753fd3bf8"
+  },
+  {
+    "file": "research/FINDINGS.md",
+    "sha256": "380eeea872811b683987f02e86bb76a3934a5423b88295009b7be0ba1c546a0e"
+  },
+  {
+    "file": "research/MODEL_COMPARISON.md",
+    "sha256": "b67f3ce7c8649440888f805173d0a10718deb4796e997a67835d7683a0a115e4"
+  },
+  {
+    "file": "research/RANKING.md",
+    "sha256": "506e33783363e00b34ba6b0812832ea9be18104f46daff2511903bac98e51ebb"
+  },
+  {
+    "file": "research/README.md",
+    "sha256": "5fb101b941a0e99a2131661c7c778c649a395237115f4aad364de3c760a493c5"
+  },
+  {
+    "file": "research/REFUSALS.md",
+    "sha256": "97b9f3bc3fca0bd1fb79da0a914c2a58552aec875adb2bf224964b065a528548"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/analytic_limits.py",
+    "sha256": "71a6bc03d51b31bf56b6c4a354f15f23dbfa388bd7a083035022bed42e17e215"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/assay_bound.py",
+    "sha256": "f1ff5bf81c711cc0823335cfecea9afaa5749dc0a445f450f87c86daa19396ff"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/audit.py",
+    "sha256": "1dffee661b98e975f587ad80661886a8f80652da932f93558225b71ee967d5f4"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/boundary.py",
+    "sha256": "5ee0048c114964941e7439928cc3a9caf63dc0565299fa9fdbd27d86349b4c6f"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/figure.py",
+    "sha256": "621d319e16875b00fe42a9cc79d1615d04e575880e507e2aaa0fa40a2431f12e"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/investigate.py",
+    "sha256": "e862da9021d4be192baf3f7b20c27d62ef4794ff2a0534772754b8f4dc4395bd"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/local_tolerance.py",
+    "sha256": "3bbc2be1233556ace0d7681f9cf1eb1debd7f52c491ce064aef34cbdafdc6424"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/analytic.csv",
+    "sha256": "d9b975b859981e034228542b97dacd09b5df98230111bb3a64228950bdacdfda"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/assay_bound.json",
+    "sha256": "d23dd900edbdb16996f180247ac1b5370a6f6fd2f300f18210fd0d54047b0ed5"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/baselines.csv",
+    "sha256": "5eaafd1fff9de7523a986ccb25abfa9e3e8b8e5ae23bb129a8374fb3b36af2d6"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/independent.csv",
+    "sha256": "be7ff854af1d8e74479ce3d379c0f5a6f82c40cfae695c6a4e7c73bcd2912d9d"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/loading_boundary.csv",
+    "sha256": "a1303f024d7328197153efce223017085beb37b189b9a6876e0642b9096d27e7"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/local_tolerance.csv",
+    "sha256": "818c6a10e4f870efa6f9183834af9bf11fdff097850a8c6d5091c269b8bdb69d"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/raw_measurement_check.csv",
+    "sha256": "62b7780b32ce7b1f113bc5083ab4632160084cdf905e43b6235122aa20969a63"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/refinement.csv",
+    "sha256": "782141fb93c471ca681b00588e264727787cea7c98968e80f29bbf23794635bf"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/split_fine.csv",
+    "sha256": "540b395adb4ebcd4d2f94d2ccbd8efb76658953058d18f31f6764e66cfba3770"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/split_refinement.csv",
+    "sha256": "96be42d1fa703ee86176a1e5eb64790f5576a3b941b1720ad5561ee1e7dd1049"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/sweep.csv",
+    "sha256": "b7b63982549dc52850f0a0b43aab6d40fdb4ed768e537c7076227138ada71a33"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/outputs/thermal_decisions.png",
+    "sha256": "1d32af98adb32a6c9e17b61007542f6c4deee813f95a909875ed62f77de3c6c1"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/preregistration.md",
+    "sha256": "ffcd44855d01889a59d6467da73d8be458fee85739379345926e4696cea683b4"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/refinement.py",
+    "sha256": "cf17668a7c983e076e363aa92c73c0bb90cd0e26d018b7827b513db720533539"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/report.md",
+    "sha256": "c209b3c90385eed17ecdfff5f88d1320d1befa57ffbf2db1ca0a87ed2359e889"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/reproduce.sh",
+    "sha256": "417c101425cee3acd75858d1c26fbafe97ab11e0c13c0d937db2311084ec7860"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/sources.md",
+    "sha256": "496013b9688c546153fb5e67a743971130bc62c420b49188fc07ae037a48260f"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/split_fine.py",
+    "sha256": "8e7ddb7c1d3c064621ba183900b8a7be77bc5df8ef6a192390bfd0f78f4a1353"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/thermal.cpp",
+    "sha256": "7b5889ed67144f6f8e720cdde97c60666bbd05457ef6a42fbc98d0bbb117e8c7"
+  },
+  {
+    "file": "research/archive/agents/cryo-robust-astra/verify.py",
+    "sha256": "6241ca907ef71379b7aa717e597377cfb2e923e0d1a112f07cfc51a4fa777d24"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/access-failures.md",
+    "sha256": "a1583677fbdc003f31710d9bc1a0c83b12da6aa8484aed23bbd786ef574e0eca"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/acquire.py",
+    "sha256": "8f2ce4c6c9454257387faff10abc5516e9d3b2268f4ad05ef8406f7bbb5c4f69"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/acquire_source_data.py",
+    "sha256": "6b384a596eb11a1813be158d31c7f94cb2bf3a9b7f8e6a03449c2655d0157a4d"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/artifact_manifest.json",
+    "sha256": "013007c3b764652c278786d831a708802c7237aaef79d66bf85ca167fd730cdc"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/evaluate.py",
+    "sha256": "538fba5bebc14ae7ce14df74774c6824393bbb29a8fa004488be2e813988f075"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/exclusions.py",
+    "sha256": "912649050fb265e565fb7076fb102b5608ec189309542fdff95e16c982d9cae0"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/final_checks.py",
+    "sha256": "53c8059005a49d1b8c0487479572f731b376e9ca18c6781eb43cf22215dba379"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/impact.py",
+    "sha256": "575c6f8ab52421af9766f33fb94a652ee071400448bbf8703466ff64b13cb79e"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/manual_parent_sensitivity.py",
+    "sha256": "aa537451a491ccc86db38e619e83c7fc0bd977a66ce9e7c89f4b98da63747282"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/prior-art.md",
+    "sha256": "5fd6ba67858e3600fa9339cdc0e5b9be21ba7ada84e84df04da6ac47e11d9e23"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/protocol.md",
+    "sha256": "c4ce7a03810b333bdfe52a2aa995f2201046fcb4ce73eff40ecf50c593d262cb"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/provenance.py",
+    "sha256": "c6c270bf8a4befcbfa3438dd7a4f2ef942fd44e78ddb183f6431c31b4b435ad7"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/reconstruct.py",
+    "sha256": "e7803653a8f51c7e2f8b76f20470010bc84957054d9471900c4adca83982940d"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/refusals.md",
+    "sha256": "f4c081c7c2944b70e33a43e1ea56870aae1af6e9564e71a128d8b326056a5d27"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/report.md",
+    "sha256": "0f9255b828943d10d3ffd3a07fa57a3cdd5dd9555efe90ce7f57deeb315b32d0"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/MBP.csv",
+    "sha256": "db6fd723f5c977d7f77cda2c8c0b8b89a0dfa2153e83426dee7f9fcdd3169654"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/backbone_medians.tsv",
+    "sha256": "c5f3d9fa6c09e84b8738e39eac3b3c32826b54234e942ba2e57c007fc0daedfe"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical.csv",
+    "sha256": "360c99739abf0d1e5383adac348cb5cee3f6d0e514c6ad15ecf41edac2734477"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical_common_keys.csv",
+    "sha256": "e2c93066bc21ba5e05d823152a0f8e370af7adead7d54d9178a4efe0594edaf8"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical_manual_parent_sensitivity.csv",
+    "sha256": "1333542df3a871ddf599db5ed38299ac2044531de81dfcb233fb098c70e3f6c4"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical_panel_deltas.csv",
+    "sha256": "521b0a2ae711a7b64bbadb539b914c33d1c47753ea19d742edc772e8cdbdb235"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical_selection.csv",
+    "sha256": "d67fe180b0c1b4c6cf6f226300bbe58858455f47ac986102bffaafa3a8306729"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/biochemical_uncertainty.json",
+    "sha256": "9ae7ca1e430404d078a7d015f86dda93c0df7250b1be99cc1fa6f4c9d0111e64"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/blocked_exclusion_reasons.csv",
+    "sha256": "3e2a7596962f8091a56c6675f38ae736686ced50f1c2d57d169b1091cb7bc7fc"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/blocked_motif_impact.csv",
+    "sha256": "ce50fa0604375e4f1b04bb402ac4320b448fb09330c565e16cac291b9054377f"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/blocked_survival_decomposition.csv",
+    "sha256": "e184ded51672da32b6e7cc8ce38b5a746311b50e67942c4562d4b7a5748a26ed"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/blocked_uncertainty.csv",
+    "sha256": "338e1e99e3111f25cf74b74d7df9de9ea87418aa8ecc322f3f139c80a0e91b87"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/candidate_decile_impact.json",
+    "sha256": "65c91ababca7ccc8c219df28339bbf642d104d5bb730f44270dff378baf9411a"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/cross_screen.csv",
+    "sha256": "8f4a10900e5d55ca4a99bc034cf81ac6aaab5eb5146bc783be4e1ab425ee6318"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/exclusion_waterfall.csv",
+    "sha256": "b59e59661c9ee87c56eca010b409ea61142a7349cbdc21b5ab368041a2773df8"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/label_transition.csv",
+    "sha256": "d03f07d10a815a65c4bc21214379fc7c0af39d260dd782a162f65a7c72bf3749"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/models.csv",
+    "sha256": "6ecf467e2d0e7bf2823a0a8cf1f3fb33c1409e397ba037eb8b3d3a98cf2b0ad4"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/mutated_backbones.tsv",
+    "sha256": "31ef2a94ff75c80f8e9e755a6bd04772fc76c892e29a5778b552fd9b9b2d56ed"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/reconstruction.json",
+    "sha256": "421bd4409de75fb967a7c38745afeae784027d82482c39ba857c8940b9675d58"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/source_S7c_comparison.csv",
+    "sha256": "f896ee21e508ba159bb3ee1ef228aa14f769b78f0c966cb04d2ae2fa68f02ffe"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/source_S8e_discrepancies.csv",
+    "sha256": "e26583c98df159ed60a1adc5ae716af13584820e00a6e33baa70c148ab2ed322"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/source_validation.json",
+    "sha256": "8292acfc82fe708a58faa1e1795792e602590b8368cebe3f953796e3550bd290"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/thresholds.csv",
+    "sha256": "17e85b76309c2ae9c55ed73a16042df6a0f24d89fcef34576ea5167b38f389d1"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/transfer.csv",
+    "sha256": "4d9d8674ea33d7b66232c40cf33a1b032017d0034ba059f859f10fad8a300e34"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/transfer_keys.csv",
+    "sha256": "6122c6d40e2bf08f55a07836d961b13f91a77cf52d9e272683011c71a1d78756"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/results/transfer_paired_uncertainty.csv",
+    "sha256": "b7e967f265e55a0d2e9c78a20ec018fc4b5f65ad9435fa5741aa3cbde9de8331"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/rounding_audit.py",
+    "sha256": "e7224a9475c4f0b5bde3086efdef618410774cf3cf3bc3ad05276a335443a2fa"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/run.sh",
+    "sha256": "a4a6365faf7fddf655a5b842f487c68e775ace260f993bb84b9c047dece809db"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/test_reconstruct.py",
+    "sha256": "0ab3f1b5ca4d0b4e645233aa8c258b95186ad02a6cc42ae83227a7e2dbb21d4d"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/uncertainty.py",
+    "sha256": "e96bddc92505b8b5d59798931b895a183f79ac7f27682d879467dda3b46041b4"
+  },
+  {
+    "file": "research/archive/agents/protease-corrected-sol/verify_sources.py",
+    "sha256": "0eae6042e962455120842e09b9ad00100d87dae5c935a8997f22b81b65ed969c"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/access-failures.md",
+    "sha256": "2aa0735cc5ce929df58ab774d61aa653043647ae4226e91ee5cb7d7b194c909d"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/analytic_review.py",
+    "sha256": "68cb9080de1443f4dbc57f2c59a2b922b40c5a46df4352c3672fc1ea6eaef7fe"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/crossing_review.py",
+    "sha256": "2ab8233c42190ffbfae599f90291405f3b6ed401402288fd8e0312f0464a90e2"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/fetch_extras.py",
+    "sha256": "484c69dda29e1ce555e008132ed61f21d409aaae27f0702ae15ea1b5f2aa5cc3"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/fetch_sources.py",
+    "sha256": "059b820b9af80448fefccb0409f1686af13fc322f1b53a02c60372188f8617bf"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/independent.cpp",
+    "sha256": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/independent_crossing.cpp",
+    "sha256": "d7aa7d7e462c576ae1ac67473fb6d8286b4aff72e712f1352472cfa840742cd6"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/refusals.md",
+    "sha256": "68dc7a52943e5f62766c6f2d82b7fe313a29860031e7f34e12f44518cd9c2b23"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/report.md",
+    "sha256": "7dbdaf96fa38e1d464cb96e5c850fb6f89144ab7a3235135fcb3d2060bc63416"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/reproduce_original.py",
+    "sha256": "92e4f5f0b2de72e324646a3c801a5142792e027acd36dc21372ab4592a9f72c6"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.3_flat_1.83_0_1_clamped_0.004_0_-150_2.json",
+    "sha256": "294e543580842e4a39e13dc448371dc8c519e069a4af6133bb7715c84f86ac54"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.3_ramp_1.47_0.36_-1_clamped_0.004_0_-150_2.json",
+    "sha256": "62c671c1def0cfc38e4e05754fc8d818e963cbae25ab4be5908e7e683502530d"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.3_ramp_1.47_0.36_1_clamped_0.004_0_-150_2.json",
+    "sha256": "4b7b13a91fa3aca424bbfd4e9055af1df8cb8a8512bf30f9436ff12d7086b055"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.3_ramp_1.83_0_1_clamped_0.004_0_-150_2.json",
+    "sha256": "adaed39b9433181b9a22f029c4b285a050bdbb02de15ec5122297c4dd4bca005"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.47_0.36_-1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "fa373fca4de74558d59a2263b6b96f22e0efd8f9144fefe9c7e841f82b8fecb0"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.47_0.36_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "f4d7c3bb7f9d5994d4875b5d27605a77ff4a713206b9637044fa9658efb4f6db"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.47_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "29a46ae8293a76d53fb17afd6e688cb388f30dc89ad0be74503e0fff69d53582"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.47_0_1_extrapolated_0.01_0_-150_2_independent_crossing.json",
+    "sha256": "eb616615141593d92564aa9a8c4b12dd1162775116e587fb8006c65110465397"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0.015_1_clamped_0.01_0_-150_2.json",
+    "sha256": "aa587a4a99d8978c55b0a33990a4d9643699e05ecd1848fe997cedcaedf9c695"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0.01_1_clamped_0.01_0_-150_2.json",
+    "sha256": "6ff2c3d094319208e02376ce28ab4a9b8d1945523d3a2da327c7deb42be59c35"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.005_0_-150_2.json",
+    "sha256": "8c5ae77277440e39d16284b53c5772385e6229810fa1d0e96bdfd705ab99559e"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "0b60d5b9c1bb8d8f81b183b9b1ef3358ef2d34f0698acef4f0a1ffbe5d1e464d"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.01_0_-150_2_independent_crossing.json",
+    "sha256": "df4e78116d219fd334d99343eb158dcca0074d0a764fb59e5eefaf9f0cd5ea2c"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.01_10_-150_2_independent_crossing.json",
+    "sha256": "98e1c91aa667c0f5e24ca9d8d7f6bbc940fac7f6ad78fa26f24edba6dc89e4d0"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.01_5_-150_2.json",
+    "sha256": "1bccd45c888750f407d1508dbf76cb67d7c0d905ba69c115a7d0adc06bc17db6"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_clamped_0.01_5_22_2.json",
+    "sha256": "ae841442b95c43a67823bac703587309033e406cc82dc2fcdee78e3750220a25"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_flat_1.83_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "47e52f8d3dffebbc090ab1181fea574bf899544fc0c84880bd67d8c8ab7a36e5"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.47_0.36_-1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "15ba6a65ac3e88f3c31c9892a59322de52e1c27802e018ce8b3a1db541f3228d"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.47_0.36_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "33a376dd7d7e27a31c4f765b2f13469ab42f0a6c0f65b6bea6fce36e2780fd9f"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.47_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "26bed3e78d95e388003cf72a30f74cd38a697bed850cca93b6198022bf556c50"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.47_0_1_extrapolated_0.01_0_-150_2_independent_crossing.json",
+    "sha256": "41420a071796138e9f0e354bb1cd095f9cb4bb8000406f73d12051129b09d6cf"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.83_0_1_clamped_0.005_0_-150_2.json",
+    "sha256": "30ca0ba3d2239366f859e2bfa4557a688bf343ff5b1022847b2d16159f49db48"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "58138dd88e343d165e55839e31c1b6772c7ba925bcd8ff80689acbb5bc25007b"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.83_0_1_clamped_0.01_0_-150_2_independent_crossing.json",
+    "sha256": "1d927e63b104b3693123a2bf1f8346a442c74ec78794c6b5dec34d4cd8c62bdf"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.5_ramp_1.83_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "9e94045e10ad4f54fbb085ff0ae541417748eea103bf3968f4f37218b544a844"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.75_flat_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "9a012146144e4f858aa8c9260e4595f3c6579197e3fe7554000ea4936fbbc5d4"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/0.75_ramp_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "02df1723df837984381ec93ee0f792ee807189f966e7066f6061438f3e7020f6"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/all.json",
+    "sha256": "864b2d15d25a45f47182633437ecc56c674fdf6e4bd16c2d142fce77b4c14ad7"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/analytic.json",
+    "sha256": "26d789bb77f72779777ded163f872ed986aa750f7bf18483e0d23ba7a6702b3a"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/crossing.json",
+    "sha256": "cb1f41cca327d176afba70f6a854d7e1b5f5af500051d4d613ea768480967501"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/original_comparison.json",
+    "sha256": "1c119f148d31d93f0cca22df92840e9fc17e06b4d710349ae8bed5d82dd6a6b5"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/results/summary.csv",
+    "sha256": "0885dffb157a67bdb1b8bb575902ab009cb27ef59a2084c464a4af668d7f2634"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/run_review.py",
+    "sha256": "94cfb4042ce4c8a911a27509bd66a45c63d14905d856de164764b1b1c942574d"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/sources.md",
+    "sha256": "6338d29e309abb7b8dfce4cfa05d276c47f25c6b0b72920dcf0c935c3dccd844"
+  },
+  {
+    "file": "research/archive/agents/review-cryo-sol/verify_review.py",
+    "sha256": "9d39150b24377db53bc2737b0bb459854493b6abecc32362fdbba82296244665"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/audit.py",
+    "sha256": "0f2d374946f7920ae145d90c864d2c8461fbf095daa4b3d224a7b8501d2e0851"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/protocol.md",
+    "sha256": "61ec635958097e40891255a64742b52754a49feeb951276b031ab2814ca9f084"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/refusals.md",
+    "sha256": "eccfeba6830d8b57fdb063e9d86130a7f54b0819c31b685a758a19cfc7390798"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/report.md",
+    "sha256": "adbb4485a426ec58577c0b45531ea0ec2163fa3e79a3db1186898be21750ad77"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/audit.json",
+    "sha256": "6da2f24ae78c60eb0528bf2d8f26ca230f2af68f90ac2a8610421d3b9c8cdd33"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/control_transfer.csv",
+    "sha256": "6779c37012b6cc232075010bc7d79a3449b51bbbacad6201bc5792d9080628dc"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/cross_screen.csv",
+    "sha256": "8051c0ed2502ce607c6fec79069e28c63f3d23bb61e5ca8fea1d5683d09094f2"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/replication.csv",
+    "sha256": "0dc9d163b2a8330688dd11c8098f3a644f704938b802e68ca726f05c36bc0aee"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/threshold.csv",
+    "sha256": "50558bf8e3fe1fb1fc0de27f69f4103964f88f837be0f3e10f72e653b5fb4b74"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/results/validation.csv",
+    "sha256": "bd3b6e6c7088bcd81a6d60e34634013abb6150f84ab96e1216f82017e69cc30b"
+  },
+  {
+    "file": "research/archive/agents/review-protease-astra/source-access-errors.md",
+    "sha256": "6962d4a0de8a6b0e82527881d52e7d142f00373cf1a28355dd8e805beda9dd5f"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/audit.py",
+    "sha256": "0d516f41459ce1cafccb63b65512d160601bd7cee5f674226ec26c45c8e5deab"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/baseline-plan.md",
+    "sha256": "2fe8729d91d56f68201544ad0a9da133add1a94e03ce90e15d2f2bdd885ff91c"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/baseline.csv",
+    "sha256": "903efab3f36b93ba34362d563acdf7479585c3d23d33dca9a09ad5a113a0ad6b"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/baseline_oof.csv",
+    "sha256": "40443281bf34854521ef827a32a1468d065ebff1c09acebc18164f3ddb4c2c50"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/baseline_oof_quality.csv",
+    "sha256": "5dece68158d4391f54dd37bdb531946a88a398e8f176b853e61bde94f63e321b"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/baseline_quality.csv",
+    "sha256": "9b929ee77f1a48092288cde46b5899b68a2ef987591048c0bed8403514692d4a"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/identities.csv",
+    "sha256": "694abfe2a5aa7321029c973c97338461ac119436e3f746af1fae04838b1e535e"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/issue_comments.json",
+    "sha256": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/issues.json",
+    "sha256": "2e3f749af01e19bdbf238d3a0051631e018b7591c49477a30c294832975a412c"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_KC.csv",
+    "sha256": "c1a251877a891acbaf4a7c7c77ec8354e90b422d166ff161df8abc9f541ef253"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_KO.csv",
+    "sha256": "6630a6ab65a33e381cce0169734a85185f087314fda0947efa04245c97976630"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_KRuBP.csv",
+    "sha256": "421c8601dd56b307dc0c8dfd9bdb5c50bab0f4908c0a5f959cb27c76dad4e042"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_S.csv",
+    "sha256": "5bdfdf61b4afa9f81f8cc87e4c3e25a171080f81c9398f00209f3a5f9a86405a"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_vC.csv",
+    "sha256": "f7f523af92982887c570165c894ad5639bbc8ad33b8ccfd56d367796ad7c2e21"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/literal_join_vO.csv",
+    "sha256": "4236e7abe0531413a7d395ee40615a8ed7e3ace3573c7bb2a51087e07d188dba"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/manifest.csv",
+    "sha256": "e5ad5373963de383084966657ff2012c7e0d638a7f248257056953d90a4e0308"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/network.md",
+    "sha256": "fa4814ab81830c2beff8bc5951eddd568cda27ab768709bd94240cc6dda71293"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/overlap.csv",
+    "sha256": "d0b1159f934391463193624ff8fb153b8b6f6c32ca11ea3f0f9654109e5ca543"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/provenance.csv",
+    "sha256": "5db956db76e4929ff9657dc2bb448cf622b12cb2fb64354a7b22c363f251fe3d"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/refusals.md",
+    "sha256": "761548f6f3dbe7e372d16d2fe4c1e0e32a10a4c940c351474e1225081b878d3e"
+  },
+  {
+    "file": "research/archive/agents/review-release-astra/report.md",
+    "sha256": "63c8607de3d30ff40972efa573e21d8c7b79dd4c4e8269bddb732bb3fab9eafc"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/audit.py",
+    "sha256": "bdfcc82204610e8f96f6015fc4cc3b020ea43b9f772393408c4de4f0aab28b5e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/baseline.py",
+    "sha256": "cc4e514ed8704bb82ab5ea01e2b95da38e63e86808ce652af35dd648f3864d85"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/baseline_protocol.md",
+    "sha256": "6b8db52a5ac5dcd2bc9b104420be5f58798856f2006302ad1bf28641f428ff22"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/fetch_evidence.py",
+    "sha256": "fa025fcde6680776f83184c4e4b9432a7ba4ed3b07710ea54619d2fb5e18f762"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/inspect_release.py",
+    "sha256": "e5dc6c99538bb848199e2001676a6215983ca43bf7c776135d1f1acbdb9c25e5"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/investigate.py",
+    "sha256": "f5694cd27bb52c3750b19eca88f28befd31bd59e83720783741bf261bde89de0"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/network_failures.md",
+    "sha256": "5c4bbe79f68db1393e945e53f94b447d81b55de71836474daba403d58293efdf"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/archive_verification.json",
+    "sha256": "201c4308be632badd44339ac07c7296df2598fce57745c5397af916ab687d968"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/audit_summary.json",
+    "sha256": "e397660d1ac1179fa1b88c694b5436081bdc1c280e9dec85bf09ab4f11f6b449"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_bootstrap.csv",
+    "sha256": "ff8d4bbdaaab3eba6ae0974d594a48b35db21b26d4e97d6c843bc028a0321add"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_data.csv",
+    "sha256": "091904124ebcce29ca5acceba7f88647b9b7bb7f0f6b3c7bf7e227ab10c1d36c"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_group_summary.csv",
+    "sha256": "bb827f302753ebb4bb3873bbbbd91c2f72a519c0406b3c8f0b02970db4b80965"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_metrics.csv",
+    "sha256": "235f59a017f2107c5a44e271f0db9f7c7e09607c67435c8a993d4d7ea7c09209"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed0.csv",
+    "sha256": "9c6c35d6737e1ae4c6bd990f3804370f6d6746b335451293d5ae9e8031097e27"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed1.csv",
+    "sha256": "0a590019003e2fa2d3c9b6ec86357bfbd1343f24fc03cc528d0e923eb8c16f65"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed2.csv",
+    "sha256": "b272e23a782473d717140d2dd34fa5e9ecbade0b82773b3befbb2396a58cb75d"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed3.csv",
+    "sha256": "0df9f03079f3d00634a10d1f26228c6ef72590dafccd355601d683f531a47a26"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed4.csv",
+    "sha256": "2f257124f47b67d33ee46078db4f8d0d24044a59c019e9375a03c5345695968a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed5.csv",
+    "sha256": "fa5f21b4962e17633642b9e88e99cb6de20dbbe3e0c0bc46579e1515bb49c8c3"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed6.csv",
+    "sha256": "df6ee59749e981d629c4a1307c41ddfce3a9682fc4cd2d04962f8c3caf6b01d9"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed7.csv",
+    "sha256": "8bba5ce144db9e14f69922c595734ba9b675bdb1f7a7ce744df050dd2e42c51c"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed8.csv",
+    "sha256": "c965dacbdd8ca3be3ed96f94480908513c7e46e58227859d879d7c35c322c5ea"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KC_seed9.csv",
+    "sha256": "1a70beaa14b1317f11b1ed96cdff13a40b872a1be03fefd12c72f3f4be0b75c4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed0.csv",
+    "sha256": "daea80f0f7fddc1ad4d25626d5d915afe2c0c67392cd8a6febf8d8271fa57659"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed1.csv",
+    "sha256": "7d30e56d4e7a10ea92fde63981b07947c192bca3da779b63da389d81ac93801a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed2.csv",
+    "sha256": "676a82b0de4835f9be15a35033e08abee77d14e16550de916f9b120aba2ae6f0"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed3.csv",
+    "sha256": "e06dfcc0f44a62527bc4acd2ab10073243dd49582485e56542adfda49901807d"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed4.csv",
+    "sha256": "0e5ec770515e432914b11629438c97d0fb2c2f7c932fa6c2fd34d99702d964c4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed5.csv",
+    "sha256": "d2b776790daf0dae61c9fcbae7668a3f9e34ed1f7cc21e7abc66f75a06f02c07"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed6.csv",
+    "sha256": "c24803874dfcf332b69b5844c9defc76ad455bf04d2b661d0eec973b1c0ca2a1"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed7.csv",
+    "sha256": "610f7e171e590f8377ab95d247e3ad087c496dd9b298f710952e7ff8f72a6e0b"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed8.csv",
+    "sha256": "41e539ef2b0b8536cd00ca17088c734042df1002f16c314febe4417fe3c79717"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KO_seed9.csv",
+    "sha256": "ebecfafc2780c1b3de88f78244c02c35d14c359515e91ad14676143fd71c1659"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed0.csv",
+    "sha256": "7b093e3f10784052147b65e2abfc2a76ae5ca4b289b35d16b9c0452ec4f05ea6"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed1.csv",
+    "sha256": "63b55bbe23551d630c179d8e306e62f35463cadb4f4214088e6eefe2e2c485ed"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed2.csv",
+    "sha256": "273f1fdb96270b4f89ed7d485d4fb5413fe3eb882ae26559ee1e1ef82f1fddeb"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed3.csv",
+    "sha256": "10a94f535f4e01a6a9df5cf411627429f2bd1386e5dac96aba16ffa1716025c5"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed4.csv",
+    "sha256": "86999a8ec4097eab9888ac7a8c10567901fbba9739def3d430e34309c5bfa0b7"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed5.csv",
+    "sha256": "3f03a10e30c57905a6f441b165181d971b9919969635183e006be32fcfd45c3e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed6.csv",
+    "sha256": "8e4697791c13568e869b08343cdf85d0c0fe05fc2935f9c8f2832080cf06c403"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed7.csv",
+    "sha256": "0fd6c02404beb8543161d4f274b4a468864d0156dab6e6ebae3a691033cd56e7"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed8.csv",
+    "sha256": "b918935ff8c299be6d51ca6fdb9914c167445e255ab3d7d8870b6d87bfb7e79e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_KRuBP_seed9.csv",
+    "sha256": "d5445240b360a52a561bf8c1ab4eddb37632347d5d5b6ed90b6159711d363b3a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed0.csv",
+    "sha256": "ff9c43bfde6cfb3d5150d3e9d76af5498d4c192f2c55d01dbfbe783866aa8933"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed1.csv",
+    "sha256": "c9092145c4cea468fa496f44d71e2548d58651f24b48185340e2986f536720d6"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed2.csv",
+    "sha256": "d4453d86a7042a717fc3fc829bf7647a2a68e299d5ad93de87d17db3501d3b92"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed3.csv",
+    "sha256": "5d8e3727c846e95e605b5de543ab18c1472e96beaf9ff103ac82d130bfa1e755"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed4.csv",
+    "sha256": "a649f97e484792a6e138fb6d9cbdcee021261371830d658a0c9d88ccbb1b3f8e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed5.csv",
+    "sha256": "ffdc226d3a133652a9a8fa55d776c066a9392bff830507e13cd6961f74db3902"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed6.csv",
+    "sha256": "42c5afd554615cb567f91bdf20b9ffc8646f42c26ad2e13ba772dbc44dbe1931"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed7.csv",
+    "sha256": "2f067604a27931c0cdf122bc0a67f1a4a067f559e780f7cd349bb02818456a47"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed8.csv",
+    "sha256": "72dcddd541316f0cc7c965697fe10e0d70cbc5d552490fa0108c865b18f19916"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_S_seed9.csv",
+    "sha256": "f375aec6321bdc52463a51592c03415986724d2ec83afad3b4f80fc919ddcdb0"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed0.csv",
+    "sha256": "4def063eb2230e06270196567585c7105c755655547c380e631f8bbc8c0ac9eb"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed1.csv",
+    "sha256": "081f3c7e5ba505f5907c5e1c8a9740ff118cfc05b7daeb877e13f775f03287c7"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed2.csv",
+    "sha256": "f30e84ab631709aa273e87675edf688d3bb450d3fe87117dc9466de7db9d22cf"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed3.csv",
+    "sha256": "ef3298df974607a9ba517712b7535caa87ab9c31cab41dcfd5469cc734a5e619"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed4.csv",
+    "sha256": "0a4c7cb8a1b21fc96e3b31f4d699a9464fd5921d6d438fa42ceee168bd350b7b"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed5.csv",
+    "sha256": "9f0bad4ae3f037433cd48221c41b7db428566ef5e2c83efb24c1f75cc19fd2dd"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed6.csv",
+    "sha256": "70e4a41aa2c899a849cae6cf57e5d84b3d1686cbc7f93d3d8dec48b46882e097"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed7.csv",
+    "sha256": "f8ec257134213681e38682cb1e0fb9b19aac13d0d18944fee992fac855088a90"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed8.csv",
+    "sha256": "3db06aef14a6b88ad2e59f2ca88e368e02e18eef10ef55df3ed913ea97bf49e8"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vC_seed9.csv",
+    "sha256": "f448196a0d919fef3f95b40a28256f85ed7b7c3a526775fa36d673f6260f761a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed0.csv",
+    "sha256": "6dcef0616b399bce0b71899fceb1674bf6ce88566ec333c3f4c5224d41159ef8"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed1.csv",
+    "sha256": "08927c857bfd96201ef7e68e91aaf2b31e870e6a84437933584e431fe6d26de8"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed2.csv",
+    "sha256": "d66fb753db6abc9bde3a50795803c5125e748a0a62050151ddd8e3623ad2bc74"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed3.csv",
+    "sha256": "20acb8d647978c9ed6aff2cd961c51f6d69f345c4b7447431fe2cc373a8aec6f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed4.csv",
+    "sha256": "8e4909cf14fe3aa8372031a2bd1e6afb4f86e83d05a0842cec01604b3c8e6044"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed5.csv",
+    "sha256": "6bc094d61e53dee73a69f73e281db3020b720f34fe0419347762567e085e933b"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed6.csv",
+    "sha256": "a567781739f4b5f1bd6387a2a781c8948c61141907973ac97bb605392d62e69e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed7.csv",
+    "sha256": "ec84916dcdc59475737e9c98ce24de046e40f6db933e7095b10e7595e8534065"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed8.csv",
+    "sha256": "e9418b4fd57dcf1a8e071e62aed5c702b23de2ade99e506d7a6a795a0afedd1a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_99pct_vO_seed9.csv",
+    "sha256": "496bf58075f7bd2ec3eb4fc24049df0e2844530dc18c98c54ba811f8828b2494"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed0.csv",
+    "sha256": "e69cfb99c75779671e37c39ff76046f877428057555bd777e6c6abad0cc43691"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed1.csv",
+    "sha256": "fd37229692231944cffbacefb8582b9714c61f3776c7ce9b2ca8ef6fcf763e46"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed2.csv",
+    "sha256": "286caf5914458059b64b8aa2d97feb02be2d61fd47213fe276dda844ee9606c6"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed3.csv",
+    "sha256": "89f445d0b5284e2dd3aa2b963101153531696a837324c54aac8d9cc1f8ed3de5"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed4.csv",
+    "sha256": "05ab53345879bed54d9cacb36fc678140a357fc653f62acc53a50496dbac8c67"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed5.csv",
+    "sha256": "8e66c569927f61fd859fc7a4338c6677e755d9fdff49aa9abd423c50e3091fc3"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed6.csv",
+    "sha256": "4f33fd2fa73351519188288ba8d425ba69859c757da89e527a74ddf207cfbd5e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed7.csv",
+    "sha256": "4e44b7409360ba17d4989c186eefd112d8f696df5b4eb03d2c8f3783c610b063"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed8.csv",
+    "sha256": "080fde4d976b25141880159d641ad3e12ef4dc2cd361a7cad7f1b60abe615c16"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KC_seed9.csv",
+    "sha256": "fb47554a02bbd737b1a4409b9def71dedeb0586f4c602107ddf6bc37e0401d22"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed0.csv",
+    "sha256": "6a7da3aa4b159f5c116d71ccc681a63204a610a7edca256e6f42a8427c005ec4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed1.csv",
+    "sha256": "eff71bb316a556731c6d09d383f4059dc1be472ff26de52ebd2c35f263445e39"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed2.csv",
+    "sha256": "1d957542c221c03c60aad1245e99a4c2e813ecb51ea8641e4a8ac7bb2e7c0f05"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed3.csv",
+    "sha256": "3a10cb87adedf9b999dca00abf6d7b42b163d5a8a0131a2ac0070160eabea87f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed4.csv",
+    "sha256": "0a8cb2b6466c2806ef97c674a628162cb5666cf978709ab5f12f886b183cfef7"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed5.csv",
+    "sha256": "ff57a85cbdb2c762d581c4817bd453cab084dac8e9a73bad4ccb226599caf7d1"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed6.csv",
+    "sha256": "33ba3be284a951c9497c3658606eb23f44587b6d5bf5939a9185182d8dcc4442"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed7.csv",
+    "sha256": "c281f3119d8cb20fe9f899f877232db0098007f4527c3ea07a0f7c4203e36b30"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed8.csv",
+    "sha256": "2dbf86baa129afe008493cdb3b1d6be9e6cd26d38d77d9687c80c3833f7f43a1"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KO_seed9.csv",
+    "sha256": "34d819151ca27c56c0d8113bbd0533b5d65641bae2b8d8483c0e419753862efe"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed0.csv",
+    "sha256": "6537a058483ca6fdcd2c139bd0bd6e0dbc9eaf77c8f553162ecbb3d8604dd140"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed1.csv",
+    "sha256": "a1ef02931a20df0bbd74a2cdc29bbcb280e337d9528170cfc084e991091efc2f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed2.csv",
+    "sha256": "c03df5533493e9835da508970a5515b8bb819dbeef47cf9eeb211788b81bc452"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed3.csv",
+    "sha256": "4e8101f5d5399568143d1241b170c4105a74d7776aebe9f5b1b588d4b5b48c25"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed4.csv",
+    "sha256": "4fffd20fa5e8cf46c1bb7851711426e75f5125da6fa2c7ffc041c68aafe07260"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed5.csv",
+    "sha256": "8d5f51cde8bf3389db76e553c0b0b4fb36c6f6b7adc1e2a326277b6b53202d5c"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed6.csv",
+    "sha256": "47a7602db69b92cf68d92f4d2085d938c44f15a2a55b8dd0b119b6d7d7bb7440"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed7.csv",
+    "sha256": "492fbdd7236098a78ead449a8451867ba0d639d66bcef522ee2f18ee0ed4ab85"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed8.csv",
+    "sha256": "7c137b3a7ccb51921980d5d8b38756d4458d5722dc117ec7d4d6e890d114f847"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_KRuBP_seed9.csv",
+    "sha256": "01a2fb9b328d78358cd924bba0cdf98204ca442b300d371c8e81f88c67d975d3"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed0.csv",
+    "sha256": "cb0d11aebd6bb98d54d919f86d6a116963f1f6c4fd139a21e655a949cbb0a72f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed1.csv",
+    "sha256": "e79874d356342555fce69310f787dae96500e2b54cea7705b04393dd1ed7d28c"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed2.csv",
+    "sha256": "2d08f61b9037c2557ee5f85801ec1b38a1dc1929ac13c152d4e0fc1f551fdf52"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed3.csv",
+    "sha256": "9e33dac01ae5623a7dcce705f5c82e4d322d210914e9d90fb6bf0c4d63a038c1"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed4.csv",
+    "sha256": "efba9510bd1a4ada6ee88d1e6775daadc67b4400b1e979b269898aff52540d51"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed5.csv",
+    "sha256": "d2d6977aa5762eab648d49944940be27c3d2504b0d27a62f23c791e34334e38e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed6.csv",
+    "sha256": "0af06dcbd520b628fac9e3ec982e6d3ea2dd1231781410291652f4dac0e20800"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed7.csv",
+    "sha256": "2fb19db186d277886e29e38671b162c5083657116592df77ba2ac8ca26d219a4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed8.csv",
+    "sha256": "8c83f625d1d7654e2c2b3648d0cd59192c5a4ffaa8503c2f216bba07c452e728"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_S_seed9.csv",
+    "sha256": "3b5d26be4204a0ce73d2eca2cd87bfc284cee37be1219da7e3b055429d6c2bf6"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed0.csv",
+    "sha256": "f1a2de9d690617e65216df711bc7778a41b65a1f482c8497a68b87e18e292bc6"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed1.csv",
+    "sha256": "5769ed6de62ee8c221f24df5063bc54d04d2d1d6f5a6b0b0f23518ccb2007033"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed2.csv",
+    "sha256": "3697a5017f929e83418929d843c694544615ec2b8e27b33f611554610504326d"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed3.csv",
+    "sha256": "920c2c338fd04dab7e4751fbe9c365701443af86b56f9ab7ed53ef2faacf0081"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed4.csv",
+    "sha256": "40f697a4ba72fce8c47a924157ee269b6f777dc2cce24dedb9604212fa46bdf0"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed5.csv",
+    "sha256": "858f46f0dea22c5d3dd69d7412a8d5b5da127eb578572bcb7506f61df8f500b7"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed6.csv",
+    "sha256": "96d99c06f65dd294adfa5856d3dc39f859fc193efa25fd4dec80fe6c855c54f1"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed7.csv",
+    "sha256": "206511a26b1aa467f38c1b3b51053933ede88c0afff891c5b09237ed96725186"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed8.csv",
+    "sha256": "f937ff6148bb5a4b5ede568167168b3865e68113be517ff60975bffeb7b16acd"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vC_seed9.csv",
+    "sha256": "bd5d5c54d455f1f955b192ed15de5a9e659f1a69f2c6eb59e09442a54dae3f29"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed0.csv",
+    "sha256": "6382f8d270429a2d60a2f8b8ceac36fdcf662d03e34192bad059ae8fef50af48"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed1.csv",
+    "sha256": "18b38ca4f3c1fbccc1c10072e31746efbc3501b40d50eb6b21c1b175c872fc92"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed2.csv",
+    "sha256": "37faab9d91b647c964c039d1efd382126e5e25fafc3e8bd65fd7f11d62ead0ea"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed3.csv",
+    "sha256": "0ba2bacee96fbc19b038eb28053fd8a8472952cc8d232c78dac56b024d472e6f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed4.csv",
+    "sha256": "c4026e3f03a25fd1f69b14417bdb418f9b972b79f02c7b23d63e04cd6e4e257f"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed5.csv",
+    "sha256": "9e7f431e629952f3391d2df1bd1cada17df6b2f45f867d444800c7d1cb180ae4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed6.csv",
+    "sha256": "bf49815b1ba0f3893e1dabdbbd34021de3b5b58baed0f0f12aeb5d3e4b8e3d80"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed7.csv",
+    "sha256": "20540302cdc915b8d0c3ae75b1f7abce3075ce1cf6a95aa1bf6f60ce57d84065"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed8.csv",
+    "sha256": "0ac95aa8fc4acd7757b7a98f4a16e6a1ce7406b410a1ddf376e4e508648908cf"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_pred_species_exact_vO_seed9.csv",
+    "sha256": "8dd78eceb959f21fe23a8119011fd6e1fb32ad63c21c82b542c9efe2469f0ac5"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/baseline_summary.csv",
+    "sha256": "bd67c5dc23a995ed9394d905c176d415be076610d998a626f310ef0017e541cd"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/duplicate_meta.csv",
+    "sha256": "29166686a3a0e13ab2ea337d97c32abc6d312076e1bfc7dc3a66fabffad810d3"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/groups_species_99pct.csv",
+    "sha256": "8be456ca1304cd8c516e58fe217ddd53acbd2ed5c416d458bf2e280fa469c64d"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/groups_species_exact.csv",
+    "sha256": "ca9dae99fdecb60c4bf9e3c851212eac550338077c9f7078f8a72b1c4044e492"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/identical_sequence_species.csv",
+    "sha256": "7cd292b9611967a98451d0ee9fd7b1710e891f2eb39f7e87a7aeaf2cebc054fb"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/original_fold_mean_control.csv",
+    "sha256": "7f92cc82f181d3fdbedda9c4f13b2e3cd2a90d41409b451fbabc081d4a466d67"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/pinned_git_verification.csv",
+    "sha256": "da9e0684a2c75f9074e3f074f0f2b25638b3bf75abec36436852662aad4e18ae"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/recomputed_metrics.csv",
+    "sha256": "cfc8a54561178d00dbed4e4e63eddd4d67c2abe0ca57dd12f65e63548be17a19"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_KC_folds.csv",
+    "sha256": "ae5c28f0019c1a3e6f62815a25d96641a4fd2761a6e1112f0525ffe8eca111ff"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_KO_folds.csv",
+    "sha256": "82b63ab0c0ff1493156fe450e42f95eda7f294009c4211ff422a395b3f2b2f95"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_KRuBP_folds.csv",
+    "sha256": "7925e424f610b95c691a64d1d382a793a783a3c24ed0ec21a61d1ddb5d4db141"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_S_folds.csv",
+    "sha256": "318fab3de31d19d6fb7fe14958ad3eee742ea0ba1b5545c645948d3e6e6952bb"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_vC_folds.csv",
+    "sha256": "3c0aa479e2e5d27d388b3537f6fc1372d5f60a85bec2bdfdf3b9b1c57a91a3f4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_fixed_vO_folds.csv",
+    "sha256": "055d45717f65cbbd4f1af1a03c013b4eba27327d4a70e088bdbba6acdda74b09"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_nested_archive_KC_folds.csv",
+    "sha256": "ae5c28f0019c1a3e6f62815a25d96641a4fd2761a6e1112f0525ffe8eca111ff"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_nested_archive_KO_folds.csv",
+    "sha256": "82b63ab0c0ff1493156fe450e42f95eda7f294009c4211ff422a395b3f2b2f95"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_nested_archive_S_folds.csv",
+    "sha256": "318fab3de31d19d6fb7fe14958ad3eee742ea0ba1b5545c645948d3e6e6952bb"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_nested_archive_vC_folds.csv",
+    "sha256": "3c0aa479e2e5d27d388b3537f6fc1372d5f60a85bec2bdfdf3b9b1c57a91a3f4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstructed_overlap.csv",
+    "sha256": "50dc28b07a79d65b959e2d4dc0ee41dd25e1294c43fb500430b82470e7c34270"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reconstruction_checks.csv",
+    "sha256": "695986ae40642c061671c2ed02aada0138904601f9ef6f4d76c8f34131f59af9"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/release_manifest.csv",
+    "sha256": "e206508e0548d655fb1a62c69b3583fcea75616a32114123eb67584dbe7249e4"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/reused_source_identifiers.csv",
+    "sha256": "b87b8ff61e8bcb8e5e160ec21fa018bcbede63cbdbe04d04f8ce7b1377ad6d88"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/sequence_map.csv",
+    "sha256": "3cb7f81ec2ff074ee8fa8d812bcf12259f7237f0f9f95a8e914c9df8de0e9a7a"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/sequence_pairs_99.csv",
+    "sha256": "d3ca60489c54c81b058e69ba6da5d7b1d7267fc42d9072031301450febe37ea9"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/short_sequences.csv",
+    "sha256": "ff6df37c17270f5d6a1c29b40dbf245a2d919608e414661f0cb94940f3c5e794"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/target_provenance.csv",
+    "sha256": "0460a680243184afc70d366f155d41ce64951b1ad799956d7639c641df3ba266"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/outputs/wt_observation_trace.csv",
+    "sha256": "47de1c3c790cd2f0005fc05133ff9e46dc5e744d2759c46b553af030c4d17ced"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/refusals.md",
+    "sha256": "22b3a90ba6339bf04bea9342cee11b533954ff7391f02883d40f8038f372e04c"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/report.md",
+    "sha256": "c03ea04a618b320516668038158fd0643ed5eb7c356d9a8d72e0b8881a604449"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/run.sh",
+    "sha256": "de382f09bd09e8515353d2c346bbd9bee115d99b4aa2cdd67a8b695a9573d104"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/sources.md",
+    "sha256": "a5f1500a3ea3530a677d87d7529f579205213b9f37f245e5d5a3a22c9827c5c5"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/supplemental_checks.py",
+    "sha256": "f19eb9d2f4dbcf21abc1a4fc7590132f032b7291fb472704f72837b48278252e"
+  },
+  {
+    "file": "research/archive/agents/review-release-sol/verify_release.py",
+    "sha256": "00f9131eeae127991acfa1f33a50964caa679a2674f62fef02d8c890caac7d23"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/access_failures.md",
+    "sha256": "d8580c9a24bfc6c7a16856fd136dd1df9bf338927d07ef7cbd2f7d8641568b15"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/check_bound.py",
+    "sha256": "b51fa3b540c50c1b7ce750aa4c6f6adfc73ff80b19caa85d341860be18f00f6a"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/fetch_sources.py",
+    "sha256": "1d95ed0a017cda252f4097a0d9e2c5c6e2e85eb29fcdf02f02a920e7baf910b7"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/outputs/final_verification.json",
+    "sha256": "c1b2b33b7f6e330f3596ea6d01a98bbf0d6c6ccb599685be399d711a8efe18c2"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/outputs/independent_check.json",
+    "sha256": "8198896d2e277ab1a0738b19f3dbb64e69205aaa360f7a54f1c1eda263e9df92"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/refusals.md",
+    "sha256": "31f29ae41b725b68ec6c7f213fa352dbe3e7fdc610a6cea275c686cab6626bc5"
+  },
+  {
+    "file": "research/archive/agents/review-thg1-sol/report.md",
+    "sha256": "4c158b81d7693b4a5e8849264b07ce1c0219e9c0a53e9420f8d47ca84eeb4bdc"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/README.md",
+    "sha256": "aebd157fcf3554a666d4ab847aada9d20ce2ddf1dfc616bb822a9436af11adb4"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/access_failures.md",
+    "sha256": "fd74615419fb42ece9e3bb5958141abb04c540a2ae69b0cf3799204359f2caae"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/dataset_card.md",
+    "sha256": "5b80b51781968fbca19d2b26401b9d6fd3e5d298827289b0b35b3a9859debbfa"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/anchor_and_current_audit.csv",
+    "sha256": "e860ceb8fe8da3837625ee10461042ba7533dedcc87b7b37b7198d6453c6259e"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/assay_frontier_benchmark.csv",
+    "sha256": "215070fcdc130baf5253b89cd6af49a545eedbb94d155937e343c8f782761d89"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/control_ledger.csv",
+    "sha256": "ebf7e0753ea43a8dc57827d265c39eb19016884a11f2a54d877ee4a1eabe300e"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/cyano2026_all_parameters.csv",
+    "sha256": "33670b6e9be5665c5231077524093c380b202f962b79db8c2eabe3af47fe6c8d"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/cyano2026_table1_cells.json",
+    "sha256": "cc32d193b6ffba83afb6fd2d67c98b63859199ca0f6f0b9ba083799e52f75f76"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/historical_measurements.csv",
+    "sha256": "613e661ced5ffda232811b0b01241baf88f516b8adc4be50c57a3864bad9b322"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/library2025_measurement_ledger.csv",
+    "sha256": "ddd456647705f41e26a129a5cb09db403e8d1cb755f0d1cd352d7c9c775c3fe2"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/measurement_ledger.csv",
+    "sha256": "59f435a72633c2dcf7f5206ea1fa08bc5687cb2eb0aabc07eeb9623eb996987d"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/primary_source_ledger.csv",
+    "sha256": "96cf6a85ce51f20be969b6491f21c1a0c8e03b5e7fd3e9acf5292dacf14d1195"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/workbook_rows_unfiltered.csv",
+    "sha256": "77ae5697ada5c0813811996d4e5bce3d49c3dd8f47df7f6fcb83dc44ed72a6cd"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/derived/workbook_with_selection.csv",
+    "sha256": "d7bac96c6a65fe3cfaf679e481315e4fe8b4d264a9baefdf0b19b3975dba1570"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/notes/amendment_01.md",
+    "sha256": "376026d24ee69a5acdd3d622f746762d13001e273d18163643a5bc3d9ac25b30"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/notes/library2025_calibration_code.py",
+    "sha256": "7ace5071c27b6d437b08a53be092c803e8f10fa825f99e854e126f0cc344d655"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/notes/primary_reuse_audit.md",
+    "sha256": "b19ff15016fb2d33b07af10b2b5fca2398a7806772f0092d49a609dd9ba91974"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/protocol.md",
+    "sha256": "b70f20a097316dad007c184d22b2edf8183ee895d1dc57622730d1fc2ccf29ed"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/protocol_2025_calibration.md",
+    "sha256": "3d631df0bc608149d286e170f4f2f003889c68bb2f4a2910e4881d777a630b36"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/refusals.md",
+    "sha256": "b347c1103db3105ceb3e38701b12df629ae8f5583041edb4a101f78a092848f3"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/report.md",
+    "sha256": "dea82df532dab43aa22de563820a6657251b1b6bd9612642e98abf6135fe658b"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/anchor_paths.csv",
+    "sha256": "029f6e52da79b34ba710e55fb438c40e5f5b3964ce3800f94e4fa8ae2508bfb3"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/artifact_manifest.json",
+    "sha256": "97e73f5f042ccaafa6baa79d8130a3c21852953c127f39484f9bc4dcbaafda2b"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/calibration2025.png",
+    "sha256": "f26e84991c55db925583d75f105c6d1d1c602faaedb6fc11c72038f54b6690d1"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/calibration_identifiability.json",
+    "sha256": "2a12bdd9d291a3dc16b49cf414c07a7d7505d7582990a1c05856aede31d5b6f9"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/control_rectangles.csv",
+    "sha256": "73d7f7a7d65c08ed0c2245d51737f87b5d96bff544eedd4fc503ff261080539b"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/control_sensitivity.csv",
+    "sha256": "cb8f77e1afe13a4454867ea2d0572189a504ebda9a36f9769463b6e7fec64e38"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/control_transport.png",
+    "sha256": "e07a9b2f2e1d0cbe26d8562d7f9e6e46ae8460aaffc3f5ffbd864fef1ab4acd0"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/frontier_summary.json",
+    "sha256": "9606a73eccab5ffd4fcb97c4569c24ae9d752183425ed1e5f6343f47d6f07295"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/graph_components.csv",
+    "sha256": "c8f9ccc3244c1465bb66d51d3c299733dbedf9f1c2c7c714a38788aa550b9f05"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/graph_edges.csv",
+    "sha256": "14849635ecba7664b7114473c962ea9caea32f569d772f71f1e8975194a6c8bd"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/graph_summary.csv",
+    "sha256": "46578bf7659dec6e8ea6eb4e797575da4546c3ccfdf427fcc0a89e3272376aaa"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/leave_one_source_out.csv",
+    "sha256": "b6231750cef7ed155a7502c3008ae15c5c71afbad7f45dc3de8e44c3312d3863"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/library2025_calibration_pairs.csv",
+    "sha256": "ce9cae92f534d5cdfc4975d3f6030bbe1a335f9addbfd89fe4cb00afcfc2671c"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/library2025_summary.json",
+    "sha256": "ec9940048a29f0a51573abe6b829c5dfeab54d3cb14ebb75b8cd2f11cb9ab07b"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/origin_graph_components.csv",
+    "sha256": "36f578a45ba4ca595106876c2f580b324a0543bc806efe7b8834fdb3e401f031"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/origin_graph_summary.csv",
+    "sha256": "0d55712ec232680c23af67bf3a26c9dc0f914a2e09224a54ba383fcc881840f9"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/reused2023_2026_audit.csv",
+    "sha256": "189abab1f6ed728ced7829daebb4a7570312637fcc73643fb69fa4cd2f697499"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/source_pair_metrics.csv",
+    "sha256": "b0d28790b741e7f650b15baed043b5820f04d6cb1249a68a839efa5b5e6ce4c7"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/summary.json",
+    "sha256": "c12e081187cdbfe2837d08f1f931571dec6ce6ddbf7274edc8526dadc293ffa7"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/results/verification.json",
+    "sha256": "a095d80b885cdc3015a5b4aaafa7befde2dbd22e62cb38721b6278c7dcba9984"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/run.sh",
+    "sha256": "76c42d52c4397864fdd1cda090a2324d76a55e555a6f005cfa480a68bef933f3"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/analyze_controls.py",
+    "sha256": "ecf1b8457e511ab1812e3e86207dc1dd0a977ec792418d825aed710546708f3e"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/analyze_library.py",
+    "sha256": "0e62d17645dd2e052aa228a77683bd27ffc9dbf28b2a863831af7ed2d07d4a35"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/audit_reused.py",
+    "sha256": "b7646c2c778d205c44fdd74162c5dfd1beaf7dd74c03839bb6da5b2da809b352"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/build_frontier.py",
+    "sha256": "03c3a26cc3c5fca3633821d9902ba87344b85085bb726015cc962d219869a913"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/build_ledger.py",
+    "sha256": "5c2c9147b162f64eea675f58abb0b7277b337fafaf6d245387df6725569cbb65"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/control_sensitivity.py",
+    "sha256": "fd754edf924619cfd4bf089c27878f5be49561f5edd6216a3318d51ec1224bd4"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/extract_primary.py",
+    "sha256": "f1a98f42949e6a29b2b520c83e6afdef6c678dfdcb4fc0d903a731901aa41c11"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/fetch_followup.py",
+    "sha256": "cf86c2a992ce5640a5755d0825d26de515068fc5f6eca9f3771832426ca1ac47"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/fetch_sources.py",
+    "sha256": "421b1ebc4be4db191335d1121277937d1e44f07ed771b6e27e979b3fc5eaa296"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/make_manifest.py",
+    "sha256": "9d79fb829d2b5628f177d3ce74747e68653532116a3960c747c8117a860a9e50"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/plot_results.py",
+    "sha256": "6483b5ca9c4b0aecc3678e98e8ef6b2c7a91f256677f2c0fbc71a1d4ea9fce07"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/snapshot_inputs.py",
+    "sha256": "ae7e49f80f2172b1685a5266cb48757c7abe4b26cf20fb12ad21551d09f1bd01"
+  },
+  {
+    "file": "research/archive/agents/rubisco-current-sol/scripts/verify.py",
+    "sha256": "2f65faf26c712495e931d2ae42a8ef6432aecd29ef03daf23fc2b3b583d56df0"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/notes/analysis_protocol.md",
+    "sha256": "0aee6088dc894d5c2be7012078106b6abe077aff3491f85f1c336f8967c9bed4"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/notes/verification.md",
+    "sha256": "5e24f5ce6f335c29df024ae49339576509c4b1ab3aa2200b855b6220a7f27674"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/notes/worklog.md",
+    "sha256": "c84c5bdb6ef91c712649c6cf6c58bd8fb443ade7348113d4a57ebe33e1134793"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/refusals.md",
+    "sha256": "1951a869851612dc101c0a0b162044f2f60ecdf7539f87b020334beacc1f8fcb"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/report.md",
+    "sha256": "a876b581d2875b941e6569c6022b88d414399261f47db3adb6ccf5ea50822e1e"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/challenge_ranking.csv",
+    "sha256": "32df2a2ccb3188e04dc0acc5ed22a13ad918d9587d98ef3ccf2c466fd6107d7b"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_assay_portability.csv",
+    "sha256": "a163fb4aead20886e0f569c4ebc5afe6ff315c822a013a12b40181dd5f730299"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_baselines.csv",
+    "sha256": "c0fa42be29172310be27dcf92405aee90e6f1c99a91434aa2043c790745cfe06"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_heldout_substrate_errors.csv",
+    "sha256": "a366b9f5a6f469b0adfdc6a75b2dd7437f18ea39cd7dbfd05291b60a6461a715"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_negative_controls.csv",
+    "sha256": "2d7a079d2c24d006aa750173ff9fc8af39406e401f41379eadb55a3d14a6eb7e"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_reporter_vitro_pairs.csv",
+    "sha256": "3cdf96deb8c5e573eb384cbbeefe8865bbf318321cf8d6435d5f59ff1eaa6a3c"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_substrate_background.csv",
+    "sha256": "eb613119086b80a6ed1a7497a5e1aa5631e88ca29167ea067bd161a35dc93f7c"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/protease_summary.json",
+    "sha256": "2a91f9689506f562a708a88febbbfd09adeea29f1ff2f8b9ff791f4c908ac302"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/ranking_method.json",
+    "sha256": "4ea8421db9661a875cbeedecd821c6cd72bd1388e997443ae5140b3b8eb881e0"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/regeneration_prior_art_markers.csv",
+    "sha256": "aff97986a267e1e27b65b62bf4f7c558d5d990398afc83eea3c12fd8e2099f6b"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/regeneration_summary.json",
+    "sha256": "18756f862730c686c7bf432762539b9e86669b98aaea77ea8382c15f37bb8f7a"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco2025_fastest_missing_specificity.csv",
+    "sha256": "002328ac28f466a2c6a30d6c7acadd28c9dc8489da544eaac185264370aab894"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_Uemura_bibliographic_overlay.csv",
+    "sha256": "5dc208642a8757598784dda0fb691caaf85098971052182430f30500822a89f8"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_assay_ledger.csv",
+    "sha256": "b3e09899a68bd87f71aceaf8332b228b7ed7342b0759138583f6f3b422eec4db"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_bibliographic_overlay.csv",
+    "sha256": "b1cce72c4fd9a93cfab473a400d3650c9293d0f13a2a4180b9537418bd28ccb9"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_citation_audit.csv",
+    "sha256": "98b62097a4c199608c22cb29862ee4da7ce8801ee34f7bed4cbcfa673828511c"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_citation_audit_reviewed.csv",
+    "sha256": "76cb94a193254d8ee9ba358ef59032a76e3ca167986c0ac4b1cae0c8867043f6"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_control_observations.csv",
+    "sha256": "20ab1d3b121b54505b41c0519cd204b8fad43616d0b88c184793df5859e1ef79"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_leave_one_study.csv",
+    "sha256": "6b5c33f8af9d2844ba398f3369232912c1a1ca38ecc98784b685c00de15bf68d"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_pareto_source_pairs.csv",
+    "sha256": "c312aa6c33044c7166488a617296b929507a9cad40832270660be2c2f44d3178"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_pareto_species.csv",
+    "sha256": "49c7173bb0eb346ab4032f5ec3b8d4916f64f4b0c1e178ea059e8c7e018f6a3c"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_reported_SD_sensitivity.csv",
+    "sha256": "d8b42ad821d604d5cc32ed8499e4b969482cf4a5505c7e528d01af9c3a6e232e"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_source_pairs.csv",
+    "sha256": "5ce796b1187e5f847b55ed34ae14ece2ba145a3d1a39636a45b3c1ee2fef9713"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_source_pairs_linked.csv",
+    "sha256": "1ba9e7471cd4c602165522e19cbdd89abcfbbd50830e62f5f1628983e902cd1b"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/results/rubisco_summary.json",
+    "sha256": "acbd0b6543a515d08d120168707d6ddf29188fa97554938f6b519ad130dbeef5"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/acquire.py",
+    "sha256": "42acadc1156434e67e4b799ab637e621b003de4a9adc6224aabf518847b345cb"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/analyze_protease.py",
+    "sha256": "deb4eda99f7cc2d970b1d7624768b3370fad47fdf64df6d158eead9c19a1be0c"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/analyze_regeneration.py",
+    "sha256": "6ea35ccf37c1de2beb2fd6dd93bb6933a3db5ab065169c747ef653b6ce9fb33f"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/analyze_rubisco.py",
+    "sha256": "24beb50db1a786e86b36efb04cb2b8fd8364bfb1402d7d515cb5364fc7d6113a"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/apply_bibliographic_overlay.py",
+    "sha256": "5c4b680a3dc728d1d36c61b6319fd558ca4084a651f1167ad32ebf41cdc84723"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/audit_rubisco_citations.py",
+    "sha256": "784ece88142a95dda7afac6de0d2dd3976da8ed38af119ebedcc7706a3ce2e81"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/bootstrap_deps.py",
+    "sha256": "1a20de83bd85ddcbc71cc78a9d0710553206a641242205c4e444d00f33a83192"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/build_assay_ledger.py",
+    "sha256": "c9f2aa70586f52e4cf2d7879d09b07018529edffb561d5bb682d3c620a46469d"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/build_inventory.py",
+    "sha256": "2e4d011923c2cea12f75e73762280e0a2419be07c9733c82b08ee46f89da5ae3"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/catalog_primary.py",
+    "sha256": "adf76ef5d86d1853bb4faf5530b288b304fbfaf89cc6a13f6d0a5127e6c8d78a"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/extract_cyano2026.py",
+    "sha256": "1d2900a9f10f3103bfc97ae34141d5783a490bc1f603c35059fd8f3d0ec96c30"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/extract_regeneration.py",
+    "sha256": "b0f9651ca1fdf64c3fb8a44f309dacbc28eb2d5675eb22fdf0c9a0ef5bdf0a5f"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/rank_challenges.py",
+    "sha256": "736e3e4be7f94f3c4bc37467dfb244548889c1d0a65790c5b5d10a02f5dc96f3"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/scripts/verify_artifacts.py",
+    "sha256": "701edc15ae92286516cd0161255dc89082f3d25e3526ec8f07bf2d7eb52c5343"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/source_inventory.csv",
+    "sha256": "3b8811d2df6dee357325b61fe5d0698f1edd5cf77e9735a430a254ca56f04657"
+  },
+  {
+    "file": "research/archive/agents/scout-data-sol/source_inventory.md",
+    "sha256": "fa93a760d112d8a017cf7a73424408bf72430a98296f2ea34ac8a7dcdd6799ea"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/analysis/README.md",
+    "sha256": "b4a145047d66517368b2ed6e3d107ecb6cdd6fd96d5aae93f32dde8e8df71164"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/analysis/cryo_source_audit.py",
+    "sha256": "2ee28eddd5d1a3ce34d012603508007fa288fdfd9298734a300a49083764329f"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/analysis/quadruplet_audit.py",
+    "sha256": "3076f23d31d375f2f4fe7b2fcd8171a4d53ac797727fd827f70b03751561289c"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/analysis/thg1_competition.py",
+    "sha256": "49f53cfa06e233ea21ab0295b015499492b156beabb9106ad06175af1b07d30a"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/notes.md",
+    "sha256": "650aabb5ac493030446f1f708cf379374c7f6c57ae8f950a2f834884c00ae15f"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/challenge_ranking.csv",
+    "sha256": "9fa60d1d21f7712306851d112a3874107beceedc8c757f4fb034baf2f2629aee"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/cryo_run_stdout.json",
+    "sha256": "9f39804472abe539907db1401f5302534da71a76be598d8f7898894b8f23aaf5"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/cryo_source_audit.json",
+    "sha256": "9f39804472abe539907db1401f5302534da71a76be598d8f7898894b8f23aaf5"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/quadruplet_audit.json",
+    "sha256": "81b54154e8ac39179c29c7e8613a684cda3c2c32e2ba7ea067c37a0c4ee15889"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/quadruplet_dense_map.csv",
+    "sha256": "554d838755dff6e94d0bcf81db45cf479b7c11efa3e888fac83047a6db678349"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/quadruplet_run_stdout.json",
+    "sha256": "81b54154e8ac39179c29c7e8613a684cda3c2c32e2ba7ea067c37a0c4ee15889"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/thg1_competition.json",
+    "sha256": "747eb0ce324fe40c3f5952471e7ff4fb9ef159edf81930f5995b0090bcf7c7d5"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/thg1_run_stdout.json",
+    "sha256": "747eb0ce324fe40c3f5952471e7ff4fb9ef159edf81930f5995b0090bcf7c7d5"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/outputs/verification.json",
+    "sha256": "376f7b2a215fd645c9d5b98355b3b8c0800aef2e391bae5206f316796eff3697"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/refusals.md",
+    "sha256": "39e369a60db095dda3ded626e48bdb861f63a1147f28e5de3a31ec159bbc7d75"
+  },
+  {
+    "file": "research/archive/agents/scout-mechanisms-sol/report.md",
+    "sha256": "175e2e0a1ae43c0462d34161f9f4f31e119ae6c896baf3f6a9fc0a60a6abb935"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/analyze.py",
+    "sha256": "81d1dc2949619525c80d7692e5a526e936a8d872e6b693872388d9f816f2c118"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/bibliography.json",
+    "sha256": "f12fbf9dbe0363a3b829cbe9d6193220c6695583c34fc734b07b46ce97b8e97d"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/collect_sources.py",
+    "sha256": "d7eac83cf62a5c4401b0ad29f4bf3ab9c13217e255eac40b62f7752b373a4b74"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/notes.md",
+    "sha256": "89cf4ac085fdaca2e06c3bee657d101bf0d454501ff178831d43630732ab34d0"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/report.md",
+    "sha256": "1a3a50647fc6623fd1ff47272175a57e69443dcfbe938049c6a67021a98267ed"
+  },
+  {
+    "file": "research/archive/agents/scout-prior-art-astra/results.json",
+    "sha256": "f79e2846e02320b43444239a6cd00c62684b9ab05c2de166e8011247937179d7"
+  },
+  {
+    "file": "research/archive/polymerase/THG1_BOUND.md",
+    "sha256": "0243b5d08e6f0e522ea514f222e88a960916a364ce20a5cafcd85bf8591e4c3d"
+  },
+  {
+    "file": "research/archive/polymerase/results/thg1_independent_verification.json",
+    "sha256": "9b639aa85d61913a5d7e55bc889da6f028df346c493a5e8e04ad1c91d9ebe46f"
+  },
+  {
+    "file": "research/archive/polymerase/results/verification.stdout.json",
+    "sha256": "9b639aa85d61913a5d7e55bc889da6f028df346c493a5e8e04ad1c91d9ebe46f"
+  },
+  {
+    "file": "research/archive/polymerase/table1_metadata.json",
+    "sha256": "4d479af8e7b578bd586e8722317efbba5fe5b792507ac6be4826244e42becd04"
+  },
+  {
+    "file": "research/archive/polymerase/thg1_table1_verified.csv",
+    "sha256": "23f05df204fdaafbca223ba02d1f9aea710f06d96553fff56c4445a2ecfe220a"
+  },
+  {
+    "file": "research/archive/polymerase/verify_thg1.py",
+    "sha256": "1ad5e4e1b77d875fab25744fac4dad7c342fca042248ef35396fc0bd0fadf6fd"
+  },
+  {
+    "file": "research/archive/protease-kinetics/PROTOCOL.md",
+    "sha256": "0b974b3c2679226045ca827b73b10685b53dd3810e830520e77e8e1bb8a6dc58"
+  },
+  {
+    "file": "research/archive/protease-kinetics/REPORT.md",
+    "sha256": "f60e456588e920f7ff2e55a3a9db773c00ebe8f3dd81fa270d2e0259fe22e49b"
+  },
+  {
+    "file": "research/archive/protease-kinetics/results/bootstrap.csv",
+    "sha256": "afd5d1db1aade8897b8a4f937c64e6f2e8a5950793bd7ade589486459afb33e5"
+  },
+  {
+    "file": "research/archive/protease-kinetics/results/matched_scores.csv",
+    "sha256": "78bc6b5fb9c12c4727f0480f484c1be178692c71613cbcce881ff4ebd0cb9835"
+  },
+  {
+    "file": "research/archive/protease-kinetics/results/metrics.csv",
+    "sha256": "40d9c82707b6b3de7b81a931f335817cd6b98e30fca43401b7d5840487371331"
+  },
+  {
+    "file": "research/archive/protease-kinetics/results/summary.json",
+    "sha256": "e2f8d41ff63224a292dc24d9af2752baef680394fc5263104fe9c4ef00ca97f6"
+  },
+  {
+    "file": "research/archive/protease-kinetics/test_timecourse.py",
+    "sha256": "9a6cab55381a04439ba9eca433816c50368ff14861545d328b9ed67eca9351b1"
+  },
+  {
+    "file": "research/archive/protease-kinetics/timecourse.py",
+    "sha256": "d9f672285835959c8740590a24dc6310e34de221779e5fd3bbc14def5c669074"
+  },
+  {
+    "file": "research/archive/rubisco/WORKLOG.md",
+    "sha256": "390e2bd8fce748d641028badd0f0796d59b32be906fd4fe1d21a4f6a67cc967e"
+  },
+  {
+    "file": "research/archive/rubisco/benchmark_audit.py",
+    "sha256": "89eea19536004890159a6e158d3e39606d33b24c5c034fece7a840718ab535d7"
+  },
+  {
+    "file": "research/archive/rubisco/input_audit.py",
+    "sha256": "abb335ddcee7293256fc391192d4c3757fa89c45a7914334dd7f130db0f85170"
+  },
+  {
+    "file": "research/archive/rubisco/results/archive_comparison.json",
+    "sha256": "30a4d7adbb3df1e0752e401ec6dfa04a8d44b191903c6672f95f6a0b0b191e28"
+  },
+  {
+    "file": "research/archive/rubisco/results/benchmark_audit.json",
+    "sha256": "8e41f4f5a5e43aff5cb4baede9c3bf498ad8a0f172f659200551be18d39d15ce"
+  },
+  {
+    "file": "research/archive/rubisco/results/compatible_pairs.json",
+    "sha256": "ba9c1b3d36c2bb4c6f9863b35943e7089c1276845efbc7663873feb919b42dd4"
+  },
+  {
+    "file": "research/archive/rubisco/results/fold_exposure.csv",
+    "sha256": "db09634c0cb26ed18ee5248ca0a52034f28b5fda76e17881f1d0505ec00edc55"
+  },
+  {
+    "file": "research/archive/rubisco/results/input_audit.json",
+    "sha256": "64e72775bd0579ebdd187b0486d646cd4936e1898c5618df3bbd00649453b21d"
+  },
+  {
+    "file": "research/archive/rubisco/results/input_hashes.json",
+    "sha256": "a5c9ee3720e88626d7de2e78813f5f7aca9728ae82f0a68890d1d0238800ddf0"
+  },
+  {
+    "file": "research/archive/rubisco/test_benchmark_audit.py",
+    "sha256": "197500663b0d25cc183a26eb68aeea5e382b72b9cc2881f06dbac6ec17b1b15f"
+  },
+  {
+    "file": "research/archive/rubisco/test_input_audit.py",
+    "sha256": "d0136418559dc3e281d8625e0f35fddd32dd652cc8ee90944b38664b555108d0"
+  },
+  {
+    "file": "research/archive/verification/corrected-protease-reproduction.json",
+    "sha256": "b43dfc5a281dc7c572bd2a95086e254386c67f6b6512ffa6f3139b9dbc752145"
+  },
+  {
+    "file": "research/archive/verification/critical-review-reproduction.json",
+    "sha256": "cd9ac8ffed1bb8ef378e1b32606bdacbccfd425bdd4712402bac1206b2855e11"
+  },
+  {
+    "file": "research/archive/verification/cryo-full-reproduction.json",
+    "sha256": "db67e84fc7e0d231a25cbf16ce935d04cc91a403b4d1ad11c81820691fa217ce"
+  },
+  {
+    "file": "research/archive/verification/cryo-independent-reproduction/0.5_flat_1.47_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "29a46ae8293a76d53fb17afd6e688cb388f30dc89ad0be74503e0fff69d53582"
+  },
+  {
+    "file": "research/archive/verification/cryo-independent-reproduction/0.5_flat_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "0b60d5b9c1bb8d8f81b183b9b1ef3358ef2d34f0698acef4f0a1ffbe5d1e464d"
+  },
+  {
+    "file": "research/archive/verification/cryo-independent-reproduction/0.5_ramp_1.47_0_1_extrapolated_0.01_0_-150_2.json",
+    "sha256": "26bed3e78d95e388003cf72a30f74cd38a697bed850cca93b6198022bf556c50"
+  },
+  {
+    "file": "research/archive/verification/cryo-independent-reproduction/0.5_ramp_1.83_0_1_clamped_0.01_0_-150_2.json",
+    "sha256": "58138dd88e343d165e55839e31c1b6772c7ba925bcd8ff80689acbb5bc25007b"
+  },
+  {
+    "file": "research/archive/verification/cryo-independent-reproduction/verification.json",
+    "sha256": "2f801a739db5bab87ae070b64ec9d15a56c310c25098223260bf4caceff2e3d5"
+  },
+  {
+    "file": "research/archive/verification/cryo-reproduction-checkpoint.json",
+    "sha256": "f132075e654f247b5d557c2f2f2e4f879e8cca968c3afe1b013835562c8fd9bc"
+  },
+  {
+    "file": "research/archive/verification/cryo-upstream-priority-snapshot.json",
+    "sha256": "644e85d9824a660d732ad62f95a91673fe0656fc7b6fb9a17608b0759c172657"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/criterion_comparison.png",
+    "sha256": "57a4d6ac4506b7bfa82668c56cba13ba5f82ae1cd2d38e224f686c666d539ab3"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/criterion_comparison.svg",
+    "sha256": "1a20802c03bb53ab6eacd399ad6007b10f1335fc47badc814cdac2b3711bb0a0"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/provenance.json",
+    "sha256": "799fbda0dc296ec26d24238c1e9fbeb2b9f41dec0f8b9282c4b65ca4f6373ec4"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/rankings.csv",
+    "sha256": "80f8a78191bf10b4c0813d56ec8c519e7affea6eb516b8729801e30ba8c0b05f"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/thermal_window.cpp",
+    "sha256": "637aa6c9c8db1b7e8f2b6c4732b403269eb09bbc307d86181623ecd7c0c9d0bf"
+  },
+  {
+    "file": "research/archive/verification/cryo-window-extension/windows.csv",
+    "sha256": "f4dcc595766181f6286bb8c41c6ac2ea996a75434220de6999ea32e5c5e29146"
+  },
+  {
+    "file": "research/archive/verification/cryo_independent_reproduction.py",
+    "sha256": "41fb43f2c6334564e13a2af919deda70773532b9adef189ffcf9575361d5ef7e"
+  },
+  {
+    "file": "research/archive/verification/cryo_window_extension.py",
+    "sha256": "984ddb48ff1d85961d667a24b97e99001f722a9fc293b468f83365d7387d4714"
+  },
+  {
+    "file": "research/archive/verification/data-scout-reproduction.json",
+    "sha256": "5be9e6ec6b0353cdedcc291a7baac5eba59ef08c6da0a9a816408111556ac8d9"
+  },
+  {
+    "file": "research/archive/verification/final-audit.json",
+    "sha256": "94fa10955549db31a04196d490ab97d346c82cf018f06151f1c689a4ddef91c2"
+  },
+  {
+    "file": "research/archive/verification/final-source-integrity.json",
+    "sha256": "4d1d21042623f46cc6dfa8878a2d474bd4acf2abc9913f94e2205fe791d31969"
+  },
+  {
+    "file": "research/archive/verification/mechanism-reproduction.json",
+    "sha256": "6f1aaea06c45c7bf78d9c995b353c692fbee564fd3cab46b377c4ec6c5653ac4"
+  },
+  {
+    "file": "research/archive/verification/plot_cryo_windows.py",
+    "sha256": "38c613b7abf906cf2645befcf1408fea13195769d851997a8dc1ea626e566641"
+  },
+  {
+    "file": "research/archive/verification/protease-corrected-sol-checkpoint.json",
+    "sha256": "81ae51995a67b0e745ef8f44efdbbffc6b2a1d50a5dfbfd33397396e46e7f284"
+  },
+  {
+    "file": "research/archive/verification/release-and-prior-art-reproduction.json",
+    "sha256": "ecd7b51f7fef2fac3bdd38d6136a60e448dbd49b6d1e977612bab39292f2f92e"
+  },
+  {
+    "file": "research/archive/verification/rubisco-current-reproduction.json",
+    "sha256": "179e2978a92a685737947080fed1a1db7bd4bb7c0b468b8e5adbdb3f365354cb"
+  },
+  {
+    "file": "research/archive/verification/rubisco-current-sol-checkpoint.json",
+    "sha256": "24ce43ba653589f2cdcf0a07355a80a251245d148781e7da91eeb40a58a9afa3"
+  },
+  {
+    "file": "research/cryopreservation/README.md",
+    "sha256": "69f501ef16544c5aff1cf404a0c17935e714b3b49883e9bb9932464474e91dcc"
+  },
+  {
+    "file": "research/cryopreservation/independent.cpp",
+    "sha256": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222"
+  },
+  {
+    "file": "research/cryopreservation/inputs/grid_convergence_margin.json",
+    "sha256": "4c4ae2002afa5a38fef921574b65d59945cf836bd1e9a0f50781553c6528bbf9"
+  },
+  {
+    "file": "research/cryopreservation/reference/criterion_comparison.png",
+    "sha256": "57a4d6ac4506b7bfa82668c56cba13ba5f82ae1cd2d38e224f686c666d539ab3"
+  },
+  {
+    "file": "research/cryopreservation/reference/criterion_comparison.svg",
+    "sha256": "1a20802c03bb53ab6eacd399ad6007b10f1335fc47badc814cdac2b3711bb0a0"
+  },
+  {
+    "file": "research/cryopreservation/reference/loading_boundary.csv",
+    "sha256": "a1303f024d7328197153efce223017085beb37b189b9a6876e0642b9096d27e7"
+  },
+  {
+    "file": "research/cryopreservation/reference/local_tolerance.csv",
+    "sha256": "818c6a10e4f870efa6f9183834af9bf11fdff097850a8c6d5091c269b8bdb69d"
+  },
+  {
+    "file": "research/cryopreservation/reference/rankings.csv",
+    "sha256": "80f8a78191bf10b4c0813d56ec8c519e7affea6eb516b8729801e30ba8c0b05f"
+  },
+  {
+    "file": "research/cryopreservation/reference/refinement.csv",
+    "sha256": "782141fb93c471ca681b00588e264727787cea7c98968e80f29bbf23794635bf"
+  },
+  {
+    "file": "research/cryopreservation/reference/split_fine.csv",
+    "sha256": "540b395adb4ebcd4d2f94d2ccbd8efb76658953058d18f31f6764e66cfba3770"
+  },
+  {
+    "file": "research/cryopreservation/reference/sweep.csv",
+    "sha256": "b7b63982549dc52850f0a0b43aab6d40fdb4ed768e537c7076227138ada71a33"
+  },
+  {
+    "file": "research/cryopreservation/reference/windows.csv",
+    "sha256": "f4dcc595766181f6286bb8c41c6ac2ea996a75434220de6999ea32e5c5e29146"
+  },
+  {
+    "file": "research/cryopreservation/reproduce.py",
+    "sha256": "f6487e9d929c742cd901acffb194eb78274906a55c6459ad7d30a3437191b54f"
+  },
+  {
+    "file": "research/cryopreservation/requirements.txt",
+    "sha256": "5b2cb9b4f90d42c6319a111084c13e0e9f6d310863a9633be50af2e8d07a3e95"
+  },
+  {
+    "file": "research/cryopreservation/vendor/VITRIFY-LICENSE",
+    "sha256": "5b53c732328cdc5e52a274a07af805a60c46342d42caffe9f708815cf997bec3"
+  },
+  {
+    "file": "research/cryopreservation/vendor/vitrify/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "research/cryopreservation/vendor/vitrify/geometry.py",
+    "sha256": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb"
+  },
+  {
+    "file": "research/rank_challenges.py",
+    "sha256": "eb83b092fcfd51ca85b430fd1819dcdc38e0d330e2f78a924e0ece26e9ca948d"
+  },
+  {
+    "file": "research/ranking.csv",
+    "sha256": "f2c4b622444adfa3f233934b3948ff67149bc72b03421e15b7a0b7d3c06ff4ef"
+  },
+  {
+    "file": "research/ranking_inputs.json",
+    "sha256": "28e3ed69b388e4513b0a7347c94e71da84663cabf6253f45539fdd40c39c032f"
+  },
+  {
+    "file": "research/ranking_sensitivity.json",
+    "sha256": "c800d01a11d5c4e6b04bf116f6db417805ea77fd4780c99f16a2c2780632d5cc"
+  },
+  {
+    "file": "research/requirements.lock.txt",
+    "sha256": "0ac03415bb709f8f18fd4241c9c32a9ab4b2b3ba91722690762677ce65f63248"
+  },
+  {
+    "file": "research/runs.json",
+    "sha256": "56f8b0fbbe8c24d445800d56d7c8965ec581c297938d1de34788cf2664ebfd9e"
+  },
+  {
+    "file": "research/source-downloads.json",
+    "sha256": "1461bbb0337fed8e58da5a7f856fde1427df1945b27351e2aad29e635c3978ec"
+  },
+  {
+    "file": "site/README.md",
+    "sha256": "8586c4ffd617d8d44cd1abd4f10aaf7f5f8f10b06dddf60789bc0465f8a50059"
+  },
+  {
+    "file": "site/api/review_store.py",
+    "sha256": "e4878dd17411519c54b024be560f41a4046aee5ea1246cfcb297eb1a3a3991b0"
+  },
+  {
+    "file": "site/api/review_views.py",
+    "sha256": "035ba149588a728a011ae9c0eda246c70fa1e5f563680fd8fcddf678b1edae83"
+  },
+  {
+    "file": "site/api/server.py",
+    "sha256": "8c9fb4e6ac48ac64730edb1fc601763599f2c1f908cfab107d05e12de848e0cc"
+  },
+  {
+    "file": "site/api/test_review.py",
+    "sha256": "f5d6a4aa1d68b5a5d26905376af781dd68c82127953728c99ec58448542f554e"
+  },
+  {
+    "file": "site/api/test_server.py",
+    "sha256": "0616c2a86cb4e86d010d9d846a1047595c7c117d7c980599f2bbce7c51dbc771"
+  },
+  {
+    "file": "site/deploy/add-api-route.py",
+    "sha256": "3566b4526aceb122f907b2519b6d84533f436e75281d4c5787726f573902cd8b"
+  },
+  {
+    "file": "site/deploy/add-caddy-route.py",
+    "sha256": "eb677301b51deebbc5a9fbbc0e7c63769ad96cf78596cda029951f0516af9ab8"
+  },
+  {
+    "file": "site/deploy/deploy-api.sh",
+    "sha256": "e3653e726a254422997045b078d5190ca7eea58d3734829fba53e166b8a93c79"
+  },
+  {
+    "file": "site/deploy/deploy-static.sh",
+    "sha256": "0cb7e9b2e81506d0af3944545afc15811cdebaadd650376dcc7febc8b7d96ced"
+  },
+  {
+    "file": "site/deploy/longevidence-challenge-api.service",
+    "sha256": "a319a7dce8e780b9b792970d8a4b060683e8d416c0cfb3c450728810b4b77c5f"
+  },
+  {
+    "file": "site/dist/challenge/app.js",
+    "sha256": "6ad1b380a5a149d372ee05e83997546807b723a76fa741bc909d4f21e9f2e3b7"
+  },
+  {
+    "file": "site/dist/challenge/assets/archivo-OFL.txt",
+    "sha256": "108b4e57c9c796d3d38d0428ca7ee39de47ad93187302718d9b2d8864b9b716b"
+  },
+  {
+    "file": "site/dist/challenge/assets/archivo-expanded.woff2",
+    "sha256": "86b5bbe21404f45ba87916a7bfd68f3377200ac9927009c1180dd67e1ab58358"
+  },
+  {
+    "file": "site/dist/challenge/assets/favicon.svg",
+    "sha256": "6bd9f90ed43e4d6b328815805f4fee865682469e191082a9be1a9b04fa68021e"
+  },
+  {
+    "file": "site/dist/challenge/assets/inter-OFL.txt",
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  {
+    "file": "site/dist/challenge/assets/inter.woff2",
+    "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4"
+  },
+  {
+    "file": "site/dist/challenge/assets/jetbrains-mono.woff2",
+    "sha256": "2c32b9b3ee358c119e210f6f5195f9bd34894d78a785ff2e95d60e718e400af4"
+  },
+  {
+    "file": "site/dist/challenge/assets/jetbrainsmono-OFL.txt",
+    "sha256": "b2fe5e8987594e9ffd1d2ca52a2f5d73eb8335243893c5d6254b5ad69269591d"
+  },
+  {
+    "file": "site/dist/challenge/assets/logo-dark.svg",
+    "sha256": "85a80b34b7aa291d5b85ca0a6c3b9ce836afbe67a81223c32f7b516e79d4c431"
+  },
+  {
+    "file": "site/dist/challenge/assets/logo-light.svg",
+    "sha256": "b9898c3c7fd972260b8cea294806a47480d04f11339c5aee3b302e30bd2f6362"
+  },
+  {
+    "file": "site/dist/challenge/assets/logo.png",
+    "sha256": "db23d2c2a9dcb927fc7073728c684063a9f41ca2b0356f6f99dc73f9686baf68"
+  },
+  {
+    "file": "site/dist/challenge/assets/mark.svg",
+    "sha256": "7e1adc4c4ee66419aea1d119fbd17dbe142f3108c3cca788c80ee220f87d64a2"
+  },
+  {
+    "file": "site/dist/challenge/index.html",
+    "sha256": "014166fe6b4ccd58fc99eb11f3c6d55a1c9fbda0dbb4862d24227d8de33ea368"
+  },
+  {
+    "file": "site/dist/challenge/join.txt",
+    "sha256": "6a32bd195988a60ccfa367445b5ffe767eba5996a1525c2e075007dd59488c6c"
+  },
+  {
+    "file": "site/dist/challenge/process/index.html",
+    "sha256": "8e9802fb199db80efce2a6d811a0f23d9d23699fdacfc40762c1368f3c8777fe"
+  },
+  {
+    "file": "site/dist/challenge/research/index.html",
+    "sha256": "c06e65d18363d30a10a0e7fbf389f0a8f05f515874e816cf0727a5015c3c3c37"
+  },
+  {
+    "file": "site/dist/challenge/style.css",
+    "sha256": "6ca8a09f8e8cd71cb7269f9b15640e456d27e10e5933d43082c3a74b36ebbd9f"
+  },
+  {
+    "file": "site/dist/challenge/tasks/index.json",
+    "sha256": "0c28513466d71260e4067a302cd224cfdd56ea28a296fd9847c2346101b7cf08"
+  },
+  {
+    "file": "site/dist/challenge/tasks/lc-001.json",
+    "sha256": "78c3fe597ff2dc89038aca591d9fb17486d283211383c5d741027ec81d5eb4d3"
+  },
+  {
+    "file": "site/dist/challenge/tasks/lc-002.json",
+    "sha256": "d4419f0542846776b85f0564a6a7cc0487c924412c516a70a39a95e6909d34ed"
+  },
+  {
+    "file": "site/dist/challenge/tasks/lc-003.json",
+    "sha256": "4aa1fb8313b3a290476b4f9f1c70ebd2dc2c6c012ed229df8f976de1a0799680"
+  },
+  {
+    "file": "site/dist/challenge/tasks/lc-004.json",
+    "sha256": "85150218ed7fc3c85dd1030be5755a6ed670df818a021f008ee90472f0ef59bf"
+  },
+  {
+    "file": "site/dist/challenge/tasks/lc-005.json",
+    "sha256": "152756444a06c20f71ae4c5bef31c3e1e186ec1481d04d1dd4a44fb5649bd351"
+  },
+  {
+    "file": "site/docs/check-collaboration.mjs",
+    "sha256": "5472ab7cc90b1df33fc3982b21cfe9fdf5d9cf59e9612ab766c3e3e917384278"
+  },
+  {
+    "file": "site/docs/check-page.mjs",
+    "sha256": "a234b664147f3c0a3d53f5bd95af0627069eed96a3c47d53a8de9e052d714ae9"
+  }
+]

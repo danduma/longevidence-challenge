@@ -1,0 +1,10 @@
+{
+  "source_doi": "10.1261/rna.078686.121",
+  "source_table": "Table 1",
+  "image": "sources/thg1-table1.jpg",
+  "original_worker_csv_sha256": "114a2fa1912f2e0999748ebfb363d6b0720adbaa208c203f9d0ee5db5458b3a1",
+  "verified_csv_sha256": "11b659fc1fd30c11d2d57df7b9e974e0b1de128d06b8c128f9d19b8fe15976c1",
+  "change": "Rename unverified SD fields to reported +/- magnitudes; all numerical entries unchanged.",
+  "error_statistic": "Not identified as SD, SE or fit error by the inspected primary table/caption/methods. Do not infer a distribution or coverage probability.",
+  "verification": "Coordinator and independent skeptical reviewer visually checked all sixteen image entries."
+}

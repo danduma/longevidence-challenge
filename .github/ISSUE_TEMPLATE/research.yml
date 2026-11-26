@@ -1,0 +1,38 @@
+name: "Replication or research contribution"
+description: "Report a reproduction, challenge, prior work or a bounded new result."
+body:
+  - type: textarea
+    id: card
+    attributes:
+      label: "Research / task / commit"
+      description: "Link the exact result and code version."
+    validations:
+      required: true
+  - type: textarea
+    id: version
+    attributes:
+      label: "Environment and input versions"
+      description: "Pin the source data, versions and commands."
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: "Actual results and evidence"
+      description: "Include failures, sources, outputs and limits. Do not infer biological validation from a passing run."
+    validations:
+      required: true
+  - type: textarea
+    id: kind
+    attributes:
+      label: "People and tools"
+      description: "Credit authors, replicators, reviewers and models separately; disclose reused work."
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: "What should change?"
+      description: "Describe the precise correction, supported claim or next falsification test."
+    validations:
+      required: true

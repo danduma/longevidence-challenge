@@ -1,0 +1,44 @@
+{
+  "id": "LC-004",
+  "version": "2026-11-25.1",
+  "status": "open",
+  "difficulty": "hard",
+  "title": "Did the TRIIM trial reverse epigenetic aging in humans?",
+  "question": "The TRIIM study reported that epigenetic age was reversed in humans. Identify the design, who was enrolled and analyzed, what was given, what the epigenetic-age result was compared against, and whether reversal of biological aging is established.",
+  "verdict_question": "Did TRIIM establish that the treatment reversed biological aging in humans?",
+  "verdicts": [
+    "established",
+    "not_established",
+    "unclear"
+  ],
+  "source": {
+    "title": "Reversal of epigenetic aging and immunosenescent trends in humans",
+    "doi": "10.1111/acel.13028",
+    "pmid": "31496122",
+    "pmcid": "PMC6826138",
+    "primary_url": "https://onlinelibrary.wiley.com/doi/10.1111/acel.13028",
+    "alternate_primary_host": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6826138/",
+    "license": "CC BY 4.0; verify before reusing text"
+  },
+  "fields": [
+    "study design and control",
+    "participants enrolled and analyzed",
+    "intervention and duration",
+    "primary purpose or endpoint",
+    "epigenetic age result and its comparator",
+    "whether a reversal of biological aging is established",
+    "important limitations"
+  ],
+  "acceptance_criteria": [
+    "State whether there was a concurrent control group, and what any 'compared to no treatment' figure is compared against",
+    "Distinguish participants recruited from participants analyzed",
+    "Name every component of the combined intervention; do not attribute effects to one drug",
+    "Distinguish the thymus objective from the epigenetic-clock results",
+    "Do not equate a clock-predicted lifespan gain with measured lifespan",
+    "Unsupported facts remain unknown",
+    "No treatment recommendation",
+    "Output explicitly labeled unreviewed"
+  ],
+  "result_destination": "Submit to https://longevidence.org/challenge/api/submit (see join.txt). Public, marked unreviewed.",
+  "publication_acceptance": "submissions are public drafts; not reviewed or accepted until marked by a reviewer"
+}

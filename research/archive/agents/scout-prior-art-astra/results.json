@@ -1,0 +1,104 @@
+{
+  "rubisco": {
+    "study_label_pairs": 226,
+    "study_label_joint_hits": 0,
+    "study_label_largest_S_above_maize_floor": [
+      112.0,
+      4.2,
+      "Poa palustris",
+      "Orr 2016"
+    ],
+    "runner_up_study": [
+      87.3,
+      4.1,
+      "Zea mays cv. Carella",
+      "Hermida-Carrera 2016"
+    ],
+    "rows": 466,
+    "same_row": 130,
+    "labels": 296,
+    "joint_any_source": 200,
+    "joint_same_citation": 198,
+    "red": [
+      [
+        "Uemura 1997",
+        "238",
+        "1.6"
+      ]
+    ],
+    "maize": [
+      [
+        "Hermida-Carrera 2016",
+        "4.1"
+      ],
+      [
+        "Kubien 2008",
+        "4.05"
+      ]
+    ],
+    "control_source_overlap": [],
+    "largest_S_above_maize_floor": [
+      84.8,
+      "Panicum deustum"
+    ],
+    "same_row_hits": 0
+  },
+  "cryo": {
+    "cooling": [
+      {
+        "mean": 1.28,
+        "sd": 0.030000000000000027,
+        "model": 1.36,
+        "model_relative_error": 0.0625
+      },
+      {
+        "mean": 0.9833333333333333,
+        "sd": 0.03055050463303896,
+        "model": 0.96,
+        "model_relative_error": -0.023728813559321993
+      },
+      {
+        "mean": 0.5066666666666667,
+        "sd": 0.03511884584284249,
+        "model": 0.45,
+        "model_relative_error": -0.11184210526315796
+      }
+    ],
+    "warming": [
+      {
+        "mean": 173.5176053111111,
+        "sd": 3.140787312916622,
+        "per_iron": 16.216598627206647
+      },
+      {
+        "mean": 87.95708523333333,
+        "sd": 1.5055665342450335,
+        "per_iron": 19.121105485507247
+      }
+    ],
+    "raw_ratio": 0.5069058270809426,
+    "normalized_ratio": 1.1791070325578448,
+    "all_successes_needed": 299
+  },
+  "quadruplet": {
+    "fourth_base_mismatch_over_cognate_range": [
+      0.044044608732857544,
+      0.2441455258071421
+    ],
+    "correct_row_max": 10,
+    "rows": 10,
+    "undirected_edges": [
+      4,
+      2,
+      1,
+      0
+    ],
+    "possible_per_position": 384,
+    "unique_first_three": 10,
+    "diagonal_range": [
+      0.2223197,
+      3.6298432
+    ],
+    "balanced_random_change": 0.9536764705882352
+  }
+}

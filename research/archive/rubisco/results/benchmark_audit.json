@@ -1,0 +1,140 @@
+{
+  "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+  "fold_assumption": "Shipped KFold(n_splits=5, shuffle=True, random_state=0) applied to deposited prediction row order. Original split assignments are not independently recovered.",
+  "join_assumption": "All released FASTA IDs used, including repeated IDs. The missing embedding file prevents establishing the actual embedding-ID list.",
+  "metric_caveat": "Recomputed/reweighted stored predictions do not estimate the performance of refitted, leakage-free models.",
+  "targets": [
+    {
+      "target": "KC",
+      "deposited_metrics_recomputed": {
+        "n": 197,
+        "r2": 0.41428162103809074,
+        "rmse_log10": 0.24164713067872565,
+        "spearman": 0.5977531523751638
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 190,
+        "r2": 0.41641019455616846,
+        "rmse_log10": 0.2441918135308611,
+        "spearman": 0.6079914795819062
+      },
+      "unique_species": 190,
+      "deposited_duplicate_rows": 14,
+      "implied_target_count_using_all_released_fasta_ids": 191,
+      "default_seed_0_reconstructed_species_exposed_rows": 10,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 58,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    },
+    {
+      "target": "KO",
+      "deposited_metrics_recomputed": {
+        "n": 169,
+        "r2": -0.19703391379794932,
+        "rmse_log10": 0.33952324302646075,
+        "spearman": 0.19710945581142514
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 164,
+        "r2": -0.2060174535383903,
+        "rmse_log10": 0.3425992087951947,
+        "spearman": 0.18529779055774495
+      },
+      "unique_species": 164,
+      "deposited_duplicate_rows": 10,
+      "implied_target_count_using_all_released_fasta_ids": 161,
+      "default_seed_0_reconstructed_species_exposed_rows": 8,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 53,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    },
+    {
+      "target": "KRuBP",
+      "deposited_metrics_recomputed": {
+        "n": 34,
+        "r2": -0.8625444704703982,
+        "rmse_log10": 0.2528147524082672,
+        "spearman": -0.01377305270639414
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 28,
+        "r2": -0.8811434313099356,
+        "rmse_log10": 0.2775620625322456,
+        "spearman": -0.03339720777443198
+      },
+      "unique_species": 28,
+      "deposited_duplicate_rows": 12,
+      "implied_target_count_using_all_released_fasta_ids": 24,
+      "default_seed_0_reconstructed_species_exposed_rows": 10,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 20,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    },
+    {
+      "target": "S",
+      "deposited_metrics_recomputed": {
+        "n": 183,
+        "r2": 0.29617140988960133,
+        "rmse_log10": 0.1438937264056109,
+        "spearman": 0.6419008097216844
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 176,
+        "r2": 0.2951374505443656,
+        "rmse_log10": 0.14659100093263747,
+        "spearman": 0.6233264950198549
+      },
+      "unique_species": 176,
+      "deposited_duplicate_rows": 14,
+      "implied_target_count_using_all_released_fasta_ids": 177,
+      "default_seed_0_reconstructed_species_exposed_rows": 12,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 57,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    },
+    {
+      "target": "vC",
+      "deposited_metrics_recomputed": {
+        "n": 181,
+        "r2": -1.1566356872441008,
+        "rmse_log10": 0.2731595302061712,
+        "spearman": 0.3388948672319745
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 174,
+        "r2": -1.1812152534524856,
+        "rmse_log10": 0.2773839109517001,
+        "spearman": 0.3406985156038413
+      },
+      "unique_species": 174,
+      "deposited_duplicate_rows": 14,
+      "implied_target_count_using_all_released_fasta_ids": 173,
+      "default_seed_0_reconstructed_species_exposed_rows": 14,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 53,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    },
+    {
+      "target": "vO",
+      "deposited_metrics_recomputed": {
+        "n": 38,
+        "r2": -1.015973664976186,
+        "rmse_log10": 0.3881382689009298,
+        "spearman": 0.2674183231871664
+      },
+      "species_reweighted_stored_predictions_NOT_refitted": {
+        "n": 38,
+        "r2": -1.015973664976186,
+        "rmse_log10": 0.3881382689009298,
+        "spearman": 0.2674183231871664
+      },
+      "unique_species": 38,
+      "deposited_duplicate_rows": 0,
+      "implied_target_count_using_all_released_fasta_ids": 42,
+      "default_seed_0_reconstructed_species_exposed_rows": 0,
+      "default_seed_0_reconstructed_sequence_exposed_rows": 8,
+      "species_without_sequence_mapping": [],
+      "sequence_grouped_split_exposed_rows": 0
+    }
+  ]
+}

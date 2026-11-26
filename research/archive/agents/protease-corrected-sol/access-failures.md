@@ -1,0 +1,4 @@
+# Access failures (separate from model refusals)
+2026-11-26: web open of Nature primary article returned 500 / inaccessible identity redirect; web search supplied indexed primary text. PMC web open returned a reCAPTCHA page. Alternative public archive/API routes are being checked.
+Local environment: shared Python lacks requests; acquisition uses standard-library urllib instead. Initial acquisition checksum failure was a local README basename collision; fixed by preserving directory-qualified README paths. No scientific input silently substituted.
+Source-data retrieval: an initially attempted springer-cdn hostname failed DNS; the canonical static-content.springer.com route succeeded after HEAD size checks (35,182,821-byte XLSX, 330,300-byte ZIP, 7,169,659-byte SI PDF). These files and response metadata are retained. Europe PMC fullTextXML succeeded. A read-only process inspection command was denied by the execution environment; it had no effect on analysis.

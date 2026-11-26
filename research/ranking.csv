@@ -1,0 +1,13 @@
+challenge_id,challenge,data,tractability,impact,validation,primary_score,equal_score,data_emphasis_score,validation_emphasis_score,primary_rank,equal_rank,data_emphasis_rank,validation_emphasis_rank
+4,Improve Rubisco,5.0,4.5,5.0,4,4.7,4.625,4.8,4.45,1,1,1,1
+2,Cryopreservation,4.0,5.0,5.0,3.0,4.35,4.25,4.3,3.9,2,2,3,3
+8,Programmable proteases,5.0,3,5.0,4.0,4.25,4.25,4.5,4.15,3,2,2,2
+5,The quadruplet cell,4.0,5.0,4.0,3,4.15,4.0,4.1,3.75,4,4,5,4
+6,Somatic limb regeneration,5.0,3,5.0,2.0,3.95,3.75,4.3,3.25,5,5,3,6
+9,Cell-penetrating protein binders,3.5,3.0,5.0,3.0,3.575,3.625,3.65,3.4,6,6,6,5
+11,5′ polymerases,3,3,4.0,3.0,3.2,3.25,3.2,3.15,7,7,7,7
+7,Bacterial production of gene therapies,3.0,2.0,5.0,2.5,3.025,3.125,3.15,2.875,8,8,8,8
+1,Origins of life,3.0,2.5,5.0,1.5,3.025,3.0,3.15,2.525,8,9,8,11
+3,The reverse translatase,3.0,2.0,5.0,2.0,2.95,3.0,3.1,2.65,10,9,10,9
+12,New nitrogenases,3,2,5.0,2.0,2.95,3.0,3.1,2.65,10,9,10,9
+10,Protein amplification chain reaction,1,1.0,5.0,1,1.8,2.0,1.8,1.6,12,12,12,12

@@ -1,0 +1,154 @@
+{
+  "capacity_J_m3K": 1442177.7500000002,
+  "onset": {
+    "extrapolated_ramp": {
+      "rate_per_mg_ml": 35.59695836880571,
+      "necessary_loading": 1.404614390981673,
+      "nominal_rate": 52.32752880214439,
+      "high_rate": 65.14243381491445
+    },
+    "extrapolated_flat": {
+      "rate_per_mg_ml": 40.32408670091476,
+      "necessary_loading": 1.2399536875032495,
+      "nominal_rate": 59.2764074503447,
+      "high_rate": 73.79307866267402
+    },
+    "extrapolated_full": {
+      "rate_per_mg_ml": 42.14459694722096,
+      "necessary_loading": 1.186391699572228,
+      "nominal_rate": 61.95255751241481,
+      "high_rate": 77.12461241341437
+    },
+    "clamped_ramp": {
+      "rate_per_mg_ml": 24.281834385828965,
+      "necessary_loading": 2.059152500816838,
+      "nominal_rate": 35.69429654716858,
+      "high_rate": 44.43575692606701
+    },
+    "clamped_flat": {
+      "rate_per_mg_ml": 27.506361214543038,
+      "necessary_loading": 1.817761339277557,
+      "nominal_rate": 40.434350985378266,
+      "high_rate": 50.33664102261376
+    },
+    "clamped_full": {
+      "rate_per_mg_ml": 28.74819002026622,
+      "necessary_loading": 1.7392399300530634,
+      "nominal_rate": 42.25983932979135,
+      "high_rate": 52.60918773708719
+    }
+  },
+  "triplicate_conditional": {
+    "mean": 1.47,
+    "sample_sd": 0.36,
+    "sharp_bound": 1.2621539030917348,
+    "rounded_bound": 1.2700406544376828,
+    "equality_triplet": [
+      1.2621539030917348,
+      1.2621539030917348,
+      1.8856921938165305
+    ],
+    "random_max_min": 1.262152288759185,
+    "rounded_ramp_rate": 45.20958430270895,
+    "empirical_link_established": false
+  },
+  "duty": {
+    "flat": 0.9568032350959227,
+    "continuous_ramp_s": 66.97622645671458,
+    "continuous_flat_s": 66.97622645671458,
+    "original_steps": 5766,
+    "original_horizon_s": 70.00181772349816,
+    "original_ramp_s": 66.97754693815163,
+    "original_flat_s": 66.97796566043814
+  },
+  "scalar_exact": -101.80463142398,
+  "checks": [
+    {
+      "n": 1,
+      "steps": 14000,
+      "dt": 0.005,
+      "min_rate": 34.261236532164,
+      "min_time": 70,
+      "min_temp": -101.80481493832,
+      "min_label": 2,
+      "window_rate": 1e+99,
+      "window_time": 0,
+      "window_temp": 0,
+      "cold": -101.80481493832,
+      "hot": -101.80481493832,
+      "transit": 1e+99,
+      "missing": 1,
+      "source_J": 0.010586680955164,
+      "boundary_J": 0,
+      "enthalpy_J": 0.010586632350261,
+      "energy_rel_error": -4.8604902746704e-08,
+      "iron_g": 2.2875e-07,
+      "duty_s": 66.976226456715,
+      "pass": false,
+      "name": "scalar"
+    },
+    {
+      "n": 2,
+      "steps": 14000,
+      "dt": 0.005,
+      "min_rate": 34.261236532164,
+      "min_time": 70,
+      "min_temp": -101.80481493832,
+      "min_label": 2,
+      "window_rate": 1e+99,
+      "window_time": 0,
+      "window_temp": 0,
+      "cold": -101.80481493832,
+      "hot": -101.80481493832,
+      "transit": 1e+99,
+      "missing": 2,
+      "source_J": 0.021173361910327,
+      "boundary_J": 0,
+      "enthalpy_J": 0.021173264700522,
+      "energy_rel_error": -9.7209805493409e-08,
+      "iron_g": 4.575e-07,
+      "duty_s": 66.976226456715,
+      "pass": false,
+      "name": "symmetry"
+    },
+    {
+      "n": 2,
+      "steps": 14000,
+      "dt": 0.005,
+      "min_rate": 0,
+      "min_time": 0,
+      "min_temp": -150,
+      "min_label": 2,
+      "window_rate": 1e+99,
+      "window_time": 0,
+      "window_temp": 0,
+      "cold": -150,
+      "hot": -150,
+      "transit": 1e+99,
+      "missing": 2,
+      "source_J": 0,
+      "boundary_J": 0,
+      "enthalpy_J": 0,
+      "energy_rel_error": 0,
+      "iron_g": 0,
+      "duty_s": 66.976226456715,
+      "pass": false,
+      "name": "zero"
+    }
+  ],
+  "readonly_input_hashes": {
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/report.md": "a0707e051a61d19b09aec90ba8bbef34b1c78bc5bc19c4937b80d98df5f33198",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/preregistration.md": "ffcd44855d01889a59d6467da73d8be458fee85739379345926e4696cea683b4",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/thermal.cpp": "7b5889ed67144f6f8e720cdde97c60666bbd05457ef6a42fbc98d0bbb117e8c7",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/investigate.py": "e862da9021d4be192baf3f7b20c27d62ef4794ff2a0534772754b8f4dc4395bd",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/verify.py": "6241ca907ef71379b7aa717e597377cfb2e923e0d1a112f07cfc51a4fa777d24",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/assay_bound.py": "f1ff5bf81c711cc0823335cfecea9afaa5749dc0a445f450f87c86daa19396ff",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/sources/heart.xml": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/sources/heart_fig1.jpg": "777dde9e3063c8fb4bec90f4c31302a06022aac438b2cc1103cfa9a6b7943211",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/upstream/src/vitrify/geometry.py": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/upstream/src/vitrify/properties.py": "335eb11a069df351d484c748c1c1acf41b28577def690eafbc96732ff04a996b",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/upstream/src/vitrify/thermal.py": "c93c699dd92b4e99a21e29dd615fad5e397bd6d929c0c6f37c256007d8c3c791",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/upstream/coupler/workflow.py": "1d3e134fedabd6be2083a4f56b3fb25d32672fcdcadd95cbfaae1abb217198a5",
+    "/path/to/longevidence-checkout/research/millennium/agents/cryo-robust-astra/upstream/results/grid_convergence_margin.json": "d76d735bb9e5d03cd756c2eef2278a98f587085c868c2f1cbeb66fe191ed6bde"
+  }
+}

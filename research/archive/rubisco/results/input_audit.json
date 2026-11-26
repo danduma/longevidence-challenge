@@ -1,0 +1,189 @@
+{
+  "source_rows": 634,
+  "primary_wild_type_rows": 504,
+  "original_species_keys": 315,
+  "whitespace_normalized_species_keys": 308,
+  "metadata_rows": 214,
+  "metadata_unique_species": 207,
+  "fasta_records": 214,
+  "fasta_unique_headers": 207,
+  "fasta_duplicate_headers": {
+    "Flaveria_angustifolia": 2,
+    "Flaveria_bidentis": 2,
+    "Flaveria_cronquistii": 2,
+    "Flaveria_floridana": 2,
+    "Flaveria_trinervia": 2,
+    "Phaseolus_vulgaris": 2,
+    "Zea_mays": 2
+  },
+  "unique_sequences": 169,
+  "distinct_species_with_identical_sequence_groups": [
+    [
+      "Aegilops_biuncialis",
+      "Aegilops_cylindrica",
+      "Aegilops_triuncialis",
+      "Aegilops_uniaristata",
+      "Triticum_baeoticum"
+    ],
+    [
+      "Aegilops_juvenalis",
+      "Aegilops_vavilovii",
+      "Hordeum_brachyantherum"
+    ],
+    [
+      "Aegilops_speltoides",
+      "Triticum_aestivum"
+    ],
+    [
+      "Allochromatium_vinosum",
+      "Chromatium_vinosum"
+    ],
+    [
+      "Arabidopsis_thaliana",
+      "Arabidopsis_thaliana_cv_Columbia"
+    ],
+    [
+      "Calamagrostis_canescens",
+      "Calamagrostis_nutkaensis"
+    ],
+    [
+      "Flaveria_angustifolia",
+      "Flaveria_pringlei"
+    ],
+    [
+      "Flaveria_anomala",
+      "Flaveria_cronquistii",
+      "Flaveria_floridana",
+      "Flaveria_linearis"
+    ],
+    [
+      "Flaveria_australasica",
+      "Flaveria_bidentis",
+      "Flaveria_kochiana",
+      "Flaveria_trinervia",
+      "Flaveria_vaginata"
+    ],
+    [
+      "Flaveria_ramosissima",
+      "Flaveria_sonorensis"
+    ],
+    [
+      "Glycine_max",
+      "Glycine_max_cv_Wayne"
+    ],
+    [
+      "Limonium_antonii_llorensii",
+      "Limonium_artruchium",
+      "Limonium_biflorum",
+      "Limonium_gibertii",
+      "Limonium_gymnesicum",
+      "Limonium_virgatum"
+    ],
+    [
+      "Limonium_balearicum",
+      "Limonium_barceloi",
+      "Limonium_companyonis",
+      "Limonium_echioides"
+    ],
+    [
+      "Limonium_ejulabilis",
+      "Limonium_grosii",
+      "Limonium_leonardi_llorensii",
+      "Limonium_magallufianum",
+      "Limonium_retusum"
+    ],
+    [
+      "Nicotiana_tabacum",
+      "Nicotiana_tabacum_L_cv_W38",
+      "Nicotiana_tabacum_cv_W38"
+    ],
+    [
+      "Oryza_eichingeri",
+      "Oryza_punctata",
+      "Oryza_punctata_Kotschy"
+    ],
+    [
+      "Saccharum_officinarum",
+      "Sorghum_bicolor"
+    ],
+    [
+      "Synechococcus_6301",
+      "Synechococcus_elongatus_PCC_7942"
+    ]
+  ],
+  "whitespace_aliases": {
+    "Flaveria angustifolia": [
+      "Flaveria angustifolia",
+      "Flaveria angustifolia "
+    ],
+    "Flaveria bidentis": [
+      "Flaveria bidentis",
+      "Flaveria bidentis "
+    ],
+    "Flaveria cronquistii": [
+      "Flaveria cronquistii",
+      "Flaveria cronquistii "
+    ],
+    "Flaveria floridana": [
+      "Flaveria floridana",
+      "Flaveria floridana "
+    ],
+    "Flaveria trinervia": [
+      "Flaveria trinervia",
+      "Flaveria trinervia "
+    ],
+    "Phaseolus vulgaris": [
+      "Phaseolus vulgaris",
+      "Phaseolus vulgaris "
+    ],
+    "Zea mays": [
+      "Zea mays",
+      "Zea mays "
+    ]
+  },
+  "target_coverage": {
+    "vC": {
+      "exact_species_with_labels": 167,
+      "canonical_species_with_labels": 174,
+      "source_exact_species": 249,
+      "source_canonical_species": 243
+    },
+    "S": {
+      "exact_species_with_labels": 170,
+      "canonical_species_with_labels": 176,
+      "source_exact_species": 271,
+      "source_canonical_species": 264
+    },
+    "KC": {
+      "exact_species_with_labels": 184,
+      "canonical_species_with_labels": 190,
+      "source_exact_species": 280,
+      "source_canonical_species": 273
+    },
+    "KO": {
+      "exact_species_with_labels": 157,
+      "canonical_species_with_labels": 165,
+      "source_exact_species": 234,
+      "source_canonical_species": 231
+    },
+    "vO": {
+      "exact_species_with_labels": 40,
+      "canonical_species_with_labels": 40,
+      "source_exact_species": 76,
+      "source_canonical_species": 76
+    },
+    "KRuBP": {
+      "exact_species_with_labels": 20,
+      "canonical_species_with_labels": 28,
+      "source_exact_species": 53,
+      "source_canonical_species": 49
+    }
+  },
+  "compatible_speed_specificity_pairs": 143,
+  "compatible_pairs_at_25C": 139,
+  "caveats": [
+    "Sequence identity is an attribute of this downloaded release; assay-sample sequence identity is unverified.",
+    "RbcL-only equality does not imply equal holoenzymes: small subunits and assay context can differ.",
+    "Compatible metadata is not proof of the paired control assays required by the challenge."
+  ]
+}

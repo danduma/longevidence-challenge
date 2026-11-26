@@ -1,0 +1,6 @@
+{
+  "base_source_sha256": "7b5889ed67144f6f8e720cdde97c60666bbd05457ef6a42fbc98d0bbb117e8c7",
+  "modified_source_sha256": "637aa6c9c8db1b7e8f2b6c4732b403269eb09bbc307d86181623ecd7c0c9d0bf",
+  "scope": "Same numerical equations; temperature-support sensitivity only. Not an independent physics solver.",
+  "checks": "All 16 narrow-window and all 16 all-time outputs match the worker sweep within 1e-9."
+}

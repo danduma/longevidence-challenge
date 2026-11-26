@@ -1,0 +1,11 @@
+branch,target,n_literal,literal_order_match,n_reconstructed,species_order_match,y_true_match
+fixed,S,177,False,183,True,True
+fixed,vC,173,False,181,True,True
+fixed,KC,191,False,197,True,True
+fixed,KO,161,False,169,True,True
+fixed,vO,42,False,38,True,True
+fixed,KRuBP,24,False,34,True,True
+nested_archive,S,177,False,183,True,True
+nested_archive,vC,173,False,181,True,True
+nested_archive,KC,191,False,197,True,True
+nested_archive,KO,161,False,169,True,True

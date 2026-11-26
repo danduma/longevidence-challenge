@@ -1,0 +1,9 @@
+{
+  "observed_at": "2026-11-26T12:41:26.237417+00:00",
+  "files": {
+    "results/reconstruction.json": "421bd4409de75fb967a7c38745afeae784027d82482c39ba857c8940b9675d58",
+    "results/models.csv": "6ecf467e2d0e7bf2823a0a8cf1f3fb33c1409e397ba037eb8b3d3a98cf2b0ad4",
+    "results/biochemical.csv": "360c99739abf0d1e5383adac348cb5cee3f6d0e514c6ad15ecf41edac2734477",
+    "results/transfer.csv": "4d9d8674ea33d7b66232c40cf33a1b032017d0034ba059f859f10fad8a300e34"
+  }
+}

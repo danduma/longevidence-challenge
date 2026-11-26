@@ -1,0 +1,87 @@
+{
+  "source_doi": "10.1038/s41467-025-63483-2",
+  "summary": {
+    "1L": {
+      "replicate_means_C_per_min": [
+        175.6971,
+        174.93821593333334,
+        169.9175
+      ],
+      "mean_C_per_min": 173.5176053111111,
+      "sd_between_3_replicate_means": 3.140787312916622,
+      "minimum_probe_rate_C_per_min": 168.8511,
+      "maximum_probe_rate_C_per_min": 180.5455,
+      "rate_per_Fe_concentration": 16.216598627206647,
+      "delta_T_values_C": [
+        4.1,
+        5.2,
+        5.7,
+        2.5,
+        3.5,
+        6.3
+      ],
+      "delta_T_mean_C": 4.55,
+      "delta_T_max_C": 6.3,
+      "min_rate_divided_by_nominal_M22_CWR_0_4": 422.12775
+    },
+    "2L": {
+      "replicate_means_C_per_min": [
+        89.6,
+        87.62792236666667,
+        86.64333333333333
+      ],
+      "mean_C_per_min": 87.95708523333333,
+      "sd_between_3_replicate_means": 1.5055665342450335,
+      "minimum_probe_rate_C_per_min": 84.29,
+      "maximum_probe_rate_C_per_min": 92.6,
+      "rate_per_Fe_concentration": 19.121105485507247,
+      "delta_T_values_C": [
+        2.4,
+        8.3,
+        5.0,
+        1.9,
+        1.7,
+        2.5
+      ],
+      "delta_T_mean_C": 3.6333333333333333,
+      "delta_T_max_C": 8.3,
+      "min_rate_divided_by_nominal_M22_CWR_0_4": 210.725
+    }
+  },
+  "ratio_2L_to_1L_rate_per_Fe": 1.1791070325578448,
+  "adiabatic_two_region_screen": {
+    "T_start_C": -150,
+    "cold_exit_C": -40,
+    "hot_ceiling_C": 0,
+    "maximum_hot_cold_rate_ratio": 1.3636363636363635,
+    "examples": [
+      {
+        "rate_ratio_hot_over_cold": 1,
+        "hot_temperature_when_cold_reaches_minus40_C": -40,
+        "meets_selected_hot_ceiling": true
+      },
+      {
+        "rate_ratio_hot_over_cold": 1.2,
+        "hot_temperature_when_cold_reaches_minus40_C": -18.0,
+        "meets_selected_hot_ceiling": true
+      },
+      {
+        "rate_ratio_hot_over_cold": 1.36,
+        "hot_temperature_when_cold_reaches_minus40_C": -0.39999999999997726,
+        "meets_selected_hot_ceiling": true
+      },
+      {
+        "rate_ratio_hot_over_cold": 1.5,
+        "hot_temperature_when_cold_reaches_minus40_C": 15.0,
+        "meets_selected_hot_ceiling": false
+      },
+      {
+        "rate_ratio_hot_over_cold": 2,
+        "hot_temperature_when_cold_reaches_minus40_C": 70,
+        "meets_selected_hot_ceiling": false
+      }
+    ],
+    "assumptions": "selected endpoints; negligible conduction; no latent heat; constant local source ratios and heat capacity; common duty schedule"
+  },
+  "warning": "Bulk M22 solution, not organs. Nominal CWR is not a voxel-specific measured threshold. No viability inference."
+}

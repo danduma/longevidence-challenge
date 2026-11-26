@@ -1,0 +1,29 @@
+[
+  {
+    "script": "analysis/cryo_source_audit.py",
+    "exit_code": 0,
+    "elapsed_seconds": 0.06,
+    "before_sha256": "9f39804472abe539907db1401f5302534da71a76be598d8f7898894b8f23aaf5",
+    "after_sha256": "9f39804472abe539907db1401f5302534da71a76be598d8f7898894b8f23aaf5",
+    "identical_output": true,
+    "stderr": ""
+  },
+  {
+    "script": "analysis/quadruplet_audit.py",
+    "exit_code": 0,
+    "elapsed_seconds": 0.48,
+    "before_sha256": "81b54154e8ac39179c29c7e8613a684cda3c2c32e2ba7ea067c37a0c4ee15889",
+    "after_sha256": "81b54154e8ac39179c29c7e8613a684cda3c2c32e2ba7ea067c37a0c4ee15889",
+    "identical_output": true,
+    "stderr": ""
+  },
+  {
+    "script": "analysis/thg1_competition.py",
+    "exit_code": 0,
+    "elapsed_seconds": 2.32,
+    "before_sha256": "747eb0ce324fe40c3f5952471e7ff4fb9ef159edf81930f5995b0090bcf7c7d5",
+    "after_sha256": "747eb0ce324fe40c3f5952471e7ff4fb9ef159edf81930f5995b0090bcf7c7d5",
+    "identical_output": true,
+    "stderr": ""
+  }
+]

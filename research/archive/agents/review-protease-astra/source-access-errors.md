@@ -1,0 +1,1 @@
+The accessible ETH thesis PDF contained the summary and did not expose the full numerical methods in the text retrieved. The distributed absolute-rate table has no unit in its header. No absolute kinetic unit was inferred. All computational input files and cited repository scripts were accessible.

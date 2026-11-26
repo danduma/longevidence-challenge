@@ -1,0 +1,31 @@
+{
+  "scales": "1 (poor) to 5 (strong), half-points allowed; subjective evidence-informed estimates, not success probabilities",
+  "weights": {
+    "primary": [
+      0.35,
+      0.3,
+      0.2,
+      0.15
+    ],
+    "equal": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "data_first": [
+      0.5,
+      0.3,
+      0.1,
+      0.1
+    ],
+    "validation_emphasis": [
+      0.2,
+      0.2,
+      0.15,
+      0.45
+    ]
+  },
+  "tie_break": "validation path, computational tractability, challenge id",
+  "scope": "meaningful public-data computational subproblems, not likelihood of solving whole experimental challenge"
+}

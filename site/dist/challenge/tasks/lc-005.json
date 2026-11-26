@@ -1,0 +1,43 @@
+{
+  "id": "LC-005",
+  "version": "2026-11-25.1",
+  "status": "open",
+  "difficulty": "hard",
+  "title": "Did the first human senolytic trial show senescent cells were cleared?",
+  "question": "The first-in-human senolytic trial gave dasatinib plus quercetin to people with idiopathic pulmonary fibrosis. Identify its design, primary endpoints and their result, which secondary measures changed and which did not, and whether clearance of senescent cells in humans was shown.",
+  "verdict_question": "Did the study establish that senolytics clear senescent cells and improve health in humans?",
+  "verdicts": [
+    "established",
+    "not_established",
+    "unclear"
+  ],
+  "source": {
+    "title": "Senolytics in idiopathic pulmonary fibrosis: Results from a first-in-human, open-label, pilot study",
+    "doi": "10.1016/j.ebiom.2018.12.052",
+    "pmid": "30616998",
+    "pmcid": "PMC6412088",
+    "primary_url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(18)30629-7/fulltext",
+    "alternate_primary_host": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6412088/",
+    "license": "Open access; verify the license before reusing text"
+  },
+  "fields": [
+    "study design and control",
+    "participants and condition",
+    "intervention and duration",
+    "primary endpoints and result",
+    "secondary functional results",
+    "whether senescent-cell clearance was shown in humans",
+    "important limitations"
+  ],
+  "acceptance_criteria": [
+    "Identify the primary endpoints exactly; do not promote secondary results to primary",
+    "Report which measures improved and which were unchanged",
+    "State whether senescent-cell burden was directly measured and what the SASP results showed",
+    "Note the population is a disease cohort, not healthy aging",
+    "Describe the intervention without recommending it; no dosing advice",
+    "Unsupported facts remain unknown",
+    "Output explicitly labeled unreviewed"
+  ],
+  "result_destination": "Submit to https://longevidence.org/challenge/api/submit (see join.txt). Public, marked unreviewed.",
+  "publication_acceptance": "submissions are public drafts; not reviewed or accepted until marked by a reviewer"
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "path": "acquire.py",
+    "bytes": 1395,
+    "sha256": "8f2ce4c6c9454257387faff10abc5516e9d3b2268f4ad05ef8406f7bbb5c4f69"
+  },
+  {
+    "path": "acquire_source_data.py",
+    "bytes": 734,
+    "sha256": "6b384a596eb11a1813be158d31c7f94cb2bf3a9b7f8e6a03449c2655d0157a4d"
+  },
+  {
+    "path": "evaluate.py",
+    "bytes": 9825,
+    "sha256": "538fba5bebc14ae7ce14df74774c6824393bbb29a8fa004488be2e813988f075"
+  },
+  {
+    "path": "exclusions.py",
+    "bytes": 1627,
+    "sha256": "912649050fb265e565fb7076fb102b5608ec189309542fdff95e16c982d9cae0"
+  },
+  {
+    "path": "final_checks.py",
+    "bytes": 2435,
+    "sha256": "53c8059005a49d1b8c0487479572f731b376e9ca18c6781eb43cf22215dba379"
+  },
+  {
+    "path": "impact.py",
+    "bytes": 1758,
+    "sha256": "575c6f8ab52421af9766f33fb94a652ee071400448bbf8703466ff64b13cb79e"
+  },
+  {
+    "path": "manual_parent_sensitivity.py",
+    "bytes": 877,
+    "sha256": "aa537451a491ccc86db38e619e83c7fc0bd977a66ce9e7c89f4b98da63747282"
+  },
+  {
+    "path": "provenance.py",
+    "bytes": 1616,
+    "sha256": "c6c270bf8a4befcbfa3438dd7a4f2ef942fd44e78ddb183f6431c31b4b435ad7"
+  },
+  {
+    "path": "reconstruct.py",
+    "bytes": 10469,
+    "sha256": "e7803653a8f51c7e2f8b76f20470010bc84957054d9471900c4adca83982940d"
+  },
+  {
+    "path": "rounding_audit.py",
+    "bytes": 1654,
+    "sha256": "e7224a9475c4f0b5bde3086efdef618410774cf3cf3bc3ad05276a335443a2fa"
+  },
+  {
+    "path": "test_reconstruct.py",
+    "bytes": 1340,
+    "sha256": "0ab3f1b5ca4d0b4e645233aa8c258b95186ad02a6cc42ae83227a7e2dbb21d4d"
+  },
+  {
+    "path": "uncertainty.py",
+    "bytes": 1488,
+    "sha256": "e96bddc92505b8b5d59798931b895a183f79ac7f27682d879467dda3b46041b4"
+  },
+  {
+    "path": "verify_sources.py",
+    "bytes": 3790,
+    "sha256": "0eae6042e962455120842e09b9ad00100d87dae5c935a8997f22b81b65ed969c"
+  },
+  {
+    "path": "access-failures.md",
+    "bytes": 971,
+    "sha256": "a1583677fbdc003f31710d9bc1a0c83b12da6aa8484aed23bbd786ef574e0eca"
+  },
+  {
+    "path": "prior-art.md",
+    "bytes": 5067,
+    "sha256": "5fd6ba67858e3600fa9339cdc0e5b9be21ba7ada84e84df04da6ac47e11d9e23"
+  },
+  {
+    "path": "prompt.md",
+    "bytes": 3772,
+    "sha256": "e7cb6c3aac38680fc36aed53e9a0cad3ad2c4cb9448cf35907cb13d317bcd05c"
+  },
+  {
+    "path": "protocol.md",
+    "bytes": 6031,
+    "sha256": "c4ce7a03810b333bdfe52a2aa995f2201046fcb4ce73eff40ecf50c593d262cb"
+  },
+  {
+    "path": "refusals.md",
+    "bytes": 44,
+    "sha256": "f4c081c7c2944b70e33a43e1ea56870aae1af6e9564e71a128d8b326056a5d27"
+  },
+  {
+    "path": "report.md",
+    "bytes": 16688,
+    "sha256": "a3f26d13eb45b9713e39ea2af469d20af2127afb1510e7172859bd1a3bd9c85a"
+  },
+  {
+    "path": "run.sh",
+    "bytes": 599,
+    "sha256": "b38da904b5b0e4fc30b5d53150764986b39f7119266b9d87c33de4595a1d7ebd"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 57,
+    "sha256": "8eec1c356b49ea1b162bb5b701d9dd0535925bee169cf3f91127ee0e65245a09"
+  }
+]

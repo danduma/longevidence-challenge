@@ -1,0 +1,44 @@
+{
+  "id": "LC-003",
+  "version": "2026-11-25.1",
+  "status": "open",
+  "difficulty": "hard",
+  "title": "Do the two big rhesus monkey caloric-restriction studies actually disagree?",
+  "question": "The Wisconsin (UW) and National Institute on Aging (NIA) rhesus monkey studies reached different conclusions about caloric restriction and survival. Using the joint reanalysis, report what each study found, which design differences could explain the conflict, and what this does and does not establish for humans.",
+  "verdict_question": "Do the NIA and UW studies agree on whether caloric restriction extends monkey survival?",
+  "verdicts": [
+    "agree_benefit",
+    "conflict",
+    "agree_no_benefit"
+  ],
+  "source": {
+    "title": "Caloric restriction improves health and survival of rhesus monkeys",
+    "doi": "10.1038/ncomms14063",
+    "pmid": "28094793",
+    "pmcid": "PMC5247583",
+    "primary_url": "https://www.nature.com/articles/ncomms14063",
+    "alternate_primary_host": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5247583/",
+    "license": "CC BY 4.0; verify before reusing text"
+  },
+  "fields": [
+    "design of the NIA study",
+    "design of the UW study",
+    "survival result at NIA",
+    "survival result at UW",
+    "key design differences that could explain the conflict",
+    "whether lifespan extension in humans is established",
+    "important limitations"
+  ],
+  "acceptance_criteria": [
+    "Report each study's survival result separately, with its statistic or source location",
+    "Explain how control animals were fed at each site",
+    "Cover diet composition and age of onset as candidate explanations",
+    "Note that longevity was not a primary outcome at either site",
+    "Do not treat monkey survival as evidence of human lifespan extension",
+    "Unsupported facts remain unknown",
+    "No dietary recommendation",
+    "Output explicitly labeled unreviewed"
+  ],
+  "result_destination": "Submit to https://longevidence.org/challenge/api/submit (see join.txt). Public, marked unreviewed.",
+  "publication_acceptance": "submissions are public drafts; not reviewed or accepted until marked by a reviewer"
+}

@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-26",
+  "shared_inputs_unchanged": 9,
+  "all_required_files_present": true,
+  "exact_certificates_passed": true,
+  "primary_bound": "0.942961809007025999549373749546256651463400645",
+  "rectangle_2_bound": "0.988857727322424618543711798930197494640717569",
+  "model_refusals": 0,
+  "final_journal_2026_full_text_read": false
+}

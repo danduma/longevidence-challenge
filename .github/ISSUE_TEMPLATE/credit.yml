@@ -1,0 +1,24 @@
+name: "Correct contributor credit"
+description: "Request an attribution correction without revealing private identities."
+body:
+  - type: textarea
+    id: card
+    attributes:
+      label: "Contribution URL"
+      description: "Link the exact card, issue, commit or result."
+    validations:
+      required: true
+  - type: textarea
+    id: version
+    attributes:
+      label: "Current and requested credit"
+      description: "Use public handles only; anonymity is welcome."
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: "Evidence and consent"
+      description: "Link public authorship evidence; do not share private identities or contact details."
+    validations:
+      required: true

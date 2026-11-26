@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-11-26T12:56:06.686070+00:00",
+  "terminal_cli_jobs": 11,
+  "all_exit_zero": true,
+  "live_cli_jobs": 0,
+  "new_job_model_refusals": 0,
+  "thermal_original_manifest_matches": 9,
+  "independent_core_cases": 4,
+  "rubisco_current_checks": 56,
+  "corrected_protease_pipeline_exit_zero": true,
+  "core_source_manifest_mismatches": 0,
+  "scientific_assessment": "Precise new computational thermal benchmark/counterexample accepted after independent solver/primary-source/history review; empirical triplicate inference and broad conceptual novelty excluded. Bounded search does not prove universal priority.",
+  "manual_review": "Read all independent findings and accepted synthesis; inspected source-unit issue, new prior art, thermal comparisons, original plan requirements, and original challenge scope.",
+  "limitations": "No anatomical, ice, mechanics, toxicity, organ-recovery or whole-animal validation. Conditional numerical pass with small margin and specified boundary/load.",
+  "coordinator_local_markdown_links_valid": true
+}

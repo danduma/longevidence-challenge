@@ -1,0 +1,41 @@
+mode,trait,a,b,connected,edges,path
+condition,S,Galdieria partita Tokara,Griffithsia monilis,True,6.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Nicotiana tabacum"", ""source:Whitney 2001 | pH=8"", ""enzyme:Griffithsia monilis""]"
+condition,S,Galdieria partita Tokara,Zea mays,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Zea mays""]"
+condition,S,Galdieria partita Tokara,Spinacia oleracea,True,2.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea""]"
+condition,S,Galdieria partita Tokara,Nicotiana tabacum,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Nicotiana tabacum""]"
+condition,S,Griffithsia monilis,Zea mays,True,4.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001 | pH=8"", ""enzyme:Nicotiana tabacum"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Zea mays""]"
+condition,S,Griffithsia monilis,Spinacia oleracea,True,4.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001 | pH=8"", ""enzyme:Nicotiana tabacum"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Spinacia oleracea""]"
+condition,S,Griffithsia monilis,Nicotiana tabacum,True,2.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001 | pH=8"", ""enzyme:Nicotiana tabacum""]"
+condition,S,Zea mays,Spinacia oleracea,True,2.0,"[""enzyme:Zea mays"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Spinacia oleracea""]"
+condition,S,Zea mays,Nicotiana tabacum,True,2.0,"[""enzyme:Zea mays"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Nicotiana tabacum""]"
+condition,S,Spinacia oleracea,Nicotiana tabacum,True,2.0,"[""enzyme:Spinacia oleracea"", ""source:Kane 1994 | pH=8.3"", ""enzyme:Nicotiana tabacum""]"
+condition,vC,Galdieria partita Tokara,Griffithsia monilis,False,,[]
+condition,vC,Galdieria partita Tokara,Zea mays,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea"", ""source:Kubien 2008 | pH=8"", ""enzyme:Zea mays""]"
+condition,vC,Galdieria partita Tokara,Spinacia oleracea,True,2.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997 | pH=8"", ""enzyme:Spinacia oleracea""]"
+condition,vC,Galdieria partita Tokara,Nicotiana tabacum,False,,[]
+condition,vC,Griffithsia monilis,Zea mays,False,,[]
+condition,vC,Griffithsia monilis,Spinacia oleracea,False,,[]
+condition,vC,Griffithsia monilis,Nicotiana tabacum,True,2.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001 | pH=8"", ""enzyme:Nicotiana tabacum""]"
+condition,vC,Zea mays,Spinacia oleracea,True,2.0,"[""enzyme:Zea mays"", ""source:Kubien 2008 | pH=8"", ""enzyme:Spinacia oleracea""]"
+condition,vC,Zea mays,Nicotiana tabacum,False,,[]
+condition,vC,Spinacia oleracea,Nicotiana tabacum,False,,[]
+study_only,S,Galdieria partita Tokara,Griffithsia monilis,True,6.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994"", ""enzyme:Nicotiana tabacum"", ""source:Whitney 2001"", ""enzyme:Griffithsia monilis""]"
+study_only,S,Galdieria partita Tokara,Zea mays,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994"", ""enzyme:Zea mays""]"
+study_only,S,Galdieria partita Tokara,Spinacia oleracea,True,2.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea""]"
+study_only,S,Galdieria partita Tokara,Nicotiana tabacum,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea"", ""source:Kane 1994"", ""enzyme:Nicotiana tabacum""]"
+study_only,S,Griffithsia monilis,Zea mays,True,4.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001"", ""enzyme:Nicotiana tabacum"", ""source:Kane 1994"", ""enzyme:Zea mays""]"
+study_only,S,Griffithsia monilis,Spinacia oleracea,True,4.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001"", ""enzyme:Nicotiana tabacum"", ""source:Kane 1994"", ""enzyme:Spinacia oleracea""]"
+study_only,S,Griffithsia monilis,Nicotiana tabacum,True,2.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001"", ""enzyme:Nicotiana tabacum""]"
+study_only,S,Zea mays,Spinacia oleracea,True,2.0,"[""enzyme:Zea mays"", ""source:Kane 1994"", ""enzyme:Spinacia oleracea""]"
+study_only,S,Zea mays,Nicotiana tabacum,True,2.0,"[""enzyme:Zea mays"", ""source:Kane 1994"", ""enzyme:Nicotiana tabacum""]"
+study_only,S,Spinacia oleracea,Nicotiana tabacum,True,2.0,"[""enzyme:Spinacia oleracea"", ""source:Kane 1994"", ""enzyme:Nicotiana tabacum""]"
+study_only,vC,Galdieria partita Tokara,Griffithsia monilis,False,,[]
+study_only,vC,Galdieria partita Tokara,Zea mays,True,4.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea"", ""source:Kubien 2008"", ""enzyme:Zea mays""]"
+study_only,vC,Galdieria partita Tokara,Spinacia oleracea,True,2.0,"[""enzyme:Galdieria partita Tokara"", ""source:Uemura 1997"", ""enzyme:Spinacia oleracea""]"
+study_only,vC,Galdieria partita Tokara,Nicotiana tabacum,False,,[]
+study_only,vC,Griffithsia monilis,Zea mays,False,,[]
+study_only,vC,Griffithsia monilis,Spinacia oleracea,False,,[]
+study_only,vC,Griffithsia monilis,Nicotiana tabacum,True,2.0,"[""enzyme:Griffithsia monilis"", ""source:Whitney 2001"", ""enzyme:Nicotiana tabacum""]"
+study_only,vC,Zea mays,Spinacia oleracea,True,2.0,"[""enzyme:Zea mays"", ""source:Kubien 2008"", ""enzyme:Spinacia oleracea""]"
+study_only,vC,Zea mays,Nicotiana tabacum,False,,[]
+study_only,vC,Spinacia oleracea,Nicotiana tabacum,False,,[]

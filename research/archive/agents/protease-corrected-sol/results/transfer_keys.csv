@@ -1,0 +1,829 @@
+stage,held,TEVs,predictor,observed,selected,high
+raw,(1-13)-mCherry,CNLYFQS,0.0572,0.0611,False,False
+raw,(1-13)-mCherry,DNLYFQS,0.055900000000000005,0.0582,False,False
+raw,(1-13)-mCherry,EALYFQS,0.06075,0.0593,False,False
+raw,(1-13)-mCherry,ECLYFQS,0.0634,0.0593,False,False
+raw,(1-13)-mCherry,EDLYFQS,0.061399999999999996,0.0621,False,False
+raw,(1-13)-mCherry,EELCFQS,0.0595,0.0562,False,False
+raw,(1-13)-mCherry,EELYFQS,0.0611,0.0597,False,False
+raw,(1-13)-mCherry,EFLYFQS,0.0679,0.064,True,False
+raw,(1-13)-mCherry,EGLYFQS,0.06295,0.06,False,False
+raw,(1-13)-mCherry,EHLYFQS,0.06420000000000001,0.0657,False,False
+raw,(1-13)-mCherry,EHLYSQS,0.0629,0.0569,False,False
+raw,(1-13)-mCherry,EILYFQS,0.05995,0.0615,False,False
+raw,(1-13)-mCherry,EKLYFQS,0.06595000000000001,0.0702,False,True
+raw,(1-13)-mCherry,ELLYFQS,0.0873,0.0772,True,True
+raw,(1-13)-mCherry,EMLYFQS,0.06765,0.061,False,False
+raw,(1-13)-mCherry,ENAYFQS,0.0586,0.0594,False,False
+raw,(1-13)-mCherry,ENCYFQS,0.057050000000000003,0.0636,False,False
+raw,(1-13)-mCherry,ENDYFQS,0.09290000000000001,0.0785,True,True
+raw,(1-13)-mCherry,ENEYFQS,0.06335,0.0693,False,True
+raw,(1-13)-mCherry,ENFYFQS,0.050100000000000006,0.0577,False,False
+raw,(1-13)-mCherry,ENGYFQS,0.060700000000000004,0.0633,False,False
+raw,(1-13)-mCherry,ENHYFQS,0.0688,0.0844,True,True
+raw,(1-13)-mCherry,ENIYFQS,0.07289999999999999,0.0624,True,False
+raw,(1-13)-mCherry,ENKYFQS,0.06445000000000001,0.06,False,False
+raw,(1-13)-mCherry,ENLAFQS,0.05785,0.0643,False,False
+raw,(1-13)-mCherry,ENLCFQS,0.06315000000000001,0.0671,False,False
+raw,(1-13)-mCherry,ENLDFQS,0.06565,0.0656,False,False
+raw,(1-13)-mCherry,ENLEFQS,0.058499999999999996,0.0638,False,False
+raw,(1-13)-mCherry,ENLFFQS,0.0712,0.0652,True,False
+raw,(1-13)-mCherry,ENLGFQS,0.06905,0.0669,True,False
+raw,(1-13)-mCherry,ENLHFQS,0.06475,0.064,False,False
+raw,(1-13)-mCherry,ENLIFQS,0.06615,0.0413,False,False
+raw,(1-13)-mCherry,ENLKFQS,0.06920000000000001,0.074,True,True
+raw,(1-13)-mCherry,ENLLFQS,0.061649999999999996,0.0693,False,True
+raw,(1-13)-mCherry,ENLMFQS,0.0596,0.0537,False,False
+raw,(1-13)-mCherry,ENLNFQS,0.06185,0.067,False,False
+raw,(1-13)-mCherry,ENLPFQS,0.058800000000000005,0.067,False,False
+raw,(1-13)-mCherry,ENLQFQS,0.06215,0.0566,False,False
+raw,(1-13)-mCherry,ENLRFQS,0.06475,0.058,False,False
+raw,(1-13)-mCherry,ENLSFQS,0.060649999999999996,0.061,False,False
+raw,(1-13)-mCherry,ENLVFQS,0.0731,0.065,True,False
+raw,(1-13)-mCherry,ENLWFQS,0.0627,0.0645,False,False
+raw,(1-13)-mCherry,ENLYAQS,0.0775,0.0692,True,True
+raw,(1-13)-mCherry,ENLYCQS,0.06434999999999999,0.0628,False,False
+raw,(1-13)-mCherry,ENLYDQS,0.0622,0.0653,False,False
+raw,(1-13)-mCherry,ENLYEQS,0.06420000000000001,0.0612,False,False
+raw,(1-13)-mCherry,ENLYFAS,0.06079999999999999,0.0585,False,False
+raw,(1-13)-mCherry,ENLYFCS,0.0571,0.0635,False,False
+raw,(1-13)-mCherry,ENLYFDS,0.05499999999999999,0.0609,False,False
+raw,(1-13)-mCherry,ENLYFES,0.0599,0.0586,False,False
+raw,(1-13)-mCherry,ENLYFFS,0.05935,0.0684,False,True
+raw,(1-13)-mCherry,ENLYFGS,0.05845,0.0587,False,False
+raw,(1-13)-mCherry,ENLYFHS,0.05365,0.0629,False,False
+raw,(1-13)-mCherry,ENLYFIS,0.0589,0.0599,False,False
+raw,(1-13)-mCherry,ENLYFKS,0.0664,0.0585,False,False
+raw,(1-13)-mCherry,ENLYFLS,0.0619,0.0584,False,False
+raw,(1-13)-mCherry,ENLYFMS,0.05955,0.0634,False,False
+raw,(1-13)-mCherry,ENLYFNS,0.060149999999999995,0.067,False,False
+raw,(1-13)-mCherry,ENLYFPS,0.060149999999999995,0.059,False,False
+raw,(1-13)-mCherry,ENLYFQA,0.06075,0.0594,False,False
+raw,(1-13)-mCherry,ENLYFQC,0.0644,0.0654,False,False
+raw,(1-13)-mCherry,ENLYFQD,0.056400000000000006,0.0599,False,False
+raw,(1-13)-mCherry,ENLYFQE,0.061599999999999995,0.065,False,False
+raw,(1-13)-mCherry,ENLYFQF,0.04445,0.0361,False,False
+raw,(1-13)-mCherry,ENLYFQG,0.0598,0.0618,False,False
+raw,(1-13)-mCherry,ENLYFQH,0.060149999999999995,0.0615,False,False
+raw,(1-13)-mCherry,ENLYFQI,0.0602,0.0546,False,False
+raw,(1-13)-mCherry,ENLYFQK,0.06715,0.0709,False,True
+raw,(1-13)-mCherry,ENLYFQL,0.051699999999999996,0.0454,False,False
+raw,(1-13)-mCherry,ENLYFQM,0.055400000000000005,0.0669,False,False
+raw,(1-13)-mCherry,ENLYFQN,0.0611,0.0586,False,False
+raw,(1-13)-mCherry,ENLYFQP,0.0601,0.0621,False,False
+raw,(1-13)-mCherry,ENLYFQR,0.0596,0.0581,False,False
+raw,(1-13)-mCherry,ENLYFQS,0.06415,0.063,False,False
+raw,(1-13)-mCherry,ENLYFQT,0.063,0.0635,False,False
+raw,(1-13)-mCherry,ENLYFQV,0.0638,0.0518,False,False
+raw,(1-13)-mCherry,ENLYFQW,0.0674,0.0654,False,False
+raw,(1-13)-mCherry,ENLYFQY,0.06265,0.059,False,False
+raw,(1-13)-mCherry,ENLYFRS,0.059899999999999995,0.065,False,False
+raw,(1-13)-mCherry,ENLYFSS,0.05495,0.0578,False,False
+raw,(1-13)-mCherry,ENLYFTS,0.06005,0.066,False,False
+raw,(1-13)-mCherry,ENLYFVS,0.05655,0.037,False,False
+raw,(1-13)-mCherry,ENLYFWS,0.05505,0.0549,False,False
+raw,(1-13)-mCherry,ENLYFYS,0.08415,0.0759,True,True
+raw,(1-13)-mCherry,ENLYGQS,0.06394999999999999,0.0651,False,False
+raw,(1-13)-mCherry,ENLYHQS,0.05545,0.0585,False,False
+raw,(1-13)-mCherry,ENLYIQS,0.058550000000000005,0.0609,False,False
+raw,(1-13)-mCherry,ENLYKQS,0.05885,0.0558,False,False
+raw,(1-13)-mCherry,ENLYLQS,0.06445,0.0534,False,False
+raw,(1-13)-mCherry,ENLYMQS,0.061700000000000005,0.0586,False,False
+raw,(1-13)-mCherry,ENLYNQS,0.06344999999999999,0.0622,False,False
+raw,(1-13)-mCherry,ENLYPQS,0.051949999999999996,0.0621,False,False
+raw,(1-13)-mCherry,ENLYQQS,0.06235,0.0685,False,True
+raw,(1-13)-mCherry,ENLYRQS,0.0658,0.0657,False,False
+raw,(1-13)-mCherry,ENLYSQS,0.05795,0.0597,False,False
+raw,(1-13)-mCherry,ENLYTQS,0.05055,0.0499,False,False
+raw,(1-13)-mCherry,ENLYVQS,0.060300000000000006,0.0547,False,False
+raw,(1-13)-mCherry,ENLYWQS,0.06055,0.062,False,False
+raw,(1-13)-mCherry,ENLYYQS,0.058949999999999995,0.0539,False,False
+raw,(1-13)-mCherry,ENMYFQS,0.06465,0.0616,False,False
+raw,(1-13)-mCherry,ENNYFQS,0.06445000000000001,0.0622,False,False
+raw,(1-13)-mCherry,ENPYFQS,0.0631,0.0636,False,False
+raw,(1-13)-mCherry,ENQYFQS,0.061149999999999996,0.0645,False,False
+raw,(1-13)-mCherry,ENRYFQS,0.0587,0.0673,False,False
+raw,(1-13)-mCherry,ENSYFQS,0.05935,0.061,False,False
+raw,(1-13)-mCherry,ENTYFQS,0.0592,0.06,False,False
+raw,(1-13)-mCherry,ENVYFQS,0.06605,0.0641,False,False
+raw,(1-13)-mCherry,ENWYFQC,0.054599999999999996,0.063,False,False
+raw,(1-13)-mCherry,ENWYFQS,0.1108,0.0749,True,True
+raw,(1-13)-mCherry,ENYYFQS,0.0603,0.0639,False,False
+raw,(1-13)-mCherry,EPLYFQS,0.06505,0.0664,False,False
+raw,(1-13)-mCherry,EQLYFQS,0.0617,0.0592,False,False
+raw,(1-13)-mCherry,ERLYFQS,0.06675,0.0704,False,True
+raw,(1-13)-mCherry,ESLYFQS,0.0653,0.0617,False,False
+raw,(1-13)-mCherry,ETLYFQS,0.06725,0.0516,False,False
+raw,(1-13)-mCherry,EVLYFQS,0.0558,0.0616,False,False
+raw,(1-13)-mCherry,EWLYFQS,0.06484999999999999,0.0523,False,False
+raw,(1-13)-mCherry,EYLYFQS,0.0547,0.0625,False,False
+raw,(1-13)-mCherry,FNLYFQS,0.05785,0.0488,False,False
+raw,(1-13)-mCherry,GNLYFQS,0.061649999999999996,0.0611,False,False
+raw,(1-13)-mCherry,HNLYFQK,0.0685,0.0622,True,False
+raw,(1-13)-mCherry,HNLYFQS,0.0573,0.0595,False,False
+raw,(1-13)-mCherry,INLYFQS,0.058499999999999996,0.0625,False,False
+raw,(1-13)-mCherry,KNLYFQS,0.0853,0.0648,True,False
+raw,(1-13)-mCherry,LNLYFQS,0.06315,0.0619,False,False
+raw,(1-13)-mCherry,LNLYFQT,0.05585,0.0439,False,False
+raw,(1-13)-mCherry,MNLYFQS,0.06165,0.0505,False,False
+raw,(1-13)-mCherry,NNLYFQS,0.05895,0.0618,False,False
+raw,(1-13)-mCherry,PNLYFQS,0.05985,0.0612,False,False
+raw,(1-13)-mCherry,QNLYFQS,0.06565,0.0677,False,False
+raw,(1-13)-mCherry,RNLYFQS,0.0385,0.0649,False,False
+raw,(1-13)-mCherry,RNLYMQS,0.0557,0.0677,False,False
+raw,(1-13)-mCherry,SNLYFHS,0.053849999999999995,0.0556,False,False
+raw,(1-13)-mCherry,SNLYFQS,0.061900000000000004,0.0649,False,False
+raw,(1-13)-mCherry,TNLYFQS,0.05865,0.0594,False,False
+raw,(1-13)-mCherry,VNLYFQS,0.0657,0.0586,False,False
+raw,(1-13)-mCherry,WNLYFQS,0.06015,0.062,False,False
+raw,(1-13)-mCherry,YNLYFQS,0.05605,0.0566,False,False
+raw,I C151A 30*31*,CNLYFQS,0.061149999999999996,0.0532,False,False
+raw,I C151A 30*31*,DNLYFQS,0.0565,0.057,False,False
+raw,I C151A 30*31*,EALYFQS,0.062200000000000005,0.0564,False,False
+raw,I C151A 30*31*,ECLYFQS,0.06104999999999999,0.064,False,False
+raw,I C151A 30*31*,EDLYFQS,0.06475,0.0554,False,False
+raw,I C151A 30*31*,EELCFQS,0.0562,0.0628,False,False
+raw,I C151A 30*31*,EELYFQS,0.0605,0.0609,False,False
+raw,I C151A 30*31*,EFLYFQS,0.06215,0.0755,False,True
+raw,I C151A 30*31*,EGLYFQS,0.06055,0.0648,False,False
+raw,I C151A 30*31*,EHLYFQS,0.06384999999999999,0.0664,False,False
+raw,I C151A 30*31*,EHLYSQS,0.06285,0.057,False,False
+raw,I C151A 30*31*,EILYFQS,0.06155,0.0583,False,False
+raw,I C151A 30*31*,EKLYFQS,0.0678,0.0665,False,False
+raw,I C151A 30*31*,ELLYFQS,0.0743,0.1032,True,True
+raw,I C151A 30*31*,EMLYFQS,0.06155,0.0732,False,True
+raw,I C151A 30*31*,ENAYFQS,0.05925,0.0581,False,False
+raw,I C151A 30*31*,ENCYFQS,0.06105000000000001,0.0556,False,False
+raw,I C151A 30*31*,ENDYFQS,0.0895,0.0853,True,True
+raw,I C151A 30*31*,ENEYFQS,0.0683,0.0594,True,False
+raw,I C151A 30*31*,ENFYFQS,0.05445,0.049,False,False
+raw,I C151A 30*31*,ENGYFQS,0.06465,0.0554,False,False
+raw,I C151A 30*31*,ENHYFQS,0.07339999999999999,0.0752,True,True
+raw,I C151A 30*31*,ENIYFQS,0.0629,0.0824,False,True
+raw,I C151A 30*31*,ENKYFQS,0.06275,0.0634,False,False
+raw,I C151A 30*31*,ENLAFQS,0.0603,0.0594,False,False
+raw,I C151A 30*31*,ENLCFQS,0.06515000000000001,0.0631,False,False
+raw,I C151A 30*31*,ENLDFQS,0.06815,0.0606,False,False
+raw,I C151A 30*31*,ENLEFQS,0.06305,0.0547,False,False
+raw,I C151A 30*31*,ENLFFQS,0.06875,0.0701,True,False
+raw,I C151A 30*31*,ENLGFQS,0.07045,0.0641,True,False
+raw,I C151A 30*31*,ENLHFQS,0.0637,0.0661,False,False
+raw,I C151A 30*31*,ENLIFQS,0.05025,0.0731,False,True
+raw,I C151A 30*31*,ENLKFQS,0.07025,0.0719,True,True
+raw,I C151A 30*31*,ENLLFQS,0.0664,0.0598,False,False
+raw,I C151A 30*31*,ENLMFQS,0.05925,0.0544,False,False
+raw,I C151A 30*31*,ENLNFQS,0.06485,0.061,False,False
+raw,I C151A 30*31*,ENLPFQS,0.06355,0.0575,False,False
+raw,I C151A 30*31*,ENLQFQS,0.06055,0.0598,False,False
+raw,I C151A 30*31*,ENLRFQS,0.0639,0.0597,False,False
+raw,I C151A 30*31*,ENLSFQS,0.06145,0.0594,False,False
+raw,I C151A 30*31*,ENLVFQS,0.0693,0.0726,True,True
+raw,I C151A 30*31*,ENLWFQS,0.0632,0.0635,False,False
+raw,I C151A 30*31*,ENLYAQS,0.0687,0.0868,True,True
+raw,I C151A 30*31*,ENLYCQS,0.06334999999999999,0.0648,False,False
+raw,I C151A 30*31*,ENLYDQS,0.06505,0.0596,False,False
+raw,I C151A 30*31*,ENLYEQS,0.06505,0.0595,False,False
+raw,I C151A 30*31*,ENLYFAS,0.0633,0.0535,False,False
+raw,I C151A 30*31*,ENLYFCS,0.0627,0.0523,False,False
+raw,I C151A 30*31*,ENLYFDS,0.06055,0.0498,False,False
+raw,I C151A 30*31*,ENLYFES,0.05915,0.0601,False,False
+raw,I C151A 30*31*,ENLYFFS,0.0663,0.0545,False,False
+raw,I C151A 30*31*,ENLYFGS,0.05925,0.0571,False,False
+raw,I C151A 30*31*,ENLYFHS,0.058899999999999994,0.0524,False,False
+raw,I C151A 30*31*,ENLYFIS,0.061950000000000005,0.0538,False,False
+raw,I C151A 30*31*,ENLYFKS,0.06345,0.0644,False,False
+raw,I C151A 30*31*,ENLYFLS,0.060399999999999995,0.0614,False,False
+raw,I C151A 30*31*,ENLYFMS,0.0603,0.0619,False,False
+raw,I C151A 30*31*,ENLYFNS,0.06520000000000001,0.0569,False,False
+raw,I C151A 30*31*,ENLYFPS,0.0601,0.0591,False,False
+raw,I C151A 30*31*,ENLYFQA,0.060200000000000004,0.0605,False,False
+raw,I C151A 30*31*,ENLYFQC,0.06335,0.0675,False,False
+raw,I C151A 30*31*,ENLYFQD,0.059550000000000006,0.0536,False,False
+raw,I C151A 30*31*,ENLYFQE,0.0663,0.0556,False,False
+raw,I C151A 30*31*,ENLYFQF,0.0397,0.0456,False,False
+raw,I C151A 30*31*,ENLYFQG,0.06125,0.0589,False,False
+raw,I C151A 30*31*,ENLYFQH,0.061149999999999996,0.0595,False,False
+raw,I C151A 30*31*,ENLYFQI,0.0587,0.0576,False,False
+raw,I C151A 30*31*,ENLYFQK,0.07264999999999999,0.0599,True,False
+raw,I C151A 30*31*,ENLYFQL,0.0475,0.0538,False,False
+raw,I C151A 30*31*,ENLYFQM,0.06425,0.0492,False,False
+raw,I C151A 30*31*,ENLYFQN,0.0605,0.0598,False,False
+raw,I C151A 30*31*,ENLYFQP,0.0636,0.0551,False,False
+raw,I C151A 30*31*,ENLYFQR,0.0592,0.0589,False,False
+raw,I C151A 30*31*,ENLYFQS,0.0629,0.0655,False,False
+raw,I C151A 30*31*,ENLYFQT,0.06625,0.057,False,False
+raw,I C151A 30*31*,ENLYFQV,0.0576,0.0642,False,False
+raw,I C151A 30*31*,ENLYFQW,0.0686,0.063,True,False
+raw,I C151A 30*31*,ENLYFQY,0.0612,0.0619,False,False
+raw,I C151A 30*31*,ENLYFRS,0.063,0.0588,False,False
+raw,I C151A 30*31*,ENLYFSS,0.055749999999999994,0.0562,False,False
+raw,I C151A 30*31*,ENLYFTS,0.06305,0.06,False,False
+raw,I C151A 30*31*,ENLYFVS,0.0487,0.0527,False,False
+raw,I C151A 30*31*,ENLYFWS,0.0571,0.0508,False,False
+raw,I C151A 30*31*,ENLYFYS,0.0786,0.087,True,True
+raw,I C151A 30*31*,ENLYGQS,0.0664,0.0602,False,False
+raw,I C151A 30*31*,ENLYHQS,0.060200000000000004,0.049,False,False
+raw,I C151A 30*31*,ENLYIQS,0.060300000000000006,0.0574,False,False
+raw,I C151A 30*31*,ENLYKQS,0.059500000000000004,0.0545,False,False
+raw,I C151A 30*31*,ENLYLQS,0.0603,0.0617,False,False
+raw,I C151A 30*31*,ENLYMQS,0.06065,0.0607,False,False
+raw,I C151A 30*31*,ENLYNQS,0.06445,0.0602,False,False
+raw,I C151A 30*31*,ENLYPQS,0.058800000000000005,0.0484,False,False
+raw,I C151A 30*31*,ENLYQQS,0.0663,0.0606,False,False
+raw,I C151A 30*31*,ENLYRQS,0.06615,0.065,False,False
+raw,I C151A 30*31*,ENLYSQS,0.05965,0.0563,False,False
+raw,I C151A 30*31*,ENLYTQS,0.049049999999999996,0.0529,False,False
+raw,I C151A 30*31*,ENLYVQS,0.0584,0.0585,False,False
+raw,I C151A 30*31*,ENLYWQS,0.06295,0.0572,False,False
+raw,I C151A 30*31*,ENLYYQS,0.05955,0.0527,False,False
+raw,I C151A 30*31*,ENMYFQS,0.06345,0.064,False,False
+raw,I C151A 30*31*,ENNYFQS,0.0665,0.0581,False,False
+raw,I C151A 30*31*,ENPYFQS,0.06795000000000001,0.0539,False,False
+raw,I C151A 30*31*,ENQYFQS,0.06475,0.0573,False,False
+raw,I C151A 30*31*,ENRYFQS,0.06555,0.0536,False,False
+raw,I C151A 30*31*,ENSYFQS,0.060149999999999995,0.0594,False,False
+raw,I C151A 30*31*,ENTYFQS,0.0612,0.056,False,False
+raw,I C151A 30*31*,ENVYFQS,0.06720000000000001,0.0618,False,False
+raw,I C151A 30*31*,ENWYFQC,0.056999999999999995,0.0582,False,False
+raw,I C151A 30*31*,ENWYFQS,0.0828,0.1309,True,True
+raw,I C151A 30*31*,ENYYFQS,0.0621,0.0603,False,False
+raw,I C151A 30*31*,EPLYFQS,0.0644,0.0677,False,False
+raw,I C151A 30*31*,EQLYFQS,0.06125,0.0601,False,False
+raw,I C151A 30*31*,ERLYFQS,0.06715,0.0696,False,False
+raw,I C151A 30*31*,ESLYFQS,0.0636,0.0651,False,False
+raw,I C151A 30*31*,ETLYFQS,0.059050000000000005,0.068,False,False
+raw,I C151A 30*31*,EVLYFQS,0.06025,0.0527,False,False
+raw,I C151A 30*31*,EWLYFQS,0.0569,0.0682,False,False
+raw,I C151A 30*31*,EYLYFQS,0.0582,0.0555,False,False
+raw,I C151A 30*31*,FNLYFQS,0.05585,0.0528,False,False
+raw,I C151A 30*31*,GNLYFQS,0.0605,0.0634,False,False
+raw,I C151A 30*31*,HNLYFQK,0.06325,0.0727,False,True
+raw,I C151A 30*31*,HNLYFQS,0.058399999999999994,0.0573,False,False
+raw,I C151A 30*31*,INLYFQS,0.06155,0.0564,False,False
+raw,I C151A 30*31*,KNLYFQS,0.06595000000000001,0.1035,False,True
+raw,I C151A 30*31*,LNLYFQS,0.0644,0.0594,False,False
+raw,I C151A 30*31*,LNLYFQT,0.0524,0.0508,False,False
+raw,I C151A 30*31*,MNLYFQS,0.0553,0.0632,False,False
+raw,I C151A 30*31*,NNLYFQS,0.0618,0.0561,False,False
+raw,I C151A 30*31*,PNLYFQS,0.0611,0.0587,False,False
+raw,I C151A 30*31*,QNLYFQS,0.07314999999999999,0.0527,True,False
+raw,I C151A 30*31*,RNLYFQS,0.05165,0.0386,False,False
+raw,I C151A 30*31*,RNLYMQS,0.06185,0.0554,False,False
+raw,I C151A 30*31*,SNLYFHS,0.055749999999999994,0.0518,False,False
+raw,I C151A 30*31*,SNLYFQS,0.06205,0.0646,False,False
+raw,I C151A 30*31*,TNLYFQS,0.058800000000000005,0.0591,False,False
+raw,I C151A 30*31*,VNLYFQS,0.0612,0.0676,False,False
+raw,I C151A 30*31*,WNLYFQS,0.06285,0.0566,False,False
+raw,I C151A 30*31*,YNLYFQS,0.0576,0.0535,False,False
+raw,no TEVp,CNLYFQS,0.05715,0.0612,False,False
+raw,no TEVp,DNLYFQS,0.0576,0.0548,False,False
+raw,no TEVp,EALYFQS,0.05785,0.0651,False,False
+raw,no TEVp,ECLYFQS,0.061649999999999996,0.0628,False,False
+raw,no TEVp,EDLYFQS,0.05875,0.0674,False,False
+raw,no TEVp,EELCFQS,0.0595,0.0562,False,False
+raw,no TEVp,EELYFQS,0.060300000000000006,0.0613,False,False
+raw,no TEVp,EFLYFQS,0.06975,0.0603,True,False
+raw,no TEVp,EGLYFQS,0.0624,0.0611,False,False
+raw,no TEVp,EHLYFQS,0.06605,0.062,False,False
+raw,no TEVp,EHLYSQS,0.05695,0.0688,False,False
+raw,no TEVp,EILYFQS,0.059899999999999995,0.0616,False,False
+raw,no TEVp,EKLYFQS,0.06835,0.0654,True,False
+raw,no TEVp,ELLYFQS,0.0902,0.0714,True,True
+raw,no TEVp,EMLYFQS,0.06709999999999999,0.0621,False,False
+raw,no TEVp,ENAYFQS,0.05875,0.0591,False,False
+raw,no TEVp,ENCYFQS,0.0596,0.0585,False,False
+raw,no TEVp,ENDYFQS,0.0819,0.1005,True,True
+raw,no TEVp,ENEYFQS,0.06435,0.0673,False,False
+raw,no TEVp,ENFYFQS,0.05335,0.0512,False,False
+raw,no TEVp,ENGYFQS,0.05935,0.066,False,False
+raw,no TEVp,ENHYFQS,0.07980000000000001,0.0624,True,False
+raw,no TEVp,ENIYFQS,0.07239999999999999,0.0634,True,False
+raw,no TEVp,ENKYFQS,0.0617,0.0655,False,False
+raw,no TEVp,ENLAFQS,0.06185,0.0563,False,False
+raw,no TEVp,ENLCFQS,0.0651,0.0632,False,False
+raw,no TEVp,ENLDFQS,0.0631,0.0707,False,True
+raw,no TEVp,ENLEFQS,0.05925,0.0623,False,False
+raw,no TEVp,ENLFFQS,0.06764999999999999,0.0723,True,True
+raw,no TEVp,ENLGFQS,0.0655,0.074,False,True
+raw,no TEVp,ENLHFQS,0.06505,0.0634,False,False
+raw,no TEVp,ENLIFQS,0.0572,0.0592,False,False
+raw,no TEVp,ENLKFQS,0.07295,0.0665,True,False
+raw,no TEVp,ENLLFQS,0.06455,0.0635,False,False
+raw,no TEVp,ENLMFQS,0.05405,0.0648,False,False
+raw,no TEVp,ENLNFQS,0.064,0.0627,False,False
+raw,no TEVp,ENLPFQS,0.06225,0.0601,False,False
+raw,no TEVp,ENLQFQS,0.0582,0.0645,False,False
+raw,no TEVp,ENLRFQS,0.05885,0.0698,False,False
+raw,no TEVp,ENLSFQS,0.060200000000000004,0.0619,False,False
+raw,no TEVp,ENLVFQS,0.0688,0.0736,True,True
+raw,no TEVp,ENLWFQS,0.064,0.0619,False,False
+raw,no TEVp,ENLYAQS,0.078,0.0682,True,False
+raw,no TEVp,ENLYCQS,0.0638,0.0639,False,False
+raw,no TEVp,ENLYDQS,0.06245,0.0648,False,False
+raw,no TEVp,ENLYEQS,0.06035,0.0689,False,False
+raw,no TEVp,ENLYFAS,0.056,0.0681,False,False
+raw,no TEVp,ENLYFCS,0.0579,0.0619,False,False
+raw,no TEVp,ENLYFDS,0.055349999999999996,0.0602,False,False
+raw,no TEVp,ENLYFES,0.05935,0.0597,False,False
+raw,no TEVp,ENLYFFS,0.061450000000000005,0.0642,False,False
+raw,no TEVp,ENLYFGS,0.0579,0.0598,False,False
+raw,no TEVp,ENLYFHS,0.05765,0.0549,False,False
+raw,no TEVp,ENLYFIS,0.05685,0.064,False,False
+raw,no TEVp,ENLYFKS,0.061450000000000005,0.0684,False,False
+raw,no TEVp,ENLYFLS,0.0599,0.0624,False,False
+raw,no TEVp,ENLYFMS,0.06265,0.0572,False,False
+raw,no TEVp,ENLYFNS,0.061950000000000005,0.0634,False,False
+raw,no TEVp,ENLYFPS,0.05905,0.0612,False,False
+raw,no TEVp,ENLYFQA,0.05995,0.061,False,False
+raw,no TEVp,ENLYFQC,0.06645000000000001,0.0613,False,False
+raw,no TEVp,ENLYFQD,0.05675,0.0592,False,False
+raw,no TEVp,ENLYFQE,0.0603,0.0676,False,False
+raw,no TEVp,ENLYFQF,0.04085,0.0433,False,False
+raw,no TEVp,ENLYFQG,0.06035,0.0607,False,False
+raw,no TEVp,ENLYFQH,0.0605,0.0608,False,False
+raw,no TEVp,ENLYFQI,0.0561,0.0628,False,False
+raw,no TEVp,ENLYFQK,0.0654,0.0744,False,True
+raw,no TEVp,ENLYFQL,0.049600000000000005,0.0496,False,False
+raw,no TEVp,ENLYFQM,0.058050000000000004,0.0616,False,False
+raw,no TEVp,ENLYFQN,0.0592,0.0624,False,False
+raw,no TEVp,ENLYFQP,0.0586,0.0651,False,False
+raw,no TEVp,ENLYFQR,0.058499999999999996,0.0603,False,False
+raw,no TEVp,ENLYFQS,0.06425,0.0628,False,False
+raw,no TEVp,ENLYFQT,0.06025,0.069,False,False
+raw,no TEVp,ENLYFQV,0.057999999999999996,0.0634,False,False
+raw,no TEVp,ENLYFQW,0.06420000000000001,0.0718,False,True
+raw,no TEVp,ENLYFQY,0.06045,0.0634,False,False
+raw,no TEVp,ENLYFRS,0.0619,0.061,False,False
+raw,no TEVp,ENLYFSS,0.056999999999999995,0.0537,False,False
+raw,no TEVp,ENLYFTS,0.063,0.0601,False,False
+raw,no TEVp,ENLYFVS,0.04485,0.0604,False,False
+raw,no TEVp,ENLYFWS,0.052849999999999994,0.0593,False,False
+raw,no TEVp,ENLYFYS,0.08145,0.0813,True,True
+raw,no TEVp,ENLYGQS,0.06265,0.0677,False,False
+raw,no TEVp,ENLYHQS,0.053750000000000006,0.0619,False,False
+raw,no TEVp,ENLYIQS,0.05915,0.0597,False,False
+raw,no TEVp,ENLYKQS,0.055150000000000005,0.0632,False,False
+raw,no TEVp,ENLYLQS,0.057550000000000004,0.0672,False,False
+raw,no TEVp,ENLYMQS,0.059649999999999995,0.0627,False,False
+raw,no TEVp,ENLYNQS,0.0612,0.0667,False,False
+raw,no TEVp,ENLYPQS,0.05525,0.0555,False,False
+raw,no TEVp,ENLYQQS,0.06455,0.0641,False,False
+raw,no TEVp,ENLYRQS,0.06534999999999999,0.0666,False,False
+raw,no TEVp,ENLYSQS,0.058,0.0596,False,False
+raw,no TEVp,ENLYTQS,0.0514,0.0482,False,False
+raw,no TEVp,ENLYVQS,0.0566,0.0621,False,False
+raw,no TEVp,ENLYWQS,0.0596,0.0639,False,False
+raw,no TEVp,ENLYYQS,0.0533,0.0652,False,False
+raw,no TEVp,ENMYFQS,0.0628,0.0653,False,False
+raw,no TEVp,ENNYFQS,0.060149999999999995,0.0708,False,True
+raw,no TEVp,ENPYFQS,0.058750000000000004,0.0723,False,True
+raw,no TEVp,ENQYFQS,0.060899999999999996,0.065,False,False
+raw,no TEVp,ENRYFQS,0.060450000000000004,0.0638,False,False
+raw,no TEVp,ENSYFQS,0.060200000000000004,0.0593,False,False
+raw,no TEVp,ENTYFQS,0.057999999999999996,0.0624,False,False
+raw,no TEVp,ENVYFQS,0.06295,0.0703,False,True
+raw,no TEVp,ENWYFQC,0.0606,0.051,False,False
+raw,no TEVp,ENWYFQS,0.10289999999999999,0.0907,True,True
+raw,no TEVp,ENYYFQS,0.0621,0.0603,False,False
+raw,no TEVp,EPLYFQS,0.06705,0.0624,False,False
+raw,no TEVp,EQLYFQS,0.05965,0.0633,False,False
+raw,no TEVp,ERLYFQS,0.07,0.0639,True,False
+raw,no TEVp,ESLYFQS,0.0634,0.0655,False,False
+raw,no TEVp,ETLYFQS,0.059800000000000006,0.0665,False,False
+raw,no TEVp,EVLYFQS,0.05715,0.0589,False,False
+raw,no TEVp,EWLYFQS,0.06025,0.0615,False,False
+raw,no TEVp,EYLYFQS,0.059,0.0539,False,False
+raw,no TEVp,FNLYFQS,0.0508,0.0629,False,False
+raw,no TEVp,GNLYFQS,0.06225,0.0599,False,False
+raw,no TEVp,HNLYFQK,0.06745,0.0643,False,False
+raw,no TEVp,HNLYFQS,0.058399999999999994,0.0573,False,False
+raw,no TEVp,INLYFQS,0.05945,0.0606,False,False
+raw,no TEVp,KNLYFQS,0.08415,0.0671,True,False
+raw,no TEVp,LNLYFQS,0.060649999999999996,0.0669,False,False
+raw,no TEVp,LNLYFQT,0.04735,0.0609,False,False
+raw,no TEVp,MNLYFQS,0.056850000000000005,0.0601,False,False
+raw,no TEVp,NNLYFQS,0.05895,0.0618,False,False
+raw,no TEVp,PNLYFQS,0.05995,0.061,False,False
+raw,no TEVp,QNLYFQS,0.0602,0.0786,False,True
+raw,no TEVp,RNLYFQS,0.051750000000000004,0.0384,False,False
+raw,no TEVp,RNLYMQS,0.061549999999999994,0.056,False,False
+raw,no TEVp,SNLYFHS,0.0537,0.0559,False,False
+raw,no TEVp,SNLYFQS,0.06475,0.0592,False,False
+raw,no TEVp,TNLYFQS,0.05925,0.0582,False,False
+raw,no TEVp,VNLYFQS,0.06309999999999999,0.0638,False,False
+raw,no TEVp,WNLYFQS,0.0593,0.0637,False,False
+raw,no TEVp,YNLYFQS,0.05505,0.0586,False,False
+corrected,(1-13)-mCherry,CNLYFQS,0.057300000000000004,0.061,False,False
+corrected,(1-13)-mCherry,DNLYFQS,0.0596,0.0587,False,False
+corrected,(1-13)-mCherry,EALYFQS,0.06075,0.0593,False,False
+corrected,(1-13)-mCherry,ECLYFQS,0.064,0.0591,False,False
+corrected,(1-13)-mCherry,EDLYFQS,0.061399999999999996,0.0622,False,False
+corrected,(1-13)-mCherry,EELCFQS,0.0595,0.0562,False,False
+corrected,(1-13)-mCherry,EELYFQS,0.06305,0.0623,False,False
+corrected,(1-13)-mCherry,EFLYFQS,0.0679,0.0643,True,False
+corrected,(1-13)-mCherry,EGLYFQS,0.063,0.06,False,False
+corrected,(1-13)-mCherry,EHLYFQS,0.0728,0.0717,True,True
+corrected,(1-13)-mCherry,EHLYSQS,0.0629,0.0569,False,False
+corrected,(1-13)-mCherry,EILYFQS,0.05995,0.0614,False,False
+corrected,(1-13)-mCherry,EKLYFQS,0.06635,0.0704,False,True
+corrected,(1-13)-mCherry,ELLYFQS,0.0748,0.0603,True,False
+corrected,(1-13)-mCherry,EMLYFQS,0.06765,0.061,True,False
+corrected,(1-13)-mCherry,ENAYFQS,0.058499999999999996,0.0593,False,False
+corrected,(1-13)-mCherry,ENCYFQS,0.061149999999999996,0.0632,False,False
+corrected,(1-13)-mCherry,ENDYFQS,0.06325,0.0624,False,False
+corrected,(1-13)-mCherry,ENEYFQS,0.06335,0.0693,False,True
+corrected,(1-13)-mCherry,ENFYFQS,0.0608,0.0669,False,False
+corrected,(1-13)-mCherry,ENGYFQS,0.060700000000000004,0.0625,False,False
+corrected,(1-13)-mCherry,ENHYFQS,0.0621,0.0724,False,True
+corrected,(1-13)-mCherry,ENIYFQS,0.0735,0.0624,True,False
+corrected,(1-13)-mCherry,ENKYFQS,0.06434999999999999,0.0603,False,False
+corrected,(1-13)-mCherry,ENLAFQS,0.0579,0.0643,False,False
+corrected,(1-13)-mCherry,ENLCFQS,0.06285,0.066,False,False
+corrected,(1-13)-mCherry,ENLDFQS,0.06645000000000001,0.0658,False,False
+corrected,(1-13)-mCherry,ENLEFQS,0.06,0.0634,False,False
+corrected,(1-13)-mCherry,ENLFFQS,0.06655,0.062,False,False
+corrected,(1-13)-mCherry,ENLGFQS,0.06905,0.0669,True,False
+corrected,(1-13)-mCherry,ENLHFQS,0.06470000000000001,0.0642,False,False
+corrected,(1-13)-mCherry,ENLIFQS,0.06875,0.0579,True,False
+corrected,(1-13)-mCherry,ENLKFQS,0.06905,0.0741,True,True
+corrected,(1-13)-mCherry,ENLLFQS,0.061649999999999996,0.0693,False,True
+corrected,(1-13)-mCherry,ENLMFQS,0.06795000000000001,0.066,True,False
+corrected,(1-13)-mCherry,ENLNFQS,0.0634,0.067,False,False
+corrected,(1-13)-mCherry,ENLPFQS,0.0586,0.067,False,False
+corrected,(1-13)-mCherry,ENLQFQS,0.062,0.0566,False,False
+corrected,(1-13)-mCherry,ENLRFQS,0.06475,0.058,False,False
+corrected,(1-13)-mCherry,ENLSFQS,0.060649999999999996,0.0611,False,False
+corrected,(1-13)-mCherry,ENLVFQS,0.0731,0.065,True,False
+corrected,(1-13)-mCherry,ENLWFQS,0.062200000000000005,0.065,False,False
+corrected,(1-13)-mCherry,ENLYAQS,0.0638,0.0655,False,False
+corrected,(1-13)-mCherry,ENLYCQS,0.06434999999999999,0.0631,False,False
+corrected,(1-13)-mCherry,ENLYDQS,0.06225,0.0636,False,False
+corrected,(1-13)-mCherry,ENLYEQS,0.06415,0.0612,False,False
+corrected,(1-13)-mCherry,ENLYFAS,0.0611,0.0578,False,False
+corrected,(1-13)-mCherry,ENLYFCS,0.05685,0.0635,False,False
+corrected,(1-13)-mCherry,ENLYFDS,0.054400000000000004,0.0614,False,False
+corrected,(1-13)-mCherry,ENLYFES,0.0599,0.0579,False,False
+corrected,(1-13)-mCherry,ENLYFFS,0.0669,0.0719,True,True
+corrected,(1-13)-mCherry,ENLYFGS,0.06470000000000001,0.0604,False,False
+corrected,(1-13)-mCherry,ENLYFHS,0.0539,0.063,False,False
+corrected,(1-13)-mCherry,ENLYFIS,0.0589,0.0599,False,False
+corrected,(1-13)-mCherry,ENLYFKS,0.0663,0.0585,False,False
+corrected,(1-13)-mCherry,ENLYFLS,0.0619,0.0593,False,False
+corrected,(1-13)-mCherry,ENLYFMS,0.06305,0.0631,False,False
+corrected,(1-13)-mCherry,ENLYFNS,0.060200000000000004,0.067,False,False
+corrected,(1-13)-mCherry,ENLYFPS,0.0619,0.0602,False,False
+corrected,(1-13)-mCherry,ENLYFQA,0.060950000000000004,0.0595,False,False
+corrected,(1-13)-mCherry,ENLYFQC,0.0639,0.0654,False,False
+corrected,(1-13)-mCherry,ENLYFQD,0.06285,0.0599,False,False
+corrected,(1-13)-mCherry,ENLYFQE,0.06135,0.065,False,False
+corrected,(1-13)-mCherry,ENLYFQF,0.05935,0.0423,False,False
+corrected,(1-13)-mCherry,ENLYFQG,0.0597,0.0608,False,False
+corrected,(1-13)-mCherry,ENLYFQH,0.060200000000000004,0.0615,False,False
+corrected,(1-13)-mCherry,ENLYFQI,0.060050000000000006,0.0546,False,False
+corrected,(1-13)-mCherry,ENLYFQK,0.061900000000000004,0.0679,False,True
+corrected,(1-13)-mCherry,ENLYFQL,0.054849999999999996,0.0566,False,False
+corrected,(1-13)-mCherry,ENLYFQM,0.055400000000000005,0.0673,False,False
+corrected,(1-13)-mCherry,ENLYFQN,0.062200000000000005,0.0614,False,False
+corrected,(1-13)-mCherry,ENLYFQP,0.059899999999999995,0.0621,False,False
+corrected,(1-13)-mCherry,ENLYFQR,0.0596,0.0574,False,False
+corrected,(1-13)-mCherry,ENLYFQS,0.06415,0.063,False,False
+corrected,(1-13)-mCherry,ENLYFQT,0.06225,0.0634,False,False
+corrected,(1-13)-mCherry,ENLYFQV,0.06395,0.0519,False,False
+corrected,(1-13)-mCherry,ENLYFQW,0.057800000000000004,0.0621,False,False
+corrected,(1-13)-mCherry,ENLYFQY,0.06265,0.0578,False,False
+corrected,(1-13)-mCherry,ENLYFRS,0.06025,0.0645,False,False
+corrected,(1-13)-mCherry,ENLYFSS,0.0589,0.0603,False,False
+corrected,(1-13)-mCherry,ENLYFTS,0.0598,0.0665,False,False
+corrected,(1-13)-mCherry,ENLYFVS,0.05655,0.0371,False,False
+corrected,(1-13)-mCherry,ENLYFWS,0.0554,0.0553,False,False
+corrected,(1-13)-mCherry,ENLYFYS,0.05985,0.0624,False,False
+corrected,(1-13)-mCherry,ENLYGQS,0.06384999999999999,0.0651,False,False
+corrected,(1-13)-mCherry,ENLYHQS,0.061149999999999996,0.061,False,False
+corrected,(1-13)-mCherry,ENLYIQS,0.05885,0.0615,False,False
+corrected,(1-13)-mCherry,ENLYKQS,0.05895,0.0552,False,False
+corrected,(1-13)-mCherry,ENLYLQS,0.0644,0.0535,False,False
+corrected,(1-13)-mCherry,ENLYMQS,0.0611,0.0586,False,False
+corrected,(1-13)-mCherry,ENLYNQS,0.0634,0.0622,False,False
+corrected,(1-13)-mCherry,ENLYPQS,0.06455,0.0634,False,False
+corrected,(1-13)-mCherry,ENLYQQS,0.0623,0.0689,False,True
+corrected,(1-13)-mCherry,ENLYRQS,0.0658,0.0656,False,False
+corrected,(1-13)-mCherry,ENLYSQS,0.0577,0.0597,False,False
+corrected,(1-13)-mCherry,ENLYTQS,0.060700000000000004,0.0708,False,True
+corrected,(1-13)-mCherry,ENLYVQS,0.060300000000000006,0.0547,False,False
+corrected,(1-13)-mCherry,ENLYWQS,0.0605,0.0618,False,False
+corrected,(1-13)-mCherry,ENLYYQS,0.06415,0.0616,False,False
+corrected,(1-13)-mCherry,ENMYFQS,0.0645,0.0626,False,False
+corrected,(1-13)-mCherry,ENNYFQS,0.06465,0.0621,False,False
+corrected,(1-13)-mCherry,ENPYFQS,0.0631,0.0636,False,False
+corrected,(1-13)-mCherry,ENQYFQS,0.06135,0.0659,False,False
+corrected,(1-13)-mCherry,ENRYFQS,0.0587,0.0673,False,False
+corrected,(1-13)-mCherry,ENSYFQS,0.06470000000000001,0.0624,False,False
+corrected,(1-13)-mCherry,ENTYFQS,0.0591,0.06,False,False
+corrected,(1-13)-mCherry,ENVYFQS,0.0659,0.0632,False,False
+corrected,(1-13)-mCherry,ENWYFQC,0.054599999999999996,0.063,False,False
+corrected,(1-13)-mCherry,ENWYFQS,0.0559,0.0464,False,False
+corrected,(1-13)-mCherry,ENYYFQS,0.0603,0.0639,False,False
+corrected,(1-13)-mCherry,EPLYFQS,0.06505,0.0659,False,False
+corrected,(1-13)-mCherry,EQLYFQS,0.06185,0.0592,False,False
+corrected,(1-13)-mCherry,ERLYFQS,0.0667,0.0704,False,True
+corrected,(1-13)-mCherry,ESLYFQS,0.0654,0.0617,False,False
+corrected,(1-13)-mCherry,ETLYFQS,0.0673,0.0516,True,False
+corrected,(1-13)-mCherry,EVLYFQS,0.06355,0.0653,False,False
+corrected,(1-13)-mCherry,EWLYFQS,0.06484999999999999,0.0517,False,False
+corrected,(1-13)-mCherry,EYLYFQS,0.0545,0.0625,False,False
+corrected,(1-13)-mCherry,FNLYFQS,0.059800000000000006,0.0548,False,False
+corrected,(1-13)-mCherry,GNLYFQS,0.0616,0.0609,False,False
+corrected,(1-13)-mCherry,HNLYFQK,0.0685,0.0622,True,False
+corrected,(1-13)-mCherry,HNLYFQS,0.057249999999999995,0.0595,False,False
+corrected,(1-13)-mCherry,INLYFQS,0.05925,0.0628,False,False
+corrected,(1-13)-mCherry,KNLYFQS,0.0853,0.0649,True,False
+corrected,(1-13)-mCherry,LNLYFQS,0.06315,0.0612,False,False
+corrected,(1-13)-mCherry,LNLYFQT,0.05585,0.0439,False,False
+corrected,(1-13)-mCherry,MNLYFQS,0.0615,0.0505,False,False
+corrected,(1-13)-mCherry,NNLYFQS,0.05895,0.0618,False,False
+corrected,(1-13)-mCherry,PNLYFQS,0.06135,0.0641,False,False
+corrected,(1-13)-mCherry,QNLYFQS,0.06565,0.0678,False,True
+corrected,(1-13)-mCherry,RNLYFQS,0.05785,0.0655,False,False
+corrected,(1-13)-mCherry,RNLYMQS,0.0557,0.0677,False,True
+corrected,(1-13)-mCherry,SNLYFHS,0.0539,0.0555,False,False
+corrected,(1-13)-mCherry,SNLYFQS,0.0641,0.0696,False,True
+corrected,(1-13)-mCherry,TNLYFQS,0.05885,0.0598,False,False
+corrected,(1-13)-mCherry,VNLYFQS,0.06565,0.0586,False,False
+corrected,(1-13)-mCherry,WNLYFQS,0.05995,0.061,False,False
+corrected,(1-13)-mCherry,YNLYFQS,0.0619,0.0569,False,False
+corrected,I C151A 30*31*,CNLYFQS,0.0611,0.0534,False,False
+corrected,I C151A 30*31*,DNLYFQS,0.05715,0.0636,False,False
+corrected,I C151A 30*31*,EALYFQS,0.062200000000000005,0.0564,False,False
+corrected,I C151A 30*31*,ECLYFQS,0.0613,0.0645,False,False
+corrected,I C151A 30*31*,EDLYFQS,0.0648,0.0554,False,False
+corrected,I C151A 30*31*,EELCFQS,0.0562,0.0628,False,False
+corrected,I C151A 30*31*,EELYFQS,0.060950000000000004,0.0665,False,False
+corrected,I C151A 30*31*,EFLYFQS,0.062299999999999994,0.0755,False,True
+corrected,I C151A 30*31*,EGLYFQS,0.0606,0.0648,False,False
+corrected,I C151A 30*31*,EHLYFQS,0.0687,0.0799,True,True
+corrected,I C151A 30*31*,EHLYSQS,0.06285,0.057,False,False
+corrected,I C151A 30*31*,EILYFQS,0.0615,0.0583,False,False
+corrected,I C151A 30*31*,EKLYFQS,0.068,0.0671,True,False
+corrected,I C151A 30*31*,ELLYFQS,0.06235,0.0852,False,True
+corrected,I C151A 30*31*,EMLYFQS,0.06155,0.0732,False,True
+corrected,I C151A 30*31*,ENAYFQS,0.0592,0.0579,False,False
+corrected,I C151A 30*31*,ENCYFQS,0.06325,0.059,False,False
+corrected,I C151A 30*31*,ENDYFQS,0.06534999999999999,0.0582,False,False
+corrected,I C151A 30*31*,ENEYFQS,0.0683,0.0594,True,False
+corrected,I C151A 30*31*,ENFYFQS,0.0641,0.0603,False,False
+corrected,I C151A 30*31*,ENGYFQS,0.06425,0.0554,False,False
+corrected,I C151A 30*31*,ENHYFQS,0.06715,0.0623,True,False
+corrected,I C151A 30*31*,ENIYFQS,0.06284999999999999,0.0837,False,True
+corrected,I C151A 30*31*,ENKYFQS,0.0628,0.0634,False,False
+corrected,I C151A 30*31*,ENLAFQS,0.0603,0.0595,False,False
+corrected,I C151A 30*31*,ENLCFQS,0.0643,0.0631,False,False
+corrected,I C151A 30*31*,ENLDFQS,0.06855,0.0616,True,False
+corrected,I C151A 30*31*,ENLEFQS,0.06345,0.0565,False,False
+corrected,I C151A 30*31*,ENLFFQS,0.0663,0.0625,False,False
+corrected,I C151A 30*31*,ENLGFQS,0.07045,0.0641,True,False
+corrected,I C151A 30*31*,ENLHFQS,0.06375,0.0661,False,False
+corrected,I C151A 30*31*,ENLIFQS,0.060899999999999996,0.0736,False,True
+corrected,I C151A 30*31*,ENLKFQS,0.0702,0.0718,True,True
+corrected,I C151A 30*31*,ENLLFQS,0.0664,0.0598,False,False
+corrected,I C151A 30*31*,ENLMFQS,0.06695000000000001,0.068,True,True
+corrected,I C151A 30*31*,ENLNFQS,0.06615,0.0615,False,False
+corrected,I C151A 30*31*,ENLPFQS,0.0634,0.0574,False,False
+corrected,I C151A 30*31*,ENLQFQS,0.0605,0.0596,False,False
+corrected,I C151A 30*31*,ENLRFQS,0.0639,0.0597,False,False
+corrected,I C151A 30*31*,ENLSFQS,0.0615,0.0594,False,False
+corrected,I C151A 30*31*,ENLVFQS,0.0693,0.0726,True,True
+corrected,I C151A 30*31*,ENLWFQS,0.06315,0.0631,False,False
+corrected,I C151A 30*31*,ENLYAQS,0.0638,0.0655,False,False
+corrected,I C151A 30*31*,ENLYCQS,0.0635,0.0648,False,False
+corrected,I C151A 30*31*,ENLYDQS,0.06420000000000001,0.0597,False,False
+corrected,I C151A 30*31*,ENLYEQS,0.06505,0.0594,False,False
+corrected,I C151A 30*31*,ENLYFAS,0.0633,0.0534,False,False
+corrected,I C151A 30*31*,ENLYFCS,0.0627,0.0518,False,False
+corrected,I C151A 30*31*,ENLYFDS,0.06015,0.0499,False,False
+corrected,I C151A 30*31*,ENLYFES,0.058800000000000005,0.0601,False,False
+corrected,I C151A 30*31*,ENLYFFS,0.0713,0.0631,True,False
+corrected,I C151A 30*31*,ENLYFGS,0.06335,0.0631,False,False
+corrected,I C151A 30*31*,ENLYFHS,0.05925,0.0523,False,False
+corrected,I C151A 30*31*,ENLYFIS,0.061950000000000005,0.0538,False,False
+corrected,I C151A 30*31*,ENLYFKS,0.06345,0.0642,False,False
+corrected,I C151A 30*31*,ENLYFLS,0.06085,0.0614,False,False
+corrected,I C151A 30*31*,ENLYFMS,0.062200000000000005,0.0648,False,False
+corrected,I C151A 30*31*,ENLYFNS,0.06525,0.0569,False,False
+corrected,I C151A 30*31*,ENLYFPS,0.06244999999999999,0.0591,False,False
+corrected,I C151A 30*31*,ENLYFQA,0.06025,0.0609,False,False
+corrected,I C151A 30*31*,ENLYFQC,0.06335,0.0665,False,False
+corrected,I C151A 30*31*,ENLYFQD,0.06225,0.0611,False,False
+corrected,I C151A 30*31*,ENLYFQE,0.0663,0.0551,False,False
+corrected,I C151A 30*31*,ENLYFQF,0.0504,0.0602,False,False
+corrected,I C151A 30*31*,ENLYFQG,0.0608,0.0586,False,False
+corrected,I C151A 30*31*,ENLYFQH,0.061200000000000004,0.0595,False,False
+corrected,I C151A 30*31*,ENLYFQI,0.05865000000000001,0.0574,False,False
+corrected,I C151A 30*31*,ENLYFQK,0.06675,0.0582,True,False
+corrected,I C151A 30*31*,ENLYFQL,0.0548,0.0567,False,False
+corrected,I C151A 30*31*,ENLYFQM,0.06445000000000001,0.0492,False,False
+corrected,I C151A 30*31*,ENLYFQN,0.0625,0.0608,False,False
+corrected,I C151A 30*31*,ENLYFQP,0.0634,0.0551,False,False
+corrected,I C151A 30*31*,ENLYFQR,0.05885,0.0589,False,False
+corrected,I C151A 30*31*,ENLYFQS,0.0629,0.0655,False,False
+corrected,I C151A 30*31*,ENLYFQT,0.0658,0.0563,False,False
+corrected,I C151A 30*31*,ENLYFQV,0.057800000000000004,0.0642,False,False
+corrected,I C151A 30*31*,ENLYFQW,0.060450000000000004,0.0568,False,False
+corrected,I C151A 30*31*,ENLYFQY,0.060450000000000004,0.0622,False,False
+corrected,I C151A 30*31*,ENLYFRS,0.0628,0.0594,False,False
+corrected,I C151A 30*31*,ENLYFSS,0.05885,0.0604,False,False
+corrected,I C151A 30*31*,ENLYFTS,0.06315,0.0598,False,False
+corrected,I C151A 30*31*,ENLYFVS,0.04875,0.0527,False,False
+corrected,I C151A 30*31*,ENLYFWS,0.0579,0.0503,False,False
+corrected,I C151A 30*31*,ENLYFYS,0.06145,0.0592,False,False
+corrected,I C151A 30*31*,ENLYGQS,0.06634999999999999,0.0601,False,False
+corrected,I C151A 30*31*,ENLYHQS,0.0625,0.0583,False,False
+corrected,I C151A 30*31*,ENLYIQS,0.06085,0.0575,False,False
+corrected,I C151A 30*31*,ENLYKQS,0.0592,0.0547,False,False
+corrected,I C151A 30*31*,ENLYLQS,0.06035,0.0616,False,False
+corrected,I C151A 30*31*,ENLYMQS,0.0607,0.0594,False,False
+corrected,I C151A 30*31*,ENLYNQS,0.06445,0.0601,False,False
+corrected,I C151A 30*31*,ENLYPQS,0.0658,0.0609,False,False
+corrected,I C151A 30*31*,ENLYQQS,0.0665,0.0605,False,False
+corrected,I C151A 30*31*,ENLYRQS,0.0661,0.065,False,False
+corrected,I C151A 30*31*,ENLYSQS,0.05965,0.0558,False,False
+corrected,I C151A 30*31*,ENLYTQS,0.06455,0.0631,False,False
+corrected,I C151A 30*31*,ENLYVQS,0.0584,0.0585,False,False
+corrected,I C151A 30*31*,ENLYWQS,0.0628,0.0572,False,False
+corrected,I C151A 30*31*,ENLYYQS,0.06584999999999999,0.0582,False,False
+corrected,I C151A 30*31*,ENMYFQS,0.06395,0.0637,False,False
+corrected,I C151A 30*31*,ENNYFQS,0.06645000000000001,0.0585,False,False
+corrected,I C151A 30*31*,ENPYFQS,0.06765,0.0545,True,False
+corrected,I C151A 30*31*,ENQYFQS,0.0659,0.0568,False,False
+corrected,I C151A 30*31*,ENRYFQS,0.06555,0.0536,False,False
+corrected,I C151A 30*31*,ENSYFQS,0.06345,0.0649,False,False
+corrected,I C151A 30*31*,ENTYFQS,0.06125,0.0557,False,False
+corrected,I C151A 30*31*,ENVYFQS,0.06675,0.0615,True,False
+corrected,I C151A 30*31*,ENWYFQC,0.056999999999999995,0.0582,False,False
+corrected,I C151A 30*31*,ENWYFQS,0.05465,0.0489,False,False
+corrected,I C151A 30*31*,ENYYFQS,0.0621,0.0603,False,False
+corrected,I C151A 30*31*,EPLYFQS,0.06415,0.0677,False,False
+corrected,I C151A 30*31*,EQLYFQS,0.0613,0.0603,False,False
+corrected,I C151A 30*31*,ERLYFQS,0.06709999999999999,0.0696,True,True
+corrected,I C151A 30*31*,ESLYFQS,0.06369999999999999,0.0651,False,False
+corrected,I C151A 30*31*,ETLYFQS,0.0591,0.068,False,True
+corrected,I C151A 30*31*,EVLYFQS,0.06255,0.0673,False,False
+corrected,I C151A 30*31*,EWLYFQS,0.0566,0.0682,False,True
+corrected,I C151A 30*31*,EYLYFQS,0.057999999999999996,0.0555,False,False
+corrected,I C151A 30*31*,FNLYFQS,0.05965,0.0551,False,False
+corrected,I C151A 30*31*,GNLYFQS,0.06035,0.0634,False,False
+corrected,I C151A 30*31*,HNLYFQK,0.06325,0.0727,False,True
+corrected,I C151A 30*31*,HNLYFQS,0.058399999999999994,0.0572,False,False
+corrected,I C151A 30*31*,INLYFQS,0.0621,0.0571,False,False
+corrected,I C151A 30*31*,KNLYFQS,0.066,0.1035,False,True
+corrected,I C151A 30*31*,LNLYFQS,0.06405,0.0594,False,False
+corrected,I C151A 30*31*,LNLYFQT,0.0524,0.0508,False,False
+corrected,I C151A 30*31*,MNLYFQS,0.055150000000000005,0.0632,False,False
+corrected,I C151A 30*31*,NNLYFQS,0.0618,0.0561,False,False
+corrected,I C151A 30*31*,PNLYFQS,0.06405,0.0587,False,False
+corrected,I C151A 30*31*,QNLYFQS,0.0732,0.0527,True,False
+corrected,I C151A 30*31*,RNLYFQS,0.061649999999999996,0.0579,False,False
+corrected,I C151A 30*31*,RNLYMQS,0.06185,0.0554,False,False
+corrected,I C151A 30*31*,SNLYFHS,0.0557,0.0519,False,False
+corrected,I C151A 30*31*,SNLYFQS,0.06634999999999999,0.0651,False,False
+corrected,I C151A 30*31*,TNLYFQS,0.05895,0.0596,False,False
+corrected,I C151A 30*31*,VNLYFQS,0.06115,0.0676,False,False
+corrected,I C151A 30*31*,WNLYFQS,0.0625,0.0559,False,False
+corrected,I C151A 30*31*,YNLYFQS,0.060649999999999996,0.0594,False,False
+corrected,no TEVp,CNLYFQS,0.0572,0.0612,False,False
+corrected,no TEVp,DNLYFQS,0.06115,0.0556,False,False
+corrected,no TEVp,EALYFQS,0.05785,0.0651,False,False
+corrected,no TEVp,ECLYFQS,0.0618,0.0635,False,False
+corrected,no TEVp,EDLYFQS,0.0588,0.0674,False,False
+corrected,no TEVp,EELCFQS,0.0595,0.0562,False,False
+corrected,no TEVp,EELYFQS,0.0644,0.0596,False,False
+corrected,no TEVp,EFLYFQS,0.06989999999999999,0.0603,True,False
+corrected,no TEVp,EGLYFQS,0.0624,0.0612,False,False
+corrected,no TEVp,EHLYFQS,0.0758,0.0657,True,False
+corrected,no TEVp,EHLYSQS,0.05695,0.0688,False,True
+corrected,no TEVp,EILYFQS,0.05985,0.0616,False,False
+corrected,no TEVp,EKLYFQS,0.06875,0.0656,True,False
+corrected,no TEVp,ELLYFQS,0.07275,0.0644,True,False
+corrected,no TEVp,EMLYFQS,0.06709999999999999,0.0621,True,False
+corrected,no TEVp,ENAYFQS,0.0586,0.0591,False,False
+corrected,no TEVp,ENCYFQS,0.0611,0.0633,False,False
+corrected,no TEVp,ENDYFQS,0.0603,0.0683,False,False
+corrected,no TEVp,ENEYFQS,0.06435,0.0673,False,False
+corrected,no TEVp,ENFYFQS,0.0636,0.0613,False,False
+corrected,no TEVp,ENGYFQS,0.05895,0.066,False,False
+corrected,no TEVp,ENHYFQS,0.06735000000000001,0.0619,True,False
+corrected,no TEVp,ENIYFQS,0.07305,0.0633,True,False
+corrected,no TEVp,ENKYFQS,0.06185,0.0653,False,False
+corrected,no TEVp,ENLAFQS,0.0619,0.0563,False,False
+corrected,no TEVp,ENLCFQS,0.06455,0.0626,False,False
+corrected,no TEVp,ENLDFQS,0.0637,0.0713,False,True
+corrected,no TEVp,ENLEFQS,0.05995,0.0635,False,False
+corrected,no TEVp,ENLFFQS,0.06225,0.0706,False,True
+corrected,no TEVp,ENLGFQS,0.0655,0.074,False,True
+corrected,no TEVp,ENLHFQS,0.06515,0.0633,False,False
+corrected,no TEVp,ENLIFQS,0.06575,0.0639,False,False
+corrected,no TEVp,ENLKFQS,0.07295,0.0663,True,False
+corrected,no TEVp,ENLLFQS,0.06455,0.0635,False,False
+corrected,no TEVp,ENLMFQS,0.067,0.0679,False,False
+corrected,no TEVp,ENLNFQS,0.06425,0.0653,False,False
+corrected,no TEVp,ENLPFQS,0.062200000000000005,0.0598,False,False
+corrected,no TEVp,ENLQFQS,0.0581,0.0644,False,False
+corrected,no TEVp,ENLRFQS,0.05885,0.0698,False,True
+corrected,no TEVp,ENLSFQS,0.06025,0.0619,False,False
+corrected,no TEVp,ENLVFQS,0.0688,0.0736,True,True
+corrected,no TEVp,ENLWFQS,0.06405,0.0613,False,False
+corrected,no TEVp,ENLYAQS,0.0655,0.0621,False,False
+corrected,no TEVp,ENLYCQS,0.06395,0.0639,False,False
+corrected,no TEVp,ENLYDQS,0.06165,0.0648,False,False
+corrected,no TEVp,ENLYEQS,0.0603,0.0689,False,True
+corrected,no TEVp,ENLYFAS,0.0556,0.0688,False,True
+corrected,no TEVp,ENLYFCS,0.05765,0.0619,False,False
+corrected,no TEVp,ENLYFDS,0.055650000000000005,0.0589,False,False
+corrected,no TEVp,ENLYFES,0.059,0.0597,False,False
+corrected,no TEVp,ENLYFFS,0.0675,0.0707,True,True
+corrected,no TEVp,ENLYFGS,0.06175,0.0663,False,False
+corrected,no TEVp,ENLYFHS,0.05765,0.0555,False,False
+corrected,no TEVp,ENLYFIS,0.05685,0.064,False,False
+corrected,no TEVp,ENLYFKS,0.06135,0.0684,False,False
+corrected,no TEVp,ENLYFLS,0.06035,0.0624,False,False
+corrected,no TEVp,ENLYFMS,0.06395,0.0613,False,False
+corrected,no TEVp,ENLYFNS,0.061950000000000005,0.0635,False,False
+corrected,no TEVp,ENLYFPS,0.059649999999999995,0.0647,False,False
+corrected,no TEVp,ENLYFQA,0.060200000000000004,0.061,False,False
+corrected,no TEVp,ENLYFQC,0.06595000000000001,0.0613,False,False
+corrected,no TEVp,ENLYFQD,0.0605,0.0646,False,False
+corrected,no TEVp,ENLYFQE,0.060050000000000006,0.0676,False,False
+corrected,no TEVp,ENLYFQF,0.05125,0.0585,False,False
+corrected,no TEVp,ENLYFQG,0.0597,0.0608,False,False
+corrected,no TEVp,ENLYFQH,0.0605,0.0609,False,False
+corrected,no TEVp,ENLYFQI,0.056,0.0627,False,False
+corrected,no TEVp,ENLYFQK,0.06305,0.0656,False,False
+corrected,no TEVp,ENLYFQL,0.05665,0.053,False,False
+corrected,no TEVp,ENLYFQM,0.058249999999999996,0.0616,False,False
+corrected,no TEVp,ENLYFQN,0.0611,0.0636,False,False
+corrected,no TEVp,ENLYFQP,0.0586,0.0647,False,False
+corrected,no TEVp,ENLYFQR,0.05815,0.0603,False,False
+corrected,no TEVp,ENLYFQS,0.06425,0.0628,False,False
+corrected,no TEVp,ENLYFQT,0.05985,0.0682,False,False
+corrected,no TEVp,ENLYFQV,0.05805,0.0637,False,False
+corrected,no TEVp,ENLYFQW,0.05945,0.0588,False,False
+corrected,no TEVp,ENLYFQY,0.06,0.0631,False,False
+corrected,no TEVp,ENLYFRS,0.061950000000000005,0.0611,False,False
+corrected,no TEVp,ENLYFSS,0.06035,0.0574,False,False
+corrected,no TEVp,ENLYFTS,0.06315,0.0598,False,False
+corrected,no TEVp,ENLYFVS,0.044899999999999995,0.0604,False,False
+corrected,no TEVp,ENLYFWS,0.0528,0.0605,False,False
+corrected,no TEVp,ENLYFYS,0.0608,0.0605,False,False
+corrected,no TEVp,ENLYGQS,0.0626,0.0676,False,False
+corrected,no TEVp,ENLYHQS,0.059649999999999995,0.064,False,False
+corrected,no TEVp,ENLYIQS,0.0595,0.0602,False,False
+corrected,no TEVp,ENLYKQS,0.05495,0.0632,False,False
+corrected,no TEVp,ENLYLQS,0.057550000000000004,0.0672,False,False
+corrected,no TEVp,ENLYMQS,0.059,0.0628,False,False
+corrected,no TEVp,ENLYNQS,0.061149999999999996,0.0667,False,False
+corrected,no TEVp,ENLYPQS,0.06215,0.0682,False,False
+corrected,no TEVp,ENLYQQS,0.06470000000000001,0.0641,False,False
+corrected,no TEVp,ENLYRQS,0.0653,0.0666,False,False
+corrected,no TEVp,ENLYSQS,0.05775,0.0596,False,False
+corrected,no TEVp,ENLYTQS,0.06695000000000001,0.0583,False,False
+corrected,no TEVp,ENLYVQS,0.0566,0.0621,False,False
+corrected,no TEVp,ENLYWQS,0.0595,0.0638,False,False
+corrected,no TEVp,ENLYYQS,0.0599,0.0701,False,True
+corrected,no TEVp,ENMYFQS,0.06315000000000001,0.0653,False,False
+corrected,no TEVp,ENNYFQS,0.060300000000000006,0.0708,False,True
+corrected,no TEVp,ENPYFQS,0.059050000000000005,0.0717,False,True
+corrected,no TEVp,ENQYFQS,0.06135,0.0659,False,False
+corrected,no TEVp,ENRYFQS,0.060450000000000004,0.0638,False,False
+corrected,no TEVp,ENSYFQS,0.06365,0.0645,False,False
+corrected,no TEVp,ENTYFQS,0.05785,0.0625,False,False
+corrected,no TEVp,ENVYFQS,0.06235,0.0703,False,True
+corrected,no TEVp,ENWYFQC,0.0606,0.051,False,False
+corrected,no TEVp,ENWYFQS,0.04765,0.0629,False,False
+corrected,no TEVp,ENYYFQS,0.0621,0.0603,False,False
+corrected,no TEVp,EPLYFQS,0.0668,0.0624,False,False
+corrected,no TEVp,EQLYFQS,0.05975,0.0634,False,False
+corrected,no TEVp,ERLYFQS,0.07,0.0638,True,False
+corrected,no TEVp,ESLYFQS,0.0634,0.0657,False,False
+corrected,no TEVp,ETLYFQS,0.059800000000000006,0.0666,False,False
+corrected,no TEVp,EVLYFQS,0.0663,0.0598,False,False
+corrected,no TEVp,EWLYFQS,0.05995,0.0615,False,False
+corrected,no TEVp,EYLYFQS,0.059,0.0535,False,False
+corrected,no TEVp,FNLYFQS,0.05495,0.0645,False,False
+corrected,no TEVp,GNLYFQS,0.06215,0.0598,False,False
+corrected,no TEVp,HNLYFQK,0.06745,0.0643,True,False
+corrected,no TEVp,HNLYFQS,0.05835,0.0573,False,False
+corrected,no TEVp,INLYFQS,0.059949999999999996,0.0614,False,False
+corrected,no TEVp,KNLYFQS,0.0842,0.0671,True,False
+corrected,no TEVp,LNLYFQS,0.0603,0.0669,False,False
+corrected,no TEVp,LNLYFQT,0.04735,0.0609,False,False
+corrected,no TEVp,MNLYFQS,0.056850000000000005,0.0598,False,False
+corrected,no TEVp,NNLYFQS,0.05895,0.0618,False,False
+corrected,no TEVp,PNLYFQS,0.0614,0.064,False,False
+corrected,no TEVp,QNLYFQS,0.06025,0.0786,False,True
+corrected,no TEVp,RNLYFQS,0.061700000000000005,0.0578,False,False
+corrected,no TEVp,RNLYMQS,0.061549999999999994,0.056,False,False
+corrected,no TEVp,SNLYFHS,0.0537,0.0559,False,False
+corrected,no TEVp,SNLYFQS,0.06735,0.0631,True,False
+corrected,no TEVp,TNLYFQS,0.0597,0.0581,False,False
+corrected,no TEVp,VNLYFQS,0.06309999999999999,0.0637,False,False
+corrected,no TEVp,WNLYFQS,0.05845,0.064,False,False
+corrected,no TEVp,YNLYFQS,0.05815,0.0644,False,False

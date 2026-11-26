@@ -1,0 +1,139 @@
+{
+  "input_rows": 634,
+  "curation_use_true": 580,
+  "primary_wild_formI_25C_rows": 459,
+  "same_original_row_pairs": 130,
+  "source_species_pairs": 226,
+  "source_count": 27,
+  "species_count": 198,
+  "species_median_naive": {
+    "n": 198,
+    "pearson_log_r": -0.5338688167316359,
+    "pearson_p_naive": 5.540239251406538e-16,
+    "spearman_rho": -0.3271245499311295,
+    "log_slope": -0.3045756617349374
+  },
+  "source_paired_naive": {
+    "n": 226,
+    "pearson_log_r": -0.5561099384063543,
+    "pearson_p_naive": 9.55733909652276e-20,
+    "spearman_rho": -0.3516066260359004,
+    "log_slope": -0.3265781513601259
+  },
+  "strict_same_row_naive": {
+    "n": 130,
+    "pearson_log_r": -0.6583219327839567,
+    "pearson_p_naive": 1.7182422667851298e-17,
+    "spearman_rho": -0.5734766684808353,
+    "log_slope": -0.43512211319845984
+  },
+  "within_study_log_slope": -0.3065166527163057,
+  "within_study_cluster_bootstrap_2_5_50_97_5": [
+    -0.5896204563661217,
+    -0.3159207055863832,
+    -0.12216574009632432
+  ],
+  "within_taxonomy_log_slope": -0.05007275903344034,
+  "study_plus_taxonomy_log_slope": -0.035974474829785684,
+  "same_pH8_to8_5_only": {
+    "n": 216,
+    "pearson_log_r": -0.539646823472794,
+    "pearson_p_naive": 1.0096325003526885e-17,
+    "spearman_rho": -0.3556191336850939,
+    "log_slope": -0.3161455977548811
+  },
+  "frontier_source_pairs": 14,
+  "frontier_source_studies": 8,
+  "frontier_species": [
+    "Galdieria partita Tokara",
+    "Griffithsia monilis",
+    "Phaeodactylum tricornutum (CS-29)",
+    "Phaeodactylum tricornutum",
+    "Poa palustris",
+    "Chenopodium murale",
+    "Festuca gigantea",
+    "Puccinellia maritima",
+    "Arctagrostis latifolia",
+    "Eragrostis tef",
+    "Cyanobium PCC7001",
+    "Synechococcus 6301",
+    "Synechococcus 6301",
+    "Synechococcus elongatus PCC 7942"
+  ],
+  "reported_SD_pairs": 178,
+  "uncertainty_bounds_sensitivity": [
+    {
+      "relative_error_bound": 0,
+      "not_certainly_dominated_source_pairs": 14
+    },
+    {
+      "relative_error_bound": 0.05,
+      "not_certainly_dominated_source_pairs": 81
+    },
+    {
+      "relative_error_bound": 0.1,
+      "not_certainly_dominated_source_pairs": 145
+    },
+    {
+      "relative_error_bound": 0.2,
+      "not_certainly_dominated_source_pairs": 215
+    }
+  ],
+  "leave_one_study_slope_range": [
+    -0.44206619503746414,
+    -0.22518552770960332
+  ],
+  "historical_diagnostic_thresholds": {
+    "specificity_G_partita": 238.1,
+    "kcat_Z_mays": 4.05,
+    "qualifying_pairs": 0,
+    "max_specificity_above_maize_turnover": 111.5,
+    "max_turnover_above_G_partita_specificity": 1.6
+  },
+  "recent2025": {
+    "rows_in_supplementary_data3": 469,
+    "rows_with_numeric_rates": 261,
+    "rows_flagged_below_0_5": 26,
+    "new_to_this_study": 180,
+    "columns": [
+      "identifier",
+      "internal_id",
+      "species",
+      "prok_euk",
+      "form",
+      "large_subunit",
+      "small_subunit",
+      "new_to_this_study",
+      "rate_lab_corrected",
+      "stdev",
+      "N",
+      "active<0.5s-1"
+    ],
+    "max_corrected_rate_30C_including_reconstructed_ancestor": 33.00276918404816,
+    "max_natural_corrected_rate_30C": 28.53142626233841,
+    "ancestral_reconstruction_rows": 2,
+    "rate_correction_factor_median": 2.1292109150998813,
+    "specificity_column_present": false
+  },
+  "caveats": [
+    "No phylogenetic independence assumed; study-block correction is not phylogenetic correction.",
+    "No harmonized 2026 dataset merged here.",
+    "Original workbook and public CSV have small numeric differences; original workbook used throughout.",
+    "Source-paired means study pairing, not simultaneous matched-control or same preparation assays.",
+    "SD perturbation fractions are model sensitivities, not posterior probabilities of true Pareto optimality."
+  ],
+  "primary_2026_cyanobacteria": {
+    "source_doi": "10.1093/plphys/kiag259",
+    "n_strains": 5,
+    "temp_C": 25,
+    "errors_are": "standard errors",
+    "pearson_log_r": 0.684204659312039,
+    "pearson_p_exploratory": 0.20263613815414752,
+    "spearman_rho": 0.7999999999999999,
+    "spearman_p_exploratory": 0.10408803866182788,
+    "historical_rectangle_qualifiers": 0,
+    "max_S": 74.6,
+    "max_vC": 11.8,
+    "note": "Separate same-study cohort; not pooled into 2019 data; small n and clade sampling prevent a global tradeoff conclusion."
+  }
+}

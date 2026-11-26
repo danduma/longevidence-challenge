@@ -1,0 +1,141 @@
+{
+  "source_doi": "10.1261/rna.078686.121",
+  "equal_pool_correct_probabilities": {
+    "A": 0.043649061545176775,
+    "C": 0.9999287050833277,
+    "G": 0.1548467017652524,
+    "U": 0.053019824804057175
+  },
+  "equal_pool_template_C_probability_is_lower_bound": true,
+  "censored_row_sensitivity": [
+    {
+      "assumed_C_G_efficiency": 10,
+      "rho": 0.07718080035262555,
+      "rho_bounds": [
+        0.07718080034925312,
+        0.07718080035849223
+      ],
+      "optimal_worst_correct_probability": 0.9283492610271556,
+      "pool_fractions": {
+        "A": 0.2294233622383441,
+        "C": 0.4033210261866564,
+        "G": 0.00026750171170901454,
+        "U": 0.3669881098632905
+      },
+      "correct_probabilities": {
+        "A": 0.928349261028088,
+        "C": 0.9283492610300621,
+        "G": 0.9283492610220996,
+        "U": 0.928349261028373
+      },
+      "iterations": 307
+    },
+    {
+      "assumed_C_G_efficiency": 100,
+      "rho": 0.06253235974097526,
+      "rho_bounds": [
+        0.0625323597343293,
+        0.06253235974415139
+      ],
+      "optimal_worst_correct_probability": 0.9411478067771796,
+      "pool_fractions": {
+        "A": 0.2103442051467004,
+        "C": 0.43984965986231284,
+        "G": 3.1215100803047704e-05,
+        "U": 0.34977491989018367
+      },
+      "correct_probabilities": {
+        "A": 0.9411478067755858,
+        "C": 0.9411478067830663,
+        "G": 0.9411478067743663,
+        "U": 0.9411478067756998
+      },
+      "iterations": 421
+    },
+    {
+      "assumed_C_G_efficiency": 10000.0,
+      "rho": 0.060509431114917966,
+      "rho_bounds": [
+        0.06050943110754258,
+        0.06050943111738661
+      ],
+      "optimal_worst_correct_probability": 0.9429430523297618,
+      "pool_fractions": {
+        "A": 0.20734620025540487,
+        "C": 0.4456805731562696,
+        "G": 3.196230444734606e-07,
+        "U": 0.34697290696528116
+      },
+      "correct_probabilities": {
+        "A": 0.9429430523275798,
+        "C": 0.9429430523363195,
+        "G": 0.9429430523275668,
+        "U": 0.942943052327581
+      },
+      "iterations": 519
+    },
+    {
+      "assumed_C_G_efficiency": 100000000.0,
+      "rho": 0.06048833837770375,
+      "rho_bounds": [
+        0.060488338370279914,
+        0.06048833838017845
+      ],
+      "optimal_worst_correct_probability": 0.9429618071328945,
+      "pool_fractions": {
+        "A": 0.2073144098428732,
+        "C": 0.44574254189644696,
+        "G": 3.197030041660532e-11,
+        "U": 0.3469430482287095
+      },
+      "correct_probabilities": {
+        "A": 0.9429618071306941,
+        "C": 0.9429618071394956,
+        "G": 0.942961807130694,
+        "U": 0.9429618071306941
+      },
+      "iterations": 676
+    }
+  ],
+  "two_cycle_rho_lower_bound": 0.02362141008688418,
+  "two_cycle_probability_upper_bound": 0.9769236850127244,
+  "censoring_independent_three_ntp_upper_bound": {
+    "incoming_ntps": "ACU",
+    "matrix": [
+      [
+        0.0,
+        0.004782608695652175,
+        0.03
+      ],
+      [
+        0.11666666666666667,
+        0.0,
+        0.008
+      ],
+      [
+        0.08363636363636365,
+        0.008181818181818182,
+        0.0
+      ]
+    ],
+    "rho": 0.0604883362717627,
+    "rho_bounds": [
+      0.06048833626857215,
+      0.06048833627808858
+    ],
+    "optimal_worst_correct_probability_upper_bound": 0.9429618090054487
+  },
+  "requirements_for_99_percent_pairwise_correctness": {
+    "A_over_C_min_for_template_U": 0.47347826086956524,
+    "C_over_A_min_for_template_G": 11.55
+  },
+  "product_of_incompatible_ratio_requirements": 5.468673913043479,
+  "parameter_perturbation_not_confidence_interval": {
+    "n": 2000,
+    "seed": 20261126,
+    "p025": 0.8936982954809767,
+    "median": 0.9258977496733151,
+    "p975": 0.9480018701295428
+  },
+  "warning": "Conditional capture model on tRNA single-addition data; no processivity or biological validation."
+}

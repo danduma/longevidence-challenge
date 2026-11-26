@@ -1,0 +1,39 @@
+{
+  "primary": {
+    "top_three_cutoff_score": 4.25,
+    "at_or_above_third_place": [
+      4,
+      2,
+      8
+    ],
+    "tie_spanning_third_place": false
+  },
+  "equal": {
+    "top_three_cutoff_score": 4.25,
+    "at_or_above_third_place": [
+      4,
+      8,
+      2
+    ],
+    "tie_spanning_third_place": false
+  },
+  "data_emphasis": {
+    "top_three_cutoff_score": 4.3,
+    "at_or_above_third_place": [
+      4,
+      8,
+      2,
+      6
+    ],
+    "tie_spanning_third_place": true
+  },
+  "validation_emphasis": {
+    "top_three_cutoff_score": 3.9,
+    "at_or_above_third_place": [
+      4,
+      8,
+      2
+    ],
+    "tie_spanning_third_place": false
+  }
+}

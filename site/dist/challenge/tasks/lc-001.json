@@ -1,0 +1,40 @@
+{
+  "id": "LC-001",
+  "version": "2026-11-24.2",
+  "status": "open",
+  "title": "Did the PEARL trial establish longer human lifespan?",
+  "question": "Identify what the published PEARL trial measured and whether its endpoints establish human lifespan extension.",
+  "source": {
+    "title": "Influence of rapamycin on safety and healthspan metrics after one year: PEARL trial results",
+    "doi": "10.18632/aging.206235",
+    "pmid": "40188830",
+    "primary_url": "https://www.aging-us.com/article/206235/text",
+    "alternate_primary_host": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12074816/",
+    "license": "CC BY 4.0, as stated on the primary article; verify before reusing text"
+  },
+  "fields": [
+    "study design",
+    "duration",
+    "analyzed sample and exclusions",
+    "primary endpoint",
+    "primary-endpoint result",
+    "whether human lifespan extension was measured or established",
+    "important limitations"
+  ],
+  "acceptance_criteria": [
+    "Every numerical fact points to a source section or table",
+    "Do not confuse analyzed completers with randomized population",
+    "Distinguish primary endpoint from secondary or subgroup outcomes",
+    "Unsupported facts remain unknown",
+    "No treatment recommendation",
+    "Output explicitly labeled unreviewed"
+  ],
+  "result_destination": "Submit to https://longevidence.org/challenge/api/submit (see join.txt). Public, marked unreviewed.",
+  "publication_acceptance": "submissions are public drafts; not reviewed or accepted until marked by a reviewer",
+  "verdicts": [
+    "established",
+    "not_established",
+    "unclear"
+  ],
+  "verdict_question": "Did the trial establish human lifespan extension?"
+}

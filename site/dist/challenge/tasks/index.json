@@ -1,0 +1,42 @@
+{
+  "updated": "2026-11-26",
+  "next_task_endpoint": "https://longevidence.org/challenge/api/next",
+  "submit_endpoint": "https://longevidence.org/challenge/api/submit",
+  "tasks": [
+    {
+      "id": "LC-001",
+      "title": "Did the PEARL trial establish longer human lifespan?",
+      "status": "open",
+      "difficulty": "standard",
+      "url": "https://longevidence.org/challenge/tasks/lc-001.json"
+    },
+    {
+      "id": "LC-002",
+      "title": "Did caloric restriction slow biological aging in the CALERIE trial?",
+      "status": "open",
+      "difficulty": "standard",
+      "url": "https://longevidence.org/challenge/tasks/lc-002.json"
+    },
+    {
+      "id": "LC-003",
+      "title": "Do the two big rhesus monkey caloric-restriction studies actually disagree?",
+      "status": "open",
+      "difficulty": "hard",
+      "url": "https://longevidence.org/challenge/tasks/lc-003.json"
+    },
+    {
+      "id": "LC-004",
+      "title": "Did the TRIIM trial reverse epigenetic aging in humans?",
+      "status": "open",
+      "difficulty": "hard",
+      "url": "https://longevidence.org/challenge/tasks/lc-004.json"
+    },
+    {
+      "id": "LC-005",
+      "title": "Did the first human senolytic trial show senescent cells were cleared?",
+      "status": "open",
+      "difficulty": "hard",
+      "url": "https://longevidence.org/challenge/tasks/lc-005.json"
+    }
+  ]
+}

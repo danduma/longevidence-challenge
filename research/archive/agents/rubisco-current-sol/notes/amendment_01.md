@@ -1,0 +1,9 @@
+# Amendment / post hoc sensitivity record — 2026-11-26
+
+The frozen v1 historical graph/rectangle scores have now been seen. They remain unchanged as the predeclared diagnostic. Primary reading shows that a paper-labeled node can contain reused measurements: Whitney 2001 Figure 1 imports the tobacco comparator from Whitney 1999; kiag259 imports C. thermalis and PCC6301 kinetics from Aguiló-Nicolau 2023. A label-only source graph is therefore not a verified experimental-control graph.
+
+Before scoring the modern combined graph or provenance-corrected anchor identifiability, add endpoint-specific origin fields, keep imported data out of the new-assay node, and treat the historical numerical anchors as unverified where primary full text is unavailable. Table 1's wheat control has no reported cultivar; there is no spinach kinetic control in the kiag259 methods/table inspected.
+
+Additional sensitivity checks are explicitly post hoc: remove compiled notes containing 'suspect'; retain only single-member graph edges; retain pairs with numerically known and equal compiled pH; restrict native-expression edges; and inspect graph bridges. These examine fragility and cannot replace the original output. No threshold is altered and no inferential significance criterion is introduced. Conventional gas specificity, active-site normalized kcat and temperature remain distinct endpoints/cohorts.
+
+The final metadata scan also flags five mutation-bearing species strings despite `mutant=False`: four Synechococcus Read1992a S-only rows and one M. burtonii K332E S/vC row. The frozen flag-based graph remains unchanged. The release ledger adds an explicit identity-warning field, and the frontier table marks the single paired conflict ineligible for WT use. This is a post hoc curation gate, not a novelty claim or a favorable-score selection. The frontier table is a descriptive, within-origin/condition audit; it adds no new inferential test.

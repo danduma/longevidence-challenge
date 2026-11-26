@@ -1,0 +1,550 @@
+{
+  "repository": {
+    "url": "https://api.github.com/repos/Marc-Dvci/Vitrify",
+    "retrieved_at": "2026-11-26T12:40:19.082593+00:00",
+    "data": {
+      "id": 1329106128,
+      "node_id": "R_kgDOTziM0A",
+      "name": "Vitrify",
+      "full_name": "Marc-Dvci/Vitrify",
+      "private": false,
+      "owner": {
+        "login": "Marc-Dvci",
+        "id": 262450552,
+        "node_id": "U_kgDOD6SteA",
+        "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Marc-Dvci",
+        "html_url": "https://github.com/Marc-Dvci",
+        "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+        "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+        "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+        "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+        "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/Marc-Dvci/Vitrify",
+      "description": "End-to-end inverse design of organ nanowarming across JAX and FEniCSx.",
+      "fork": false,
+      "url": "https://api.github.com/repos/Marc-Dvci/Vitrify",
+      "forks_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/forks",
+      "keys_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/teams",
+      "hooks_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/hooks",
+      "issue_events_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/events",
+      "assignees_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/tags",
+      "blobs_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/languages",
+      "stargazers_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/stargazers",
+      "contributors_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/contributors",
+      "subscribers_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/subscribers",
+      "subscription_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/subscription",
+      "commits_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/merges",
+      "archive_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/downloads",
+      "issues_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/labels{/name}",
+      "releases_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/deployments",
+      "created_at": "2026-08-09T18:56:19Z",
+      "updated_at": "2026-09-06T09:41:08Z",
+      "pushed_at": "2026-08-10T08:29:53Z",
+      "git_url": "git://github.com/Marc-Dvci/Vitrify.git",
+      "ssh_url": "git@github.com:Marc-Dvci/Vitrify.git",
+      "clone_url": "https://github.com/Marc-Dvci/Vitrify.git",
+      "svn_url": "https://github.com/Marc-Dvci/Vitrify",
+      "homepage": "https://youtu.be/Nqu64OvAIhg",
+      "size": 6281,
+      "stargazers_count": 1,
+      "watchers_count": 1,
+      "language": "Python",
+      "has_issues": true,
+      "has_projects": true,
+      "has_downloads": false,
+      "has_wiki": true,
+      "has_pages": false,
+      "has_discussions": false,
+      "forks_count": 0,
+      "mirror_url": null,
+      "archived": false,
+      "disabled": false,
+      "open_issues_count": 0,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "allow_forking": true,
+      "is_template": false,
+      "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
+      "topics": [
+        "automatic-differentiation",
+        "cryopreservation",
+        "differentiable-programming",
+        "fenics",
+        "inverse-design",
+        "jax",
+        "multiphysics",
+        "scientific-computing",
+        "simulation",
+        "tesseract"
+      ],
+      "visibility": "public",
+      "forks": 0,
+      "open_issues": 0,
+      "watchers": 1,
+      "default_branch": "main",
+      "temp_clone_token": null,
+      "network_count": 0,
+      "subscribers_count": 0
+    }
+  },
+  "latest": {
+    "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits?per_page=5",
+    "retrieved_at": "2026-11-26T12:40:19.590404+00:00",
+    "data": [
+      {
+        "sha": "1d498ee5c583e0112a762e60892d576ec2e27f57",
+        "node_id": "C_kwDOTziM0NoAKDFkNDk4ZWU1YzU4M2UwMTEyYTc2MmU2MDg5MmQ1NzZlYzJlMjdmNTc",
+        "commit": {
+          "author": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:29:51Z"
+          },
+          "committer": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:29:51Z"
+          },
+          "message": "Badges, and a copyright holder in the licence appendix",
+          "tree": {
+            "sha": "5b71d32e8442fb109260524fa51e464445f8685f",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees/5b71d32e8442fb109260524fa51e464445f8685f"
+          },
+          "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits/1d498ee5c583e0112a762e60892d576ec2e27f57",
+          "comment_count": 0,
+          "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+          }
+        },
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/1d498ee5c583e0112a762e60892d576ec2e27f57",
+        "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/1d498ee5c583e0112a762e60892d576ec2e27f57",
+        "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/1d498ee5c583e0112a762e60892d576ec2e27f57/comments",
+        "author": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "committer": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "parents": [
+          {
+            "sha": "ee5b658d801fae7cba046d8db2ae38a010cf167f",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/ee5b658d801fae7cba046d8db2ae38a010cf167f",
+            "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/ee5b658d801fae7cba046d8db2ae38a010cf167f"
+          }
+        ]
+      },
+      {
+        "sha": "ee5b658d801fae7cba046d8db2ae38a010cf167f",
+        "node_id": "C_kwDOTziM0NoAKGVlNWI2NThkODAxZmFlN2NiYTA0NmQ4ZGIyYWUzOGEwMTBjZjE2N2Y",
+        "commit": {
+          "author": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:28:28Z"
+          },
+          "committer": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:28:28Z"
+          },
+          "message": "Publish the film, and measure the gradient-mode timings properly\n\nThe demo film is linked from the top of the README.\n\nThe per-Jacobian timings were a median of two repeats, and they moved by tens\nof percent between runs - enough to change a quoted speed-up ratio. They are\nnow a median of seven, with the per-repeat range recorded alongside so the\nspread is visible rather than implied: forward 5.84 s, batched 1.36 s, adjoint\n2.33 s. The Jacobians themselves are unchanged to every printed digit, which is\nthe part that is a property of the method rather than of the machine.\n\nAlso records the three-mode agreement in the validation record, and points at\nthe upstream compare view so the whole fork diff is one click away.",
+          "tree": {
+            "sha": "1828366ddfb47a390f2c0cf0ac07ecbac88b015a",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees/1828366ddfb47a390f2c0cf0ac07ecbac88b015a"
+          },
+          "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits/ee5b658d801fae7cba046d8db2ae38a010cf167f",
+          "comment_count": 0,
+          "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+          }
+        },
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/ee5b658d801fae7cba046d8db2ae38a010cf167f",
+        "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/ee5b658d801fae7cba046d8db2ae38a010cf167f",
+        "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/ee5b658d801fae7cba046d8db2ae38a010cf167f/comments",
+        "author": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "committer": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "parents": [
+          {
+            "sha": "bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+            "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/bdbdd463fd6d8cb10c9d27d961bf210949d7806c"
+          }
+        ]
+      },
+      {
+        "sha": "bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+        "node_id": "C_kwDOTziM0NoAKGJkYmRkNDYzZmQ2ZDhjYjEwYzlkMjdkOTYxYmYyMTA5NDlkNzgwNmM",
+        "commit": {
+          "author": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:13:48Z"
+          },
+          "committer": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:13:48Z"
+          },
+          "message": "Allow the direct reference the forked runtime pin needs",
+          "tree": {
+            "sha": "a30e3db48a53e8ea49f0330251d576c2b9d6713b",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees/a30e3db48a53e8ea49f0330251d576c2b9d6713b"
+          },
+          "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits/bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+          "comment_count": 0,
+          "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+          }
+        },
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+        "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/bdbdd463fd6d8cb10c9d27d961bf210949d7806c",
+        "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/bdbdd463fd6d8cb10c9d27d961bf210949d7806c/comments",
+        "author": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "committer": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "parents": [
+          {
+            "sha": "3fbba314954a9fa403dba26660482d2bdde3afd4",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3fbba314954a9fa403dba26660482d2bdde3afd4",
+            "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/3fbba314954a9fa403dba26660482d2bdde3afd4"
+          }
+        ]
+      },
+      {
+        "sha": "3fbba314954a9fa403dba26660482d2bdde3afd4",
+        "node_id": "C_kwDOTziM0NoAKDNmYmJhMzE0OTU0YTlmYTQwM2RiYTI2NjYwNDgyZDJiZGRlM2FmZDQ",
+        "commit": {
+          "author": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:11:42Z"
+          },
+          "committer": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:11:42Z"
+          },
+          "message": "Link the demo film from the README",
+          "tree": {
+            "sha": "bb0403d94d07550b056b4a4d466661bd6e63dc02",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees/bb0403d94d07550b056b4a4d466661bd6e63dc02"
+          },
+          "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits/3fbba314954a9fa403dba26660482d2bdde3afd4",
+          "comment_count": 0,
+          "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+          }
+        },
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3fbba314954a9fa403dba26660482d2bdde3afd4",
+        "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/3fbba314954a9fa403dba26660482d2bdde3afd4",
+        "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3fbba314954a9fa403dba26660482d2bdde3afd4/comments",
+        "author": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "committer": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "parents": [
+          {
+            "sha": "3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+            "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/3ad502196547a8c9ef5ecaf26fb907670d7510b3"
+          }
+        ]
+      },
+      {
+        "sha": "3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+        "node_id": "C_kwDOTziM0NoAKDNhZDUwMjE5NjU0N2E4YzllZjVlY2FmMjZmYjkwNzY3MGQ3NTEwYjM",
+        "commit": {
+          "author": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:09:25Z"
+          },
+          "committer": {
+            "name": "Marc Donovici",
+            "email": "azerty10997@gmail.com",
+            "date": "2026-08-10T08:09:25Z"
+          },
+          "message": "Send all six tangent directions in one call, through a forked runtime\n\nA JVP call carried exactly one direction, because the runtime validates a\ntangent against the exact shape of its input. Six directions were therefore\nsix round trips, and each one re-assembled and re-factorised the equilibrium\noperator at every step before it ever looked at the direction. That work is\nthe whole cost of the mechanics, and it is direction-independent.\n\ntesseract-core is forked at Marc-Dvci/tesseract-core@batched-jvp to let a\ntangent carry a leading axis of k directions, with the results carrying the\nsame axis. Both images pick the fork up through the installed package, which\nis where `tesseract build` copies the runtime from.\n\nThe mechanics solver now keeps its tangent state on a leading direction axis\nand back-substitutes k times against one factorisation. The thermal side\nneeded nothing: the forked jax_jvp vmaps the batch.\n\nTwelve container derivative calls become two, and a Jacobian goes from 6.20 s\nto 1.63 s - faster than the adjoint at this design size. It agrees with\ncolumn-by-column forward mode to 8.5e-15 row by row, and the optimiser returns\nthe committed optimum bit for bit, which is the only acceptable outcome for a\nchange that is meant to cost less rather than compute differently.\n\nAlso rebuilds the feasibility-plane figure, whose legend sat on top of the\ncluster the optimiser converges into.",
+          "tree": {
+            "sha": "e9f8977a41bfb76f3750db86b6ee23875922ce9c",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/trees/e9f8977a41bfb76f3750db86b6ee23875922ce9c"
+          },
+          "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/git/commits/3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+          "comment_count": 0,
+          "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null,
+            "verified_at": null
+          }
+        },
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+        "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/3ad502196547a8c9ef5ecaf26fb907670d7510b3",
+        "comments_url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/3ad502196547a8c9ef5ecaf26fb907670d7510b3/comments",
+        "author": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "committer": {
+          "login": "Marc-Dvci",
+          "id": 262450552,
+          "node_id": "U_kgDOD6SteA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/262450552?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/Marc-Dvci",
+          "html_url": "https://github.com/Marc-Dvci",
+          "followers_url": "https://api.github.com/users/Marc-Dvci/followers",
+          "following_url": "https://api.github.com/users/Marc-Dvci/following{/other_user}",
+          "gists_url": "https://api.github.com/users/Marc-Dvci/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/Marc-Dvci/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/Marc-Dvci/subscriptions",
+          "organizations_url": "https://api.github.com/users/Marc-Dvci/orgs",
+          "repos_url": "https://api.github.com/users/Marc-Dvci/repos",
+          "events_url": "https://api.github.com/users/Marc-Dvci/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/Marc-Dvci/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "parents": [
+          {
+            "sha": "7404c36d98d1d19a9d4d129606638db1af4ec253",
+            "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/commits/7404c36d98d1d19a9d4d129606638db1af4ec253",
+            "html_url": "https://github.com/Marc-Dvci/Vitrify/commit/7404c36d98d1d19a9d4d129606638db1af4ec253"
+          }
+        ]
+      }
+    ]
+  },
+  "issues": {
+    "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/issues?state=all&per_page=100",
+    "retrieved_at": "2026-11-26T12:40:19.881305+00:00",
+    "data": []
+  }
+}

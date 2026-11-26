@@ -1,0 +1,19 @@
+{
+  "overlap_n": 11,
+  "effective_factor_min": 1.1902094157338892,
+  "effective_factor_max": 4.798716668120724,
+  "geometric_effective_factor": 2.1292109150998813,
+  "deposited_factor_min": 2.1292109150998813,
+  "deposited_factor_max": 2.1292109150998813,
+  "fixed_median_error_factor": 1.4122280537177334,
+  "fixed_max_error_factor": 2.2537535544690814,
+  "fixed_rms_log_error": 0.43974027252673525,
+  "raw_rms_log_error": 0.874375067964004,
+  "loo_rms_log_error": 0.4837142997794088,
+  "outside_mean_factor_CI": 8,
+  "literal_30C_only_n": 0,
+  "screened_records": 469,
+  "numeric_corrected_rate_records": 261,
+  "below_0.5_records": 26,
+  "protocol_sha256": "3d631df0bc608149d286e170f4f2f003889c68bb2f4a2910e4881d777a630b36"
+}

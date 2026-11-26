@@ -1,0 +1,10 @@
+{
+  "mean_delta": 0.032824848078960855,
+  "joint_motif_bootstrap_ci": [
+    0.006546102717470055,
+    0.06800098133818833
+  ],
+  "enzymes": 6,
+  "motifs": 134,
+  "interpretation": "Technical panel sensitivity at fixed rates and fits; no independent cultivation or biochemical replicate variance. Enzyme panels share motifs."
+}

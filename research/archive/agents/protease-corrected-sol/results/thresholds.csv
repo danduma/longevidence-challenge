@@ -1,0 +1,5 @@
+stage,reference,n,cutoff
+raw,all,467,0.1367879999999998
+raw,eligibility_matched,441,0.09658000000000022
+corrected,all,465,0.10260400000000001
+corrected,eligibility_matched,439,0.078334

@@ -1,0 +1,22 @@
+{
+  "input_control_plus_parent_rows": 3456,
+  "depth_canonical_rows": 3170,
+  "complete_negative_motifs": 138,
+  "matched_pairs": 773,
+  "selected_enzyme_panels": 6,
+  "matched_motifs": 131,
+  "primary_mean_rho_difference": -0.0003853102758014093,
+  "panels_with_positive_primary_difference": 3,
+  "shared_motif_bootstrap_interval": [
+    -0.015818670529089706,
+    0.017249717213620102
+  ],
+  "primary_support_criterion_met": false,
+  "primary_vs_background_AUC_mean_rho_difference": 0.003180221440816459,
+  "limitations": [
+    "Selected related enzyme panels and shared motifs do not establish population transport.",
+    "Recorder score is not measured kcat or a validated mechanistic cleavage rate.",
+    "Bootstrap is conditional panel sensitivity, not independent biological replication.",
+    "Corrected-population input reconstruction must be independently verified against primary source data."
+  ]
+}

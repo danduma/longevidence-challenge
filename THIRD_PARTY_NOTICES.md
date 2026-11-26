@@ -1,0 +1,8 @@
+# Third-party notices and provenance
+
+- The portable thermal benchmark vendors `vitrify/geometry.py` and released design coefficients from Marc Davici's Vitrify, commit `1d498ee5c583e0112a762e60892d576ec2e27f57`, https://github.com/Marc-Dvci/Vitrify . Apache-2.0 license retained at `research/cryopreservation/vendor/VITRIFY-LICENSE`. Geometry copyright/source headers are retained. Archived thermal transcriptions also identify this source; third-party-derived portions retain Apache-2.0 terms.
+- Physical correlations and the original cardiac model are attributed to Joshi & Rabin, DOI 10.1371/journal.pone.0290063, and other primary sources named in the research reports. Numerical validation of a transcription is not experimental validation.
+- Archivo, Inter and JetBrains Mono fonts retain their bundled OFL notices under `site/dist/challenge/assets/`.
+- Scientific input datasets, publications and original repositories keep their own licenses. Reports and `research/source-downloads.json` identify primary URLs and versions. Large/raw input downloads, paid-source documents and third-party source archives are not automatically relicensed or wholesale mirrored here. Derived results must be read with their primary-source attributions.
+- Research documents in `research/archive/` are historical records, including superseded claims. The corrected `research/FINDINGS.md` controls project interpretation. An excluded measured-heart inference must not be promoted as an accepted empirical result.
+- Website submissions made before this credit/license policy retain their original terms. A publicly readable card is not automatically an MIT/CC BY dataset.

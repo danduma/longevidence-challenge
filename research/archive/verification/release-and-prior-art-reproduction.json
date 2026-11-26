@@ -1,0 +1,60 @@
+[
+  {
+    "name": "release-sol",
+    "command": [
+      "./run.sh"
+    ],
+    "cwd": "/path/to/longevidence-checkout/research/millennium/agents/review-release-sol",
+    "exit_code": 0,
+    "elapsed_seconds": 15.12,
+    "before_hashes": {
+      "outputs/baseline_summary.csv": "bd67c5dc23a995ed9394d905c176d415be076610d998a626f310ef0017e541cd",
+      "outputs/recomputed_metrics.csv": "cfc8a54561178d00dbed4e4e63eddd4d67c2abe0ca57dd12f65e63548be17a19",
+      "outputs/reconstructed_overlap.csv": "50dc28b07a79d65b959e2d4dc0ee41dd25e1294c43fb500430b82470e7c34270"
+    },
+    "after_hashes": {
+      "outputs/baseline_summary.csv": "bd67c5dc23a995ed9394d905c176d415be076610d998a626f310ef0017e541cd",
+      "outputs/recomputed_metrics.csv": "cfc8a54561178d00dbed4e4e63eddd4d67c2abe0ca57dd12f65e63548be17a19",
+      "outputs/reconstructed_overlap.csv": "50dc28b07a79d65b959e2d4dc0ee41dd25e1294c43fb500430b82470e7c34270"
+    },
+    "identical_selected_outputs": true
+  },
+  {
+    "name": "release-astra",
+    "command": [
+      "/path/to/longevidence-checkout/research/millennium/.venv/bin/python",
+      "audit.py"
+    ],
+    "cwd": "/path/to/longevidence-checkout/research/millennium/agents/review-release-astra",
+    "exit_code": 0,
+    "elapsed_seconds": 3.27,
+    "before_hashes": {
+      "baseline.csv": "903efab3f36b93ba34362d563acdf7479585c3d23d33dca9a09ad5a113a0ad6b",
+      "deposited.csv": "0d3faadabafbbf63cb0960a4653e11c1c8ea0f2b2abda1859efa5d3227a70595",
+      "overlap.csv": "d0b1159f934391463193624ff8fb153b8b6f6c32ca11ea3f0f9654109e5ca543"
+    },
+    "after_hashes": {
+      "baseline.csv": "903efab3f36b93ba34362d563acdf7479585c3d23d33dca9a09ad5a113a0ad6b",
+      "deposited.csv": "0d3faadabafbbf63cb0960a4653e11c1c8ea0f2b2abda1859efa5d3227a70595",
+      "overlap.csv": "d0b1159f934391463193624ff8fb153b8b6f6c32ca11ea3f0f9654109e5ca543"
+    },
+    "identical_selected_outputs": true
+  },
+  {
+    "name": "prior-art-astra",
+    "command": [
+      "python3",
+      "analyze.py"
+    ],
+    "cwd": "/path/to/longevidence-checkout/research/millennium/agents/scout-prior-art-astra",
+    "exit_code": 0,
+    "elapsed_seconds": 0.21,
+    "before_hashes": {
+      "results.json": "f79e2846e02320b43444239a6cd00c62684b9ab05c2de166e8011247937179d7"
+    },
+    "after_hashes": {
+      "results.json": "f79e2846e02320b43444239a6cd00c62684b9ab05c2de166e8011247937179d7"
+    },
+    "identical_selected_outputs": true
+  }
+]

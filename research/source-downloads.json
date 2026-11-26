@@ -1,0 +1,148 @@
+[
+  {
+    "url": "https://millenniumproblems.bio/",
+    "retrieved_at": "2026-11-26T11:39:24.993321+00:00",
+    "sha256": "ec055002571f34fb1a74d5cdc0c21356422704382ca0741fc7c6f0c13246380c",
+    "file": "challenge.html",
+    "purpose": "Authoritative challenge definitions; retain locally for criteria audit."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/README.md",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/README.md",
+    "sha256": "e9935511e5e78df11581aff017adad9a61e6440af761323d799d21655f64e533",
+    "retrieved_at": "2026-11-26T11:39:52.134281+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/THIRD_PARTY_NOTICES.md",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/THIRD_PARTY_NOTICES.md",
+    "sha256": "399c3caf752d173a86a778101467a182b211a04409d87a401b0505e262e98c32",
+    "retrieved_at": "2026-11-26T11:39:52.482203+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/LICENSE_DATA",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/LICENSE_DATA",
+    "sha256": "d4737be34272b9e762a0e25c0da19e64e8ca9fe9d46288c7e5e60aac607b462d",
+    "retrieved_at": "2026-11-26T11:39:52.753551+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/analyze_flamholz_embeddings_vs_kinetics.py",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/analyze_flamholz_embeddings_vs_kinetics.py",
+    "sha256": "addbf8046cd21b0e723314a5294cdd584e53935ddbecb85ef6040cdee92d082a",
+    "retrieved_at": "2026-11-26T11:39:53.045352+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/tune_flamholz_ridge_pca.py",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/tune_flamholz_ridge_pca.py",
+    "sha256": "8981279d2820255689104c74c8c0033d00ab8611c7955faaa791e3760d62911e",
+    "retrieved_at": "2026-11-26T11:39:53.321458+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/inputs/flamholz_dataset_S1.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/inputs/flamholz_dataset_S1.csv",
+    "sha256": "586f57382c3f490becd2e76196ba72f8fe769a851f8b80b3adc1b5dca9085fb0",
+    "retrieved_at": "2026-11-26T11:39:53.803490+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt.fasta",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt.fasta",
+    "sha256": "96dddd017120ed9f0f34303cb9326a7887f4b15163bc8f6ad6dcabe410425140",
+    "retrieved_at": "2026-11-26T11:39:54.136055+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt_meta.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt_meta.csv",
+    "sha256": "63b11839029cc6d7a840eac522b715875e0d0ba26d8940a9f4ce0bfd0dee5f50",
+    "retrieved_at": "2026-11-26T11:39:54.420907+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/summary_metrics.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/summary_metrics.csv",
+    "sha256": "d3af0cbf5d2b54b69dd2ecbd574de86d4794778dad3b1e65e9945eabda169962",
+    "retrieved_at": "2026-11-26T11:39:54.673262+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KC.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KC.csv",
+    "sha256": "93ac264fd791c113847001b20fb2df9547cb944fe9827ceece0d802faaee2b41",
+    "retrieved_at": "2026-11-26T11:43:22.686087+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KO.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KO.csv",
+    "sha256": "7b12fda57d919ee0706ec047c625a9ba3e2ac48af5f6a573ef83709a201954ba",
+    "retrieved_at": "2026-11-26T11:43:22.978053+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KRuBP.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KRuBP.csv",
+    "sha256": "ac19e8784c7b1ad9460d4c8030162f2a78cb791009008436460aaec16df68737",
+    "retrieved_at": "2026-11-26T11:43:23.250427+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_S.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_S.csv",
+    "sha256": "5a2d8d6741d89d9c0f35a84f44cd7aee221b83a089d82ed31d3cd0f4c9853baf",
+    "retrieved_at": "2026-11-26T11:43:23.503120+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vC.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vC.csv",
+    "sha256": "958bc45012858cbc4404ca7a4e5ebc254e43ec91185985fece73d4393e873472",
+    "retrieved_at": "2026-11-26T11:43:23.752895+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/ade87f378aa25c24a24c19915722aa04be92936e/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vO.csv",
+    "repository_commit": "ade87f378aa25c24a24c19915722aa04be92936e",
+    "file": "rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vO.csv",
+    "sha256": "4f989dd6e0e9cc4fd08b4e79edb7b34e261cf19c6aac34a8cbcd0f0bd7509270",
+    "retrieved_at": "2026-11-26T11:43:24.025873+00:00"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/flamholz/rubisco/e7441ec736b0a862205dcc0df025176f12f8dc7d/data/DatasetS1_SourceRubiscoKinetics.csv",
+    "repository_commit": "e7441ec736b0a862205dcc0df025176f12f8dc7d",
+    "file": "flamholz-original-source.csv",
+    "sha256": "586f57382c3f490becd2e76196ba72f8fe769a851f8b80b3adc1b5dca9085fb0",
+    "retrieved_at": "2026-11-26T11:44:13.727863+00:00"
+  },
+  {
+    "url": "https://zenodo.org/api/records/19546367/files/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning-Version3.zip/content",
+    "file": "rubisco-active-learning-Version3.zip",
+    "sha256": "77e277116975a59edc1517fba84cd82177a6c480cbafd41123ac6d46028f83a7",
+    "zenodo_record": 19546367,
+    "retrieved_at": "2026-11-26T11:48:23.938236+00:00"
+  },
+  {
+    "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8127993.1/683tb01.jpg",
+    "file": "thg1-table1.jpg",
+    "sha256": "46f436486ff51f12781c354ac48984ba12c219534aaac26a0b680d541a90e45b",
+    "retrieved_at": "2026-11-26T11:52:30.628268+00:00",
+    "purpose": "Independent visual verification of published Table 1 transcription."
+  },
+  {
+    "url": "https://rest.uniprot.org/uniprotkb/A0A2Z6FKH0.json",
+    "file": "uniprot-A0A2Z6FKH0.json",
+    "sha256": "12c38781fe719b89297c1fceea78a9e2d85c6306c55539e1979ed3ed724ab822",
+    "retrieved_at": "2026-11-26T12:03:33.073139+00:00",
+    "purpose": "Verify release accession taxon independently against UniProt."
+  },
+  {
+    "url": "https://rest.uniprot.org/unisave/A0A2Z6FKH0?format=txt",
+    "file": "unisave-A0A2Z6FKH0.txt",
+    "sha256": "fd6aa0a25028ccb6effc3e3c425048c6249afb9c0af16b698a73af2e835042c2",
+    "retrieved_at": "2026-11-26T12:03:58.871528+00:00"
+  }
+]

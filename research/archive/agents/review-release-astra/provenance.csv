@@ -1,0 +1,803 @@
+target,species,canonical,original,normalized,changed
+S,Aegilops biuncialis,Aegilops biuncialis,96.3,96.3,False
+S,Aegilops comosa,Aegilops comosa,106.0,106.0,False
+S,Aegilops cylindrica,Aegilops cylindrica,109.0,109.0,False
+S,Aegilops juvenalis,Aegilops juvenalis,90.4,90.4,False
+S,Aegilops speltoides,Aegilops speltoides,102.0,102.0,False
+S,Aegilops tauschii,Aegilops tauschii,107.0,107.0,False
+S,Aegilops triuncialis,Aegilops triuncialis,103.0,103.0,False
+S,Aegilops uniaristata,Aegilops uniaristata,102.0,102.0,False
+S,Aegilops vavilovii,Aegilops vavilovii,109.0,109.0,False
+S,Agriophyllum squarrosum,Agriophyllum squarrosum,93.9,93.9,False
+S,Agrostis scabra,Agrostis scabra,103.0,103.0,False
+S,Agrostis stolonifera,Agrostis stolonifera,105.0,105.0,False
+S,Allochromatium vinosum,Allochromatium vinosum,42.7,42.7,False
+S,Amaranthus hybridus,Amaranthus hybridus,80.0,80.0,False
+S,Amphicarpaea bracteata,Amphicarpaea bracteata,97.5,97.5,False
+S,Aphanizomenon flos aquae,Aphanizomenon flos aquae,48.0,48.0,False
+S,Arabidopsis thaliana cv. Columbia,Arabidopsis thaliana,105.0,105.0,False
+S,Archaeoglobus fulgidus,Archaeoglobus fulgidus,4.0,4.0,False
+S,Arctagrostis latifolia,Arctagrostis latifolia,105.0,105.0,False
+S,Artemisia myriantha,Artemisia myriantha,110.0,110.0,False
+S,Artemisia vulgaris L.,Artemisia vulgaris,105.0,105.0,False
+S,Avena sativa,Avena sativa,99.9,99.9,False
+S,Beta vulgaris,Beta vulgaris,101.0,101.0,False
+S,Bromus anomalus,Bromus anomalus,101.0,101.0,False
+S,Calamagrostis arundinacea,Calamagrostis arundinacea,104.0,104.0,False
+S,Calamagrostis canescens,Calamagrostis canescens,98.5,98.5,False
+S,Calamagrostis foliosa,Calamagrostis foliosa,105.0,105.0,False
+S,Calamagrostis inexpansa,Calamagrostis inexpansa,111.0,111.0,False
+S,Calamagrostis nutkaensis,Calamagrostis nutkaensis,109.0,109.0,False
+S,Capsicum annuum,Capsicum annuum,96.0,96.0,False
+S,Cenchrus ciliaris,Cenchrus ciliaris,69.9,69.9,False
+S,Chaetoceros socialis,Chaetoceros socialis,92.0,92.0,False
+S,Chenopodium murale,Chenopodium murale,109.0,109.0,False
+S,Chenopodium rubrum,Chenopodium rubrum,97.8,97.8,False
+S,Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,65.75,65.75,False
+S,Chromatium vinosum,Chromatium vinosum,44.4,44.4,False
+S,Citrullus ecirrhosus,Citrullus ecirrhosus,99.9,99.9,False
+S,Citrullus lanatus var. lanatus,Citrullus lanatus,107.0,107.0,False
+S,Coccochloris peniocystis,Coccochloris peniocystis,47.0,47.0,False
+S,Coffee arabica,Coffee arabica,98.7,98.7,False
+S,Cucurbita maxima,Cucurbita maxima,98.4,98.4,False
+S,Cyanidium caldarium,Cyanidium caldarium,225.0,225.0,False
+S,Cyanobium PCC7001,Cyanobium PCC7001,55.0,55.0,False
+S,Cylindrotheca N1,Cylindrotheca N1,106.5,106.5,False
+S,Deschampsia danthonioides,Deschampsia danthonioides,108.0,108.0,False
+S,Desmodium cinereum,Desmodium cinereum,97.5,97.5,False
+S,Desmodium intortum,Desmodium intortum,98.7,98.7,False
+S,Desmodium psilocarpum,Desmodium psilocarpum,95.9,95.9,False
+S,Echinochloa crus-galli,Echinochloa crus-galli,83.0,83.0,False
+S,Elymus farctus,Elymus farctus,106.0,106.0,False
+S,Eragrostis tef,Eragrostis tef,89.0,89.0,False
+S,Erythrina flabelliformis,Erythrina flabelliformis,96.4,96.4,False
+S,Euglena gracilis,Euglena gracilis,54.0,54.0,False
+S,Euphorbia helioscopia,Euphorbia helioscopia,96.8,96.8,False
+S,Euphorbia microsphaera,Euphorbia microsphaera,99.7,99.7,False
+S,Festuca gigantea,Festuca gigantea,108.0,108.0,False
+S,Flaveria angustifolia ,Flaveria angustifolia,90.4,86.80000000000001,True
+S,Flaveria angustifolia ,Flaveria angustifolia,90.4,86.80000000000001,True
+S,Flaveria anomala ,Flaveria anomala,77.9,77.9,False
+S,Flaveria australasica,Flaveria australasica,77.2,77.2,False
+S,Flaveria bidentis ,Flaveria bidentis,75.5,80.0,True
+S,Flaveria bidentis ,Flaveria bidentis,75.5,80.0,True
+S,Flaveria cronquistii ,Flaveria cronquistii,81.0,84.6,True
+S,Flaveria cronquistii ,Flaveria cronquistii,81.0,84.6,True
+S,Flaveria floridana ,Flaveria floridana,84.4,84.3,True
+S,Flaveria floridana ,Flaveria floridana,84.4,84.3,True
+S,Flaveria kochiana,Flaveria kochiana,77.0,77.0,False
+S,Flaveria linearis ,Flaveria linearis,78.1,78.1,False
+S,Flaveria palmeri ,Flaveria palmeri,83.8,83.8,False
+S,Flaveria pringlei,Flaveria pringlei,85.55,85.55,False
+S,Flaveria ramosissima ,Flaveria ramosissima,79.8,79.8,False
+S,Flaveria sonorensis ,Flaveria sonorensis,84.3,84.3,False
+S,Flaveria trinervia ,Flaveria trinervia,77.0,77.65,True
+S,Flaveria trinervia ,Flaveria trinervia,77.0,77.65,True
+S,Flaveria vaginata ,Flaveria vaginata,78.7,78.7,False
+S,Flueggea suffruticosa,Flueggea suffruticosa,101.0,101.0,False
+S,Foeniculum vulgare,Foeniculum vulgare,94.3,94.3,False
+S,Glycine canescens,Glycine canescens,97.1,97.1,False
+S,Glycine max,Glycine max,97.0,97.0,False
+S,Griffithsia monilis,Griffithsia monilis,167.0,167.0,False
+S,Helianthus annuus L.,Helianthus annuus,73.6,73.6,False
+S,Hordeum brachyantherum,Hordeum brachyantherum,101.0,101.0,False
+S,Hordeum murinum,Hordeum murinum,100.0,100.0,False
+S,Hordeum vulgare L.,Hordeum vulgare,86.9,93.05000000000001,True
+S,Ipomoea batatas,Ipomoea batatas,98.5,98.5,False
+S,Lablab purpureus,Lablab purpureus,91.1,91.1,False
+S,Lepidium campestre,Lepidium campestre,92.8,92.8,False
+S,Limonium antonii‐llorensii,Limonium antonii‐llorensii,112.0,112.0,False
+S,Limonium artruchium,Limonium artruchium,113.0,113.0,False
+S,Limonium balearicum,Limonium balearicum,103.0,103.0,False
+S,Limonium barceloi,Limonium barceloi,106.0,106.0,False
+S,Limonium biflorum,Limonium biflorum,112.0,112.0,False
+S,Limonium companyonis,Limonium companyonis,112.0,112.0,False
+S,Limonium echioides,Limonium echioides,106.0,106.0,False
+S,Limonium ejulabilis,Limonium ejulabilis,116.0,116.0,False
+S,Limonium gibertii,Limonium gibertii,111.0,111.0,False
+S,Limonium grosii,Limonium grosii,113.0,113.0,False
+S,Limonium gymnesicum,Limonium gymnesicum,121.0,121.0,False
+S,Limonium leonardi‐llorensii,Limonium leonardi‐llorensii,110.0,110.0,False
+S,Limonium magallufianum,Limonium magallufianum,108.5,108.5,False
+S,Limonium retusum,Limonium retusum,121.0,121.0,False
+S,Lolium multiflorum,Lolium multiflorum,99.9,99.9,False
+S,Lolium perenne,Lolium perenne,80.0,80.0,False
+S,Lolium rigidum,Lolium rigidum,100.0,100.0,False
+S,Lysimachia minoricensis,Lysimachia minoricensis,93.8,93.8,False
+S,Macrotyloma uniflorum,Macrotyloma uniflorum,101.0,101.0,False
+S,Manihot esculenta,Manihot esculenta,103.0,103.0,False
+S,Medicago sativa,Medicago sativa,86.3,86.3,False
+S,Megathyrsus maximus,Megathyrsus maximus,80.3,80.3,False
+S,Mentha aquatica,Mentha aquatica,97.2,97.2,False
+S,Mercurialis annua,Mercurialis annua,95.7,95.7,False
+S,Musa velutina,Musa velutina,111.0,111.0,False
+S,Nicotiana tabacum,Nicotiana tabacum,91.2,92.15,True
+S,Nicotiana tabacum L. cv. W38,Nicotiana tabacum,99.75,92.15,True
+S,Olisthodiscus luteus,Olisthodiscus luteus,100.0,100.0,False
+S,Oryza barthii/glaberrima,Oryza barthii/glaberrima,107.0,107.0,False
+S,Oryza eichingeri,Oryza eichingeri,107.0,107.0,False
+S,Oryza glumaepatula,Oryza glumaepatula,109.0,109.0,False
+S,Oryza longistaminata,Oryza longistaminata,108.0,108.0,False
+S,Oryza meridionalis,Oryza meridionalis,107.0,107.0,False
+S,Oryza punctata,Oryza punctata,109.0,97.0,True
+S,Oryza punctata Kotschy,Oryza punctata,85.0,97.0,True
+S,P. dilatatum,P. dilatatum,88.0,88.0,False
+S,Panicum amarum,Panicum amarum,89.5,89.5,False
+S,Panicum antidotale,Panicum antidotale,74.5,74.5,False
+S,Panicum bisulcatum,Panicum bisulcatum,87.7,87.7,False
+S,Panicum coloratum,Panicum coloratum,84.8,84.8,False
+S,Panicum deustum,Panicum deustum,84.8,84.8,False
+S,Panicum dichotomiflorum,Panicum dichotomiflorum,92.6,92.6,False
+S,Panicum milioides,Panicum milioides,92.3,92.3,False
+S,Panicum monticola,Panicum monticola,79.4,79.4,False
+S,Panicum phragmitoides,Panicum phragmitoides,107.0,107.0,False
+S,Panicum virgatum,Panicum virgatum,82.6,82.6,False
+S,Pavlova lutheri,Pavlova lutheri,125.0,125.0,False
+S,Phaeodactylum tricornutum,Phaeodactylum tricornutum,113.0,113.0,False
+S,Phaseolus carteri,Phaseolus carteri,84.5,84.5,False
+S,Phaseolus coccineus,Phaseolus coccineus,104.0,104.0,False
+S,Phaseolus lunatus,Phaseolus lunatus,101.0,101.0,False
+S,Phaseolus vulgaris ,Phaseolus vulgaris,99.7,102.35,True
+S,Phaseolus vulgaris ,Phaseolus vulgaris,99.7,102.35,True
+S,Pistacia lentiscus,Pistacia lentiscus,97.2,97.2,False
+S,Pisum sativum,Pisum sativum,90.2,90.2,False
+S,Plantago lanceolata L.,Plantago lanceolata,77.3,77.3,False
+S,Pleurochrysis carterae,Pleurochrysis carterae,102.0,102.0,False
+S,Poa palustris,Poa palustris,112.0,112.0,False
+S,Polypodium aureum,Polypodium aureum,82.0,82.0,False
+S,Porphyra yezoensis,Porphyra yezoensis,145.0,145.0,False
+S,Porphyridium purpureum,Porphyridium purpureum,144.0,144.0,False
+S,Prochlorococcus marinus MIT9313,Prochlorococcus marinus,59.9,59.9,False
+S,Puccinellia distans,Puccinellia distans,104.0,104.0,False
+S,Puccinellia lemmonii,Puccinellia lemmonii,102.0,102.0,False
+S,Puccinellia maritima,Puccinellia maritima,106.0,106.0,False
+S,Puccinellia nuttalliana,Puccinellia nuttalliana,105.0,105.0,False
+S,Pueraria montana,Pueraria montana,101.0,101.0,False
+S,Rhodopseudomonas palustris,Rhodopseudomonas palustris,12.0,12.0,False
+S,Riftia pachyptila endosymbiont,Riftia pachyptila endosymbiont,8.6,8.6,False
+S,Saccharum officinarum,Saccharum officinarum,82.2,82.2,False
+S,Scenedesmus obliquus,Scenedesmus obliquus,63.0,63.0,False
+S,Setaria italica,Setaria italica,58.0,58.0,False
+S,Setaria viridis,Setaria viridis,72.7,72.7,False
+S,Skeletonema costatum,Skeletonema costatum,72.0,72.0,False
+S,Solanum lycopersicum,Solanum lycopersicum,92.4,92.4,False
+S,Solanum tuberosum,Solanum tuberosum,95.4,95.4,False
+S,Sorghum bicolor,Sorghum bicolor,70.0,70.0,False
+S,Sphenostylis stenocarpa,Sphenostylis stenocarpa,93.6,93.6,False
+S,Spinacia oleracea,Spinacia oleracea,85.0,85.0,False
+S,Steinchisma laxa,Steinchisma laxa,91.4,91.4,False
+S,Synechococcus 6301,Synechococcus 6301,42.5,42.5,False
+S,Synechococcus 7002,Synechococcus 7002,46.0,46.0,False
+S,Synechococcus elongatus PCC 7942,Synechococcus elongatus,44.1,44.1,False
+S,Tephrosia candida,Tephrosia candida,97.8,97.8,False
+S,Tephrosia purpurea,Tephrosia purpurea,103.0,103.0,False
+S,Tephrosia rhodesica,Tephrosia rhodesica,91.6,91.6,False
+S,Thalassiosira antarctica,Thalassiosira antarctica,90.0,90.0,False
+S,Tisochrysis lutea,Tisochrysis lutea,89.0,89.0,False
+S,Triticum aestivum,Triticum aestivum,100.0,100.0,False
+S,Triticum baeoticum,Triticum baeoticum,96.0,96.0,False
+S,Ulva pertusa,Ulva pertusa,68.5,68.5,False
+S,Urochloa mosambicensis,Urochloa mosambicensis,82.5,82.5,False
+S,Urochloa panicoides,Urochloa panicoides,78.3,78.3,False
+S,Urtica membranacea,Urtica membranacea,102.0,102.0,False
+S,Zea mays ,Zea mays,74.9,78.6,True
+S,Zea mays ,Zea mays,74.9,78.6,True
+vC,Aegilops biuncialis,Aegilops biuncialis,3.2,3.2,False
+vC,Aegilops comosa,Aegilops comosa,2.86,2.86,False
+vC,Aegilops cylindrica,Aegilops cylindrica,3.68,3.68,False
+vC,Aegilops juvenalis,Aegilops juvenalis,3.25,3.25,False
+vC,Aegilops speltoides,Aegilops speltoides,3.24,3.24,False
+vC,Aegilops tauschii,Aegilops tauschii,2.86,2.86,False
+vC,Aegilops triuncialis,Aegilops triuncialis,2.62,2.62,False
+vC,Aegilops uniaristata,Aegilops uniaristata,2.7,2.7,False
+vC,Aegilops vavilovii,Aegilops vavilovii,3.32,3.32,False
+vC,Agave victoriae−reginae,Agave victoriae−reginae,3.4,3.4,False
+vC,Agriophyllum squarrosum,Agriophyllum squarrosum,2.8,2.8,False
+vC,Agrostis scabra,Agrostis scabra,3.6,3.6,False
+vC,Agrostis stolonifera,Agrostis stolonifera,5.2,5.2,False
+vC,Allochromatium vinosum,Allochromatium vinosum,7.75,7.75,False
+vC,Amphicarpaea bracteata,Amphicarpaea bracteata,4.0,4.0,False
+vC,Arabidopsis thaliana,Arabidopsis thaliana,3.53,3.5149999999999997,True
+vC,Arabidopsis thaliana cv. Columbia,Arabidopsis thaliana,3.3,3.5149999999999997,True
+vC,Archaeoglobus fulgidus,Archaeoglobus fulgidus,23.1,23.1,False
+vC,Arctagrostis latifolia,Arctagrostis latifolia,5.8,5.8,False
+vC,Artemisia myriantha,Artemisia myriantha,3.1,3.1,False
+vC,Artemisia vulgaris L.,Artemisia vulgaris,3.9,3.9,False
+vC,Atrichum undulatum,Atrichum undulatum,3.0,3.0,False
+vC,Atriplex glabriuscula,Atriplex glabriuscula,13.7,13.7,False
+vC,Avena sativa,Avena sativa,2.3,2.3,False
+vC,Beta vulgaris,Beta vulgaris,2.0,2.0,False
+vC,Bromus anomalus,Bromus anomalus,2.9,2.9,False
+vC,Calamagrostis arundinacea,Calamagrostis arundinacea,4.1,4.1,False
+vC,Calamagrostis canescens,Calamagrostis canescens,2.5,2.5,False
+vC,Calamagrostis foliosa,Calamagrostis foliosa,3.5,3.5,False
+vC,Calamagrostis inexpansa,Calamagrostis inexpansa,3.3,3.3,False
+vC,Calamagrostis nutkaensis,Calamagrostis nutkaensis,3.1,3.1,False
+vC,Capsicum annuum,Capsicum annuum,1.9,1.9,False
+vC,Carpobrotus edulis,Carpobrotus edulis,3.6,3.6,False
+vC,Cenchrus ciliaris,Cenchrus ciliaris,6.0,6.0,False
+vC,Ceratophyllum demersum,Ceratophyllum demersum,3.5,3.5,False
+vC,Chenopodium murale,Chenopodium murale,4.4,4.4,False
+vC,Chenopodium rubrum,Chenopodium rubrum,4.1,4.1,False
+vC,Citrullus ecirrhosus,Citrullus ecirrhosus,3.1,3.1,False
+vC,Citrullus lanatus var. lanatus,Citrullus lanatus,2.5,2.5,False
+vC,Coffee arabica,Coffee arabica,2.1,2.1,False
+vC,Crithmum maritimum,Crithmum maritimum,3.4,3.4,False
+vC,Cucurbita maxima,Cucurbita maxima,2.2,2.2,False
+vC,Cyanidium caldarium,Cyanidium caldarium,1.3,1.3,False
+vC,Cyanobium PCC7001,Cyanobium PCC7001,9.600000000000001,9.600000000000001,False
+vC,Cycas panzhihuaensis,Cycas panzhihuaensis,3.1,3.1,False
+vC,Cylindrotheca N1,Cylindrotheca N1,0.875,0.875,False
+vC,Deschampsia danthonioides,Deschampsia danthonioides,4.5,4.5,False
+vC,Desmodium cinereum,Desmodium cinereum,3.0,3.0,False
+vC,Desmodium intortum,Desmodium intortum,3.3,3.3,False
+vC,Desmodium psilocarpum,Desmodium psilocarpum,3.6,3.6,False
+vC,Drosera capensis,Drosera capensis,4.7,4.7,False
+vC,Drosera venusta,Drosera venusta,3.3,3.3,False
+vC,Echeveria elegans,Echeveria elegans,4.5,4.5,False
+vC,Elymus farctus,Elymus farctus,3.3,3.3,False
+vC,Eragrostis tef,Eragrostis tef,7.1,7.1,False
+vC,Erythrina flabelliformis,Erythrina flabelliformis,3.6,3.6,False
+vC,Euphorbia helioscopia,Euphorbia helioscopia,1.9,1.9,False
+vC,Euphorbia microsphaera,Euphorbia microsphaera,4.5,4.5,False
+vC,Festuca gigantea,Festuca gigantea,5.1,5.1,False
+vC,Flaveria angustifolia ,Flaveria angustifolia,2.77,2.815,True
+vC,Flaveria angustifolia ,Flaveria angustifolia,2.77,2.815,True
+vC,Flaveria anomala ,Flaveria anomala,3.8,3.8,False
+vC,Flaveria australasica,Flaveria australasica,3.84,3.84,False
+vC,Flaveria bidentis ,Flaveria bidentis,4.16,4.16,False
+vC,Flaveria bidentis ,Flaveria bidentis,4.16,4.16,False
+vC,Flaveria cronquistii ,Flaveria cronquistii,3.13,3.04,True
+vC,Flaveria cronquistii ,Flaveria cronquistii,3.13,3.04,True
+vC,Flaveria floridana ,Flaveria floridana,3.025,3.19,True
+vC,Flaveria floridana ,Flaveria floridana,3.025,3.19,True
+vC,Flaveria kochiana,Flaveria kochiana,3.68,3.68,False
+vC,Flaveria linearis ,Flaveria linearis,3.43,3.43,False
+vC,Flaveria palmeri ,Flaveria palmeri,3.54,3.54,False
+vC,Flaveria pringlei,Flaveria pringlei,2.795,2.795,False
+vC,Flaveria ramosissima ,Flaveria ramosissima,2.77,2.77,False
+vC,Flaveria sonorensis ,Flaveria sonorensis,2.69,2.69,False
+vC,Flaveria trinervia ,Flaveria trinervia,4.42,3.8499999999999996,True
+vC,Flaveria trinervia ,Flaveria trinervia,4.42,3.8499999999999996,True
+vC,Flaveria vaginata ,Flaveria vaginata,3.78,3.78,False
+vC,Flueggea suffruticosa,Flueggea suffruticosa,3.4,3.4,False
+vC,Foeniculum vulgare,Foeniculum vulgare,4.4,4.4,False
+vC,Fragilariopsis cylindrus,Fragilariopsis cylindrus,1.7,1.7,False
+vC,Glycine canescens,Glycine canescens,2.6,2.6,False
+vC,Glycine max,Glycine max,2.0,2.0,False
+vC,Griffithsia monilis,Griffithsia monilis,2.6,2.6,False
+vC,Hordeum brachyantherum,Hordeum brachyantherum,2.9,2.9,False
+vC,Hordeum murinum,Hordeum murinum,4.2,4.2,False
+vC,Ipomoea batatas,Ipomoea batatas,2.5,2.5,False
+vC,Iris douglasiana,Iris douglasiana,3.5,3.5,False
+vC,Lablab purpureus,Lablab purpureus,5.3,5.3,False
+vC,Lepidium campestre,Lepidium campestre,3.4,3.4,False
+vC,Limonium antonii‐llorensii,Limonium antonii‐llorensii,2.4,2.4,False
+vC,Limonium artruchium,Limonium artruchium,3.0,3.0,False
+vC,Limonium balearicum,Limonium balearicum,3.6,3.6,False
+vC,Limonium barceloi,Limonium barceloi,3.4,3.4,False
+vC,Limonium biflorum,Limonium biflorum,2.4,2.4,False
+vC,Limonium companyonis,Limonium companyonis,3.3,3.3,False
+vC,Limonium echioides,Limonium echioides,3.9,3.9,False
+vC,Limonium ejulabilis,Limonium ejulabilis,2.0,2.0,False
+vC,Limonium gibertii,Limonium gibertii,2.5,2.5,False
+vC,Limonium grosii,Limonium grosii,2.9,2.9,False
+vC,Limonium gymnesicum,Limonium gymnesicum,2.4,2.4,False
+vC,Limonium latebracteatum,Limonium latebracteatum,2.7,2.7,False
+vC,Limonium leonardi‐llorensii,Limonium leonardi‐llorensii,2.8,2.8,False
+vC,Limonium magallufianum,Limonium magallufianum,2.6,2.6,False
+vC,Limonium retusum,Limonium retusum,2.1,2.1,False
+vC,Limonium stenophyllum,Limonium stenophyllum,2.6,2.6,False
+vC,Limonium virgatum,Limonium virgatum,2.4,2.4,False
+vC,Lolium multiflorum,Lolium multiflorum,4.5,4.5,False
+vC,Lolium rigidum,Lolium rigidum,4.7,4.7,False
+vC,Macrotyloma uniflorum,Macrotyloma uniflorum,4.4,4.4,False
+vC,Manihot esculenta,Manihot esculenta,1.9,1.9,False
+vC,Marchantia polymorpha,Marchantia polymorpha,2.6,2.6,False
+vC,Medicago sativa,Medicago sativa,1.7,1.7,False
+vC,Megathyrsus maximus,Megathyrsus maximus,5.3,5.3,False
+vC,Mercurialis annua,Mercurialis annua,3.4,3.4,False
+vC,Metasequoia glyptostroboides,Metasequoia glyptostroboides,2.7,2.7,False
+vC,Musa velutina,Musa velutina,3.2,3.2,False
+vC,Nicotiana tabacum,Nicotiana tabacum,3.3499999999999996,3.53,True
+vC,Nicotiana tabacum L. cv. W38,Nicotiana tabacum,3.585,3.53,True
+vC,Nymphaea alba,Nymphaea alba,2.4,2.4,False
+vC,Olisthodiscus luteus,Olisthodiscus luteus,0.83,0.83,False
+vC,Oryza barthii/glaberrima,Oryza barthii/glaberrima,2.5,2.5,False
+vC,Oryza eichingeri,Oryza eichingeri,2.5,2.5,False
+vC,Oryza glumaepatula,Oryza glumaepatula,2.4,2.4,False
+vC,Oryza longistaminata,Oryza longistaminata,2.2,2.2,False
+vC,Oryza meridionalis,Oryza meridionalis,2.6,2.6,False
+vC,Oryza punctata,Oryza punctata,2.7,2.7,False
+vC,Pallenis maritima,Pallenis maritima,2.7,2.7,False
+vC,Panicum amarum,Panicum amarum,3.2,3.2,False
+vC,Panicum antidotale,Panicum antidotale,3.9,3.9,False
+vC,Panicum bisulcatum,Panicum bisulcatum,2.6,2.6,False
+vC,Panicum coloratum,Panicum coloratum,3.4,3.4,False
+vC,Panicum deustum,Panicum deustum,5.0,5.0,False
+vC,Panicum dichotomiflorum,Panicum dichotomiflorum,3.1,3.1,False
+vC,Panicum milioides,Panicum milioides,2.2,2.2,False
+vC,Panicum monticola,Panicum monticola,5.3,5.3,False
+vC,Panicum phragmitoides,Panicum phragmitoides,2.8,2.8,False
+vC,Panicum virgatum,Panicum virgatum,3.3,3.3,False
+vC,Pavlova lutheri,Pavlova lutheri,2.5,2.5,False
+vC,Phaeodactylum tricornutum,Phaeodactylum tricornutum,3.4,3.4,False
+vC,Phaseolus carteri,Phaseolus carteri,3.2,3.2,False
+vC,Phaseolus coccineus,Phaseolus coccineus,3.9,3.9,False
+vC,Phaseolus lunatus,Phaseolus lunatus,3.2,3.2,False
+vC,Phaseolus vulgaris ,Phaseolus vulgaris,1.7,2.6,True
+vC,Phaseolus vulgaris ,Phaseolus vulgaris,1.7,2.6,True
+vC,Platycerium superbum,Platycerium superbum,2.3,2.3,False
+vC,Pleurochrysis carterae,Pleurochrysis carterae,3.3,3.3,False
+vC,Poa palustris,Poa palustris,4.2,4.2,False
+vC,Porphyridium purpureum,Porphyridium purpureum,1.4,1.4,False
+vC,Prochlorococcus marinus MIT9313,Prochlorococcus marinus,6.58,6.58,False
+vC,Pteridium aquilinum,Pteridium aquilinum,4.0,4.0,False
+vC,Puccinellia distans,Puccinellia distans,5.4,5.4,False
+vC,Puccinellia lemmonii,Puccinellia lemmonii,5.2,5.2,False
+vC,Puccinellia maritima,Puccinellia maritima,5.4,5.4,False
+vC,Puccinellia nuttalliana,Puccinellia nuttalliana,4.0,4.0,False
+vC,Pueraria montana,Pueraria montana,2.7,2.7,False
+vC,Rhodopseudomonas palustris,Rhodopseudomonas palustris,4.9,4.9,False
+vC,Saccharum officinarum,Saccharum officinarum,3.9,3.9,False
+vC,Sarracenia flava,Sarracenia flava,4.4,4.4,False
+vC,Setaria viridis,Setaria viridis,5.67,5.67,False
+vC,Sideritis cretica subsp. spicata,Sideritis cretica,2.0,2.0,False
+vC,Solanum lycopersicum,Solanum lycopersicum,2.3,2.3,False
+vC,Solanum tuberosum,Solanum tuberosum,2.0,2.0,False
+vC,Sphenostylis stenocarpa,Sphenostylis stenocarpa,2.8,2.8,False
+vC,Spinacia oleracea,Spinacia oleracea,2.6500000000000004,2.6500000000000004,False
+vC,Steinchisma laxa,Steinchisma laxa,2.3,2.3,False
+vC,Synechococcus 6301,Synechococcus 6301,10.59,10.59,False
+vC,Synechococcus 7002,Synechococcus 7002,11.6,11.6,False
+vC,Synechococcus elongatus PCC 7942,Synechococcus elongatus,14.4,14.4,False
+vC,Tephrosia candida,Tephrosia candida,2.2,2.2,False
+vC,Tephrosia purpurea,Tephrosia purpurea,2.2,2.2,False
+vC,Tephrosia rhodesica,Tephrosia rhodesica,2.2,2.2,False
+vC,Teucrium heterophyllum,Teucrium heterophyllum,2.7,2.7,False
+vC,Tisochrysis lutea,Tisochrysis lutea,2.2,2.2,False
+vC,Trachycarpus fortunei,Trachycarpus fortunei,2.8,2.8,False
+vC,Triticum aestivum,Triticum aestivum,2.5,3.25,True
+vC,Triticum baeoticum,Triticum baeoticum,3.8,3.8,False
+vC,Urochloa mosambicensis,Urochloa mosambicensis,5.7,5.7,False
+vC,Urochloa panicoides,Urochloa panicoides,5.6,5.6,False
+vC,Zea mays ,Zea mays,4.05,4.074999999999999,True
+vC,Zea mays ,Zea mays,4.05,4.074999999999999,True
+KC,Aegilops biuncialis,Aegilops biuncialis,16.8,16.8,False
+KC,Aegilops comosa,Aegilops comosa,13.5,13.5,False
+KC,Aegilops cylindrica,Aegilops cylindrica,13.7,13.7,False
+KC,Aegilops juvenalis,Aegilops juvenalis,20.6,20.6,False
+KC,Aegilops speltoides,Aegilops speltoides,16.5,16.5,False
+KC,Aegilops tauschii,Aegilops tauschii,14.9,14.9,False
+KC,Aegilops triuncialis,Aegilops triuncialis,12.8,12.8,False
+KC,Aegilops uniaristata,Aegilops uniaristata,13.8,13.8,False
+KC,Aegilops vavilovii,Aegilops vavilovii,13.3,13.3,False
+KC,Agave victoriae−reginae,Agave victoriae−reginae,9.7,9.7,False
+KC,Agriophyllum squarrosum,Agriophyllum squarrosum,15.4,15.4,False
+KC,Agrostis scabra,Agrostis scabra,22.0,22.0,False
+KC,Agrostis stolonifera,Agrostis stolonifera,25.3,25.3,False
+KC,Allochromatium vinosum,Allochromatium vinosum,32.7,32.7,False
+KC,Amaranthus hybridus,Amaranthus hybridus,16.0,16.0,False
+KC,Amphicarpaea bracteata,Amphicarpaea bracteata,29.0,29.0,False
+KC,Aphanizomenon flos aquae,Aphanizomenon flos aquae,105.0,105.0,False
+KC,Arabidopsis thaliana,Arabidopsis thaliana,9.9,9.9,False
+KC,Archaeoglobus fulgidus,Archaeoglobus fulgidus,51.0,51.0,False
+KC,Arctagrostis latifolia,Arctagrostis latifolia,21.0,21.0,False
+KC,Artemisia myriantha,Artemisia myriantha,26.4,26.4,False
+KC,Artemisia vulgaris L.,Artemisia vulgaris,31.9,31.9,False
+KC,Atrichum undulatum,Atrichum undulatum,19.2,19.2,False
+KC,Atriplex glabriuscula,Atriplex glabriuscula,27.0,27.0,False
+KC,Avena sativa,Avena sativa,10.8,10.8,False
+KC,Beta vulgaris,Beta vulgaris,10.8,10.8,False
+KC,Bromus anomalus,Bromus anomalus,16.9,16.9,False
+KC,Calamagrostis arundinacea,Calamagrostis arundinacea,22.7,22.7,False
+KC,Calamagrostis canescens,Calamagrostis canescens,15.2,15.2,False
+KC,Calamagrostis foliosa,Calamagrostis foliosa,20.9,20.9,False
+KC,Calamagrostis inexpansa,Calamagrostis inexpansa,18.8,18.8,False
+KC,Calamagrostis nutkaensis,Calamagrostis nutkaensis,20.1,20.1,False
+KC,Capsicum annuum,Capsicum annuum,9.6,9.6,False
+KC,Carpobrotus edulis,Carpobrotus edulis,9.5,9.5,False
+KC,Cenchrus ciliaris,Cenchrus ciliaris,19.0,19.0,False
+KC,Ceratophyllum demersum,Ceratophyllum demersum,13.6,13.6,False
+KC,Chenopodium murale,Chenopodium murale,23.8,23.8,False
+KC,Chenopodium rubrum,Chenopodium rubrum,14.5,14.5,False
+KC,Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,29.0,29.0,False
+KC,Citrullus ecirrhosus,Citrullus ecirrhosus,18.9,18.9,False
+KC,Citrullus lanatus var. lanatus,Citrullus lanatus,19.4,19.4,False
+KC,Coccochloris peniocystis,Coccochloris peniocystis,121.0,121.0,False
+KC,Coffee arabica,Coffee arabica,11.0,11.0,False
+KC,Crithmum maritimum,Crithmum maritimum,8.7,8.7,False
+KC,Cucurbita maxima,Cucurbita maxima,9.0,9.0,False
+KC,Cyanidium caldarium,Cyanidium caldarium,6.7,6.7,False
+KC,Cyanobium PCC7001,Cyanobium PCC7001,163.5,163.5,False
+KC,Cycas panzhihuaensis,Cycas panzhihuaensis,8.8,8.8,False
+KC,Cylindrotheca N1,Cylindrotheca N1,32.0,32.0,False
+KC,Deschampsia danthonioides,Deschampsia danthonioides,22.3,22.3,False
+KC,Desmodium cinereum,Desmodium cinereum,12.8,12.8,False
+KC,Desmodium intortum,Desmodium intortum,14.2,14.2,False
+KC,Desmodium psilocarpum,Desmodium psilocarpum,15.6,15.6,False
+KC,Drosera capensis,Drosera capensis,10.3,10.3,False
+KC,Drosera venusta,Drosera venusta,11.8,11.8,False
+KC,Echeveria elegans,Echeveria elegans,10.5,10.5,False
+KC,Echinochloa crus-galli,Echinochloa crus-galli,18.4,18.4,False
+KC,Elymus farctus,Elymus farctus,19.5,19.5,False
+KC,Eragrostis tef,Eragrostis tef,34.9,34.9,False
+KC,Erythrina flabelliformis,Erythrina flabelliformis,18.4,18.4,False
+KC,Espeletia schultzii,Espeletia schultzii,23.2,23.2,False
+KC,Euglena gracilis,Euglena gracilis,25.0,25.0,False
+KC,Euphorbia helioscopia,Euphorbia helioscopia,11.5,11.5,False
+KC,Euphorbia microsphaera,Euphorbia microsphaera,25.8,25.8,False
+KC,Festuca gigantea,Festuca gigantea,31.2,31.2,False
+KC,Flaveria angustifolia ,Flaveria angustifolia,12.5,12.8,True
+KC,Flaveria angustifolia ,Flaveria angustifolia,12.5,12.8,True
+KC,Flaveria anomala ,Flaveria anomala,10.7,10.7,False
+KC,Flaveria australasica,Flaveria australasica,22.0,22.0,False
+KC,Flaveria bidentis ,Flaveria bidentis,20.2,20.2,False
+KC,Flaveria bidentis ,Flaveria bidentis,20.2,20.2,False
+KC,Flaveria cronquistii ,Flaveria cronquistii,10.8,10.25,True
+KC,Flaveria cronquistii ,Flaveria cronquistii,10.8,10.25,True
+KC,Flaveria floridana ,Flaveria floridana,12.55,13.2,True
+KC,Flaveria floridana ,Flaveria floridana,12.55,13.2,True
+KC,Flaveria kochiana,Flaveria kochiana,22.7,22.7,False
+KC,Flaveria linearis ,Flaveria linearis,12.5,12.5,False
+KC,Flaveria palmeri ,Flaveria palmeri,13.5,13.5,False
+KC,Flaveria pringlei,Flaveria pringlei,12.0,12.0,False
+KC,Flaveria ramosissima ,Flaveria ramosissima,12.0,12.0,False
+KC,Flaveria sonorensis ,Flaveria sonorensis,10.2,10.2,False
+KC,Flaveria trinervia ,Flaveria trinervia,17.9,18.15,True
+KC,Flaveria trinervia ,Flaveria trinervia,17.9,18.15,True
+KC,Flaveria vaginata ,Flaveria vaginata,21.4,21.4,False
+KC,Flueggea suffruticosa,Flueggea suffruticosa,19.2,19.2,False
+KC,Foeniculum vulgare,Foeniculum vulgare,20.7,20.7,False
+KC,Fragilariopsis cylindrus,Fragilariopsis cylindrus,33.5,33.5,False
+KC,Glycine canescens,Glycine canescens,17.2,17.2,False
+KC,Glycine max,Glycine max,9.0,20.0,True
+KC,Glycine max cv. Wayne,Glycine max,29.5,20.0,True
+KC,Griffithsia monilis,Griffithsia monilis,9.3,9.3,False
+KC,Halothiobacillus neapolitanus,Halothiobacillus neapolitanus,164.0,164.0,False
+KC,Hordeum brachyantherum,Hordeum brachyantherum,16.2,16.2,False
+KC,Hordeum murinum,Hordeum murinum,21.5,21.5,False
+KC,Ipomoea batatas,Ipomoea batatas,12.0,12.0,False
+KC,Iris douglasiana,Iris douglasiana,9.7,9.7,False
+KC,Lablab purpureus,Lablab purpureus,21.7,21.7,False
+KC,Lepidium campestre,Lepidium campestre,15.8,15.8,False
+KC,Limonium antonii‐llorensii,Limonium antonii‐llorensii,8.7,8.7,False
+KC,Limonium artruchium,Limonium artruchium,9.4,9.4,False
+KC,Limonium balearicum,Limonium balearicum,9.7,9.7,False
+KC,Limonium barceloi,Limonium barceloi,9.3,9.3,False
+KC,Limonium biflorum,Limonium biflorum,8.0,8.0,False
+KC,Limonium companyonis,Limonium companyonis,8.9,8.9,False
+KC,Limonium echioides,Limonium echioides,10.7,10.7,False
+KC,Limonium ejulabilis,Limonium ejulabilis,7.6,7.6,False
+KC,Limonium gibertii,Limonium gibertii,9.1,9.1,False
+KC,Limonium grosii,Limonium grosii,8.1,8.1,False
+KC,Limonium gymnesicum,Limonium gymnesicum,8.2,8.2,False
+KC,Limonium latebracteatum,Limonium latebracteatum,8.8,8.8,False
+KC,Limonium leonardi‐llorensii,Limonium leonardi‐llorensii,8.8,8.8,False
+KC,Limonium magallufianum,Limonium magallufianum,7.0,7.0,False
+KC,Limonium retusum,Limonium retusum,7.1,7.1,False
+KC,Limonium stenophyllum,Limonium stenophyllum,8.4,8.4,False
+KC,Limonium virgatum,Limonium virgatum,8.5,8.5,False
+KC,Lolium multiflorum,Lolium multiflorum,29.1,29.1,False
+KC,Lolium perenne,Lolium perenne,16.0,16.0,False
+KC,Lolium rigidum,Lolium rigidum,25.0,25.0,False
+KC,Macrotyloma uniflorum,Macrotyloma uniflorum,25.2,25.2,False
+KC,Manihot esculenta,Manihot esculenta,10.55,10.55,False
+KC,Marchantia polymorpha,Marchantia polymorpha,12.7,12.7,False
+KC,Medicago sativa,Medicago sativa,12.7,12.7,False
+KC,Megathyrsus maximus,Megathyrsus maximus,13.9,13.9,False
+KC,Mercurialis annua,Mercurialis annua,17.0,17.0,False
+KC,Metasequoia glyptostroboides,Metasequoia glyptostroboides,15.5,15.5,False
+KC,Musa velutina,Musa velutina,19.0,19.0,False
+KC,Nicotiana tabacum,Nicotiana tabacum,9.7,10.7,True
+KC,Nicotiana tabacum L. cv. W38,Nicotiana tabacum,11.05,10.7,True
+KC,Nicotiana tabacum cv. W38,Nicotiana tabacum,405.0,10.7,True
+KC,Nymphaea alba,Nymphaea alba,11.2,11.2,False
+KC,Olisthodiscus luteus,Olisthodiscus luteus,59.0,59.0,False
+KC,Oryza barthii/glaberrima,Oryza barthii/glaberrima,14.0,14.0,False
+KC,Oryza eichingeri,Oryza eichingeri,14.1,14.1,False
+KC,Oryza glumaepatula,Oryza glumaepatula,15.2,15.2,False
+KC,Oryza longistaminata,Oryza longistaminata,15.1,15.1,False
+KC,Oryza meridionalis,Oryza meridionalis,14.6,14.6,False
+KC,Oryza punctata,Oryza punctata,14.9,14.9,False
+KC,P. dilatatum,P. dilatatum,19.9,19.9,False
+KC,Pallenis maritima,Pallenis maritima,6.4,6.4,False
+KC,Panicum amarum,Panicum amarum,33.1,33.1,False
+KC,Panicum bisulcatum,Panicum bisulcatum,7.8,7.8,False
+KC,Panicum coloratum,Panicum coloratum,11.1,11.1,False
+KC,Panicum deustum,Panicum deustum,15.4,15.4,False
+KC,Panicum dichotomiflorum,Panicum dichotomiflorum,36.3,36.3,False
+KC,Panicum milioides,Panicum milioides,7.4,7.4,False
+KC,Panicum monticola,Panicum monticola,18.2,18.2,False
+KC,Panicum phragmitoides,Panicum phragmitoides,25.1,25.1,False
+KC,Panicum virgatum,Panicum virgatum,12.7,12.7,False
+KC,Pavlova lutheri,Pavlova lutheri,14.5,14.5,False
+KC,Phaeodactylum tricornutum,Phaeodactylum tricornutum,27.9,27.9,False
+KC,Phaseolus carteri,Phaseolus carteri,14.2,14.2,False
+KC,Phaseolus coccineus,Phaseolus coccineus,15.6,15.6,False
+KC,Phaseolus lunatus,Phaseolus lunatus,17.3,17.3,False
+KC,Phaseolus vulgaris ,Phaseolus vulgaris,7.8,14.0,True
+KC,Phaseolus vulgaris ,Phaseolus vulgaris,7.8,14.0,True
+KC,Platycerium superbum,Platycerium superbum,12.4,12.4,False
+KC,Pleurochrysis carterae,Pleurochrysis carterae,17.7,17.7,False
+KC,Poa palustris,Poa palustris,19.2,19.2,False
+KC,Polypodium aureum,Polypodium aureum,16.1,16.1,False
+KC,Porphyridium purpureum,Porphyridium purpureum,22.0,22.0,False
+KC,Prochlorococcus marinus MIT9313,Prochlorococcus marinus,529.5,529.5,False
+KC,Pteridium aquilinum,Pteridium aquilinum,13.9,13.9,False
+KC,Puccinellia distans,Puccinellia distans,22.2,22.2,False
+KC,Puccinellia lemmonii,Puccinellia lemmonii,28.1,28.1,False
+KC,Puccinellia maritima,Puccinellia maritima,20.8,20.8,False
+KC,Puccinellia nuttalliana,Puccinellia nuttalliana,25.2,25.2,False
+KC,Pueraria montana,Pueraria montana,20.9,20.9,False
+KC,Rhodopseudomonas palustris,Rhodopseudomonas palustris,104.0,104.0,False
+KC,Riftia pachyptila endosymbiont,Riftia pachyptila endosymbiont,239.0,239.0,False
+KC,Saccharum officinarum,Saccharum officinarum,26.3,26.3,False
+KC,Sarracenia flava,Sarracenia flava,12.6,12.6,False
+KC,Scenedesmus obliquus,Scenedesmus obliquus,38.0,38.0,False
+KC,Setaria italica,Setaria italica,32.1,32.1,False
+KC,Setaria viridis,Setaria viridis,18.1,18.1,False
+KC,Sideritis cretica subsp. spicata,Sideritis cretica,7.8,7.8,False
+KC,Solanum lycopersicum,Solanum lycopersicum,9.7,9.7,False
+KC,Solanum tuberosum,Solanum tuberosum,9.6,9.6,False
+KC,Sorghum bicolor,Sorghum bicolor,29.8,29.8,False
+KC,Sphenostylis stenocarpa,Sphenostylis stenocarpa,17.4,17.4,False
+KC,Spinacia oleracea,Spinacia oleracea,12.1,12.1,False
+KC,Steinchisma laxa,Steinchisma laxa,7.7,7.7,False
+KC,Synechococcus 6301,Synechococcus 6301,175.0,175.0,False
+KC,Synechococcus 7002,Synechococcus 7002,185.0,185.0,False
+KC,Synechococcus elongatus PCC 7942,Synechococcus elongatus,172.0,172.0,False
+KC,Tephrosia candida,Tephrosia candida,15.9,15.9,False
+KC,Tephrosia purpurea,Tephrosia purpurea,12.4,12.4,False
+KC,Tephrosia rhodesica,Tephrosia rhodesica,13.7,13.7,False
+KC,Teucrium heterophyllum,Teucrium heterophyllum,6.7,6.7,False
+KC,Thalassiosira weissflogii,Thalassiosira weissflogii,31.5,31.5,False
+KC,Tisochrysis lutea,Tisochrysis lutea,24.1,24.1,False
+KC,Trachycarpus fortunei,Trachycarpus fortunei,9.0,9.0,False
+KC,Triticum aestivum,Triticum aestivum,12.65,11.3,True
+KC,Triticum baeoticum,Triticum baeoticum,19.7,19.7,False
+KC,Urochloa mosambicensis,Urochloa mosambicensis,14.8,14.8,False
+KC,Urochloa panicoides,Urochloa panicoides,15.4,15.4,False
+KC,Zea mays ,Zea mays,21.2,31.6,True
+KC,Zea mays ,Zea mays,21.2,31.6,True
+KO,Aegilops biuncialis,Aegilops biuncialis,470.0,470.0,False
+KO,Aegilops comosa,Aegilops comosa,360.0,360.0,False
+KO,Aegilops cylindrica,Aegilops cylindrica,451.0,451.0,False
+KO,Aegilops juvenalis,Aegilops juvenalis,492.0,492.0,False
+KO,Aegilops speltoides,Aegilops speltoides,447.0,447.0,False
+KO,Aegilops tauschii,Aegilops tauschii,495.0,495.0,False
+KO,Aegilops triuncialis,Aegilops triuncialis,380.0,380.0,False
+KO,Aegilops uniaristata,Aegilops uniaristata,450.0,450.0,False
+KO,Aegilops vavilovii,Aegilops vavilovii,363.0,363.0,False
+KO,Agave victoriae−reginae,Agave victoriae−reginae,400.0,400.0,False
+KO,Agriophyllum squarrosum,Agriophyllum squarrosum,339.0,339.0,False
+KO,Agrostis scabra,Agrostis scabra,653.0,653.0,False
+KO,Agrostis stolonifera,Agrostis stolonifera,802.0,802.0,False
+KO,Allochromatium vinosum,Allochromatium vinosum,290.0,290.0,False
+KO,Amaranthus hybridus,Amaranthus hybridus,640.0,640.0,False
+KO,Amphicarpaea bracteata,Amphicarpaea bracteata,693.0,693.0,False
+KO,Aphanizomenon flos aquae,Aphanizomenon flos aquae,990.0,990.0,False
+KO,Arabidopsis thaliana,Arabidopsis thaliana,333.0,333.0,False
+KO,Archaeoglobus fulgidus,Archaeoglobus fulgidus,5.0,5.0,False
+KO,Arctagrostis latifolia,Arctagrostis latifolia,497.0,497.0,False
+KO,Artemisia myriantha,Artemisia myriantha,844.0,844.0,False
+KO,Artemisia vulgaris L.,Artemisia vulgaris,626.0,626.0,False
+KO,Atrichum undulatum,Atrichum undulatum,806.0,806.0,False
+KO,Atriplex glabriuscula,Atriplex glabriuscula,328.0,328.0,False
+KO,Bromus anomalus,Bromus anomalus,494.0,494.0,False
+KO,Calamagrostis arundinacea,Calamagrostis arundinacea,614.0,614.0,False
+KO,Calamagrostis canescens,Calamagrostis canescens,594.0,594.0,False
+KO,Calamagrostis foliosa,Calamagrostis foliosa,330.0,330.0,False
+KO,Calamagrostis inexpansa,Calamagrostis inexpansa,608.0,608.0,False
+KO,Calamagrostis nutkaensis,Calamagrostis nutkaensis,601.0,601.0,False
+KO,Carpobrotus edulis,Carpobrotus edulis,313.0,313.0,False
+KO,Cenchrus ciliaris,Cenchrus ciliaris,470.0,470.0,False
+KO,Ceratophyllum demersum,Ceratophyllum demersum,317.0,317.0,False
+KO,Chenopodium murale,Chenopodium murale,354.0,354.0,False
+KO,Chenopodium rubrum,Chenopodium rubrum,346.0,346.0,False
+KO,Chlamydomonas reinhardtii,Chlamydomonas reinhardtii,480.0,480.0,False
+KO,Citrullus ecirrhosus,Citrullus ecirrhosus,544.0,544.0,False
+KO,Citrullus lanatus var. lanatus,Citrullus lanatus,510.0,510.0,False
+KO,Coccochloris peniocystis,Coccochloris peniocystis,1220.0,1220.0,False
+KO,Crithmum maritimum,Crithmum maritimum,183.0,183.0,False
+KO,Cycas panzhihuaensis,Cycas panzhihuaensis,525.0,525.0,False
+KO,Cylindrotheca N1,Cylindrotheca N1,960.5,960.5,False
+KO,Deschampsia danthonioides,Deschampsia danthonioides,580.0,580.0,False
+KO,Desmodium cinereum,Desmodium cinereum,403.0,403.0,False
+KO,Desmodium intortum,Desmodium intortum,394.0,394.0,False
+KO,Desmodium psilocarpum,Desmodium psilocarpum,452.0,452.0,False
+KO,Drosera capensis,Drosera capensis,327.0,327.0,False
+KO,Drosera venusta,Drosera venusta,348.0,348.0,False
+KO,Echeveria elegans,Echeveria elegans,236.0,236.0,False
+KO,Elymus farctus,Elymus farctus,300.0,300.0,False
+KO,Eragrostis tef,Eragrostis tef,640.0,640.0,False
+KO,Erythrina flabelliformis,Erythrina flabelliformis,665.0,665.0,False
+KO,Euglena gracilis,Euglena gracilis,410.0,410.0,False
+KO,Euphorbia helioscopia,Euphorbia helioscopia,453.0,453.0,False
+KO,Euphorbia microsphaera,Euphorbia microsphaera,546.0,546.0,False
+KO,Festuca gigantea,Festuca gigantea,595.0,595.0,False
+KO,Flaveria anomala ,Flaveria anomala,605.0,605.0,False
+KO,Flaveria australasica,Flaveria australasica,309.0,309.0,False
+KO,Flaveria bidentis ,Flaveria bidentis,639.0,529.5,True
+KO,Flaveria bidentis ,Flaveria bidentis,639.0,529.5,True
+KO,Flaveria cronquistii ,Flaveria cronquistii,653.0,653.0,False
+KO,Flaveria cronquistii ,Flaveria cronquistii,653.0,653.0,False
+KO,Flaveria floridana ,Flaveria floridana,686.0,530.0,True
+KO,Flaveria floridana ,Flaveria floridana,686.0,530.0,True
+KO,Flaveria kochiana,Flaveria kochiana,150.0,150.0,False
+KO,Flaveria linearis ,Flaveria linearis,415.0,415.0,False
+KO,Flaveria palmeri ,Flaveria palmeri,193.0,193.0,False
+KO,Flaveria pringlei,Flaveria pringlei,666.0,666.0,False
+KO,Flaveria ramosissima ,Flaveria ramosissima,722.0,722.0,False
+KO,Flaveria sonorensis ,Flaveria sonorensis,785.0,785.0,False
+KO,Flaveria trinervia ,Flaveria trinervia,671.0,671.0,False
+KO,Flaveria trinervia ,Flaveria trinervia,671.0,671.0,False
+KO,Flaveria vaginata ,Flaveria vaginata,880.0,880.0,False
+KO,Flueggea suffruticosa,Flueggea suffruticosa,547.0,547.0,False
+KO,Foeniculum vulgare,Foeniculum vulgare,512.0,512.0,False
+KO,Glycine canescens,Glycine canescens,587.0,587.0,False
+KO,Glycine max,Glycine max,545.0,405.0,True
+KO,Glycine max cv. Wayne,Glycine max,390.0,405.0,True
+KO,Hordeum brachyantherum,Hordeum brachyantherum,371.0,371.0,False
+KO,Hordeum murinum,Hordeum murinum,511.0,511.0,False
+KO,Iris douglasiana,Iris douglasiana,413.0,413.0,False
+KO,Lablab purpureus,Lablab purpureus,556.0,556.0,False
+KO,Lepidium campestre,Lepidium campestre,336.0,336.0,False
+KO,Limonium antonii‐llorensii,Limonium antonii‐llorensii,397.0,397.0,False
+KO,Limonium artruchium,Limonium artruchium,321.0,321.0,False
+KO,Limonium balearicum,Limonium balearicum,346.0,346.0,False
+KO,Limonium barceloi,Limonium barceloi,346.0,346.0,False
+KO,Limonium biflorum,Limonium biflorum,316.0,316.0,False
+KO,Limonium companyonis,Limonium companyonis,429.0,429.0,False
+KO,Limonium echioides,Limonium echioides,427.0,427.0,False
+KO,Limonium ejulabilis,Limonium ejulabilis,415.0,415.0,False
+KO,Limonium gibertii,Limonium gibertii,431.0,431.0,False
+KO,Limonium grosii,Limonium grosii,328.0,328.0,False
+KO,Limonium gymnesicum,Limonium gymnesicum,388.0,388.0,False
+KO,Limonium latebracteatum,Limonium latebracteatum,344.0,344.0,False
+KO,Limonium leonardi‐llorensii,Limonium leonardi‐llorensii,438.0,438.0,False
+KO,Limonium magallufianum,Limonium magallufianum,297.0,297.0,False
+KO,Limonium retusum,Limonium retusum,396.0,396.0,False
+KO,Limonium stenophyllum,Limonium stenophyllum,457.0,457.0,False
+KO,Limonium virgatum,Limonium virgatum,381.0,381.0,False
+KO,Lolium multiflorum,Lolium multiflorum,740.0,740.0,False
+KO,Lolium perenne,Lolium perenne,500.0,500.0,False
+KO,Lolium rigidum,Lolium rigidum,520.0,520.0,False
+KO,Macrotyloma uniflorum,Macrotyloma uniflorum,519.0,519.0,False
+KO,Manihot esculenta,Manihot esculenta,566.0,566.0,False
+KO,Marchantia polymorpha,Marchantia polymorpha,565.0,565.0,False
+KO,Megathyrsus maximus,Megathyrsus maximus,265.0,265.0,False
+KO,Mercurialis annua,Mercurialis annua,417.0,417.0,False
+KO,Metasequoia glyptostroboides,Metasequoia glyptostroboides,561.0,561.0,False
+KO,Musa velutina,Musa velutina,564.0,564.0,False
+KO,Nicotiana tabacum,Nicotiana tabacum,292.0,295.0,True
+KO,Nicotiana tabacum L. cv. W38,Nicotiana tabacum,269.5,295.0,True
+KO,Nicotiana tabacum cv. W38,Nicotiana tabacum,278000.0,295.0,True
+KO,Nymphaea alba,Nymphaea alba,438.0,438.0,False
+KO,Olisthodiscus luteus,Olisthodiscus luteus,692.0,692.0,False
+KO,Oryza barthii/glaberrima,Oryza barthii/glaberrima,479.0,479.0,False
+KO,Oryza eichingeri,Oryza eichingeri,612.0,612.0,False
+KO,Oryza glumaepatula,Oryza glumaepatula,484.0,484.0,False
+KO,Oryza longistaminata,Oryza longistaminata,757.0,757.0,False
+KO,Oryza meridionalis,Oryza meridionalis,382.0,382.0,False
+KO,Oryza punctata,Oryza punctata,342.0,342.0,False
+KO,P. dilatatum,P. dilatatum,415.0,415.0,False
+KO,Pallenis maritima,Pallenis maritima,321.0,321.0,False
+KO,Panicum amarum,Panicum amarum,800.0,800.0,False
+KO,Panicum bisulcatum,Panicum bisulcatum,416.0,416.0,False
+KO,Panicum coloratum,Panicum coloratum,445.0,445.0,False
+KO,Panicum deustum,Panicum deustum,306.0,306.0,False
+KO,Panicum dichotomiflorum,Panicum dichotomiflorum,1540.0,1540.0,False
+KO,Panicum milioides,Panicum milioides,387.0,387.0,False
+KO,Panicum monticola,Panicum monticola,543.0,543.0,False
+KO,Panicum phragmitoides,Panicum phragmitoides,687.0,687.0,False
+KO,Panicum virgatum,Panicum virgatum,271.0,271.0,False
+KO,Pavlova lutheri,Pavlova lutheri,1150.0,1150.0,False
+KO,Phaeodactylum tricornutum,Phaeodactylum tricornutum,467.0,467.0,False
+KO,Phaseolus carteri,Phaseolus carteri,422.0,422.0,False
+KO,Phaseolus coccineus,Phaseolus coccineus,491.0,491.0,False
+KO,Phaseolus lunatus,Phaseolus lunatus,537.0,537.0,False
+KO,Platycerium superbum,Platycerium superbum,459.0,459.0,False
+KO,Pleurochrysis carterae,Pleurochrysis carterae,366.0,366.0,False
+KO,Poa palustris,Poa palustris,562.0,562.0,False
+KO,Prochlorococcus marinus MIT9313,Prochlorococcus marinus,1400.0,1400.0,False
+KO,Pteridium aquilinum,Pteridium aquilinum,391.0,391.0,False
+KO,Puccinellia distans,Puccinellia distans,488.0,488.0,False
+KO,Puccinellia lemmonii,Puccinellia lemmonii,1120.0,1120.0,False
+KO,Puccinellia maritima,Puccinellia maritima,676.0,676.0,False
+KO,Puccinellia nuttalliana,Puccinellia nuttalliana,717.0,717.0,False
+KO,Pueraria montana,Pueraria montana,679.0,679.0,False
+KO,Rhodopseudomonas palustris,Rhodopseudomonas palustris,277.0,277.0,False
+KO,Sarracenia flava,Sarracenia flava,426.0,426.0,False
+KO,Scenedesmus obliquus,Scenedesmus obliquus,660.0,660.0,False
+KO,Setaria viridis,Setaria viridis,619.0,619.0,False
+KO,Sideritis cretica subsp. spicata,Sideritis cretica,328.0,328.0,False
+KO,Sphenostylis stenocarpa,Sphenostylis stenocarpa,574.0,574.0,False
+KO,Spinacia oleracea,Spinacia oleracea,520.0,520.0,False
+KO,Steinchisma laxa,Steinchisma laxa,419.0,419.0,False
+KO,Synechococcus 6301,Synechococcus 6301,565.0,565.0,False
+KO,Synechococcus elongatus PCC 7942,Synechococcus elongatus,585.0,585.0,False
+KO,Tephrosia candida,Tephrosia candida,481.0,481.0,False
+KO,Tephrosia purpurea,Tephrosia purpurea,333.0,333.0,False
+KO,Tephrosia rhodesica,Tephrosia rhodesica,565.0,565.0,False
+KO,Teucrium heterophyllum,Teucrium heterophyllum,359.0,359.0,False
+KO,Tisochrysis lutea,Tisochrysis lutea,800.0,800.0,False
+KO,Trachycarpus fortunei,Trachycarpus fortunei,364.0,364.0,False
+KO,Triticum aestivum,Triticum aestivum,658.0,536.0,True
+KO,Triticum baeoticum,Triticum baeoticum,905.0,905.0,False
+KO,Urochloa mosambicensis,Urochloa mosambicensis,464.0,464.0,False
+KO,Urochloa panicoides,Urochloa panicoides,444.0,444.0,False
+KO,Zea mays ,Zea mays,157.0,483.5,True
+KO,Zea mays ,Zea mays,157.0,483.5,True
+vO,Aegilops biuncialis,Aegilops biuncialis,0.93,0.93,False
+vO,Aegilops comosa,Aegilops comosa,0.73,0.73,False
+vO,Aegilops cylindrica,Aegilops cylindrica,1.11,1.11,False
+vO,Aegilops juvenalis,Aegilops juvenalis,0.86,0.86,False
+vO,Aegilops speltoides,Aegilops speltoides,0.97,0.97,False
+vO,Aegilops tauschii,Aegilops tauschii,0.89,0.89,False
+vO,Aegilops triuncialis,Aegilops triuncialis,0.76,0.76,False
+vO,Aegilops uniaristata,Aegilops uniaristata,0.98,0.98,False
+vO,Aegilops vavilovii,Aegilops vavilovii,0.83,0.83,False
+vO,Allochromatium vinosum,Allochromatium vinosum,1.28,1.28,False
+vO,Arabidopsis thaliana,Arabidopsis thaliana,1.38,1.38,False
+vO,Archaeoglobus fulgidus,Archaeoglobus fulgidus,0.566,0.566,False
+vO,Atriplex glabriuscula,Atriplex glabriuscula,2.51,2.51,False
+vO,Cenchrus ciliaris,Cenchrus ciliaris,2.1,2.1,False
+vO,Cylindrotheca N1,Cylindrotheca N1,0.308,0.308,False
+vO,Flaveria pringlei,Flaveria pringlei,1.0,1.0,False
+vO,Megathyrsus maximus,Megathyrsus maximus,1.3,1.3,False
+vO,Nicotiana tabacum,Nicotiana tabacum,1.14,1.14,False
+vO,Olisthodiscus luteus,Olisthodiscus luteus,0.0969,0.0969,False
+vO,Panicum bisulcatum,Panicum bisulcatum,1.6,1.6,False
+vO,Panicum coloratum,Panicum coloratum,1.6,1.6,False
+vO,Panicum deustum,Panicum deustum,1.2,1.2,False
+vO,Panicum milioides,Panicum milioides,1.3,1.3,False
+vO,Panicum monticola,Panicum monticola,2.0,2.0,False
+vO,Panicum virgatum,Panicum virgatum,0.9,0.9,False
+vO,Pavlova lutheri,Pavlova lutheri,1.6,1.6,False
+vO,Phaeodactylum tricornutum,Phaeodactylum tricornutum,0.504,0.504,False
+vO,Pleurochrysis carterae,Pleurochrysis carterae,0.7,0.7,False
+vO,Prochlorococcus marinus MIT9313,Prochlorococcus marinus,0.78,0.78,False
+vO,Rhodopseudomonas palustris,Rhodopseudomonas palustris,1.09,1.09,False
+vO,Setaria viridis,Setaria viridis,2.8,2.8,False
+vO,Steinchisma laxa,Steinchisma laxa,1.4,1.4,False
+vO,Synechococcus 6301,Synechococcus 6301,0.287,0.287,False
+vO,Synechococcus elongatus PCC 7942,Synechococcus elongatus,1.22,1.22,False
+vO,Tisochrysis lutea,Tisochrysis lutea,0.8,0.8,False
+vO,Triticum aestivum,Triticum aestivum,1.33,1.33,False
+vO,Urochloa mosambicensis,Urochloa mosambicensis,2.2,2.2,False
+vO,Urochloa panicoides,Urochloa panicoides,2.1,2.1,False
+KRuBP,Allochromatium vinosum,Allochromatium vinosum,14.0,14.0,False
+KRuBP,Archaeoglobus fulgidus,Archaeoglobus fulgidus,20.0,20.0,False
+KRuBP,Atriplex glabriuscula,Atriplex glabriuscula,24.5,24.5,False
+KRuBP,Cyanobium PCC7001,Cyanobium PCC7001,37.0,37.0,False
+KRuBP,Cylindrotheca N1,Cylindrotheca N1,8.7,8.7,False
+KRuBP,Flaveria angustifolia ,Flaveria angustifolia,20.2,21.5,True
+KRuBP,Flaveria angustifolia ,Flaveria angustifolia,20.2,21.5,True
+KRuBP,Flaveria anomala ,Flaveria anomala,17.6,17.6,False
+KRuBP,Flaveria australasica,Flaveria australasica,14.7,14.7,False
+KRuBP,Flaveria bidentis ,Flaveria bidentis,18.7,20.1,True
+KRuBP,Flaveria bidentis ,Flaveria bidentis,18.7,20.1,True
+KRuBP,Flaveria cronquistii ,Flaveria cronquistii,20.2,21.25,True
+KRuBP,Flaveria cronquistii ,Flaveria cronquistii,20.2,21.25,True
+KRuBP,Flaveria floridana ,Flaveria floridana,17.299999999999997,17.299999999999997,False
+KRuBP,Flaveria floridana ,Flaveria floridana,17.299999999999997,17.299999999999997,False
+KRuBP,Flaveria kochiana,Flaveria kochiana,14.3,14.3,False
+KRuBP,Flaveria linearis ,Flaveria linearis,19.5,19.5,False
+KRuBP,Flaveria palmeri ,Flaveria palmeri,16.7,16.7,False
+KRuBP,Flaveria pringlei,Flaveria pringlei,20.8,20.8,False
+KRuBP,Flaveria ramosissima ,Flaveria ramosissima,9.4,9.4,False
+KRuBP,Flaveria sonorensis ,Flaveria sonorensis,20.3,20.3,False
+KRuBP,Flaveria trinervia ,Flaveria trinervia,22.1,21.450000000000003,True
+KRuBP,Flaveria trinervia ,Flaveria trinervia,22.1,21.450000000000003,True
+KRuBP,Flaveria vaginata ,Flaveria vaginata,16.9,16.9,False
+KRuBP,Griffithsia monilis,Griffithsia monilis,44.0,44.0,False
+KRuBP,Nicotiana tabacum,Nicotiana tabacum,18.8,18.8,False
+KRuBP,Olisthodiscus luteus,Olisthodiscus luteus,23.5,23.5,False
+KRuBP,Phaeodactylum tricornutum,Phaeodactylum tricornutum,56.0,56.0,False
+KRuBP,Rhodopseudomonas palustris,Rhodopseudomonas palustris,10.0,10.0,False
+KRuBP,Spinacia oleracea,Spinacia oleracea,14.1,14.1,False
+KRuBP,Synechococcus 6301,Synechococcus 6301,21.6,21.6,False
+KRuBP,Synechococcus 7002,Synechococcus 7002,69.6,69.6,False
+KRuBP,Zea mays ,Zea mays,26.2,26.2,False
+KRuBP,Zea mays ,Zea mays,26.2,26.2,False

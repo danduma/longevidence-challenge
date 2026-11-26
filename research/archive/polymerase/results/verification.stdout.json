@@ -1,0 +1,107 @@
+{
+  "source_doi": "10.1261/rna.078686.121",
+  "table": "Table 1",
+  "table_image_visually_checked": "sources/thg1-table1.jpg",
+  "transcribed_data_sha256": "11b659fc1fd30c11d2d57df7b9e974e0b1de128d06b8c128f9d19b8fe15976c1",
+  "independent_methods": "numpy eigensystem and scipy HiGHS LP feasibility bisection",
+  "cases": [
+    {
+      "censored_C_template_G_efficiency_assumption": 10.0,
+      "eigenvalue_minimax_probability": 0.9283492610279933,
+      "independent_LP_minimax_probability": 0.9283492627566297,
+      "LP_eigenvalue_difference": 1.7286363451773923e-09,
+      "99_percent_feasible_under_model": false
+    },
+    {
+      "censored_C_template_G_efficiency_assumption": 100.0,
+      "eigenvalue_minimax_probability": 0.9411478067757066,
+      "independent_LP_minimax_probability": 0.9411478089037217,
+      "LP_eigenvalue_difference": 2.1280150974689604e-09,
+      "99_percent_feasible_under_model": false
+    },
+    {
+      "censored_C_template_G_efficiency_assumption": 10000.0,
+      "eigenvalue_minimax_probability": 0.9429430523275815,
+      "independent_LP_minimax_probability": 0.9429430545371957,
+      "LP_eigenvalue_difference": 2.20961426933286e-09,
+      "99_percent_feasible_under_model": false
+    }
+  ],
+  "principal_submatrix_probability_upper_bound_for_any_censored_correct_G_rate": 0.942961809007026,
+  "two_template_probability_upper_bound": 0.9769236850127244,
+  "two_template_required_ratio_product_for_99_percent": 5.468673913043479,
+  "favorable_parameter_rectangle_sensitivity": [
+    {
+      "multiplier_of_reported_plus_minus_magnitudes": 0,
+      "minimum_offdiagonal_matrix": [
+        [
+          0.0,
+          0.0048463029631680985,
+          0.030026423252462166
+        ],
+        [
+          0.11594202898550726,
+          0.0,
+          0.008112094395280236
+        ],
+        [
+          0.0831168831168831,
+          0.00818181818181818,
+          0.0
+        ]
+      ],
+      "upper_bound_uniform_correct_probability": 0.9430301542645166,
+      "interpretation": "Deterministic favorable-parameter envelope, not a statistical interval; efficiencies recomputed from kpol and KD."
+    },
+    {
+      "multiplier_of_reported_plus_minus_magnitudes": 1,
+      "minimum_offdiagonal_matrix": [
+        [
+          0.0,
+          0.0019993550467591104,
+          0.015141540487162609
+        ],
+        [
+          0.06487434248977206,
+          0.0,
+          0.004102450382525779
+        ],
+        [
+          0.03907563025210084,
+          0.0025974025974025974,
+          0.0
+        ]
+      ],
+      "upper_bound_uniform_correct_probability": 0.9719705369886648,
+      "interpretation": "Deterministic favorable-parameter envelope, not a statistical interval; efficiencies recomputed from kpol and KD."
+    },
+    {
+      "multiplier_of_reported_plus_minus_magnitudes": 2,
+      "minimum_offdiagonal_matrix": [
+        [
+          0.0,
+          0.000726196880043034,
+          0.006384919428397689
+        ],
+        [
+          0.0358187134502924,
+          0.0,
+          0.0020933014354066986
+        ],
+        [
+          0.013186813186813187,
+          0.0006688963210702341,
+          0.0
+        ]
+      ],
+      "upper_bound_uniform_correct_probability": 0.9888577273224246,
+      "interpretation": "Deterministic favorable-parameter envelope, not a statistical interval; efficiencies recomputed from kpol and KD."
+    }
+  ],
+  "limitations": [
+    "Dilute mutually exclusive substrate capture proportional to the published kpol/KD values is assumed.",
+    "The experiment measured single additions on preactivated tRNA substrates, not processive arbitrary-template synthesis.",
+    "Rounded point estimates are used; the bound is not a statistical confidence limit.",
+    "This does not apply automatically to Thg1-like proteins, alternative conditions, proofreading, or engineered variants."
+  ]
+}

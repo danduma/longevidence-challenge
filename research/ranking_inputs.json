@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-26",
+  "dimensions": ["data", "tractability", "impact", "validation"],
+  "aggregation": "Per-dimension median of three independent CLI scout judgments, then a common weighted sum. Ordinal judgments, not measured probabilities.",
+  "astra_source": "agents/scout-prior-art-astra/report.md, Ranking table",
+  "astra_scores_by_official_id": {
+    "1": [2, 2, 5, 1], "2": [4, 5, 5, 3], "3": [3, 3, 5, 2],
+    "4": [5, 5, 5, 4], "5": [4, 5, 4, 3], "6": [5, 3, 5, 2],
+    "7": [2, 1, 5, 2], "8": [5, 3, 4, 3], "9": [4, 3, 5, 2],
+    "10": [1, 1, 5, 1], "11": [3, 3, 4, 3], "12": [3, 2, 5, 2]
+  },
+  "weight_scenarios": {
+    "primary": [0.35, 0.30, 0.20, 0.15],
+    "equal": [0.25, 0.25, 0.25, 0.25],
+    "data_emphasis": [0.50, 0.20, 0.20, 0.10],
+    "validation_emphasis": [0.20, 0.20, 0.15, 0.45]
+  },
+  "tie_policy": "Equal composite scores retain equal competition ranks; presentation order uses validation, tractability, official ID. A tie at the third place must be reported.",
+  "caveats": [
+    "Scouts share much primary literature and are not independent experimental replications.",
+    "Their definitions of tractability and validation emphasize different computational subproblems; median aggregation is a decision aid, not a measurement model.",
+    "A high score means useful bounded computational work is plausible; it does not estimate probability of solving the full experimental challenge."
+  ]
+}

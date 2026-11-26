@@ -1,0 +1,7 @@
+exclusion,n,excess_sq
+all_barcodes_author_backbone_excluded,369,2.0676866851164775
+at_or_above_positive_control,3,0.018736963688691394
+corrected_min_below100,22,0.001234538557980909
+discordant_duplicate_ge3,9,0.0005802946139085181
+no_barcode_depth20_after_backbone,1,0.00828737354138287
+retained_depth100,9614,1.7358807890924024

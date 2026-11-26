@@ -1,0 +1,40 @@
+{
+  "recorded_at": "2026-11-26T12:51:42.510026+00:00",
+  "command": "./reproduce.sh in agents/cryo-robust-astra",
+  "exit_code": 0,
+  "checkpoint_note": "Checkpoint was captured during rerun; sweep was an interim table then. Every final selected artifact now matches the original completed worker manifest exactly. Full fresh execution and numerical/physical consistency checks pass.",
+  "checkpoint_match": {
+    "baselines.csv": true,
+    "sweep.csv": false,
+    "refinement.csv": true,
+    "split_fine.csv": true,
+    "local_tolerance.csv": true,
+    "loading_boundary.csv": true,
+    "independent.csv": true,
+    "analytic.csv": true,
+    "assay_bound.json": true
+  },
+  "sha256": {
+    "baselines.csv": "5eaafd1fff9de7523a986ccb25abfa9e3e8b8e5ae23bb129a8374fb3b36af2d6",
+    "sweep.csv": "b7b63982549dc52850f0a0b43aab6d40fdb4ed768e537c7076227138ada71a33",
+    "refinement.csv": "782141fb93c471ca681b00588e264727787cea7c98968e80f29bbf23794635bf",
+    "split_fine.csv": "540b395adb4ebcd4d2f94d2ccbd8efb76658953058d18f31f6764e66cfba3770",
+    "local_tolerance.csv": "818c6a10e4f870efa6f9183834af9bf11fdff097850a8c6d5091c269b8bdb69d",
+    "loading_boundary.csv": "a1303f024d7328197153efce223017085beb37b189b9a6876e0642b9096d27e7",
+    "independent.csv": "be7ff854af1d8e74479ce3d379c0f5a6f82c40cfae695c6a4e7c73bcd2912d9d",
+    "analytic.csv": "d9b975b859981e034228542b97dacd09b5df98230111bb3a64228950bdacdfda",
+    "assay_bound.json": "d23dd900edbdb16996f180247ac1b5370a6f6fd2f300f18210fd0d54047b0ed5"
+  },
+  "final_checks": "Pinned upstream, preregistration hash and original publisher bytes verified.\n70 baseline metrics verified; max abs discrepancy 9.00968188943807e-12\n180 thermal runs; max enthalpy discrepancy 0.0005600270210879277\nVerified eight-grid clamped comparison, 12 loading-bracket runs, 18 equal-mean tolerance runs and four sub-0.35-mm split runs.\nIndependent RK2, analytic quadrature, assay bound, six raw traces and document links verified.\n",
+  "original_worker_manifest_match": {
+    "outputs/baselines.csv": true,
+    "outputs/sweep.csv": true,
+    "outputs/refinement.csv": true,
+    "outputs/split_fine.csv": true,
+    "outputs/local_tolerance.csv": true,
+    "outputs/loading_boundary.csv": true,
+    "outputs/independent.csv": true,
+    "outputs/analytic.csv": true,
+    "outputs/assay_bound.json": true
+  }
+}

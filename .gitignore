@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+.DS_Store
+research/cryopreservation/independent
+research/cryopreservation/results/

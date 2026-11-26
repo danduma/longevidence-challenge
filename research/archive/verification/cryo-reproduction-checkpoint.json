@@ -1,0 +1,14 @@
+{
+  "observed_at": "2026-11-26T12:39:07.143501+00:00",
+  "files": {
+    "baselines.csv": "5eaafd1fff9de7523a986ccb25abfa9e3e8b8e5ae23bb129a8374fb3b36af2d6",
+    "sweep.csv": "3a03f4fe665e6477117619187d11e1e344334e8bd0a673068fa418aec76293f0",
+    "refinement.csv": "782141fb93c471ca681b00588e264727787cea7c98968e80f29bbf23794635bf",
+    "split_fine.csv": "540b395adb4ebcd4d2f94d2ccbd8efb76658953058d18f31f6764e66cfba3770",
+    "local_tolerance.csv": "818c6a10e4f870efa6f9183834af9bf11fdff097850a8c6d5091c269b8bdb69d",
+    "loading_boundary.csv": "a1303f024d7328197153efce223017085beb37b189b9a6876e0642b9096d27e7",
+    "independent.csv": "be7ff854af1d8e74479ce3d379c0f5a6f82c40cfae695c6a4e7c73bcd2912d9d",
+    "analytic.csv": "d9b975b859981e034228542b97dacd09b5df98230111bb3a64228950bdacdfda",
+    "assay_bound.json": "d23dd900edbdb16996f180247ac1b5370a6f6fd2f300f18210fd0d54047b0ed5"
+  }
+}

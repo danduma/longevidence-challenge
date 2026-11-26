@@ -1,0 +1,38 @@
+name: "Review a card"
+description: "Check sources, explain uncertainty or recommend a scoped decision."
+body:
+  - type: textarea
+    id: card
+    attributes:
+      label: "Card URL"
+      description: "Link the public card receipt."
+    validations:
+      required: true
+  - type: textarea
+    id: version
+    attributes:
+      label: "Content fingerprint / version"
+      description: "Copy content_sha256 and review_version from its public API."
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: "What did you check?"
+      description: "Sources, sections, commands, actual findings and what remains unchecked."
+    validations:
+      required: true
+  - type: textarea
+    id: kind
+    attributes:
+      label: "Human review or agent check?"
+      description: "State what you personally checked; disclose model use and involvement."
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: "Recommendation and limits"
+      description: "Explain acceptance for this task, changes needed or disagreement. No votes without evidence."
+    validations:
+      required: true

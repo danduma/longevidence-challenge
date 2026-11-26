@@ -1,0 +1,148 @@
+{
+  "seed": 20261126,
+  "annealing_steps": 120000,
+  "codes": {
+    "padded_artificial_20AA": {
+      "sense_codons": 256,
+      "amino_acids": 20,
+      "position_change_including_erasure": [
+        1.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      "position_erasure_probability": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "conditional_amino_acid_entropy_given_other_3_bases_bits": [
+        2.0,
+        2.0,
+        2.0,
+        0.0
+      ],
+      "ambiguous_three_base_keys_by_deleted_position": [
+        64,
+        64,
+        64,
+        0
+      ],
+      "shifted_window_sense_acceptance_1_2_3": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "weighting": "uniform over sense codons; uniform substitutions; independent uniform codon pairs"
+    },
+    "sparse_parity_20AA": {
+      "sense_codons": 20,
+      "amino_acids": 20,
+      "position_change_including_erasure": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "position_erasure_probability": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "conditional_amino_acid_entropy_given_other_3_bases_bits": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ambiguous_three_base_keys_by_deleted_position": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "shifted_window_sense_acceptance_1_2_3": [
+        0.24,
+        0.08,
+        0.1125
+      ],
+      "weighting": "uniform over sense codons; uniform substitutions; independent uniform codon pairs"
+    },
+    "rotation_dense_initial": {
+      "sense_codons": 240,
+      "amino_acids": 20,
+      "position_change_including_erasure": [
+        0.9666666666666667,
+        0.9666666666666667,
+        0.9666666666666667,
+        0.9666666666666667
+      ],
+      "position_erasure_probability": [
+        0.06666666666666667,
+        0.06666666666666667,
+        0.06666666666666667,
+        0.06666666666666667
+      ],
+      "conditional_amino_acid_entropy_given_other_3_bases_bits": [
+        1.8169925001442326,
+        1.816992500144232,
+        1.8169925001442324,
+        1.8169925001442326
+      ],
+      "ambiguous_three_base_keys_by_deleted_position": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "shifted_window_sense_acceptance_1_2_3": [
+        0.95,
+        0.9375,
+        0.95
+      ],
+      "weighting": "uniform over sense codons; uniform substitutions; independent uniform codon pairs"
+    },
+    "rotation_dense_optimized": {
+      "sense_codons": 240,
+      "amino_acids": 20,
+      "position_change_including_erasure": [
+        0.8166666666666667,
+        0.8166666666666667,
+        0.8166666666666667,
+        0.8166666666666667
+      ],
+      "position_erasure_probability": [
+        0.06666666666666667,
+        0.06666666666666667,
+        0.06666666666666667,
+        0.06666666666666667
+      ],
+      "conditional_amino_acid_entropy_given_other_3_bases_bits": [
+        1.46037593748197,
+        1.4603759374819716,
+        1.4603759374819718,
+        1.46037593748197
+      ],
+      "ambiguous_three_base_keys_by_deleted_position": [
+        63,
+        63,
+        63,
+        63
+      ],
+      "shifted_window_sense_acceptance_1_2_3": [
+        0.95,
+        0.9375,
+        0.95
+      ],
+      "weighting": "uniform over sense codons; uniform substitutions; independent uniform codon pairs"
+    }
+  },
+  "single_error_correction_hamming_ball_size": 13,
+  "20_labels_times_ball_size": 260,
+  "available_words": 256,
+  "initial_synonymous_edge_objective": 96,
+  "optimized_objective": 528,
+  "warning": "Heuristic code construction, not globally optimal; no translation, triplet exclusion, viability or novelty claim."
+}

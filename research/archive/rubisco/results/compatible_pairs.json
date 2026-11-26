@@ -1,0 +1,2148 @@
+[
+  {
+    "species": "Flaveria angustifolia",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 2.77,
+    "S": 90.4,
+    "row_indices": [
+      432
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria pringlei",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 2.48,
+    "S": 90.1,
+    "row_indices": [
+      433
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria cronquistii",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 2.95,
+    "S": 88.2,
+    "row_indices": [
+      434
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria floridana",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 2.86,
+    "S": 84.3,
+    "row_indices": [
+      435
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria bidentis",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 3.42,
+    "S": 80.0,
+    "row_indices": [
+      436
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria trinervia",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "25663529",
+    "vC": 3.28,
+    "S": 78.3,
+    "row_indices": [
+      437
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum L. cv. W38",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1007/BF00206296",
+    "vC": 3.64,
+    "S": 102.0,
+    "row_indices": [
+      576
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum L. cv. W38",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1007/BF00206296",
+    "vC": 3.53,
+    "S": 97.5,
+    "row_indices": [
+      577
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Arabidopsis thaliana cv. Columbia",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "23869820",
+    "vC": 3.3,
+    "S": 105.0,
+    "row_indices": [
+      578
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum",
+    "temp_C": "25",
+    "pH": "",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "23869820",
+    "vC": 3.3,
+    "S": 94.2,
+    "row_indices": [
+      579
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Methanococcoides burtonii",
+    "temp_C": "25",
+    "pH": "7",
+    "isoform": "2_3",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "19837658",
+    "vC": 2.0,
+    "S": 1.18,
+    "row_indices": [
+      1
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Methanococcoides burtonii",
+    "temp_C": "25",
+    "pH": "7",
+    "isoform": "2_3",
+    "variant": "",
+    "heterologous_expression": "Tobacco",
+    "pmid_or_doi": "19837658",
+    "vC": 1.9,
+    "S": 1.14,
+    "row_indices": [
+      2
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Methanococcoides burtonii L2",
+    "temp_C": "25",
+    "pH": "7",
+    "isoform": "2_3",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "19837658",
+    "vC": 1.9,
+    "S": 1.08,
+    "row_indices": [
+      3
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Anacystis nidulans",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "Unclear",
+    "pmid_or_doi": "https://doi.org/10.1093/jxb/46.special_issue.1272",
+    "vC": 7.2,
+    "S": 46.3,
+    "row_indices": [
+      41
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium gymnesicum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.4,
+    "S": 121.0,
+    "row_indices": [
+      72
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium retusum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.1,
+    "S": 121.0,
+    "row_indices": [
+      73
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium ejulabilis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.0,
+    "S": 116.0,
+    "row_indices": [
+      74
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium grosii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.9,
+    "S": 113.0,
+    "row_indices": [
+      75
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium artruchium",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 3.0,
+    "S": 113.0,
+    "row_indices": [
+      76
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium antonii\u2010llorensii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.4,
+    "S": 112.0,
+    "row_indices": [
+      77
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium gibertii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.5,
+    "S": 112.0,
+    "row_indices": [
+      78
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium biflorum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.4,
+    "S": 112.0,
+    "row_indices": [
+      79
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium companyonis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 3.3,
+    "S": 112.0,
+    "row_indices": [
+      80
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium magallufianum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.6,
+    "S": 111.0,
+    "row_indices": [
+      81
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium leonardi\u2010llorensii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 2.8,
+    "S": 110.0,
+    "row_indices": [
+      82
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium echioides",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 3.9,
+    "S": 106.0,
+    "row_indices": [
+      83
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium barceloi",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 3.4,
+    "S": 106.0,
+    "row_indices": [
+      84
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Limonium balearicum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "24861241",
+    "vC": 3.6,
+    "S": 103.0,
+    "row_indices": [
+      85
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Rhodospirillum rubrum",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "2",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "https://doi.org/10.1002/j.1460-2075.1984.tb02204.x",
+    "vC": 5.9,
+    "S": 7.6,
+    "row_indices": [
+      123
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thiobacillus denitrificans IA",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "A",
+    "heterologous_expression": "R. sphaeroides",
+    "pmid_or_doi": "8550452",
+    "vC": 1.9,
+    "S": 42.7,
+    "row_indices": [
+      168
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thiobacillus denitrificans II",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "2",
+    "variant": "",
+    "heterologous_expression": "R. sphaeroides",
+    "pmid_or_doi": "8550452",
+    "vC": 3.5,
+    "S": 13.3,
+    "row_indices": [
+      169
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Pavlova lutheri",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "28582571",
+    "vC": 2.5,
+    "S": 125.0,
+    "row_indices": [
+      170
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Pleurochrysis carterae",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "28582571",
+    "vC": 3.3,
+    "S": 102.0,
+    "row_indices": [
+      171
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Tisochrysis lutea",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "28582571",
+    "vC": 2.2,
+    "S": 89.0,
+    "row_indices": [
+      172
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Allochromatium vinosum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "A",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "3918498",
+    "vC": 6.7,
+    "S": 41.0,
+    "row_indices": [
+      214
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thermococcus kodakaraensis",
+    "temp_C": "83",
+    "pH": "8.3",
+    "isoform": "3",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "26381513",
+    "vC": 16.6,
+    "S": 6.0,
+    "row_indices": [
+      224
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Archaeoglobus fulgidus",
+    "temp_C": "83",
+    "pH": "8.3",
+    "isoform": "3",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "26381513",
+    "vC": 23.1,
+    "S": 4.0,
+    "row_indices": [
+      225
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria floridana",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.19,
+    "S": 84.5,
+    "row_indices": [
+      226
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria sonorensis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 2.69,
+    "S": 84.3,
+    "row_indices": [
+      227
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria brownii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 2.58,
+    "S": 83.8,
+    "row_indices": [
+      228
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria palmeri",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.54,
+    "S": 83.8,
+    "row_indices": [
+      229
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria angustifolia",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 2.86,
+    "S": 83.2,
+    "row_indices": [
+      230
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria chloraefolia",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.35,
+    "S": 81.6,
+    "row_indices": [
+      231
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria cronquistii",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.13,
+    "S": 81.0,
+    "row_indices": [
+      232
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria pringlei",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.11,
+    "S": 80.8,
+    "row_indices": [
+      233
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria ramosissima",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 2.77,
+    "S": 79.8,
+    "row_indices": [
+      234
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Spinacia oleracea",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.2,
+    "S": 79.8,
+    "row_indices": [
+      235
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Chenopodium alba",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 2.91,
+    "S": 78.7,
+    "row_indices": [
+      236
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria vaginata",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.78,
+    "S": 78.7,
+    "row_indices": [
+      237
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria linearis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.43,
+    "S": 78.1,
+    "row_indices": [
+      238
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria anomala",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.8,
+    "S": 77.9,
+    "row_indices": [
+      239
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Amaranthus edulis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 4.14,
+    "S": 77.5,
+    "row_indices": [
+      240
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria australasica",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.84,
+    "S": 77.2,
+    "row_indices": [
+      241
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria trinervia",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 4.42,
+    "S": 77.0,
+    "row_indices": [
+      242
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria kochiana",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 3.68,
+    "S": 77.0,
+    "row_indices": [
+      243
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria bidentis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 4.16,
+    "S": 75.5,
+    "row_indices": [
+      244
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Zea mays",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "18227079",
+    "vC": 4.05,
+    "S": 74.9,
+    "row_indices": [
+      245
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cyanobium PCC7001",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "A",
+    "heterologous_expression": "Tobacco",
+    "pmid_or_doi": "30177711",
+    "vC": 9.600000000000001,
+    "S": 55.0,
+    "row_indices": [
+      255,
+      256
+    ],
+    "provenance": "metadata_compatible_rows_not_verified_paired_assay"
+  },
+  {
+    "species": "Synechococcus 6301",
+    "temp_C": "25",
+    "pH": "7.8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "8132534",
+    "vC": 11.6,
+    "S": 43.0,
+    "row_indices": [
+      263
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Rhodospirillum rubrum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "2",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "18004873",
+    "vC": 12.3,
+    "S": 9.0,
+    "row_indices": [
+      270
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus 6301",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "18484948",
+    "vC": 11.8,
+    "S": 41.5,
+    "row_indices": [
+      279
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum",
+    "temp_C": "25",
+    "pH": "8.1",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26662726",
+    "vC": 3.9,
+    "S": 91.2,
+    "row_indices": [
+      280
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus elongatus PCC 7942",
+    "temp_C": "25",
+    "pH": "8.1",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "Tobacco",
+    "pmid_or_doi": "26662726",
+    "vC": 14.4,
+    "S": 43.0,
+    "row_indices": [
+      281
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "B. distachyon",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 2.05,
+    "S": 111.0,
+    "row_indices": [
+      438
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops cylindrica",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.68,
+    "S": 109.0,
+    "row_indices": [
+      439
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops vavilovii",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.32,
+    "S": 109.0,
+    "row_indices": [
+      440
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops tauschii",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 2.86,
+    "S": 107.0,
+    "row_indices": [
+      441
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops comosa",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 2.86,
+    "S": 106.0,
+    "row_indices": [
+      442
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. monococcum",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.18,
+    "S": 104.0,
+    "row_indices": [
+      443
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops triuncialis",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 2.62,
+    "S": 103.0,
+    "row_indices": [
+      444
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops speltoides",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.24,
+    "S": 102.0,
+    "row_indices": [
+      445
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "H. vulgare cv. Lenins",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.99,
+    "S": 102.0,
+    "row_indices": [
+      446
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. timopheevii",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.43,
+    "S": 102.0,
+    "row_indices": [
+      447
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops uniaristata",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 2.7,
+    "S": 102.0,
+    "row_indices": [
+      448
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. timonovum",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.48,
+    "S": 101.0,
+    "row_indices": [
+      449
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. aestivum (C)",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.57,
+    "S": 100.0,
+    "row_indices": [
+      450
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Triticale (Cando)",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.62,
+    "S": 99.7,
+    "row_indices": [
+      451
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Triticale (Rotego)",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.46,
+    "S": 96.8,
+    "row_indices": [
+      452
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops biuncialis",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.2,
+    "S": 96.3,
+    "row_indices": [
+      453
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. aestivum SATYN2",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.33,
+    "S": 96.2,
+    "row_indices": [
+      454
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Triticale (Talentro)",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.36,
+    "S": 95.2,
+    "row_indices": [
+      455
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. dicoccon3",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.36,
+    "S": 95.2,
+    "row_indices": [
+      456
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. dicoccon1",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.55,
+    "S": 94.1,
+    "row_indices": [
+      457
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. aestivum SATYN1",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.26,
+    "S": 93.8,
+    "row_indices": [
+      458
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. dicoccon4",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.55,
+    "S": 93.8,
+    "row_indices": [
+      459
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. aestivum SATYN3",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.64,
+    "S": 92.9,
+    "row_indices": [
+      460
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "S. cereale cv. Agronom",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.23,
+    "S": 91.5,
+    "row_indices": [
+      461
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "T. dicoccon2",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.57,
+    "S": 90.9,
+    "row_indices": [
+      462
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Aegilops juvenalis",
+    "temp_C": "25",
+    "pH": "8.2",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26798025",
+    "vC": 3.25,
+    "S": 90.4,
+    "row_indices": [
+      463
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cylindrotheca N1",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "1610800",
+    "vC": 0.97,
+    "S": 107.0,
+    "row_indices": [
+      470
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus 6301",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "1610800",
+    "vC": 2.57,
+    "S": 41.0,
+    "row_indices": [
+      472
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Porphyridium cruenteum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "8031129",
+    "vC": 1.59,
+    "S": 129.0,
+    "row_indices": [
+      473
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "C. fusiformis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "8031129",
+    "vC": 1.95,
+    "S": 111.0,
+    "row_indices": [
+      474
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cylindrotheca N1",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "8031129",
+    "vC": 0.78,
+    "S": 106.0,
+    "row_indices": [
+      480
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Olisthodiscus luteus",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "8031129",
+    "vC": 0.83,
+    "S": 100.0,
+    "row_indices": [
+      481
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus 6301",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "8031129",
+    "vC": 3.71,
+    "S": 41.0,
+    "row_indices": [
+      483
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Rhodospirillum rubrum",
+    "temp_C": "30",
+    "pH": "8",
+    "isoform": "2",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "24942737",
+    "vC": 4.3,
+    "S": 13.0,
+    "row_indices": [
+      489
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Rhodopseudomonas palustris",
+    "temp_C": "30",
+    "pH": "8",
+    "isoform": "2",
+    "variant": "",
+    "heterologous_expression": "R. capsulatis",
+    "pmid_or_doi": "24942737",
+    "vC": 4.9,
+    "S": 12.0,
+    "row_indices": [
+      490
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum milioides",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 2.2,
+    "S": 92.3,
+    "row_indices": [
+      520
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Steinchisma laxa",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 2.3,
+    "S": 91.4,
+    "row_indices": [
+      521
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum bisulcatum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 2.6,
+    "S": 87.7,
+    "row_indices": [
+      522
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum coloratum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 3.4,
+    "S": 84.8,
+    "row_indices": [
+      523
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum deustum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.0,
+    "S": 84.8,
+    "row_indices": [
+      524
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 3.1,
+    "S": 82.6,
+    "row_indices": [
+      525
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum virgatum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 3.3,
+    "S": 82.6,
+    "row_indices": [
+      526
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Urochloa mosambicensis",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.7,
+    "S": 82.5,
+    "row_indices": [
+      527
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Megathyrsus maximus",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.3,
+    "S": 80.3,
+    "row_indices": [
+      528
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum milliaceum",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 2.1,
+    "S": 79.9,
+    "row_indices": [
+      529
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum monticola",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.3,
+    "S": 79.4,
+    "row_indices": [
+      530
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Urochloa panicoides",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.6,
+    "S": 78.3,
+    "row_indices": [
+      531
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Panicum antidotale",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 3.9,
+    "S": 74.5,
+    "row_indices": [
+      532
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Setaria viridis",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 5.9,
+    "S": 72.7,
+    "row_indices": [
+      533
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cenchrus ciliaris",
+    "temp_C": "25",
+    "pH": "8.16",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27892943",
+    "vC": 6.0,
+    "S": 69.9,
+    "row_indices": [
+      534
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Prochlorococcus marinus MIT9313",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "A",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "26790750",
+    "vC": 6.58,
+    "S": 59.9,
+    "row_indices": [
+      550
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus 6301",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "26790750",
+    "vC": 9.78,
+    "S": 50.3,
+    "row_indices": [
+      551
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Galdieria partita Tokara",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1093/oxfordjournals.pcp.a028949",
+    "vC": 1.6,
+    "S": 238.0,
+    "row_indices": [
+      566
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cyanidium caldarium",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1093/oxfordjournals.pcp.a028949",
+    "vC": 1.3,
+    "S": 225.0,
+    "row_indices": [
+      567
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Porphyridium purpureum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1093/oxfordjournals.pcp.a028949",
+    "vC": 1.4,
+    "S": 144.0,
+    "row_indices": [
+      568
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Spinacia oleracea",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1093/oxfordjournals.pcp.a028949",
+    "vC": 2.6,
+    "S": 93.8,
+    "row_indices": [
+      569
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Allochromatium vinosum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "A",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1093/oxfordjournals.pcp.a028949",
+    "vC": 8.8,
+    "S": 44.4,
+    "row_indices": [
+      570
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Griffithsia monilis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26662726",
+    "vC": 2.6,
+    "S": 167.0,
+    "row_indices": [
+      580
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Galdieria sulfuraria",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26662726",
+    "vC": 1.2,
+    "S": 166.0,
+    "row_indices": [
+      581
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Phaeodactylum tricornutum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26662726",
+    "vC": 3.4,
+    "S": 113.0,
+    "row_indices": [
+      582
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Nicotiana tabacum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "26662726",
+    "vC": 3.4,
+    "S": 82.0,
+    "row_indices": [
+      583
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria floridana",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "21849620",
+    "vC": 3.6,
+    "S": 82.0,
+    "row_indices": [
+      584
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria pringlei",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "21849620",
+    "vC": 3.5,
+    "S": 81.0,
+    "row_indices": [
+      585
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria bidentis",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "21849620",
+    "vC": 4.8,
+    "S": 81.0,
+    "row_indices": [
+      586
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Methanococcoides burtonii",
+    "temp_C": "25",
+    "pH": "7.2 or 8.0",
+    "isoform": "2_3",
+    "variant": "",
+    "heterologous_expression": "Tobacco",
+    "pmid_or_doi": "26926260",
+    "vC": 0.6,
+    "S": 1.3,
+    "row_indices": [
+      588
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Methanococcoides burtonii K332E",
+    "temp_C": "25",
+    "pH": "7.2 or 8.0",
+    "isoform": "2_3",
+    "variant": "",
+    "heterologous_expression": "Tobacco",
+    "pmid_or_doi": "26926260",
+    "vC": 1.2,
+    "S": 1.3,
+    "row_indices": [
+      589
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thermococcus kodakaraensis",
+    "temp_C": "25",
+    "pH": "8.3",
+    "isoform": "3",
+    "variant": "",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "17675435",
+    "vC": 0.25,
+    "S": 11.0,
+    "row_indices": [
+      612
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Phaeodactylum tricornutum (CS-29)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.3,
+    "S": 116.0,
+    "row_indices": [
+      617
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Phaeodactylum tricornutum (UTEX 642)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.2,
+    "S": 108.0,
+    "row_indices": [
+      618
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Chaetoceros muelleri (CCMP 1316)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 2.4,
+    "S": 96.0,
+    "row_indices": [
+      619
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thalassiosira oceania (CS-427)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 2.4,
+    "S": 80.0,
+    "row_indices": [
+      620
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Thalassiosira weissflogii (CCMP 1336)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.2,
+    "S": 79.0,
+    "row_indices": [
+      621
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Cylindrotheca fusiformis (CS-13)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.7,
+    "S": 79.0,
+    "row_indices": [
+      622
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Fragilariopsis cylindrus (CCMP 1102)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.5,
+    "S": 77.0,
+    "row_indices": [
+      623
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Chaetoceros calcitrans (CS-178)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 3.4,
+    "S": 75.0,
+    "row_indices": [
+      624
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Chaetoceros calcitrans (CCMP 1315)",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "D",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "27129950",
+    "vC": 2.6,
+    "S": 57.0,
+    "row_indices": [
+      625
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Flaveria pringlei",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1023/A:1006020424581",
+    "vC": 2.1,
+    "S": 102.0,
+    "row_indices": [
+      630
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Triticum aestivum",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1023/A:1006020424581",
+    "vC": 2.5,
+    "S": 98.0,
+    "row_indices": [
+      631
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Spinacia oleracea",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "False",
+    "pmid_or_doi": "https://doi.org/10.1023/A:1006020424581",
+    "vC": 2.7,
+    "S": 92.0,
+    "row_indices": [
+      632
+    ],
+    "provenance": "single_source_row"
+  },
+  {
+    "species": "Synechococcus 7515",
+    "temp_C": "25",
+    "pH": "8",
+    "isoform": "1",
+    "variant": "B",
+    "heterologous_expression": "E. coli",
+    "pmid_or_doi": "https://doi.org/10.1023/A:1006020424581",
+    "vC": 6.6,
+    "S": 47.0,
+    "row_indices": [
+      633
+    ],
+    "provenance": "single_source_row"
+  }
+]

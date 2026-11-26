@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite the exact commit and original primary sources; this project does not replace them."
+title: "Longevidence Challenge: open evidence and computational research"
+authors:
+  - name: "Longevidence contributors"
+url: "https://longevidence.org/challenge/"
+repository-code: "https://github.com/danduma/longevidence-challenge"
+license: MIT

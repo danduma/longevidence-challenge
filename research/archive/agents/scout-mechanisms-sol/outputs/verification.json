@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-26",
+  "checks": [
+    "Fresh successful execution of all three analysis scripts",
+    "Perron minimax checked against uniform and symmetric 100:1 analytical controls",
+    "All 16 kinetic entries unique; reported ratios consistent with rounded kpol/KD within 5%",
+    "Independent re-enumeration of final code confirms 256 words, 240 sense words, 20 amino acids, rotation symmetry, and p=49/60 at every position",
+    "All twelve ranking titles and scores agree with exact downloaded definitions and declared weights",
+    "All four downloaded primary XML records matched to expected DOIs",
+    "All local Markdown links in report.md resolve",
+    "JSON output equals freshly captured stdout for all three scripts"
+  ],
+  "max_relative_kinetic_ratio_rounding_difference": 0.02898550724637694,
+  "primary_xml_records_verified": 4,
+  "report_word_count": 5744,
+  "manifest_files": 31,
+  "refusals": "None observed",
+  "limits": "Checks verify computations and artifacts, not experimental biological validity or novelty."
+}

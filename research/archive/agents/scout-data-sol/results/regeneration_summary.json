@@ -1,0 +1,90 @@
+{
+  "input_rows": 139698,
+  "samples": 18,
+  "expressed_rows_CPM1_in_at_least3": 20052,
+  "samples_per_group": 3,
+  "intact_samples_paired_by_animal": true,
+  "regenerating_samples_independent_animals": true,
+  "both_forelimbs_pooled_per_injured_sample": true,
+  "CPM_column_sum_range": [
+    857147.9052452117,
+    1468559.3496170747
+  ],
+  "raw_large_plane_difference_count_3d": 1570,
+  "raw_large_plane_difference_count_5d": 235,
+  "large_raw_plane_difference_falls_below1_after_intact_subtraction_3d": 412,
+  "large_raw_plane_difference_falls_below1_after_intact_subtraction_5d": 78,
+  "interaction_BH05_3d": 0,
+  "interaction_BH05_5d": 0,
+  "interaction_BH05_both_times": 0,
+  "interaction_BH05_both_and_same_direction": 0,
+  "interaction_time_spearman_shared_baseline_not_independent": 0.42301358679485673,
+  "pseudocount_sensitivity_spearman_3d": 0.9869587428981139,
+  "pseudocount_sensitivity_spearman_5d": 0.9808135898839321,
+  "blank_annotation_rows_expressed": 3162,
+  "marker_records": [
+    {
+      "transcript_id": "MSTRG.6112|gene-SALL4",
+      "annotated_symbol": "SALL4",
+      "injury_plane_interaction_3d": 0.1390053334,
+      "injury_plane_interaction_5d": 0.1151600389,
+      "q_BH_3d": 0.8460460425,
+      "q_BH_5d": 0.9026350636
+    },
+    {
+      "transcript_id": "MSTRG.2427|gene-PRRX1",
+      "annotated_symbol": "PRRX1",
+      "injury_plane_interaction_3d": 1.3504446218,
+      "injury_plane_interaction_5d": 0.9846696884,
+      "q_BH_3d": 0.3731821714,
+      "q_BH_5d": 0.7998737053
+    },
+    {
+      "transcript_id": "MSTRG.13881|gene-LOC138491483",
+      "annotated_symbol": "LOC138491483",
+      "injury_plane_interaction_3d": 2.1534020759,
+      "injury_plane_interaction_5d": -0.1868695777,
+      "q_BH_3d": 0.3797260653,
+      "q_BH_5d": 0.9735554573
+    },
+    {
+      "transcript_id": "MSTRG.867|gene-CTSK",
+      "annotated_symbol": "CTSK",
+      "injury_plane_interaction_3d": -0.4623322408,
+      "injury_plane_interaction_5d": -0.4053298905,
+      "q_BH_3d": 0.6409059701,
+      "q_BH_5d": 0.7998737053
+    },
+    {
+      "transcript_id": "MSTRG.6224|gene-MMP9",
+      "annotated_symbol": "MMP9",
+      "injury_plane_interaction_3d": 0.2085135799,
+      "injury_plane_interaction_5d": -0.7032320865,
+      "q_BH_3d": 0.8806036168,
+      "q_BH_5d": 0.8921168454
+    },
+    {
+      "transcript_id": "MSTRG.12054|gene-TNFRSF11A",
+      "annotated_symbol": "TNFRSF11A",
+      "injury_plane_interaction_3d": 0.2778894766,
+      "injury_plane_interaction_5d": 0.159566057,
+      "q_BH_3d": 0.5448383645,
+      "q_BH_5d": 0.9362113152
+    },
+    {
+      "transcript_id": "gene-TNFSF11|gene-TNFSF11",
+      "annotated_symbol": "TNFSF11",
+      "injury_plane_interaction_3d": -0.0998054333,
+      "injury_plane_interaction_5d": -0.5991478439,
+      "q_BH_3d": 0.786289392,
+      "q_BH_5d": 0.8079244513
+    }
+  ],
+  "caveats": [
+    "Welch/Satterthwaite tests on log CPM with small n are exploratory; do not reproduce edgeR raw-count tests.",
+    "Same intact baseline in both times induces correlation; these are not independent replication cohorts.",
+    "Gene annotations may include merged loci; each row retains its source identifier.",
+    "Differences can reflect cell composition, maturity, dissection, and injury geometry rather than causal regeneration switches.",
+    "All work is computational reanalysis of existing axolotl data; no adult mouse limb evidence produced."
+  ]
+}

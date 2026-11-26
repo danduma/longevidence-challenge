@@ -1,0 +1,1533 @@
+branch,target,row,species,deposited_raw,raw_median,normalized_median,raw_log_match,normalization_changes_target
+fixed,S,0,Aegilops biuncialis,96.3,96.3,96.3,True,False
+fixed,S,1,Aegilops comosa,106.00000000000004,106.0,106.0,True,False
+fixed,S,2,Aegilops cylindrica,109.00000000000004,109.0,109.0,True,False
+fixed,S,3,Aegilops juvenalis,90.39999999999999,90.4,90.4,True,False
+fixed,S,4,Aegilops speltoides,101.99999999999999,102.0,102.0,True,False
+fixed,S,5,Aegilops tauschii,107.00000000000001,107.0,107.0,True,False
+fixed,S,6,Aegilops triuncialis,102.99999999999996,103.0,103.0,True,False
+fixed,S,7,Aegilops uniaristata,101.99999999999999,102.0,102.0,True,False
+fixed,S,8,Aegilops vavilovii,109.00000000000004,109.0,109.0,True,False
+fixed,S,9,Agriophyllum squarrosum,93.9,93.9,93.9,True,False
+fixed,S,10,Agrostis scabra,102.99999999999996,103.0,103.0,True,False
+fixed,S,11,Agrostis stolonifera,105.00000000000004,105.0,105.0,True,False
+fixed,S,12,Allochromatium vinosum,42.699999999999996,42.7,42.7,True,False
+fixed,S,13,Amaranthus hybridus,79.99999999999999,80.0,80.0,True,False
+fixed,S,14,Amphicarpaea bracteata,97.5,97.5,97.5,True,False
+fixed,S,15,Aphanizomenon flos aquae,47.99999999999999,48.0,48.0,True,False
+fixed,S,16,Arabidopsis thaliana cv. Columbia,105.00000000000004,105.0,105.0,True,False
+fixed,S,17,Archaeoglobus fulgidus,4.0,4.0,4.0,True,False
+fixed,S,18,Arctagrostis latifolia,105.00000000000004,105.0,105.0,True,False
+fixed,S,19,Artemisia myriantha,109.99999999999997,110.0,110.0,True,False
+fixed,S,20,Artemisia vulgaris L.,105.00000000000004,105.0,105.0,True,False
+fixed,S,21,Avena sativa,99.9,99.9,99.9,True,False
+fixed,S,22,Beta vulgaris,101.00000000000001,101.0,101.0,True,False
+fixed,S,23,Bromus anomalus,101.00000000000001,101.0,101.0,True,False
+fixed,S,24,Calamagrostis arundinacea,103.99999999999997,104.0,104.0,True,False
+fixed,S,25,Calamagrostis canescens,98.49999999999999,98.5,98.5,True,False
+fixed,S,26,Calamagrostis foliosa,105.00000000000004,105.0,105.0,True,False
+fixed,S,27,Calamagrostis inexpansa,111.00000000000004,111.0,111.0,True,False
+fixed,S,28,Calamagrostis nutkaensis,109.00000000000004,109.0,109.0,True,False
+fixed,S,29,Capsicum annuum,96.0,96.0,96.0,True,False
+fixed,S,30,Cenchrus ciliaris,69.9,69.9,69.9,True,False
+fixed,S,31,Chaetoceros socialis,92.00000000000001,92.0,92.0,True,False
+fixed,S,32,Chenopodium murale,109.00000000000004,109.0,109.0,True,False
+fixed,S,33,Chenopodium rubrum,97.80000000000003,97.8,97.8,True,False
+fixed,S,34,Chlamydomonas reinhardtii,65.75,65.75,65.75,True,False
+fixed,S,35,Chromatium vinosum,44.400000000000006,44.4,44.4,True,False
+fixed,S,36,Citrullus ecirrhosus,99.9,99.9,99.9,True,False
+fixed,S,37,Citrullus lanatus var. lanatus,107.00000000000001,107.0,107.0,True,False
+fixed,S,38,Coccochloris peniocystis,47.00000000000001,47.0,47.0,True,False
+fixed,S,39,Coffee arabica,98.70000000000002,98.7,98.7,True,False
+fixed,S,40,Cucurbita maxima,98.40000000000002,98.4,98.4,True,False
+fixed,S,41,Cyanidium caldarium,225.0000000000001,225.0,225.0,True,False
+fixed,S,42,Cyanobium PCC7001,55.00000000000001,55.0,55.0,True,False
+fixed,S,43,Cylindrotheca N1,106.49999999999996,106.5,106.5,True,False
+fixed,S,44,Deschampsia danthonioides,108.00000000000004,108.0,108.0,True,False
+fixed,S,45,Desmodium cinereum,97.5,97.5,97.5,True,False
+fixed,S,46,Desmodium intortum,98.70000000000002,98.7,98.7,True,False
+fixed,S,47,Desmodium psilocarpum,95.9,95.9,95.9,True,False
+fixed,S,48,Echinochloa crus-galli,83.00000000000001,83.0,83.0,True,False
+fixed,S,49,Elymus farctus,106.00000000000004,106.0,106.0,True,False
+fixed,S,50,Eragrostis tef,89.0,89.0,89.0,True,False
+fixed,S,51,Erythrina flabelliformis,96.40000000000002,96.4,96.4,True,False
+fixed,S,52,Euglena gracilis,54.000000000000014,54.0,54.0,True,False
+fixed,S,53,Euphorbia helioscopia,96.79999999999998,96.8,96.8,True,False
+fixed,S,54,Euphorbia microsphaera,99.69999999999999,99.7,99.7,True,False
+fixed,S,55,Festuca gigantea,108.00000000000004,108.0,108.0,True,False
+fixed,S,56,Flaveria angustifolia ,90.39999999999999,90.4,86.80000000000001,True,True
+fixed,S,57,Flaveria angustifolia ,90.39999999999999,90.4,86.80000000000001,True,True
+fixed,S,58,Flaveria anomala ,77.90000000000002,77.9,77.9,True,False
+fixed,S,59,Flaveria australasica,77.2,77.2,77.2,True,False
+fixed,S,60,Flaveria bidentis ,75.5,75.5,80.0,True,True
+fixed,S,61,Flaveria bidentis ,75.5,75.5,80.0,True,True
+fixed,S,62,Flaveria cronquistii ,81.0,81.0,84.6,True,True
+fixed,S,63,Flaveria cronquistii ,81.0,81.0,84.6,True,True
+fixed,S,64,Flaveria floridana ,84.40000000000002,84.4,84.3,True,True
+fixed,S,65,Flaveria floridana ,84.40000000000002,84.4,84.3,True,True
+fixed,S,66,Flaveria kochiana,77.0,77.0,77.0,True,False
+fixed,S,67,Flaveria linearis ,78.10000000000001,78.1,78.1,True,False
+fixed,S,68,Flaveria palmeri ,83.79999999999998,83.8,83.8,True,False
+fixed,S,69,Flaveria pringlei,85.55,85.55,85.55,True,False
+fixed,S,70,Flaveria ramosissima ,79.8,79.8,79.8,True,False
+fixed,S,71,Flaveria sonorensis ,84.30000000000001,84.3,84.3,True,False
+fixed,S,72,Flaveria trinervia ,77.0,77.0,77.65,True,True
+fixed,S,73,Flaveria trinervia ,77.0,77.0,77.65,True,True
+fixed,S,74,Flaveria vaginata ,78.7,78.7,78.7,True,False
+fixed,S,75,Flueggea suffruticosa,101.00000000000001,101.0,101.0,True,False
+fixed,S,76,Foeniculum vulgare,94.29999999999998,94.3,94.3,True,False
+fixed,S,77,Glycine canescens,97.10000000000001,97.1,97.1,True,False
+fixed,S,78,Glycine max,96.99999999999999,97.0,97.0,True,False
+fixed,S,79,Griffithsia monilis,167.0,167.0,167.0,True,False
+fixed,S,80,Helianthus annuus L.,73.60000000000001,73.6,73.6,True,False
+fixed,S,81,Hordeum brachyantherum,101.00000000000001,101.0,101.0,True,False
+fixed,S,82,Hordeum murinum,100.0,100.0,100.0,True,False
+fixed,S,83,Hordeum vulgare L.,86.9,86.9,86.9,True,False
+fixed,S,84,Ipomoea batatas,98.49999999999999,98.5,98.5,True,False
+fixed,S,85,Lablab purpureus,91.1,91.1,91.1,True,False
+fixed,S,86,Lepidium campestre,92.80000000000001,92.8,92.8,True,False
+fixed,S,87,Limonium antonii‐llorensii,111.99999999999997,112.0,112.0,True,False
+fixed,S,88,Limonium artruchium,112.99999999999994,113.0,113.0,True,False
+fixed,S,89,Limonium balearicum,102.99999999999996,103.0,103.0,True,False
+fixed,S,90,Limonium barceloi,106.00000000000004,106.0,106.0,True,False
+fixed,S,91,Limonium biflorum,111.99999999999997,112.0,112.0,True,False
+fixed,S,92,Limonium companyonis,111.99999999999997,112.0,112.0,True,False
+fixed,S,93,Limonium echioides,106.00000000000004,106.0,106.0,True,False
+fixed,S,94,Limonium ejulabilis,116.00000000000003,116.0,116.0,True,False
+fixed,S,95,Limonium gibertii,111.00000000000004,111.0,111.0,True,False
+fixed,S,96,Limonium grosii,112.99999999999994,113.0,113.0,True,False
+fixed,S,97,Limonium gymnesicum,121.00000000000006,121.0,121.0,True,False
+fixed,S,98,Limonium leonardi‐llorensii,109.99999999999997,110.0,110.0,True,False
+fixed,S,99,Limonium magallufianum,108.5,108.5,108.5,True,False
+fixed,S,100,Limonium retusum,121.00000000000006,121.0,121.0,True,False
+fixed,S,101,Lolium multiflorum,99.9,99.9,99.9,True,False
+fixed,S,102,Lolium perenne,79.99999999999999,80.0,80.0,True,False
+fixed,S,103,Lolium rigidum,100.0,100.0,100.0,True,False
+fixed,S,104,Lysimachia minoricensis,93.79999999999998,93.8,93.8,True,False
+fixed,S,105,Macrotyloma uniflorum,101.00000000000001,101.0,101.0,True,False
+fixed,S,106,Manihot esculenta,102.99999999999996,103.0,103.0,True,False
+fixed,S,107,Medicago sativa,86.29999999999998,86.3,86.3,True,False
+fixed,S,108,Megathyrsus maximus,80.30000000000001,80.3,80.3,True,False
+fixed,S,109,Mentha aquatica,97.20000000000002,97.2,97.2,True,False
+fixed,S,110,Mercurialis annua,95.7,95.7,95.7,True,False
+fixed,S,111,Musa velutina,111.00000000000004,111.0,111.0,True,False
+fixed,S,112,Nicotiana tabacum,91.20000000000002,91.2,91.2,True,False
+fixed,S,113,Nicotiana tabacum L. cv. W38,99.75000000000001,99.75,99.75,True,False
+fixed,S,114,Olisthodiscus luteus,100.0,100.0,100.0,True,False
+fixed,S,115,Oryza barthii/glaberrima,107.00000000000001,107.0,107.0,True,False
+fixed,S,116,Oryza eichingeri,107.00000000000001,107.0,107.0,True,False
+fixed,S,117,Oryza glumaepatula,109.00000000000004,109.0,109.0,True,False
+fixed,S,118,Oryza longistaminata,108.00000000000004,108.0,108.0,True,False
+fixed,S,119,Oryza meridionalis,107.00000000000001,107.0,107.0,True,False
+fixed,S,120,Oryza punctata,109.00000000000004,109.0,109.0,True,False
+fixed,S,121,Oryza punctata Kotschy,84.99999999999999,85.0,85.0,True,False
+fixed,S,122,P. dilatatum,88.00000000000001,88.0,88.0,True,False
+fixed,S,123,Panicum amarum,89.50000000000001,89.5,89.5,True,False
+fixed,S,124,Panicum antidotale,74.49999999999999,74.5,74.5,True,False
+fixed,S,125,Panicum bisulcatum,87.69999999999999,87.7,87.7,True,False
+fixed,S,126,Panicum coloratum,84.79999999999998,84.8,84.8,True,False
+fixed,S,127,Panicum deustum,84.79999999999998,84.8,84.8,True,False
+fixed,S,128,Panicum dichotomiflorum,92.60000000000001,92.6,92.6,True,False
+fixed,S,129,Panicum milioides,92.29999999999998,92.3,92.3,True,False
+fixed,S,130,Panicum monticola,79.39999999999999,79.4,79.4,True,False
+fixed,S,131,Panicum phragmitoides,107.00000000000001,107.0,107.0,True,False
+fixed,S,132,Panicum virgatum,82.6,82.6,82.6,True,False
+fixed,S,133,Pavlova lutheri,124.99999999999994,125.0,125.0,True,False
+fixed,S,134,Phaeodactylum tricornutum,112.99999999999994,113.0,113.0,True,False
+fixed,S,135,Phaseolus carteri,84.50000000000001,84.5,84.5,True,False
+fixed,S,136,Phaseolus coccineus,103.99999999999997,104.0,104.0,True,False
+fixed,S,137,Phaseolus lunatus,101.00000000000001,101.0,101.0,True,False
+fixed,S,138,Phaseolus vulgaris ,99.69999999999999,99.7,102.35,True,True
+fixed,S,139,Phaseolus vulgaris ,99.69999999999999,99.7,102.35,True,True
+fixed,S,140,Pistacia lentiscus,97.20000000000002,97.2,97.2,True,False
+fixed,S,141,Pisum sativum,90.20000000000003,90.2,90.2,True,False
+fixed,S,142,Plantago lanceolata L.,77.30000000000001,77.3,77.3,True,False
+fixed,S,143,Pleurochrysis carterae,101.99999999999999,102.0,102.0,True,False
+fixed,S,144,Poa palustris,111.99999999999997,112.0,112.0,True,False
+fixed,S,145,Polypodium aureum,82.0,82.0,82.0,True,False
+fixed,S,146,Porphyra yezoensis,144.99999999999997,145.0,145.0,True,False
+fixed,S,147,Porphyridium purpureum,144.00000000000003,144.0,144.0,True,False
+fixed,S,148,Prochlorococcus marinus MIT9313,59.899999999999984,59.9,59.9,True,False
+fixed,S,149,Puccinellia distans,103.99999999999997,104.0,104.0,True,False
+fixed,S,150,Puccinellia lemmonii,101.99999999999999,102.0,102.0,True,False
+fixed,S,151,Puccinellia maritima,106.00000000000004,106.0,106.0,True,False
+fixed,S,152,Puccinellia nuttalliana,105.00000000000004,105.0,105.0,True,False
+fixed,S,153,Pueraria montana,101.00000000000001,101.0,101.0,True,False
+fixed,S,154,Rhodopseudomonas palustris,12.000000000000002,12.0,12.0,True,False
+fixed,S,155,Riftia pachyptila endosymbiont,8.6,8.6,8.6,True,False
+fixed,S,156,Saccharum officinarum,82.19999999999999,82.2,82.2,True,False
+fixed,S,157,Scenedesmus obliquus,63.0,63.0,63.0,True,False
+fixed,S,158,Setaria italica,58.00000000000001,58.0,58.0,True,False
+fixed,S,159,Setaria viridis,72.70000000000002,72.7,72.7,True,False
+fixed,S,160,Skeletonema costatum,72.00000000000001,72.0,72.0,True,False
+fixed,S,161,Solanum lycopersicum,92.4,92.4,92.4,True,False
+fixed,S,162,Solanum tuberosum,95.4,95.4,95.4,True,False
+fixed,S,163,Sorghum bicolor,70.00000000000001,70.0,70.0,True,False
+fixed,S,164,Sphenostylis stenocarpa,93.60000000000001,93.6,93.6,True,False
+fixed,S,165,Spinacia oleracea,84.99999999999999,85.0,85.0,True,False
+fixed,S,166,Steinchisma laxa,91.4,91.4,91.4,True,False
+fixed,S,167,Synechococcus 6301,42.50000000000001,42.5,42.5,True,False
+fixed,S,168,Synechococcus 7002,46.0,46.0,46.0,True,False
+fixed,S,169,Synechococcus elongatus PCC 7942,44.10000000000001,44.1,44.1,True,False
+fixed,S,170,Tephrosia candida,97.80000000000003,97.8,97.8,True,False
+fixed,S,171,Tephrosia purpurea,102.99999999999996,103.0,103.0,True,False
+fixed,S,172,Tephrosia rhodesica,91.60000000000001,91.6,91.6,True,False
+fixed,S,173,Thalassiosira antarctica,90.00000000000003,90.0,90.0,True,False
+fixed,S,174,Tisochrysis lutea,89.0,89.0,89.0,True,False
+fixed,S,175,Triticum aestivum,100.0,100.0,100.0,True,False
+fixed,S,176,Triticum baeoticum,96.0,96.0,96.0,True,False
+fixed,S,177,Ulva pertusa,68.50000000000001,68.5,68.5,True,False
+fixed,S,178,Urochloa mosambicensis,82.49999999999999,82.5,82.5,True,False
+fixed,S,179,Urochloa panicoides,78.30000000000001,78.3,78.3,True,False
+fixed,S,180,Urtica membranacea,101.99999999999999,102.0,102.0,True,False
+fixed,S,181,Zea mays ,74.89999999999999,74.9,78.3,True,True
+fixed,S,182,Zea mays ,74.89999999999999,74.9,78.3,True,True
+fixed,vC,0,Aegilops biuncialis,3.2000000000000006,3.2,3.2,True,False
+fixed,vC,1,Aegilops comosa,2.86,2.86,2.86,True,False
+fixed,vC,2,Aegilops cylindrica,3.6799999999999997,3.68,3.68,True,False
+fixed,vC,3,Aegilops juvenalis,3.2499999999999996,3.25,3.25,True,False
+fixed,vC,4,Aegilops speltoides,3.2399999999999998,3.24,3.24,True,False
+fixed,vC,5,Aegilops tauschii,2.86,2.86,2.86,True,False
+fixed,vC,6,Aegilops triuncialis,2.62,2.62,2.62,True,False
+fixed,vC,7,Aegilops uniaristata,2.7,2.7,2.7,True,False
+fixed,vC,8,Aegilops vavilovii,3.32,3.32,3.32,True,False
+fixed,vC,9,Agave victoriae−reginae,3.4,3.4,3.4,True,False
+fixed,vC,10,Agriophyllum squarrosum,2.8,2.8,2.8,True,False
+fixed,vC,11,Agrostis scabra,3.6,3.6,3.6,True,False
+fixed,vC,12,Agrostis stolonifera,5.200000000000001,5.2,5.2,True,False
+fixed,vC,13,Allochromatium vinosum,7.749999999999999,7.75,7.75,True,False
+fixed,vC,14,Amphicarpaea bracteata,4.0,4.0,4.0,True,False
+fixed,vC,15,Arabidopsis thaliana,3.5300000000000002,3.53,3.53,True,False
+fixed,vC,16,Arabidopsis thaliana cv. Columbia,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,17,Archaeoglobus fulgidus,23.10000000000001,23.1,23.1,True,False
+fixed,vC,18,Arctagrostis latifolia,5.799999999999999,5.8,5.8,True,False
+fixed,vC,19,Artemisia myriantha,3.1,3.1,3.1,True,False
+fixed,vC,20,Artemisia vulgaris L.,3.9,3.9,3.9,True,False
+fixed,vC,21,Atrichum undulatum,3.0,3.0,3.0,True,False
+fixed,vC,22,Atriplex glabriuscula,13.699999999999998,13.7,13.7,True,False
+fixed,vC,23,Avena sativa,2.3,2.3,2.3,True,False
+fixed,vC,24,Beta vulgaris,2.0,2.0,2.0,True,False
+fixed,vC,25,Bromus anomalus,2.9,2.9,2.9,True,False
+fixed,vC,26,Calamagrostis arundinacea,4.1,4.1,4.1,True,False
+fixed,vC,27,Calamagrostis canescens,2.5,2.5,2.5,True,False
+fixed,vC,28,Calamagrostis foliosa,3.5000000000000004,3.5,3.5,True,False
+fixed,vC,29,Calamagrostis inexpansa,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,30,Calamagrostis nutkaensis,3.1,3.1,3.1,True,False
+fixed,vC,31,Capsicum annuum,1.9,1.9,1.9,True,False
+fixed,vC,32,Carpobrotus edulis,3.6,3.6,3.6,True,False
+fixed,vC,33,Cenchrus ciliaris,6.0,6.0,6.0,True,False
+fixed,vC,34,Ceratophyllum demersum,3.5000000000000004,3.5,3.5,True,False
+fixed,vC,35,Chenopodium murale,4.4,4.4,4.4,True,False
+fixed,vC,36,Chenopodium rubrum,4.1,4.1,4.1,True,False
+fixed,vC,37,Citrullus ecirrhosus,3.1,3.1,3.1,True,False
+fixed,vC,38,Citrullus lanatus var. lanatus,2.5,2.5,2.5,True,False
+fixed,vC,39,Coffee arabica,2.1,2.1,2.1,True,False
+fixed,vC,40,Crithmum maritimum,3.4,3.4,3.4,True,False
+fixed,vC,41,Cucurbita maxima,2.2,2.2,2.2,True,False
+fixed,vC,42,Cyanidium caldarium,1.3,1.3,1.3,True,False
+fixed,vC,43,Cyanobium PCC7001,9.6,9.600000000000001,9.600000000000001,True,False
+fixed,vC,44,Cycas panzhihuaensis,3.1,3.1,3.1,True,False
+fixed,vC,45,Cylindrotheca N1,0.875,0.875,0.875,True,False
+fixed,vC,46,Deschampsia danthonioides,4.500000000000001,4.5,4.5,True,False
+fixed,vC,47,Desmodium cinereum,3.0,3.0,3.0,True,False
+fixed,vC,48,Desmodium intortum,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,49,Desmodium psilocarpum,3.6,3.6,3.6,True,False
+fixed,vC,50,Drosera capensis,4.700000000000001,4.7,4.7,True,False
+fixed,vC,51,Drosera venusta,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,52,Echeveria elegans,4.500000000000001,4.5,4.5,True,False
+fixed,vC,53,Elymus farctus,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,54,Eragrostis tef,7.1,7.1,7.1,True,False
+fixed,vC,55,Erythrina flabelliformis,3.6,3.6,3.6,True,False
+fixed,vC,56,Euphorbia helioscopia,1.9,1.9,1.9,True,False
+fixed,vC,57,Euphorbia microsphaera,4.500000000000001,4.5,4.5,True,False
+fixed,vC,58,Festuca gigantea,5.1000000000000005,5.1,5.1,True,False
+fixed,vC,59,Flaveria angustifolia ,2.77,2.77,2.815,True,True
+fixed,vC,60,Flaveria angustifolia ,2.77,2.77,2.815,True,True
+fixed,vC,61,Flaveria anomala ,3.8,3.8,3.8,True,False
+fixed,vC,62,Flaveria australasica,3.8400000000000003,3.84,3.84,True,False
+fixed,vC,63,Flaveria bidentis ,4.16,4.16,4.16,True,False
+fixed,vC,64,Flaveria bidentis ,4.16,4.16,4.16,True,False
+fixed,vC,65,Flaveria cronquistii ,3.13,3.13,3.04,True,True
+fixed,vC,66,Flaveria cronquistii ,3.13,3.13,3.04,True,True
+fixed,vC,67,Flaveria floridana ,3.025,3.025,3.19,True,True
+fixed,vC,68,Flaveria floridana ,3.025,3.025,3.19,True,True
+fixed,vC,69,Flaveria kochiana,3.6799999999999997,3.68,3.68,True,False
+fixed,vC,70,Flaveria linearis ,3.4300000000000006,3.43,3.43,True,False
+fixed,vC,71,Flaveria palmeri ,3.5400000000000005,3.54,3.54,True,False
+fixed,vC,72,Flaveria pringlei,2.795,2.795,2.795,True,False
+fixed,vC,73,Flaveria ramosissima ,2.77,2.77,2.77,True,False
+fixed,vC,74,Flaveria sonorensis ,2.69,2.69,2.69,True,False
+fixed,vC,75,Flaveria trinervia ,4.42,4.42,3.8499999999999996,True,True
+fixed,vC,76,Flaveria trinervia ,4.42,4.42,3.8499999999999996,True,True
+fixed,vC,77,Flaveria vaginata ,3.78,3.78,3.78,True,False
+fixed,vC,78,Flueggea suffruticosa,3.4,3.4,3.4,True,False
+fixed,vC,79,Foeniculum vulgare,4.4,4.4,4.4,True,False
+fixed,vC,80,Fragilariopsis cylindrus,1.7,1.7,1.7,True,False
+fixed,vC,81,Glycine canescens,2.6,2.6,2.6,True,False
+fixed,vC,82,Glycine max,2.0,2.0,2.0,True,False
+fixed,vC,83,Griffithsia monilis,2.6,2.6,2.6,True,False
+fixed,vC,84,Hordeum brachyantherum,2.9,2.9,2.9,True,False
+fixed,vC,85,Hordeum murinum,4.2,4.2,4.2,True,False
+fixed,vC,86,Ipomoea batatas,2.5,2.5,2.5,True,False
+fixed,vC,87,Iris douglasiana,3.5000000000000004,3.5,3.5,True,False
+fixed,vC,88,Lablab purpureus,5.3,5.3,5.3,True,False
+fixed,vC,89,Lepidium campestre,3.4,3.4,3.4,True,False
+fixed,vC,90,Limonium antonii‐llorensii,2.4,2.4,2.4,True,False
+fixed,vC,91,Limonium artruchium,3.0,3.0,3.0,True,False
+fixed,vC,92,Limonium balearicum,3.6,3.6,3.6,True,False
+fixed,vC,93,Limonium barceloi,3.4,3.4,3.4,True,False
+fixed,vC,94,Limonium biflorum,2.4,2.4,2.4,True,False
+fixed,vC,95,Limonium companyonis,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,96,Limonium echioides,3.9,3.9,3.9,True,False
+fixed,vC,97,Limonium ejulabilis,2.0,2.0,2.0,True,False
+fixed,vC,98,Limonium gibertii,2.5,2.5,2.5,True,False
+fixed,vC,99,Limonium grosii,2.9,2.9,2.9,True,False
+fixed,vC,100,Limonium gymnesicum,2.4,2.4,2.4,True,False
+fixed,vC,101,Limonium latebracteatum,2.7,2.7,2.7,True,False
+fixed,vC,102,Limonium leonardi‐llorensii,2.8,2.8,2.8,True,False
+fixed,vC,103,Limonium magallufianum,2.6,2.6,2.6,True,False
+fixed,vC,104,Limonium retusum,2.1,2.1,2.1,True,False
+fixed,vC,105,Limonium stenophyllum,2.6,2.6,2.6,True,False
+fixed,vC,106,Limonium virgatum,2.4,2.4,2.4,True,False
+fixed,vC,107,Lolium multiflorum,4.500000000000001,4.5,4.5,True,False
+fixed,vC,108,Lolium rigidum,4.700000000000001,4.7,4.7,True,False
+fixed,vC,109,Macrotyloma uniflorum,4.4,4.4,4.4,True,False
+fixed,vC,110,Manihot esculenta,1.9,1.9,1.9,True,False
+fixed,vC,111,Marchantia polymorpha,2.6,2.6,2.6,True,False
+fixed,vC,112,Medicago sativa,1.7,1.7,1.7,True,False
+fixed,vC,113,Megathyrsus maximus,5.3,5.3,5.3,True,False
+fixed,vC,114,Mercurialis annua,3.4,3.4,3.4,True,False
+fixed,vC,115,Metasequoia glyptostroboides,2.7,2.7,2.7,True,False
+fixed,vC,116,Musa velutina,3.2000000000000006,3.2,3.2,True,False
+fixed,vC,117,Nicotiana tabacum,3.3499999999999996,3.3499999999999996,3.3499999999999996,True,False
+fixed,vC,118,Nicotiana tabacum L. cv. W38,3.5849999999999995,3.585,3.585,True,False
+fixed,vC,119,Nymphaea alba,2.4,2.4,2.4,True,False
+fixed,vC,120,Olisthodiscus luteus,0.83,0.83,0.83,True,False
+fixed,vC,121,Oryza barthii/glaberrima,2.5,2.5,2.5,True,False
+fixed,vC,122,Oryza eichingeri,2.5,2.5,2.5,True,False
+fixed,vC,123,Oryza glumaepatula,2.4,2.4,2.4,True,False
+fixed,vC,124,Oryza longistaminata,2.2,2.2,2.2,True,False
+fixed,vC,125,Oryza meridionalis,2.6,2.6,2.6,True,False
+fixed,vC,126,Oryza punctata,2.7,2.7,2.7,True,False
+fixed,vC,127,Pallenis maritima,2.7,2.7,2.7,True,False
+fixed,vC,128,Panicum amarum,3.2000000000000006,3.2,3.2,True,False
+fixed,vC,129,Panicum antidotale,3.9,3.9,3.9,True,False
+fixed,vC,130,Panicum bisulcatum,2.6,2.6,2.6,True,False
+fixed,vC,131,Panicum coloratum,3.4,3.4,3.4,True,False
+fixed,vC,132,Panicum deustum,5.000000000000001,5.0,5.0,True,False
+fixed,vC,133,Panicum dichotomiflorum,3.1,3.1,3.1,True,False
+fixed,vC,134,Panicum milioides,2.2,2.2,2.2,True,False
+fixed,vC,135,Panicum monticola,5.3,5.3,5.3,True,False
+fixed,vC,136,Panicum phragmitoides,2.8,2.8,2.8,True,False
+fixed,vC,137,Panicum virgatum,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,138,Pavlova lutheri,2.5,2.5,2.5,True,False
+fixed,vC,139,Phaeodactylum tricornutum,3.4,3.4,3.4,True,False
+fixed,vC,140,Phaseolus carteri,3.2000000000000006,3.2,3.2,True,False
+fixed,vC,141,Phaseolus coccineus,3.9,3.9,3.9,True,False
+fixed,vC,142,Phaseolus lunatus,3.2000000000000006,3.2,3.2,True,False
+fixed,vC,143,Phaseolus vulgaris ,1.7,1.7,2.6,True,True
+fixed,vC,144,Phaseolus vulgaris ,1.7,1.7,2.6,True,True
+fixed,vC,145,Platycerium superbum,2.3,2.3,2.3,True,False
+fixed,vC,146,Pleurochrysis carterae,3.2999999999999994,3.3,3.3,True,False
+fixed,vC,147,Poa palustris,4.2,4.2,4.2,True,False
+fixed,vC,148,Porphyridium purpureum,1.4,1.4,1.4,True,False
+fixed,vC,149,Prochlorococcus marinus MIT9313,6.58,6.58,6.58,True,False
+fixed,vC,150,Pteridium aquilinum,4.0,4.0,4.0,True,False
+fixed,vC,151,Puccinellia distans,5.4,5.4,5.4,True,False
+fixed,vC,152,Puccinellia lemmonii,5.200000000000001,5.2,5.2,True,False
+fixed,vC,153,Puccinellia maritima,5.4,5.4,5.4,True,False
+fixed,vC,154,Puccinellia nuttalliana,4.0,4.0,4.0,True,False
+fixed,vC,155,Pueraria montana,2.7,2.7,2.7,True,False
+fixed,vC,156,Rhodopseudomonas palustris,4.900000000000001,4.9,4.9,True,False
+fixed,vC,157,Saccharum officinarum,3.9,3.9,3.9,True,False
+fixed,vC,158,Sarracenia flava,4.4,4.4,4.4,True,False
+fixed,vC,159,Setaria viridis,5.67,5.67,5.67,True,False
+fixed,vC,160,Sideritis cretica subsp. spicata,2.0,2.0,2.0,True,False
+fixed,vC,161,Solanum lycopersicum,2.3,2.3,2.3,True,False
+fixed,vC,162,Solanum tuberosum,2.0,2.0,2.0,True,False
+fixed,vC,163,Sphenostylis stenocarpa,2.8,2.8,2.8,True,False
+fixed,vC,164,Spinacia oleracea,2.6500000000000004,2.6500000000000004,2.6500000000000004,True,False
+fixed,vC,165,Steinchisma laxa,2.3,2.3,2.3,True,False
+fixed,vC,166,Synechococcus 6301,10.589999999999998,10.59,10.59,True,False
+fixed,vC,167,Synechococcus 7002,11.599999999999998,11.6,11.6,True,False
+fixed,vC,168,Synechococcus elongatus PCC 7942,14.400000000000004,14.4,14.4,True,False
+fixed,vC,169,Tephrosia candida,2.2,2.2,2.2,True,False
+fixed,vC,170,Tephrosia purpurea,2.2,2.2,2.2,True,False
+fixed,vC,171,Tephrosia rhodesica,2.2,2.2,2.2,True,False
+fixed,vC,172,Teucrium heterophyllum,2.7,2.7,2.7,True,False
+fixed,vC,173,Tisochrysis lutea,2.2,2.2,2.2,True,False
+fixed,vC,174,Trachycarpus fortunei,2.8,2.8,2.8,True,False
+fixed,vC,175,Triticum aestivum,2.5,2.5,2.5,True,False
+fixed,vC,176,Triticum baeoticum,3.8,3.8,3.8,True,False
+fixed,vC,177,Urochloa mosambicensis,5.700000000000001,5.7,5.7,True,False
+fixed,vC,178,Urochloa panicoides,5.599999999999999,5.6,5.6,True,False
+fixed,vC,179,Zea mays ,4.05,4.05,4.05,True,False
+fixed,vC,180,Zea mays ,4.05,4.05,4.05,True,False
+fixed,KC,0,Aegilops biuncialis,16.8,16.8,16.8,True,False
+fixed,KC,1,Aegilops comosa,13.5,13.5,13.5,True,False
+fixed,KC,2,Aegilops cylindrica,13.699999999999998,13.7,13.7,True,False
+fixed,KC,3,Aegilops juvenalis,20.600000000000005,20.6,20.6,True,False
+fixed,KC,4,Aegilops speltoides,16.5,16.5,16.5,True,False
+fixed,KC,5,Aegilops tauschii,14.9,14.9,14.9,True,False
+fixed,KC,6,Aegilops triuncialis,12.799999999999999,12.8,12.8,True,False
+fixed,KC,7,Aegilops uniaristata,13.799999999999999,13.8,13.8,True,False
+fixed,KC,8,Aegilops vavilovii,13.299999999999999,13.3,13.3,True,False
+fixed,KC,9,Agave victoriae−reginae,9.700000000000001,9.7,9.7,True,False
+fixed,KC,10,Agriophyllum squarrosum,15.4,15.4,15.4,True,False
+fixed,KC,11,Agrostis scabra,21.999999999999996,22.0,22.0,True,False
+fixed,KC,12,Agrostis stolonifera,25.300000000000004,25.3,25.3,True,False
+fixed,KC,13,Allochromatium vinosum,32.70000000000001,32.7,32.7,True,False
+fixed,KC,14,Amaranthus hybridus,16.0,16.0,16.0,True,False
+fixed,KC,15,Amphicarpaea bracteata,29.0,29.0,29.0,True,False
+fixed,KC,16,Aphanizomenon flos aquae,105.00000000000004,105.0,105.0,True,False
+fixed,KC,17,Arabidopsis thaliana,9.9,9.9,9.9,True,False
+fixed,KC,18,Archaeoglobus fulgidus,50.999999999999986,51.0,51.0,True,False
+fixed,KC,19,Arctagrostis latifolia,21.0,21.0,21.0,True,False
+fixed,KC,20,Artemisia myriantha,26.4,26.4,26.4,True,False
+fixed,KC,21,Artemisia vulgaris L.,31.89999999999999,31.9,31.9,True,False
+fixed,KC,22,Atrichum undulatum,19.200000000000003,19.2,19.2,True,False
+fixed,KC,23,Atriplex glabriuscula,27.000000000000004,27.0,27.0,True,False
+fixed,KC,24,Avena sativa,10.799999999999999,10.8,10.8,True,False
+fixed,KC,25,Beta vulgaris,10.799999999999999,10.8,10.8,True,False
+fixed,KC,26,Bromus anomalus,16.899999999999995,16.9,16.9,True,False
+fixed,KC,27,Calamagrostis arundinacea,22.700000000000003,22.7,22.7,True,False
+fixed,KC,28,Calamagrostis canescens,15.200000000000003,15.2,15.2,True,False
+fixed,KC,29,Calamagrostis foliosa,20.9,20.9,20.9,True,False
+fixed,KC,30,Calamagrostis inexpansa,18.799999999999997,18.8,18.8,True,False
+fixed,KC,31,Calamagrostis nutkaensis,20.099999999999998,20.1,20.1,True,False
+fixed,KC,32,Capsicum annuum,9.6,9.6,9.6,True,False
+fixed,KC,33,Carpobrotus edulis,9.499999999999998,9.5,9.5,True,False
+fixed,KC,34,Cenchrus ciliaris,18.999999999999996,19.0,19.0,True,False
+fixed,KC,35,Ceratophyllum demersum,13.599999999999998,13.6,13.6,True,False
+fixed,KC,36,Chenopodium murale,23.800000000000004,23.8,23.8,True,False
+fixed,KC,37,Chenopodium rubrum,14.499999999999998,14.5,14.5,True,False
+fixed,KC,38,Chlamydomonas reinhardtii,29.0,29.0,29.0,True,False
+fixed,KC,39,Citrullus ecirrhosus,18.899999999999995,18.9,18.9,True,False
+fixed,KC,40,Citrullus lanatus var. lanatus,19.4,19.4,19.4,True,False
+fixed,KC,41,Coccochloris peniocystis,121.00000000000006,121.0,121.0,True,False
+fixed,KC,42,Coffee arabica,11.000000000000002,11.0,11.0,True,False
+fixed,KC,43,Crithmum maritimum,8.7,8.7,8.7,True,False
+fixed,KC,44,Cucurbita maxima,9.0,9.0,9.0,True,False
+fixed,KC,45,Cyanidium caldarium,6.7,6.7,6.7,True,False
+fixed,KC,46,Cyanobium PCC7001,163.49999999999994,163.5,163.5,True,False
+fixed,KC,47,Cycas panzhihuaensis,8.8,8.8,8.8,True,False
+fixed,KC,48,Cylindrotheca N1,32.00000000000001,32.0,32.0,True,False
+fixed,KC,49,Deschampsia danthonioides,22.3,22.3,22.3,True,False
+fixed,KC,50,Desmodium cinereum,12.799999999999999,12.8,12.8,True,False
+fixed,KC,51,Desmodium intortum,14.200000000000001,14.2,14.2,True,False
+fixed,KC,52,Desmodium psilocarpum,15.6,15.6,15.6,True,False
+fixed,KC,53,Drosera capensis,10.3,10.3,10.3,True,False
+fixed,KC,54,Drosera venusta,11.800000000000002,11.8,11.8,True,False
+fixed,KC,55,Echeveria elegans,10.5,10.5,10.5,True,False
+fixed,KC,56,Echinochloa crus-galli,18.399999999999995,18.4,18.4,True,False
+fixed,KC,57,Elymus farctus,19.500000000000004,19.5,19.5,True,False
+fixed,KC,58,Eragrostis tef,34.9,34.9,34.9,True,False
+fixed,KC,59,Erythrina flabelliformis,18.399999999999995,18.4,18.4,True,False
+fixed,KC,60,Espeletia schultzii,23.199999999999996,23.2,23.2,True,False
+fixed,KC,61,Euglena gracilis,25.000000000000007,25.0,25.0,True,False
+fixed,KC,62,Euphorbia helioscopia,11.499999999999998,11.5,11.5,True,False
+fixed,KC,63,Euphorbia microsphaera,25.800000000000008,25.8,25.8,True,False
+fixed,KC,64,Festuca gigantea,31.200000000000006,31.2,31.2,True,False
+fixed,KC,65,Flaveria angustifolia ,12.500000000000002,12.5,12.8,True,True
+fixed,KC,66,Flaveria angustifolia ,12.500000000000002,12.5,12.8,True,True
+fixed,KC,67,Flaveria anomala ,10.700000000000003,10.7,10.7,True,False
+fixed,KC,68,Flaveria australasica,21.999999999999996,22.0,22.0,True,False
+fixed,KC,69,Flaveria bidentis ,20.199999999999996,20.2,20.2,True,False
+fixed,KC,70,Flaveria bidentis ,20.199999999999996,20.2,20.2,True,False
+fixed,KC,71,Flaveria cronquistii ,10.799999999999999,10.8,10.25,True,True
+fixed,KC,72,Flaveria cronquistii ,10.799999999999999,10.8,10.25,True,True
+fixed,KC,73,Flaveria floridana ,12.549999999999999,12.55,13.2,True,True
+fixed,KC,74,Flaveria floridana ,12.549999999999999,12.55,13.2,True,True
+fixed,KC,75,Flaveria kochiana,22.700000000000003,22.7,22.7,True,False
+fixed,KC,76,Flaveria linearis ,12.500000000000002,12.5,12.5,True,False
+fixed,KC,77,Flaveria palmeri ,13.5,13.5,13.5,True,False
+fixed,KC,78,Flaveria pringlei,12.000000000000002,12.0,12.0,True,False
+fixed,KC,79,Flaveria ramosissima ,12.000000000000002,12.0,12.0,True,False
+fixed,KC,80,Flaveria sonorensis ,10.2,10.2,10.2,True,False
+fixed,KC,81,Flaveria trinervia ,17.899999999999995,17.9,18.15,True,True
+fixed,KC,82,Flaveria trinervia ,17.899999999999995,17.9,18.15,True,True
+fixed,KC,83,Flaveria vaginata ,21.399999999999995,21.4,21.4,True,False
+fixed,KC,84,Flueggea suffruticosa,19.200000000000003,19.2,19.2,True,False
+fixed,KC,85,Foeniculum vulgare,20.700000000000003,20.7,20.7,True,False
+fixed,KC,86,Fragilariopsis cylindrus,33.5,33.5,33.5,True,False
+fixed,KC,87,Glycine canescens,17.2,17.2,17.2,True,False
+fixed,KC,88,Glycine max,9.0,9.0,9.0,True,False
+fixed,KC,89,Glycine max cv. Wayne,29.5,29.5,29.5,True,False
+fixed,KC,90,Griffithsia monilis,9.3,9.3,9.3,True,False
+fixed,KC,91,Halothiobacillus neapolitanus,164.00000000000003,164.0,164.0,True,False
+fixed,KC,92,Hordeum brachyantherum,16.200000000000003,16.2,16.2,True,False
+fixed,KC,93,Hordeum murinum,21.500000000000004,21.5,21.5,True,False
+fixed,KC,94,Ipomoea batatas,12.000000000000002,12.0,12.0,True,False
+fixed,KC,95,Iris douglasiana,9.700000000000001,9.7,9.7,True,False
+fixed,KC,96,Lablab purpureus,21.700000000000003,21.7,21.7,True,False
+fixed,KC,97,Lepidium campestre,15.8,15.8,15.8,True,False
+fixed,KC,98,Limonium antonii‐llorensii,8.7,8.7,8.7,True,False
+fixed,KC,99,Limonium artruchium,9.4,9.4,9.4,True,False
+fixed,KC,100,Limonium balearicum,9.700000000000001,9.7,9.7,True,False
+fixed,KC,101,Limonium barceloi,9.3,9.3,9.3,True,False
+fixed,KC,102,Limonium biflorum,7.999999999999999,8.0,8.0,True,False
+fixed,KC,103,Limonium companyonis,8.9,8.9,8.9,True,False
+fixed,KC,104,Limonium echioides,10.700000000000003,10.7,10.7,True,False
+fixed,KC,105,Limonium ejulabilis,7.6000000000000005,7.6,7.6,True,False
+fixed,KC,106,Limonium gibertii,9.099999999999998,9.1,9.1,True,False
+fixed,KC,107,Limonium grosii,8.1,8.1,8.1,True,False
+fixed,KC,108,Limonium gymnesicum,8.200000000000001,8.2,8.2,True,False
+fixed,KC,109,Limonium latebracteatum,8.8,8.8,8.8,True,False
+fixed,KC,110,Limonium leonardi‐llorensii,8.8,8.8,8.8,True,False
+fixed,KC,111,Limonium magallufianum,7.0,7.0,7.0,True,False
+fixed,KC,112,Limonium retusum,7.1,7.1,7.1,True,False
+fixed,KC,113,Limonium stenophyllum,8.4,8.4,8.4,True,False
+fixed,KC,114,Limonium virgatum,8.5,8.5,8.5,True,False
+fixed,KC,115,Lolium multiflorum,29.100000000000005,29.1,29.1,True,False
+fixed,KC,116,Lolium perenne,16.0,16.0,16.0,True,False
+fixed,KC,117,Lolium rigidum,25.000000000000007,25.0,25.0,True,False
+fixed,KC,118,Macrotyloma uniflorum,25.200000000000006,25.2,25.2,True,False
+fixed,KC,119,Manihot esculenta,10.550000000000002,10.55,10.55,True,False
+fixed,KC,120,Marchantia polymorpha,12.699999999999998,12.7,12.7,True,False
+fixed,KC,121,Medicago sativa,12.699999999999998,12.7,12.7,True,False
+fixed,KC,122,Megathyrsus maximus,13.900000000000004,13.9,13.9,True,False
+fixed,KC,123,Mercurialis annua,17.0,17.0,17.0,True,False
+fixed,KC,124,Metasequoia glyptostroboides,15.499999999999996,15.5,15.5,True,False
+fixed,KC,125,Musa velutina,18.999999999999996,19.0,19.0,True,False
+fixed,KC,126,Nicotiana tabacum,9.700000000000001,9.7,9.7,True,False
+fixed,KC,127,Nicotiana tabacum L. cv. W38,11.050000000000002,11.05,11.05,True,False
+fixed,KC,128,Nicotiana tabacum cv. W38,405.00000000000017,405.0,405.0,True,False
+fixed,KC,129,Nymphaea alba,11.199999999999998,11.2,11.2,True,False
+fixed,KC,130,Olisthodiscus luteus,59.00000000000001,59.0,59.0,True,False
+fixed,KC,131,Oryza barthii/glaberrima,13.999999999999998,14.0,14.0,True,False
+fixed,KC,132,Oryza eichingeri,14.1,14.1,14.1,True,False
+fixed,KC,133,Oryza glumaepatula,15.200000000000003,15.2,15.2,True,False
+fixed,KC,134,Oryza longistaminata,15.100000000000001,15.1,15.1,True,False
+fixed,KC,135,Oryza meridionalis,14.600000000000001,14.6,14.6,True,False
+fixed,KC,136,Oryza punctata,14.9,14.9,14.9,True,False
+fixed,KC,137,P. dilatatum,19.9,19.9,19.9,True,False
+fixed,KC,138,Pallenis maritima,6.4,6.4,6.4,True,False
+fixed,KC,139,Panicum amarum,33.10000000000001,33.1,33.1,True,False
+fixed,KC,140,Panicum bisulcatum,7.799999999999999,7.8,7.8,True,False
+fixed,KC,141,Panicum coloratum,11.099999999999998,11.1,11.1,True,False
+fixed,KC,142,Panicum deustum,15.4,15.4,15.4,True,False
+fixed,KC,143,Panicum dichotomiflorum,36.29999999999999,36.3,36.3,True,False
+fixed,KC,144,Panicum milioides,7.4,7.4,7.4,True,False
+fixed,KC,145,Panicum monticola,18.199999999999996,18.2,18.2,True,False
+fixed,KC,146,Panicum phragmitoides,25.1,25.1,25.1,True,False
+fixed,KC,147,Panicum virgatum,12.699999999999998,12.7,12.7,True,False
+fixed,KC,148,Pavlova lutheri,14.499999999999998,14.5,14.5,True,False
+fixed,KC,149,Phaeodactylum tricornutum,27.900000000000006,27.9,27.9,True,False
+fixed,KC,150,Phaseolus carteri,14.200000000000001,14.2,14.2,True,False
+fixed,KC,151,Phaseolus coccineus,15.6,15.6,15.6,True,False
+fixed,KC,152,Phaseolus lunatus,17.300000000000004,17.3,17.3,True,False
+fixed,KC,153,Phaseolus vulgaris ,7.799999999999999,7.8,14.0,True,True
+fixed,KC,154,Phaseolus vulgaris ,7.799999999999999,7.8,14.0,True,True
+fixed,KC,155,Platycerium superbum,12.400000000000002,12.4,12.4,True,False
+fixed,KC,156,Pleurochrysis carterae,17.7,17.7,17.7,True,False
+fixed,KC,157,Poa palustris,19.200000000000003,19.2,19.2,True,False
+fixed,KC,158,Polypodium aureum,16.1,16.1,16.1,True,False
+fixed,KC,159,Porphyridium purpureum,21.999999999999996,22.0,22.0,True,False
+fixed,KC,160,Prochlorococcus marinus MIT9313,529.4999999999999,529.5,529.5,True,False
+fixed,KC,161,Pteridium aquilinum,13.900000000000004,13.9,13.9,True,False
+fixed,KC,162,Puccinellia distans,22.2,22.2,22.2,True,False
+fixed,KC,163,Puccinellia lemmonii,28.099999999999994,28.1,28.1,True,False
+fixed,KC,164,Puccinellia maritima,20.799999999999997,20.8,20.8,True,False
+fixed,KC,165,Puccinellia nuttalliana,25.200000000000006,25.2,25.2,True,False
+fixed,KC,166,Pueraria montana,20.9,20.9,20.9,True,False
+fixed,KC,167,Rhodopseudomonas palustris,103.99999999999997,104.0,104.0,True,False
+fixed,KC,168,Riftia pachyptila endosymbiont,238.99999999999991,239.0,239.0,True,False
+fixed,KC,169,Saccharum officinarum,26.299999999999997,26.3,26.3,True,False
+fixed,KC,170,Sarracenia flava,12.600000000000001,12.6,12.6,True,False
+fixed,KC,171,Scenedesmus obliquus,37.99999999999999,38.0,38.0,True,False
+fixed,KC,172,Setaria italica,32.1,32.1,32.1,True,False
+fixed,KC,173,Setaria viridis,18.1,18.1,18.1,True,False
+fixed,KC,174,Sideritis cretica subsp. spicata,7.799999999999999,7.8,7.8,True,False
+fixed,KC,175,Solanum lycopersicum,9.700000000000001,9.7,9.7,True,False
+fixed,KC,176,Solanum tuberosum,9.6,9.6,9.6,True,False
+fixed,KC,177,Sorghum bicolor,29.800000000000004,29.8,29.8,True,False
+fixed,KC,178,Sphenostylis stenocarpa,17.4,17.4,17.4,True,False
+fixed,KC,179,Spinacia oleracea,12.1,12.1,12.1,True,False
+fixed,KC,180,Steinchisma laxa,7.699999999999999,7.7,7.7,True,False
+fixed,KC,181,Synechococcus 6301,175.0,175.0,175.0,True,False
+fixed,KC,182,Synechococcus 7002,184.99999999999997,185.0,185.0,True,False
+fixed,KC,183,Synechococcus elongatus PCC 7942,171.99999999999991,172.0,172.0,True,False
+fixed,KC,184,Tephrosia candida,15.900000000000002,15.9,15.9,True,False
+fixed,KC,185,Tephrosia purpurea,12.400000000000002,12.4,12.4,True,False
+fixed,KC,186,Tephrosia rhodesica,13.699999999999998,13.7,13.7,True,False
+fixed,KC,187,Teucrium heterophyllum,6.7,6.7,6.7,True,False
+fixed,KC,188,Thalassiosira weissflogii,31.499999999999993,31.5,31.5,True,False
+fixed,KC,189,Tisochrysis lutea,24.099999999999998,24.1,24.1,True,False
+fixed,KC,190,Trachycarpus fortunei,9.0,9.0,9.0,True,False
+fixed,KC,191,Triticum aestivum,12.65,12.65,12.65,True,False
+fixed,KC,192,Triticum baeoticum,19.7,19.7,19.7,True,False
+fixed,KC,193,Urochloa mosambicensis,14.800000000000004,14.8,14.8,True,False
+fixed,KC,194,Urochloa panicoides,15.4,15.4,15.4,True,False
+fixed,KC,195,Zea mays ,21.2,21.2,27.6,True,True
+fixed,KC,196,Zea mays ,21.2,21.2,27.6,True,True
+fixed,KO,0,Aegilops biuncialis,470.00000000000006,470.0,470.0,True,False
+fixed,KO,1,Aegilops comosa,360.0,360.0,360.0,True,False
+fixed,KO,2,Aegilops cylindrica,450.99999999999983,451.0,451.0,True,False
+fixed,KO,3,Aegilops juvenalis,491.9999999999998,492.0,492.0,True,False
+fixed,KO,4,Aegilops speltoides,447.00000000000017,447.0,447.0,True,False
+fixed,KO,5,Aegilops tauschii,495.00000000000017,495.0,495.0,True,False
+fixed,KO,6,Aegilops triuncialis,379.99999999999994,380.0,380.0,True,False
+fixed,KO,7,Aegilops uniaristata,449.99999999999983,450.0,450.0,True,False
+fixed,KO,8,Aegilops vavilovii,362.99999999999994,363.0,363.0,True,False
+fixed,KO,9,Agave victoriae−reginae,400.0000000000001,400.0,400.0,True,False
+fixed,KO,10,Agriophyllum squarrosum,338.99999999999994,339.0,339.0,True,False
+fixed,KO,11,Agrostis scabra,652.9999999999999,653.0,653.0,True,False
+fixed,KO,12,Agrostis stolonifera,801.9999999999999,802.0,802.0,True,False
+fixed,KO,13,Allochromatium vinosum,290.0,290.0,290.0,True,False
+fixed,KO,14,Amaranthus hybridus,639.9999999999999,640.0,640.0,True,False
+fixed,KO,15,Amphicarpaea bracteata,692.9999999999998,693.0,693.0,True,False
+fixed,KO,16,Aphanizomenon flos aquae,990.0000000000005,990.0,990.0,True,False
+fixed,KO,17,Arabidopsis thaliana,332.9999999999999,333.0,333.0,True,False
+fixed,KO,18,Archaeoglobus fulgidus,5.000000000000001,5.0,5.0,True,False
+fixed,KO,19,Arctagrostis latifolia,496.99999999999983,497.0,497.0,True,False
+fixed,KO,20,Artemisia myriantha,844.0000000000001,844.0,844.0,True,False
+fixed,KO,21,Artemisia vulgaris L.,625.9999999999999,626.0,626.0,True,False
+fixed,KO,22,Atrichum undulatum,806.0000000000003,806.0,806.0,True,False
+fixed,KO,23,Atriplex glabriuscula,328.0000000000001,328.0,328.0,True,False
+fixed,KO,24,Bromus anomalus,494.00000000000017,494.0,494.0,True,False
+fixed,KO,25,Calamagrostis arundinacea,614.0000000000001,614.0,614.0,True,False
+fixed,KO,26,Calamagrostis canescens,594.0,594.0,594.0,True,False
+fixed,KO,27,Calamagrostis foliosa,330.00000000000006,330.0,330.0,True,False
+fixed,KO,28,Calamagrostis inexpansa,608.0000000000002,608.0,608.0,True,False
+fixed,KO,29,Calamagrostis nutkaensis,601.0000000000001,601.0,601.0,True,False
+fixed,KO,30,Carpobrotus edulis,312.9999999999999,313.0,313.0,True,False
+fixed,KO,31,Cenchrus ciliaris,470.00000000000006,470.0,470.0,True,False
+fixed,KO,32,Ceratophyllum demersum,317.0000000000001,317.0,317.0,True,False
+fixed,KO,33,Chenopodium murale,353.99999999999983,354.0,354.0,True,False
+fixed,KO,34,Chenopodium rubrum,346.0000000000001,346.0,346.0,True,False
+fixed,KO,35,Chlamydomonas reinhardtii,479.99999999999994,480.0,480.0,True,False
+fixed,KO,36,Citrullus ecirrhosus,544.0,544.0,544.0,True,False
+fixed,KO,37,Citrullus lanatus var. lanatus,509.9999999999999,510.0,510.0,True,False
+fixed,KO,38,Coccochloris peniocystis,1220.0000000000005,1220.0,1220.0,True,False
+fixed,KO,39,Crithmum maritimum,182.99999999999991,183.0,183.0,True,False
+fixed,KO,40,Cycas panzhihuaensis,525.0000000000002,525.0,525.0,True,False
+fixed,KO,41,Cylindrotheca N1,960.4999999999998,960.5,960.5,True,False
+fixed,KO,42,Deschampsia danthonioides,580.0000000000001,580.0,580.0,True,False
+fixed,KO,43,Desmodium cinereum,403.0000000000001,403.0,403.0,True,False
+fixed,KO,44,Desmodium intortum,394.00000000000006,394.0,394.0,True,False
+fixed,KO,45,Desmodium psilocarpum,451.9999999999999,452.0,452.0,True,False
+fixed,KO,46,Drosera capensis,326.99999999999994,327.0,327.0,True,False
+fixed,KO,47,Drosera venusta,347.9999999999999,348.0,348.0,True,False
+fixed,KO,48,Echeveria elegans,236.00000000000009,236.0,236.0,True,False
+fixed,KO,49,Elymus farctus,300.0000000000001,300.0,300.0,True,False
+fixed,KO,50,Eragrostis tef,639.9999999999999,640.0,640.0,True,False
+fixed,KO,51,Erythrina flabelliformis,664.9999999999999,665.0,665.0,True,False
+fixed,KO,52,Euglena gracilis,409.99999999999994,410.0,410.0,True,False
+fixed,KO,53,Euphorbia helioscopia,453.0,453.0,453.0,True,False
+fixed,KO,54,Euphorbia microsphaera,546.0,546.0,546.0,True,False
+fixed,KO,55,Festuca gigantea,595.0000000000003,595.0,595.0,True,False
+fixed,KO,56,Flaveria anomala ,605.0000000000002,605.0,605.0,True,False
+fixed,KO,57,Flaveria australasica,309.0,309.0,309.0,True,False
+fixed,KO,58,Flaveria bidentis ,639.0000000000001,639.0,529.5,True,True
+fixed,KO,59,Flaveria bidentis ,639.0000000000001,639.0,529.5,True,True
+fixed,KO,60,Flaveria cronquistii ,652.9999999999999,653.0,653.0,True,False
+fixed,KO,61,Flaveria cronquistii ,652.9999999999999,653.0,653.0,True,False
+fixed,KO,62,Flaveria floridana ,685.9999999999999,686.0,530.0,True,True
+fixed,KO,63,Flaveria floridana ,685.9999999999999,686.0,530.0,True,True
+fixed,KO,64,Flaveria kochiana,150.00000000000003,150.0,150.0,True,False
+fixed,KO,65,Flaveria linearis ,414.9999999999998,415.0,415.0,True,False
+fixed,KO,66,Flaveria palmeri ,193.00000000000006,193.0,193.0,True,False
+fixed,KO,67,Flaveria pringlei,665.9999999999999,666.0,666.0,True,False
+fixed,KO,68,Flaveria ramosissima ,721.9999999999998,722.0,722.0,True,False
+fixed,KO,69,Flaveria sonorensis ,785.0000000000005,785.0,785.0,True,False
+fixed,KO,70,Flaveria trinervia ,671.0,671.0,671.0,True,False
+fixed,KO,71,Flaveria trinervia ,671.0,671.0,671.0,True,False
+fixed,KO,72,Flaveria vaginata ,880.0000000000001,880.0,880.0,True,False
+fixed,KO,73,Flueggea suffruticosa,547.0000000000001,547.0,547.0,True,False
+fixed,KO,74,Foeniculum vulgare,512.0000000000001,512.0,512.0,True,False
+fixed,KO,75,Glycine canescens,587.0,587.0,587.0,True,False
+fixed,KO,76,Glycine max,545.0000000000001,545.0,545.0,True,False
+fixed,KO,77,Glycine max cv. Wayne,389.9999999999999,390.0,390.0,True,False
+fixed,KO,78,Hordeum brachyantherum,371.00000000000017,371.0,371.0,True,False
+fixed,KO,79,Hordeum murinum,511.0000000000001,511.0,511.0,True,False
+fixed,KO,80,Iris douglasiana,413.0000000000001,413.0,413.0,True,False
+fixed,KO,81,Lablab purpureus,556.0,556.0,556.0,True,False
+fixed,KO,82,Lepidium campestre,336.00000000000006,336.0,336.0,True,False
+fixed,KO,83,Limonium antonii‐llorensii,397.0000000000001,397.0,397.0,True,False
+fixed,KO,84,Limonium artruchium,320.99999999999983,321.0,321.0,True,False
+fixed,KO,85,Limonium balearicum,346.0000000000001,346.0,346.0,True,False
+fixed,KO,86,Limonium barceloi,346.0000000000001,346.0,346.0,True,False
+fixed,KO,87,Limonium biflorum,316.00000000000006,316.0,316.0,True,False
+fixed,KO,88,Limonium companyonis,429.0000000000002,429.0,429.0,True,False
+fixed,KO,89,Limonium echioides,427.00000000000017,427.0,427.0,True,False
+fixed,KO,90,Limonium ejulabilis,414.9999999999998,415.0,415.0,True,False
+fixed,KO,91,Limonium gibertii,430.99999999999994,431.0,431.0,True,False
+fixed,KO,92,Limonium grosii,328.0000000000001,328.0,328.0,True,False
+fixed,KO,93,Limonium gymnesicum,388.0,388.0,388.0,True,False
+fixed,KO,94,Limonium latebracteatum,343.9999999999999,344.0,344.0,True,False
+fixed,KO,95,Limonium leonardi‐llorensii,438.0000000000002,438.0,438.0,True,False
+fixed,KO,96,Limonium magallufianum,296.99999999999994,297.0,297.0,True,False
+fixed,KO,97,Limonium retusum,395.9999999999999,396.0,396.0,True,False
+fixed,KO,98,Limonium stenophyllum,457.0000000000002,457.0,457.0,True,False
+fixed,KO,99,Limonium virgatum,381.0000000000001,381.0,381.0,True,False
+fixed,KO,100,Lolium multiflorum,740.0000000000001,740.0,740.0,True,False
+fixed,KO,101,Lolium perenne,499.99999999999994,500.0,500.0,True,False
+fixed,KO,102,Lolium rigidum,519.9999999999998,520.0,520.0,True,False
+fixed,KO,103,Macrotyloma uniflorum,518.9999999999998,519.0,519.0,True,False
+fixed,KO,104,Manihot esculenta,566.0,566.0,566.0,True,False
+fixed,KO,105,Marchantia polymorpha,565.0000000000002,565.0,565.0,True,False
+fixed,KO,106,Megathyrsus maximus,265.00000000000006,265.0,265.0,True,False
+fixed,KO,107,Mercurialis annua,417.00000000000006,417.0,417.0,True,False
+fixed,KO,108,Metasequoia glyptostroboides,561.0000000000003,561.0,561.0,True,False
+fixed,KO,109,Musa velutina,563.9999999999999,564.0,564.0,True,False
+fixed,KO,110,Nicotiana tabacum,292.00000000000006,292.0,292.0,True,False
+fixed,KO,111,Nicotiana tabacum L. cv. W38,269.5,269.5,269.5,True,False
+fixed,KO,112,Nicotiana tabacum cv. W38,277999.99999999994,278000.0,278000.0,True,False
+fixed,KO,113,Nymphaea alba,438.0000000000002,438.0,438.0,True,False
+fixed,KO,114,Olisthodiscus luteus,692.0000000000003,692.0,692.0,True,False
+fixed,KO,115,Oryza barthii/glaberrima,479.0,479.0,479.0,True,False
+fixed,KO,116,Oryza eichingeri,612.0000000000002,612.0,612.0,True,False
+fixed,KO,117,Oryza glumaepatula,483.99999999999983,484.0,484.0,True,False
+fixed,KO,118,Oryza longistaminata,757.0,757.0,757.0,True,False
+fixed,KO,119,Oryza meridionalis,382.00000000000017,382.0,382.0,True,False
+fixed,KO,120,Oryza punctata,341.9999999999999,342.0,342.0,True,False
+fixed,KO,121,P. dilatatum,414.9999999999998,415.0,415.0,True,False
+fixed,KO,122,Pallenis maritima,320.99999999999983,321.0,321.0,True,False
+fixed,KO,123,Panicum amarum,800.0000000000003,800.0,800.0,True,False
+fixed,KO,124,Panicum bisulcatum,416.0,416.0,416.0,True,False
+fixed,KO,125,Panicum coloratum,444.99999999999994,445.0,445.0,True,False
+fixed,KO,126,Panicum deustum,306.0000000000001,306.0,306.0,True,False
+fixed,KO,127,Panicum dichotomiflorum,1540.0,1540.0,1540.0,True,False
+fixed,KO,128,Panicum milioides,387.0,387.0,387.0,True,False
+fixed,KO,129,Panicum monticola,543.0000000000002,543.0,543.0,True,False
+fixed,KO,130,Panicum phragmitoides,687.0000000000001,687.0,687.0,True,False
+fixed,KO,131,Panicum virgatum,271.00000000000006,271.0,271.0,True,False
+fixed,KO,132,Pavlova lutheri,1150.0000000000002,1150.0,1150.0,True,False
+fixed,KO,133,Phaeodactylum tricornutum,467.0000000000001,467.0,467.0,True,False
+fixed,KO,134,Phaseolus carteri,422.0,422.0,422.0,True,False
+fixed,KO,135,Phaseolus coccineus,491.0000000000002,491.0,491.0,True,False
+fixed,KO,136,Phaseolus lunatus,536.9999999999999,537.0,537.0,True,False
+fixed,KO,137,Platycerium superbum,458.9999999999998,459.0,459.0,True,False
+fixed,KO,138,Pleurochrysis carterae,365.9999999999999,366.0,366.0,True,False
+fixed,KO,139,Poa palustris,562.0,562.0,562.0,True,False
+fixed,KO,140,Prochlorococcus marinus MIT9313,1400.0000000000005,1400.0,1400.0,True,False
+fixed,KO,141,Pteridium aquilinum,390.99999999999994,391.0,391.0,True,False
+fixed,KO,142,Puccinellia distans,487.99999999999983,488.0,488.0,True,False
+fixed,KO,143,Puccinellia lemmonii,1119.9999999999998,1120.0,1120.0,True,False
+fixed,KO,144,Puccinellia maritima,676.0,676.0,676.0,True,False
+fixed,KO,145,Puccinellia nuttalliana,717.0,717.0,717.0,True,False
+fixed,KO,146,Pueraria montana,679.0,679.0,679.0,True,False
+fixed,KO,147,Rhodopseudomonas palustris,277.00000000000006,277.0,277.0,True,False
+fixed,KO,148,Sarracenia flava,425.99999999999994,426.0,426.0,True,False
+fixed,KO,149,Scenedesmus obliquus,660.0000000000001,660.0,660.0,True,False
+fixed,KO,150,Setaria viridis,619.0000000000002,619.0,619.0,True,False
+fixed,KO,151,Sideritis cretica subsp. spicata,328.0000000000001,328.0,328.0,True,False
+fixed,KO,152,Sphenostylis stenocarpa,574.0000000000001,574.0,574.0,True,False
+fixed,KO,153,Spinacia oleracea,519.9999999999998,520.0,520.0,True,False
+fixed,KO,154,Steinchisma laxa,418.99999999999983,419.0,419.0,True,False
+fixed,KO,155,Synechococcus 6301,565.0000000000002,565.0,565.0,True,False
+fixed,KO,156,Synechococcus elongatus PCC 7942,585.0,585.0,585.0,True,False
+fixed,KO,157,Tephrosia candida,481.00000000000017,481.0,481.0,True,False
+fixed,KO,158,Tephrosia purpurea,332.9999999999999,333.0,333.0,True,False
+fixed,KO,159,Tephrosia rhodesica,565.0000000000002,565.0,565.0,True,False
+fixed,KO,160,Teucrium heterophyllum,359.00000000000017,359.0,359.0,True,False
+fixed,KO,161,Tisochrysis lutea,800.0000000000003,800.0,800.0,True,False
+fixed,KO,162,Trachycarpus fortunei,363.99999999999994,364.0,364.0,True,False
+fixed,KO,163,Triticum aestivum,658.0000000000003,658.0,658.0,True,False
+fixed,KO,164,Triticum baeoticum,905.0,905.0,905.0,True,False
+fixed,KO,165,Urochloa mosambicensis,463.9999999999998,464.0,464.0,True,False
+fixed,KO,166,Urochloa panicoides,443.99999999999983,444.0,444.0,True,False
+fixed,KO,167,Zea mays ,156.99999999999994,157.0,483.5,True,True
+fixed,KO,168,Zea mays ,156.99999999999994,157.0,483.5,True,True
+fixed,vO,0,Aegilops biuncialis,0.93,0.93,0.93,True,False
+fixed,vO,1,Aegilops comosa,0.73,0.73,0.73,True,False
+fixed,vO,2,Aegilops cylindrica,1.11,1.11,1.11,True,False
+fixed,vO,3,Aegilops juvenalis,0.86,0.86,0.86,True,False
+fixed,vO,4,Aegilops speltoides,0.97,0.97,0.97,True,False
+fixed,vO,5,Aegilops tauschii,0.89,0.89,0.89,True,False
+fixed,vO,6,Aegilops triuncialis,0.76,0.76,0.76,True,False
+fixed,vO,7,Aegilops uniaristata,0.98,0.98,0.98,True,False
+fixed,vO,8,Aegilops vavilovii,0.83,0.83,0.83,True,False
+fixed,vO,9,Allochromatium vinosum,1.28,1.28,1.28,True,False
+fixed,vO,10,Arabidopsis thaliana,1.38,1.38,1.38,True,False
+fixed,vO,11,Archaeoglobus fulgidus,0.566,0.566,0.566,True,False
+fixed,vO,12,Atriplex glabriuscula,2.51,2.51,2.51,True,False
+fixed,vO,13,Cenchrus ciliaris,2.1,2.1,2.1,True,False
+fixed,vO,14,Cylindrotheca N1,0.308,0.308,0.308,True,False
+fixed,vO,15,Flaveria pringlei,1.0,1.0,1.0,True,False
+fixed,vO,16,Megathyrsus maximus,1.3,1.3,1.3,True,False
+fixed,vO,17,Nicotiana tabacum,1.14,1.14,1.14,True,False
+fixed,vO,18,Olisthodiscus luteus,0.0969,0.0969,0.0969,True,False
+fixed,vO,19,Panicum bisulcatum,1.6,1.6,1.6,True,False
+fixed,vO,20,Panicum coloratum,1.6,1.6,1.6,True,False
+fixed,vO,21,Panicum deustum,1.2,1.2,1.2,True,False
+fixed,vO,22,Panicum milioides,1.3,1.3,1.3,True,False
+fixed,vO,23,Panicum monticola,2.0,2.0,2.0,True,False
+fixed,vO,24,Panicum virgatum,0.9,0.9,0.9,True,False
+fixed,vO,25,Pavlova lutheri,1.6,1.6,1.6,True,False
+fixed,vO,26,Phaeodactylum tricornutum,0.504,0.504,0.504,True,False
+fixed,vO,27,Pleurochrysis carterae,0.7,0.7,0.7,True,False
+fixed,vO,28,Prochlorococcus marinus MIT9313,0.78,0.78,0.78,True,False
+fixed,vO,29,Rhodopseudomonas palustris,1.09,1.09,1.09,True,False
+fixed,vO,30,Setaria viridis,2.8,2.8,2.8,True,False
+fixed,vO,31,Steinchisma laxa,1.4,1.4,1.4,True,False
+fixed,vO,32,Synechococcus 6301,0.287,0.287,0.287,True,False
+fixed,vO,33,Synechococcus elongatus PCC 7942,1.22,1.22,1.22,True,False
+fixed,vO,34,Tisochrysis lutea,0.8,0.8,0.8,True,False
+fixed,vO,35,Triticum aestivum,1.33,1.33,1.33,True,False
+fixed,vO,36,Urochloa mosambicensis,2.2,2.2,2.2,True,False
+fixed,vO,37,Urochloa panicoides,2.1,2.1,2.1,True,False
+fixed,KRuBP,0,Allochromatium vinosum,13.999999999999998,14.0,14.0,True,False
+fixed,KRuBP,1,Archaeoglobus fulgidus,20.000000000000004,20.0,20.0,True,False
+fixed,KRuBP,2,Atriplex glabriuscula,24.499999999999996,24.5,24.5,True,False
+fixed,KRuBP,3,Cyanobium PCC7001,37.0,37.0,37.0,True,False
+fixed,KRuBP,4,Cylindrotheca N1,8.7,8.7,8.7,True,False
+fixed,KRuBP,5,Flaveria angustifolia ,20.199999999999996,20.2,21.5,True,True
+fixed,KRuBP,6,Flaveria angustifolia ,20.199999999999996,20.2,21.5,True,True
+fixed,KRuBP,7,Flaveria anomala ,17.600000000000005,17.6,17.6,True,False
+fixed,KRuBP,8,Flaveria australasica,14.699999999999998,14.7,14.7,True,False
+fixed,KRuBP,9,Flaveria bidentis ,18.700000000000003,18.7,20.1,True,True
+fixed,KRuBP,10,Flaveria bidentis ,18.700000000000003,18.7,20.1,True,True
+fixed,KRuBP,11,Flaveria cronquistii ,20.199999999999996,20.2,21.25,True,True
+fixed,KRuBP,12,Flaveria cronquistii ,20.199999999999996,20.2,21.25,True,True
+fixed,KRuBP,13,Flaveria floridana ,17.299999999999994,17.299999999999997,17.299999999999997,True,False
+fixed,KRuBP,14,Flaveria floridana ,17.299999999999994,17.299999999999997,17.299999999999997,True,False
+fixed,KRuBP,15,Flaveria kochiana,14.300000000000002,14.3,14.3,True,False
+fixed,KRuBP,16,Flaveria linearis ,19.500000000000004,19.5,19.5,True,False
+fixed,KRuBP,17,Flaveria palmeri ,16.7,16.7,16.7,True,False
+fixed,KRuBP,18,Flaveria pringlei,20.799999999999997,20.8,20.8,True,False
+fixed,KRuBP,19,Flaveria ramosissima ,9.4,9.4,9.4,True,False
+fixed,KRuBP,20,Flaveria sonorensis ,20.300000000000004,20.3,20.3,True,False
+fixed,KRuBP,21,Flaveria trinervia ,22.100000000000005,22.1,21.450000000000003,True,True
+fixed,KRuBP,22,Flaveria trinervia ,22.100000000000005,22.1,21.450000000000003,True,True
+fixed,KRuBP,23,Flaveria vaginata ,16.899999999999995,16.9,16.9,True,False
+fixed,KRuBP,24,Griffithsia monilis,44.0,44.0,44.0,True,False
+fixed,KRuBP,25,Nicotiana tabacum,18.799999999999997,18.8,18.8,True,False
+fixed,KRuBP,26,Olisthodiscus luteus,23.5,23.5,23.5,True,False
+fixed,KRuBP,27,Phaeodactylum tricornutum,56.00000000000001,56.0,56.0,True,False
+fixed,KRuBP,28,Rhodopseudomonas palustris,10.0,10.0,10.0,True,False
+fixed,KRuBP,29,Spinacia oleracea,14.1,14.1,14.1,True,False
+fixed,KRuBP,30,Synechococcus 6301,21.6,21.6,21.6,True,False
+fixed,KRuBP,31,Synechococcus 7002,69.59999999999998,69.6,69.6,True,False
+fixed,KRuBP,32,Zea mays ,26.2,26.2,26.2,True,False
+fixed,KRuBP,33,Zea mays ,26.2,26.2,26.2,True,False
+nested_archive,S,0,Aegilops biuncialis,96.3,96.3,96.3,True,False
+nested_archive,S,1,Aegilops comosa,106.00000000000004,106.0,106.0,True,False
+nested_archive,S,2,Aegilops cylindrica,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,3,Aegilops juvenalis,90.39999999999999,90.4,90.4,True,False
+nested_archive,S,4,Aegilops speltoides,101.99999999999999,102.0,102.0,True,False
+nested_archive,S,5,Aegilops tauschii,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,6,Aegilops triuncialis,102.99999999999996,103.0,103.0,True,False
+nested_archive,S,7,Aegilops uniaristata,101.99999999999999,102.0,102.0,True,False
+nested_archive,S,8,Aegilops vavilovii,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,9,Agriophyllum squarrosum,93.9,93.9,93.9,True,False
+nested_archive,S,10,Agrostis scabra,102.99999999999996,103.0,103.0,True,False
+nested_archive,S,11,Agrostis stolonifera,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,12,Allochromatium vinosum,42.699999999999996,42.7,42.7,True,False
+nested_archive,S,13,Amaranthus hybridus,79.99999999999999,80.0,80.0,True,False
+nested_archive,S,14,Amphicarpaea bracteata,97.5,97.5,97.5,True,False
+nested_archive,S,15,Aphanizomenon flos aquae,47.99999999999999,48.0,48.0,True,False
+nested_archive,S,16,Arabidopsis thaliana cv. Columbia,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,17,Archaeoglobus fulgidus,4.0,4.0,4.0,True,False
+nested_archive,S,18,Arctagrostis latifolia,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,19,Artemisia myriantha,109.99999999999997,110.0,110.0,True,False
+nested_archive,S,20,Artemisia vulgaris L.,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,21,Avena sativa,99.9,99.9,99.9,True,False
+nested_archive,S,22,Beta vulgaris,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,23,Bromus anomalus,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,24,Calamagrostis arundinacea,103.99999999999997,104.0,104.0,True,False
+nested_archive,S,25,Calamagrostis canescens,98.49999999999999,98.5,98.5,True,False
+nested_archive,S,26,Calamagrostis foliosa,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,27,Calamagrostis inexpansa,111.00000000000004,111.0,111.0,True,False
+nested_archive,S,28,Calamagrostis nutkaensis,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,29,Capsicum annuum,96.0,96.0,96.0,True,False
+nested_archive,S,30,Cenchrus ciliaris,69.9,69.9,69.9,True,False
+nested_archive,S,31,Chaetoceros socialis,92.00000000000001,92.0,92.0,True,False
+nested_archive,S,32,Chenopodium murale,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,33,Chenopodium rubrum,97.80000000000003,97.8,97.8,True,False
+nested_archive,S,34,Chlamydomonas reinhardtii,65.75,65.75,65.75,True,False
+nested_archive,S,35,Chromatium vinosum,44.400000000000006,44.4,44.4,True,False
+nested_archive,S,36,Citrullus ecirrhosus,99.9,99.9,99.9,True,False
+nested_archive,S,37,Citrullus lanatus var. lanatus,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,38,Coccochloris peniocystis,47.00000000000001,47.0,47.0,True,False
+nested_archive,S,39,Coffee arabica,98.70000000000002,98.7,98.7,True,False
+nested_archive,S,40,Cucurbita maxima,98.40000000000002,98.4,98.4,True,False
+nested_archive,S,41,Cyanidium caldarium,225.0000000000001,225.0,225.0,True,False
+nested_archive,S,42,Cyanobium PCC7001,55.00000000000001,55.0,55.0,True,False
+nested_archive,S,43,Cylindrotheca N1,106.49999999999996,106.5,106.5,True,False
+nested_archive,S,44,Deschampsia danthonioides,108.00000000000004,108.0,108.0,True,False
+nested_archive,S,45,Desmodium cinereum,97.5,97.5,97.5,True,False
+nested_archive,S,46,Desmodium intortum,98.70000000000002,98.7,98.7,True,False
+nested_archive,S,47,Desmodium psilocarpum,95.9,95.9,95.9,True,False
+nested_archive,S,48,Echinochloa crus-galli,83.00000000000001,83.0,83.0,True,False
+nested_archive,S,49,Elymus farctus,106.00000000000004,106.0,106.0,True,False
+nested_archive,S,50,Eragrostis tef,89.0,89.0,89.0,True,False
+nested_archive,S,51,Erythrina flabelliformis,96.40000000000002,96.4,96.4,True,False
+nested_archive,S,52,Euglena gracilis,54.000000000000014,54.0,54.0,True,False
+nested_archive,S,53,Euphorbia helioscopia,96.79999999999998,96.8,96.8,True,False
+nested_archive,S,54,Euphorbia microsphaera,99.69999999999999,99.7,99.7,True,False
+nested_archive,S,55,Festuca gigantea,108.00000000000004,108.0,108.0,True,False
+nested_archive,S,56,Flaveria angustifolia ,90.39999999999999,90.4,86.80000000000001,True,True
+nested_archive,S,57,Flaveria angustifolia ,90.39999999999999,90.4,86.80000000000001,True,True
+nested_archive,S,58,Flaveria anomala ,77.90000000000002,77.9,77.9,True,False
+nested_archive,S,59,Flaveria australasica,77.2,77.2,77.2,True,False
+nested_archive,S,60,Flaveria bidentis ,75.5,75.5,80.0,True,True
+nested_archive,S,61,Flaveria bidentis ,75.5,75.5,80.0,True,True
+nested_archive,S,62,Flaveria cronquistii ,81.0,81.0,84.6,True,True
+nested_archive,S,63,Flaveria cronquistii ,81.0,81.0,84.6,True,True
+nested_archive,S,64,Flaveria floridana ,84.40000000000002,84.4,84.3,True,True
+nested_archive,S,65,Flaveria floridana ,84.40000000000002,84.4,84.3,True,True
+nested_archive,S,66,Flaveria kochiana,77.0,77.0,77.0,True,False
+nested_archive,S,67,Flaveria linearis ,78.10000000000001,78.1,78.1,True,False
+nested_archive,S,68,Flaveria palmeri ,83.79999999999998,83.8,83.8,True,False
+nested_archive,S,69,Flaveria pringlei,85.55,85.55,85.55,True,False
+nested_archive,S,70,Flaveria ramosissima ,79.8,79.8,79.8,True,False
+nested_archive,S,71,Flaveria sonorensis ,84.30000000000001,84.3,84.3,True,False
+nested_archive,S,72,Flaveria trinervia ,77.0,77.0,77.65,True,True
+nested_archive,S,73,Flaveria trinervia ,77.0,77.0,77.65,True,True
+nested_archive,S,74,Flaveria vaginata ,78.7,78.7,78.7,True,False
+nested_archive,S,75,Flueggea suffruticosa,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,76,Foeniculum vulgare,94.29999999999998,94.3,94.3,True,False
+nested_archive,S,77,Glycine canescens,97.10000000000001,97.1,97.1,True,False
+nested_archive,S,78,Glycine max,96.99999999999999,97.0,97.0,True,False
+nested_archive,S,79,Griffithsia monilis,167.0,167.0,167.0,True,False
+nested_archive,S,80,Helianthus annuus L.,73.60000000000001,73.6,73.6,True,False
+nested_archive,S,81,Hordeum brachyantherum,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,82,Hordeum murinum,100.0,100.0,100.0,True,False
+nested_archive,S,83,Hordeum vulgare L.,86.9,86.9,86.9,True,False
+nested_archive,S,84,Ipomoea batatas,98.49999999999999,98.5,98.5,True,False
+nested_archive,S,85,Lablab purpureus,91.1,91.1,91.1,True,False
+nested_archive,S,86,Lepidium campestre,92.80000000000001,92.8,92.8,True,False
+nested_archive,S,87,Limonium antonii‐llorensii,111.99999999999997,112.0,112.0,True,False
+nested_archive,S,88,Limonium artruchium,112.99999999999994,113.0,113.0,True,False
+nested_archive,S,89,Limonium balearicum,102.99999999999996,103.0,103.0,True,False
+nested_archive,S,90,Limonium barceloi,106.00000000000004,106.0,106.0,True,False
+nested_archive,S,91,Limonium biflorum,111.99999999999997,112.0,112.0,True,False
+nested_archive,S,92,Limonium companyonis,111.99999999999997,112.0,112.0,True,False
+nested_archive,S,93,Limonium echioides,106.00000000000004,106.0,106.0,True,False
+nested_archive,S,94,Limonium ejulabilis,116.00000000000003,116.0,116.0,True,False
+nested_archive,S,95,Limonium gibertii,111.00000000000004,111.0,111.0,True,False
+nested_archive,S,96,Limonium grosii,112.99999999999994,113.0,113.0,True,False
+nested_archive,S,97,Limonium gymnesicum,121.00000000000006,121.0,121.0,True,False
+nested_archive,S,98,Limonium leonardi‐llorensii,109.99999999999997,110.0,110.0,True,False
+nested_archive,S,99,Limonium magallufianum,108.5,108.5,108.5,True,False
+nested_archive,S,100,Limonium retusum,121.00000000000006,121.0,121.0,True,False
+nested_archive,S,101,Lolium multiflorum,99.9,99.9,99.9,True,False
+nested_archive,S,102,Lolium perenne,79.99999999999999,80.0,80.0,True,False
+nested_archive,S,103,Lolium rigidum,100.0,100.0,100.0,True,False
+nested_archive,S,104,Lysimachia minoricensis,93.79999999999998,93.8,93.8,True,False
+nested_archive,S,105,Macrotyloma uniflorum,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,106,Manihot esculenta,102.99999999999996,103.0,103.0,True,False
+nested_archive,S,107,Medicago sativa,86.29999999999998,86.3,86.3,True,False
+nested_archive,S,108,Megathyrsus maximus,80.30000000000001,80.3,80.3,True,False
+nested_archive,S,109,Mentha aquatica,97.20000000000002,97.2,97.2,True,False
+nested_archive,S,110,Mercurialis annua,95.7,95.7,95.7,True,False
+nested_archive,S,111,Musa velutina,111.00000000000004,111.0,111.0,True,False
+nested_archive,S,112,Nicotiana tabacum,91.20000000000002,91.2,91.2,True,False
+nested_archive,S,113,Nicotiana tabacum L. cv. W38,99.75000000000001,99.75,99.75,True,False
+nested_archive,S,114,Olisthodiscus luteus,100.0,100.0,100.0,True,False
+nested_archive,S,115,Oryza barthii/glaberrima,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,116,Oryza eichingeri,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,117,Oryza glumaepatula,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,118,Oryza longistaminata,108.00000000000004,108.0,108.0,True,False
+nested_archive,S,119,Oryza meridionalis,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,120,Oryza punctata,109.00000000000004,109.0,109.0,True,False
+nested_archive,S,121,Oryza punctata Kotschy,84.99999999999999,85.0,85.0,True,False
+nested_archive,S,122,P. dilatatum,88.00000000000001,88.0,88.0,True,False
+nested_archive,S,123,Panicum amarum,89.50000000000001,89.5,89.5,True,False
+nested_archive,S,124,Panicum antidotale,74.49999999999999,74.5,74.5,True,False
+nested_archive,S,125,Panicum bisulcatum,87.69999999999999,87.7,87.7,True,False
+nested_archive,S,126,Panicum coloratum,84.79999999999998,84.8,84.8,True,False
+nested_archive,S,127,Panicum deustum,84.79999999999998,84.8,84.8,True,False
+nested_archive,S,128,Panicum dichotomiflorum,92.60000000000001,92.6,92.6,True,False
+nested_archive,S,129,Panicum milioides,92.29999999999998,92.3,92.3,True,False
+nested_archive,S,130,Panicum monticola,79.39999999999999,79.4,79.4,True,False
+nested_archive,S,131,Panicum phragmitoides,107.00000000000001,107.0,107.0,True,False
+nested_archive,S,132,Panicum virgatum,82.6,82.6,82.6,True,False
+nested_archive,S,133,Pavlova lutheri,124.99999999999994,125.0,125.0,True,False
+nested_archive,S,134,Phaeodactylum tricornutum,112.99999999999994,113.0,113.0,True,False
+nested_archive,S,135,Phaseolus carteri,84.50000000000001,84.5,84.5,True,False
+nested_archive,S,136,Phaseolus coccineus,103.99999999999997,104.0,104.0,True,False
+nested_archive,S,137,Phaseolus lunatus,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,138,Phaseolus vulgaris ,99.69999999999999,99.7,102.35,True,True
+nested_archive,S,139,Phaseolus vulgaris ,99.69999999999999,99.7,102.35,True,True
+nested_archive,S,140,Pistacia lentiscus,97.20000000000002,97.2,97.2,True,False
+nested_archive,S,141,Pisum sativum,90.20000000000003,90.2,90.2,True,False
+nested_archive,S,142,Plantago lanceolata L.,77.30000000000001,77.3,77.3,True,False
+nested_archive,S,143,Pleurochrysis carterae,101.99999999999999,102.0,102.0,True,False
+nested_archive,S,144,Poa palustris,111.99999999999997,112.0,112.0,True,False
+nested_archive,S,145,Polypodium aureum,82.0,82.0,82.0,True,False
+nested_archive,S,146,Porphyra yezoensis,144.99999999999997,145.0,145.0,True,False
+nested_archive,S,147,Porphyridium purpureum,144.00000000000003,144.0,144.0,True,False
+nested_archive,S,148,Prochlorococcus marinus MIT9313,59.899999999999984,59.9,59.9,True,False
+nested_archive,S,149,Puccinellia distans,103.99999999999997,104.0,104.0,True,False
+nested_archive,S,150,Puccinellia lemmonii,101.99999999999999,102.0,102.0,True,False
+nested_archive,S,151,Puccinellia maritima,106.00000000000004,106.0,106.0,True,False
+nested_archive,S,152,Puccinellia nuttalliana,105.00000000000004,105.0,105.0,True,False
+nested_archive,S,153,Pueraria montana,101.00000000000001,101.0,101.0,True,False
+nested_archive,S,154,Rhodopseudomonas palustris,12.000000000000002,12.0,12.0,True,False
+nested_archive,S,155,Riftia pachyptila endosymbiont,8.6,8.6,8.6,True,False
+nested_archive,S,156,Saccharum officinarum,82.19999999999999,82.2,82.2,True,False
+nested_archive,S,157,Scenedesmus obliquus,63.0,63.0,63.0,True,False
+nested_archive,S,158,Setaria italica,58.00000000000001,58.0,58.0,True,False
+nested_archive,S,159,Setaria viridis,72.70000000000002,72.7,72.7,True,False
+nested_archive,S,160,Skeletonema costatum,72.00000000000001,72.0,72.0,True,False
+nested_archive,S,161,Solanum lycopersicum,92.4,92.4,92.4,True,False
+nested_archive,S,162,Solanum tuberosum,95.4,95.4,95.4,True,False
+nested_archive,S,163,Sorghum bicolor,70.00000000000001,70.0,70.0,True,False
+nested_archive,S,164,Sphenostylis stenocarpa,93.60000000000001,93.6,93.6,True,False
+nested_archive,S,165,Spinacia oleracea,84.99999999999999,85.0,85.0,True,False
+nested_archive,S,166,Steinchisma laxa,91.4,91.4,91.4,True,False
+nested_archive,S,167,Synechococcus 6301,42.50000000000001,42.5,42.5,True,False
+nested_archive,S,168,Synechococcus 7002,46.0,46.0,46.0,True,False
+nested_archive,S,169,Synechococcus elongatus PCC 7942,44.10000000000001,44.1,44.1,True,False
+nested_archive,S,170,Tephrosia candida,97.80000000000003,97.8,97.8,True,False
+nested_archive,S,171,Tephrosia purpurea,102.99999999999996,103.0,103.0,True,False
+nested_archive,S,172,Tephrosia rhodesica,91.60000000000001,91.6,91.6,True,False
+nested_archive,S,173,Thalassiosira antarctica,90.00000000000003,90.0,90.0,True,False
+nested_archive,S,174,Tisochrysis lutea,89.0,89.0,89.0,True,False
+nested_archive,S,175,Triticum aestivum,100.0,100.0,100.0,True,False
+nested_archive,S,176,Triticum baeoticum,96.0,96.0,96.0,True,False
+nested_archive,S,177,Ulva pertusa,68.50000000000001,68.5,68.5,True,False
+nested_archive,S,178,Urochloa mosambicensis,82.49999999999999,82.5,82.5,True,False
+nested_archive,S,179,Urochloa panicoides,78.30000000000001,78.3,78.3,True,False
+nested_archive,S,180,Urtica membranacea,101.99999999999999,102.0,102.0,True,False
+nested_archive,S,181,Zea mays ,74.89999999999999,74.9,78.3,True,True
+nested_archive,S,182,Zea mays ,74.89999999999999,74.9,78.3,True,True
+nested_archive,vC,0,Aegilops biuncialis,3.2000000000000006,3.2,3.2,True,False
+nested_archive,vC,1,Aegilops comosa,2.86,2.86,2.86,True,False
+nested_archive,vC,2,Aegilops cylindrica,3.6799999999999997,3.68,3.68,True,False
+nested_archive,vC,3,Aegilops juvenalis,3.2499999999999996,3.25,3.25,True,False
+nested_archive,vC,4,Aegilops speltoides,3.2399999999999998,3.24,3.24,True,False
+nested_archive,vC,5,Aegilops tauschii,2.86,2.86,2.86,True,False
+nested_archive,vC,6,Aegilops triuncialis,2.62,2.62,2.62,True,False
+nested_archive,vC,7,Aegilops uniaristata,2.7,2.7,2.7,True,False
+nested_archive,vC,8,Aegilops vavilovii,3.32,3.32,3.32,True,False
+nested_archive,vC,9,Agave victoriae−reginae,3.4,3.4,3.4,True,False
+nested_archive,vC,10,Agriophyllum squarrosum,2.8,2.8,2.8,True,False
+nested_archive,vC,11,Agrostis scabra,3.6,3.6,3.6,True,False
+nested_archive,vC,12,Agrostis stolonifera,5.200000000000001,5.2,5.2,True,False
+nested_archive,vC,13,Allochromatium vinosum,7.749999999999999,7.75,7.75,True,False
+nested_archive,vC,14,Amphicarpaea bracteata,4.0,4.0,4.0,True,False
+nested_archive,vC,15,Arabidopsis thaliana,3.5300000000000002,3.53,3.53,True,False
+nested_archive,vC,16,Arabidopsis thaliana cv. Columbia,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,17,Archaeoglobus fulgidus,23.10000000000001,23.1,23.1,True,False
+nested_archive,vC,18,Arctagrostis latifolia,5.799999999999999,5.8,5.8,True,False
+nested_archive,vC,19,Artemisia myriantha,3.1,3.1,3.1,True,False
+nested_archive,vC,20,Artemisia vulgaris L.,3.9,3.9,3.9,True,False
+nested_archive,vC,21,Atrichum undulatum,3.0,3.0,3.0,True,False
+nested_archive,vC,22,Atriplex glabriuscula,13.699999999999998,13.7,13.7,True,False
+nested_archive,vC,23,Avena sativa,2.3,2.3,2.3,True,False
+nested_archive,vC,24,Beta vulgaris,2.0,2.0,2.0,True,False
+nested_archive,vC,25,Bromus anomalus,2.9,2.9,2.9,True,False
+nested_archive,vC,26,Calamagrostis arundinacea,4.1,4.1,4.1,True,False
+nested_archive,vC,27,Calamagrostis canescens,2.5,2.5,2.5,True,False
+nested_archive,vC,28,Calamagrostis foliosa,3.5000000000000004,3.5,3.5,True,False
+nested_archive,vC,29,Calamagrostis inexpansa,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,30,Calamagrostis nutkaensis,3.1,3.1,3.1,True,False
+nested_archive,vC,31,Capsicum annuum,1.9,1.9,1.9,True,False
+nested_archive,vC,32,Carpobrotus edulis,3.6,3.6,3.6,True,False
+nested_archive,vC,33,Cenchrus ciliaris,6.0,6.0,6.0,True,False
+nested_archive,vC,34,Ceratophyllum demersum,3.5000000000000004,3.5,3.5,True,False
+nested_archive,vC,35,Chenopodium murale,4.4,4.4,4.4,True,False
+nested_archive,vC,36,Chenopodium rubrum,4.1,4.1,4.1,True,False
+nested_archive,vC,37,Citrullus ecirrhosus,3.1,3.1,3.1,True,False
+nested_archive,vC,38,Citrullus lanatus var. lanatus,2.5,2.5,2.5,True,False
+nested_archive,vC,39,Coffee arabica,2.1,2.1,2.1,True,False
+nested_archive,vC,40,Crithmum maritimum,3.4,3.4,3.4,True,False
+nested_archive,vC,41,Cucurbita maxima,2.2,2.2,2.2,True,False
+nested_archive,vC,42,Cyanidium caldarium,1.3,1.3,1.3,True,False
+nested_archive,vC,43,Cyanobium PCC7001,9.6,9.600000000000001,9.600000000000001,True,False
+nested_archive,vC,44,Cycas panzhihuaensis,3.1,3.1,3.1,True,False
+nested_archive,vC,45,Cylindrotheca N1,0.875,0.875,0.875,True,False
+nested_archive,vC,46,Deschampsia danthonioides,4.500000000000001,4.5,4.5,True,False
+nested_archive,vC,47,Desmodium cinereum,3.0,3.0,3.0,True,False
+nested_archive,vC,48,Desmodium intortum,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,49,Desmodium psilocarpum,3.6,3.6,3.6,True,False
+nested_archive,vC,50,Drosera capensis,4.700000000000001,4.7,4.7,True,False
+nested_archive,vC,51,Drosera venusta,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,52,Echeveria elegans,4.500000000000001,4.5,4.5,True,False
+nested_archive,vC,53,Elymus farctus,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,54,Eragrostis tef,7.1,7.1,7.1,True,False
+nested_archive,vC,55,Erythrina flabelliformis,3.6,3.6,3.6,True,False
+nested_archive,vC,56,Euphorbia helioscopia,1.9,1.9,1.9,True,False
+nested_archive,vC,57,Euphorbia microsphaera,4.500000000000001,4.5,4.5,True,False
+nested_archive,vC,58,Festuca gigantea,5.1000000000000005,5.1,5.1,True,False
+nested_archive,vC,59,Flaveria angustifolia ,2.77,2.77,2.815,True,True
+nested_archive,vC,60,Flaveria angustifolia ,2.77,2.77,2.815,True,True
+nested_archive,vC,61,Flaveria anomala ,3.8,3.8,3.8,True,False
+nested_archive,vC,62,Flaveria australasica,3.8400000000000003,3.84,3.84,True,False
+nested_archive,vC,63,Flaveria bidentis ,4.16,4.16,4.16,True,False
+nested_archive,vC,64,Flaveria bidentis ,4.16,4.16,4.16,True,False
+nested_archive,vC,65,Flaveria cronquistii ,3.13,3.13,3.04,True,True
+nested_archive,vC,66,Flaveria cronquistii ,3.13,3.13,3.04,True,True
+nested_archive,vC,67,Flaveria floridana ,3.025,3.025,3.19,True,True
+nested_archive,vC,68,Flaveria floridana ,3.025,3.025,3.19,True,True
+nested_archive,vC,69,Flaveria kochiana,3.6799999999999997,3.68,3.68,True,False
+nested_archive,vC,70,Flaveria linearis ,3.4300000000000006,3.43,3.43,True,False
+nested_archive,vC,71,Flaveria palmeri ,3.5400000000000005,3.54,3.54,True,False
+nested_archive,vC,72,Flaveria pringlei,2.795,2.795,2.795,True,False
+nested_archive,vC,73,Flaveria ramosissima ,2.77,2.77,2.77,True,False
+nested_archive,vC,74,Flaveria sonorensis ,2.69,2.69,2.69,True,False
+nested_archive,vC,75,Flaveria trinervia ,4.42,4.42,3.8499999999999996,True,True
+nested_archive,vC,76,Flaveria trinervia ,4.42,4.42,3.8499999999999996,True,True
+nested_archive,vC,77,Flaveria vaginata ,3.78,3.78,3.78,True,False
+nested_archive,vC,78,Flueggea suffruticosa,3.4,3.4,3.4,True,False
+nested_archive,vC,79,Foeniculum vulgare,4.4,4.4,4.4,True,False
+nested_archive,vC,80,Fragilariopsis cylindrus,1.7,1.7,1.7,True,False
+nested_archive,vC,81,Glycine canescens,2.6,2.6,2.6,True,False
+nested_archive,vC,82,Glycine max,2.0,2.0,2.0,True,False
+nested_archive,vC,83,Griffithsia monilis,2.6,2.6,2.6,True,False
+nested_archive,vC,84,Hordeum brachyantherum,2.9,2.9,2.9,True,False
+nested_archive,vC,85,Hordeum murinum,4.2,4.2,4.2,True,False
+nested_archive,vC,86,Ipomoea batatas,2.5,2.5,2.5,True,False
+nested_archive,vC,87,Iris douglasiana,3.5000000000000004,3.5,3.5,True,False
+nested_archive,vC,88,Lablab purpureus,5.3,5.3,5.3,True,False
+nested_archive,vC,89,Lepidium campestre,3.4,3.4,3.4,True,False
+nested_archive,vC,90,Limonium antonii‐llorensii,2.4,2.4,2.4,True,False
+nested_archive,vC,91,Limonium artruchium,3.0,3.0,3.0,True,False
+nested_archive,vC,92,Limonium balearicum,3.6,3.6,3.6,True,False
+nested_archive,vC,93,Limonium barceloi,3.4,3.4,3.4,True,False
+nested_archive,vC,94,Limonium biflorum,2.4,2.4,2.4,True,False
+nested_archive,vC,95,Limonium companyonis,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,96,Limonium echioides,3.9,3.9,3.9,True,False
+nested_archive,vC,97,Limonium ejulabilis,2.0,2.0,2.0,True,False
+nested_archive,vC,98,Limonium gibertii,2.5,2.5,2.5,True,False
+nested_archive,vC,99,Limonium grosii,2.9,2.9,2.9,True,False
+nested_archive,vC,100,Limonium gymnesicum,2.4,2.4,2.4,True,False
+nested_archive,vC,101,Limonium latebracteatum,2.7,2.7,2.7,True,False
+nested_archive,vC,102,Limonium leonardi‐llorensii,2.8,2.8,2.8,True,False
+nested_archive,vC,103,Limonium magallufianum,2.6,2.6,2.6,True,False
+nested_archive,vC,104,Limonium retusum,2.1,2.1,2.1,True,False
+nested_archive,vC,105,Limonium stenophyllum,2.6,2.6,2.6,True,False
+nested_archive,vC,106,Limonium virgatum,2.4,2.4,2.4,True,False
+nested_archive,vC,107,Lolium multiflorum,4.500000000000001,4.5,4.5,True,False
+nested_archive,vC,108,Lolium rigidum,4.700000000000001,4.7,4.7,True,False
+nested_archive,vC,109,Macrotyloma uniflorum,4.4,4.4,4.4,True,False
+nested_archive,vC,110,Manihot esculenta,1.9,1.9,1.9,True,False
+nested_archive,vC,111,Marchantia polymorpha,2.6,2.6,2.6,True,False
+nested_archive,vC,112,Medicago sativa,1.7,1.7,1.7,True,False
+nested_archive,vC,113,Megathyrsus maximus,5.3,5.3,5.3,True,False
+nested_archive,vC,114,Mercurialis annua,3.4,3.4,3.4,True,False
+nested_archive,vC,115,Metasequoia glyptostroboides,2.7,2.7,2.7,True,False
+nested_archive,vC,116,Musa velutina,3.2000000000000006,3.2,3.2,True,False
+nested_archive,vC,117,Nicotiana tabacum,3.3499999999999996,3.3499999999999996,3.3499999999999996,True,False
+nested_archive,vC,118,Nicotiana tabacum L. cv. W38,3.5849999999999995,3.585,3.585,True,False
+nested_archive,vC,119,Nymphaea alba,2.4,2.4,2.4,True,False
+nested_archive,vC,120,Olisthodiscus luteus,0.83,0.83,0.83,True,False
+nested_archive,vC,121,Oryza barthii/glaberrima,2.5,2.5,2.5,True,False
+nested_archive,vC,122,Oryza eichingeri,2.5,2.5,2.5,True,False
+nested_archive,vC,123,Oryza glumaepatula,2.4,2.4,2.4,True,False
+nested_archive,vC,124,Oryza longistaminata,2.2,2.2,2.2,True,False
+nested_archive,vC,125,Oryza meridionalis,2.6,2.6,2.6,True,False
+nested_archive,vC,126,Oryza punctata,2.7,2.7,2.7,True,False
+nested_archive,vC,127,Pallenis maritima,2.7,2.7,2.7,True,False
+nested_archive,vC,128,Panicum amarum,3.2000000000000006,3.2,3.2,True,False
+nested_archive,vC,129,Panicum antidotale,3.9,3.9,3.9,True,False
+nested_archive,vC,130,Panicum bisulcatum,2.6,2.6,2.6,True,False
+nested_archive,vC,131,Panicum coloratum,3.4,3.4,3.4,True,False
+nested_archive,vC,132,Panicum deustum,5.000000000000001,5.0,5.0,True,False
+nested_archive,vC,133,Panicum dichotomiflorum,3.1,3.1,3.1,True,False
+nested_archive,vC,134,Panicum milioides,2.2,2.2,2.2,True,False
+nested_archive,vC,135,Panicum monticola,5.3,5.3,5.3,True,False
+nested_archive,vC,136,Panicum phragmitoides,2.8,2.8,2.8,True,False
+nested_archive,vC,137,Panicum virgatum,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,138,Pavlova lutheri,2.5,2.5,2.5,True,False
+nested_archive,vC,139,Phaeodactylum tricornutum,3.4,3.4,3.4,True,False
+nested_archive,vC,140,Phaseolus carteri,3.2000000000000006,3.2,3.2,True,False
+nested_archive,vC,141,Phaseolus coccineus,3.9,3.9,3.9,True,False
+nested_archive,vC,142,Phaseolus lunatus,3.2000000000000006,3.2,3.2,True,False
+nested_archive,vC,143,Phaseolus vulgaris ,1.7,1.7,2.6,True,True
+nested_archive,vC,144,Phaseolus vulgaris ,1.7,1.7,2.6,True,True
+nested_archive,vC,145,Platycerium superbum,2.3,2.3,2.3,True,False
+nested_archive,vC,146,Pleurochrysis carterae,3.2999999999999994,3.3,3.3,True,False
+nested_archive,vC,147,Poa palustris,4.2,4.2,4.2,True,False
+nested_archive,vC,148,Porphyridium purpureum,1.4,1.4,1.4,True,False
+nested_archive,vC,149,Prochlorococcus marinus MIT9313,6.58,6.58,6.58,True,False
+nested_archive,vC,150,Pteridium aquilinum,4.0,4.0,4.0,True,False
+nested_archive,vC,151,Puccinellia distans,5.4,5.4,5.4,True,False
+nested_archive,vC,152,Puccinellia lemmonii,5.200000000000001,5.2,5.2,True,False
+nested_archive,vC,153,Puccinellia maritima,5.4,5.4,5.4,True,False
+nested_archive,vC,154,Puccinellia nuttalliana,4.0,4.0,4.0,True,False
+nested_archive,vC,155,Pueraria montana,2.7,2.7,2.7,True,False
+nested_archive,vC,156,Rhodopseudomonas palustris,4.900000000000001,4.9,4.9,True,False
+nested_archive,vC,157,Saccharum officinarum,3.9,3.9,3.9,True,False
+nested_archive,vC,158,Sarracenia flava,4.4,4.4,4.4,True,False
+nested_archive,vC,159,Setaria viridis,5.67,5.67,5.67,True,False
+nested_archive,vC,160,Sideritis cretica subsp. spicata,2.0,2.0,2.0,True,False
+nested_archive,vC,161,Solanum lycopersicum,2.3,2.3,2.3,True,False
+nested_archive,vC,162,Solanum tuberosum,2.0,2.0,2.0,True,False
+nested_archive,vC,163,Sphenostylis stenocarpa,2.8,2.8,2.8,True,False
+nested_archive,vC,164,Spinacia oleracea,2.6500000000000004,2.6500000000000004,2.6500000000000004,True,False
+nested_archive,vC,165,Steinchisma laxa,2.3,2.3,2.3,True,False
+nested_archive,vC,166,Synechococcus 6301,10.589999999999998,10.59,10.59,True,False
+nested_archive,vC,167,Synechococcus 7002,11.599999999999998,11.6,11.6,True,False
+nested_archive,vC,168,Synechococcus elongatus PCC 7942,14.400000000000004,14.4,14.4,True,False
+nested_archive,vC,169,Tephrosia candida,2.2,2.2,2.2,True,False
+nested_archive,vC,170,Tephrosia purpurea,2.2,2.2,2.2,True,False
+nested_archive,vC,171,Tephrosia rhodesica,2.2,2.2,2.2,True,False
+nested_archive,vC,172,Teucrium heterophyllum,2.7,2.7,2.7,True,False
+nested_archive,vC,173,Tisochrysis lutea,2.2,2.2,2.2,True,False
+nested_archive,vC,174,Trachycarpus fortunei,2.8,2.8,2.8,True,False
+nested_archive,vC,175,Triticum aestivum,2.5,2.5,2.5,True,False
+nested_archive,vC,176,Triticum baeoticum,3.8,3.8,3.8,True,False
+nested_archive,vC,177,Urochloa mosambicensis,5.700000000000001,5.7,5.7,True,False
+nested_archive,vC,178,Urochloa panicoides,5.599999999999999,5.6,5.6,True,False
+nested_archive,vC,179,Zea mays ,4.05,4.05,4.05,True,False
+nested_archive,vC,180,Zea mays ,4.05,4.05,4.05,True,False
+nested_archive,KC,0,Aegilops biuncialis,16.8,16.8,16.8,True,False
+nested_archive,KC,1,Aegilops comosa,13.5,13.5,13.5,True,False
+nested_archive,KC,2,Aegilops cylindrica,13.699999999999998,13.7,13.7,True,False
+nested_archive,KC,3,Aegilops juvenalis,20.600000000000005,20.6,20.6,True,False
+nested_archive,KC,4,Aegilops speltoides,16.5,16.5,16.5,True,False
+nested_archive,KC,5,Aegilops tauschii,14.9,14.9,14.9,True,False
+nested_archive,KC,6,Aegilops triuncialis,12.799999999999999,12.8,12.8,True,False
+nested_archive,KC,7,Aegilops uniaristata,13.799999999999999,13.8,13.8,True,False
+nested_archive,KC,8,Aegilops vavilovii,13.299999999999999,13.3,13.3,True,False
+nested_archive,KC,9,Agave victoriae−reginae,9.700000000000001,9.7,9.7,True,False
+nested_archive,KC,10,Agriophyllum squarrosum,15.4,15.4,15.4,True,False
+nested_archive,KC,11,Agrostis scabra,21.999999999999996,22.0,22.0,True,False
+nested_archive,KC,12,Agrostis stolonifera,25.300000000000004,25.3,25.3,True,False
+nested_archive,KC,13,Allochromatium vinosum,32.70000000000001,32.7,32.7,True,False
+nested_archive,KC,14,Amaranthus hybridus,16.0,16.0,16.0,True,False
+nested_archive,KC,15,Amphicarpaea bracteata,29.0,29.0,29.0,True,False
+nested_archive,KC,16,Aphanizomenon flos aquae,105.00000000000004,105.0,105.0,True,False
+nested_archive,KC,17,Arabidopsis thaliana,9.9,9.9,9.9,True,False
+nested_archive,KC,18,Archaeoglobus fulgidus,50.999999999999986,51.0,51.0,True,False
+nested_archive,KC,19,Arctagrostis latifolia,21.0,21.0,21.0,True,False
+nested_archive,KC,20,Artemisia myriantha,26.4,26.4,26.4,True,False
+nested_archive,KC,21,Artemisia vulgaris L.,31.89999999999999,31.9,31.9,True,False
+nested_archive,KC,22,Atrichum undulatum,19.200000000000003,19.2,19.2,True,False
+nested_archive,KC,23,Atriplex glabriuscula,27.000000000000004,27.0,27.0,True,False
+nested_archive,KC,24,Avena sativa,10.799999999999999,10.8,10.8,True,False
+nested_archive,KC,25,Beta vulgaris,10.799999999999999,10.8,10.8,True,False
+nested_archive,KC,26,Bromus anomalus,16.899999999999995,16.9,16.9,True,False
+nested_archive,KC,27,Calamagrostis arundinacea,22.700000000000003,22.7,22.7,True,False
+nested_archive,KC,28,Calamagrostis canescens,15.200000000000003,15.2,15.2,True,False
+nested_archive,KC,29,Calamagrostis foliosa,20.9,20.9,20.9,True,False
+nested_archive,KC,30,Calamagrostis inexpansa,18.799999999999997,18.8,18.8,True,False
+nested_archive,KC,31,Calamagrostis nutkaensis,20.099999999999998,20.1,20.1,True,False
+nested_archive,KC,32,Capsicum annuum,9.6,9.6,9.6,True,False
+nested_archive,KC,33,Carpobrotus edulis,9.499999999999998,9.5,9.5,True,False
+nested_archive,KC,34,Cenchrus ciliaris,18.999999999999996,19.0,19.0,True,False
+nested_archive,KC,35,Ceratophyllum demersum,13.599999999999998,13.6,13.6,True,False
+nested_archive,KC,36,Chenopodium murale,23.800000000000004,23.8,23.8,True,False
+nested_archive,KC,37,Chenopodium rubrum,14.499999999999998,14.5,14.5,True,False
+nested_archive,KC,38,Chlamydomonas reinhardtii,29.0,29.0,29.0,True,False
+nested_archive,KC,39,Citrullus ecirrhosus,18.899999999999995,18.9,18.9,True,False
+nested_archive,KC,40,Citrullus lanatus var. lanatus,19.4,19.4,19.4,True,False
+nested_archive,KC,41,Coccochloris peniocystis,121.00000000000006,121.0,121.0,True,False
+nested_archive,KC,42,Coffee arabica,11.000000000000002,11.0,11.0,True,False
+nested_archive,KC,43,Crithmum maritimum,8.7,8.7,8.7,True,False
+nested_archive,KC,44,Cucurbita maxima,9.0,9.0,9.0,True,False
+nested_archive,KC,45,Cyanidium caldarium,6.7,6.7,6.7,True,False
+nested_archive,KC,46,Cyanobium PCC7001,163.49999999999994,163.5,163.5,True,False
+nested_archive,KC,47,Cycas panzhihuaensis,8.8,8.8,8.8,True,False
+nested_archive,KC,48,Cylindrotheca N1,32.00000000000001,32.0,32.0,True,False
+nested_archive,KC,49,Deschampsia danthonioides,22.3,22.3,22.3,True,False
+nested_archive,KC,50,Desmodium cinereum,12.799999999999999,12.8,12.8,True,False
+nested_archive,KC,51,Desmodium intortum,14.200000000000001,14.2,14.2,True,False
+nested_archive,KC,52,Desmodium psilocarpum,15.6,15.6,15.6,True,False
+nested_archive,KC,53,Drosera capensis,10.3,10.3,10.3,True,False
+nested_archive,KC,54,Drosera venusta,11.800000000000002,11.8,11.8,True,False
+nested_archive,KC,55,Echeveria elegans,10.5,10.5,10.5,True,False
+nested_archive,KC,56,Echinochloa crus-galli,18.399999999999995,18.4,18.4,True,False
+nested_archive,KC,57,Elymus farctus,19.500000000000004,19.5,19.5,True,False
+nested_archive,KC,58,Eragrostis tef,34.9,34.9,34.9,True,False
+nested_archive,KC,59,Erythrina flabelliformis,18.399999999999995,18.4,18.4,True,False
+nested_archive,KC,60,Espeletia schultzii,23.199999999999996,23.2,23.2,True,False
+nested_archive,KC,61,Euglena gracilis,25.000000000000007,25.0,25.0,True,False
+nested_archive,KC,62,Euphorbia helioscopia,11.499999999999998,11.5,11.5,True,False
+nested_archive,KC,63,Euphorbia microsphaera,25.800000000000008,25.8,25.8,True,False
+nested_archive,KC,64,Festuca gigantea,31.200000000000006,31.2,31.2,True,False
+nested_archive,KC,65,Flaveria angustifolia ,12.500000000000002,12.5,12.8,True,True
+nested_archive,KC,66,Flaveria angustifolia ,12.500000000000002,12.5,12.8,True,True
+nested_archive,KC,67,Flaveria anomala ,10.700000000000003,10.7,10.7,True,False
+nested_archive,KC,68,Flaveria australasica,21.999999999999996,22.0,22.0,True,False
+nested_archive,KC,69,Flaveria bidentis ,20.199999999999996,20.2,20.2,True,False
+nested_archive,KC,70,Flaveria bidentis ,20.199999999999996,20.2,20.2,True,False
+nested_archive,KC,71,Flaveria cronquistii ,10.799999999999999,10.8,10.25,True,True
+nested_archive,KC,72,Flaveria cronquistii ,10.799999999999999,10.8,10.25,True,True
+nested_archive,KC,73,Flaveria floridana ,12.549999999999999,12.55,13.2,True,True
+nested_archive,KC,74,Flaveria floridana ,12.549999999999999,12.55,13.2,True,True
+nested_archive,KC,75,Flaveria kochiana,22.700000000000003,22.7,22.7,True,False
+nested_archive,KC,76,Flaveria linearis ,12.500000000000002,12.5,12.5,True,False
+nested_archive,KC,77,Flaveria palmeri ,13.5,13.5,13.5,True,False
+nested_archive,KC,78,Flaveria pringlei,12.000000000000002,12.0,12.0,True,False
+nested_archive,KC,79,Flaveria ramosissima ,12.000000000000002,12.0,12.0,True,False
+nested_archive,KC,80,Flaveria sonorensis ,10.2,10.2,10.2,True,False
+nested_archive,KC,81,Flaveria trinervia ,17.899999999999995,17.9,18.15,True,True
+nested_archive,KC,82,Flaveria trinervia ,17.899999999999995,17.9,18.15,True,True
+nested_archive,KC,83,Flaveria vaginata ,21.399999999999995,21.4,21.4,True,False
+nested_archive,KC,84,Flueggea suffruticosa,19.200000000000003,19.2,19.2,True,False
+nested_archive,KC,85,Foeniculum vulgare,20.700000000000003,20.7,20.7,True,False
+nested_archive,KC,86,Fragilariopsis cylindrus,33.5,33.5,33.5,True,False
+nested_archive,KC,87,Glycine canescens,17.2,17.2,17.2,True,False
+nested_archive,KC,88,Glycine max,9.0,9.0,9.0,True,False
+nested_archive,KC,89,Glycine max cv. Wayne,29.5,29.5,29.5,True,False
+nested_archive,KC,90,Griffithsia monilis,9.3,9.3,9.3,True,False
+nested_archive,KC,91,Halothiobacillus neapolitanus,164.00000000000003,164.0,164.0,True,False
+nested_archive,KC,92,Hordeum brachyantherum,16.200000000000003,16.2,16.2,True,False
+nested_archive,KC,93,Hordeum murinum,21.500000000000004,21.5,21.5,True,False
+nested_archive,KC,94,Ipomoea batatas,12.000000000000002,12.0,12.0,True,False
+nested_archive,KC,95,Iris douglasiana,9.700000000000001,9.7,9.7,True,False
+nested_archive,KC,96,Lablab purpureus,21.700000000000003,21.7,21.7,True,False
+nested_archive,KC,97,Lepidium campestre,15.8,15.8,15.8,True,False
+nested_archive,KC,98,Limonium antonii‐llorensii,8.7,8.7,8.7,True,False
+nested_archive,KC,99,Limonium artruchium,9.4,9.4,9.4,True,False
+nested_archive,KC,100,Limonium balearicum,9.700000000000001,9.7,9.7,True,False
+nested_archive,KC,101,Limonium barceloi,9.3,9.3,9.3,True,False
+nested_archive,KC,102,Limonium biflorum,7.999999999999999,8.0,8.0,True,False
+nested_archive,KC,103,Limonium companyonis,8.9,8.9,8.9,True,False
+nested_archive,KC,104,Limonium echioides,10.700000000000003,10.7,10.7,True,False
+nested_archive,KC,105,Limonium ejulabilis,7.6000000000000005,7.6,7.6,True,False
+nested_archive,KC,106,Limonium gibertii,9.099999999999998,9.1,9.1,True,False
+nested_archive,KC,107,Limonium grosii,8.1,8.1,8.1,True,False
+nested_archive,KC,108,Limonium gymnesicum,8.200000000000001,8.2,8.2,True,False
+nested_archive,KC,109,Limonium latebracteatum,8.8,8.8,8.8,True,False
+nested_archive,KC,110,Limonium leonardi‐llorensii,8.8,8.8,8.8,True,False
+nested_archive,KC,111,Limonium magallufianum,7.0,7.0,7.0,True,False
+nested_archive,KC,112,Limonium retusum,7.1,7.1,7.1,True,False
+nested_archive,KC,113,Limonium stenophyllum,8.4,8.4,8.4,True,False
+nested_archive,KC,114,Limonium virgatum,8.5,8.5,8.5,True,False
+nested_archive,KC,115,Lolium multiflorum,29.100000000000005,29.1,29.1,True,False
+nested_archive,KC,116,Lolium perenne,16.0,16.0,16.0,True,False
+nested_archive,KC,117,Lolium rigidum,25.000000000000007,25.0,25.0,True,False
+nested_archive,KC,118,Macrotyloma uniflorum,25.200000000000006,25.2,25.2,True,False
+nested_archive,KC,119,Manihot esculenta,10.550000000000002,10.55,10.55,True,False
+nested_archive,KC,120,Marchantia polymorpha,12.699999999999998,12.7,12.7,True,False
+nested_archive,KC,121,Medicago sativa,12.699999999999998,12.7,12.7,True,False
+nested_archive,KC,122,Megathyrsus maximus,13.900000000000004,13.9,13.9,True,False
+nested_archive,KC,123,Mercurialis annua,17.0,17.0,17.0,True,False
+nested_archive,KC,124,Metasequoia glyptostroboides,15.499999999999996,15.5,15.5,True,False
+nested_archive,KC,125,Musa velutina,18.999999999999996,19.0,19.0,True,False
+nested_archive,KC,126,Nicotiana tabacum,9.700000000000001,9.7,9.7,True,False
+nested_archive,KC,127,Nicotiana tabacum L. cv. W38,11.050000000000002,11.05,11.05,True,False
+nested_archive,KC,128,Nicotiana tabacum cv. W38,405.00000000000017,405.0,405.0,True,False
+nested_archive,KC,129,Nymphaea alba,11.199999999999998,11.2,11.2,True,False
+nested_archive,KC,130,Olisthodiscus luteus,59.00000000000001,59.0,59.0,True,False
+nested_archive,KC,131,Oryza barthii/glaberrima,13.999999999999998,14.0,14.0,True,False
+nested_archive,KC,132,Oryza eichingeri,14.1,14.1,14.1,True,False
+nested_archive,KC,133,Oryza glumaepatula,15.200000000000003,15.2,15.2,True,False
+nested_archive,KC,134,Oryza longistaminata,15.100000000000001,15.1,15.1,True,False
+nested_archive,KC,135,Oryza meridionalis,14.600000000000001,14.6,14.6,True,False
+nested_archive,KC,136,Oryza punctata,14.9,14.9,14.9,True,False
+nested_archive,KC,137,P. dilatatum,19.9,19.9,19.9,True,False
+nested_archive,KC,138,Pallenis maritima,6.4,6.4,6.4,True,False
+nested_archive,KC,139,Panicum amarum,33.10000000000001,33.1,33.1,True,False
+nested_archive,KC,140,Panicum bisulcatum,7.799999999999999,7.8,7.8,True,False
+nested_archive,KC,141,Panicum coloratum,11.099999999999998,11.1,11.1,True,False
+nested_archive,KC,142,Panicum deustum,15.4,15.4,15.4,True,False
+nested_archive,KC,143,Panicum dichotomiflorum,36.29999999999999,36.3,36.3,True,False
+nested_archive,KC,144,Panicum milioides,7.4,7.4,7.4,True,False
+nested_archive,KC,145,Panicum monticola,18.199999999999996,18.2,18.2,True,False
+nested_archive,KC,146,Panicum phragmitoides,25.1,25.1,25.1,True,False
+nested_archive,KC,147,Panicum virgatum,12.699999999999998,12.7,12.7,True,False
+nested_archive,KC,148,Pavlova lutheri,14.499999999999998,14.5,14.5,True,False
+nested_archive,KC,149,Phaeodactylum tricornutum,27.900000000000006,27.9,27.9,True,False
+nested_archive,KC,150,Phaseolus carteri,14.200000000000001,14.2,14.2,True,False
+nested_archive,KC,151,Phaseolus coccineus,15.6,15.6,15.6,True,False
+nested_archive,KC,152,Phaseolus lunatus,17.300000000000004,17.3,17.3,True,False
+nested_archive,KC,153,Phaseolus vulgaris ,7.799999999999999,7.8,14.0,True,True
+nested_archive,KC,154,Phaseolus vulgaris ,7.799999999999999,7.8,14.0,True,True
+nested_archive,KC,155,Platycerium superbum,12.400000000000002,12.4,12.4,True,False
+nested_archive,KC,156,Pleurochrysis carterae,17.7,17.7,17.7,True,False
+nested_archive,KC,157,Poa palustris,19.200000000000003,19.2,19.2,True,False
+nested_archive,KC,158,Polypodium aureum,16.1,16.1,16.1,True,False
+nested_archive,KC,159,Porphyridium purpureum,21.999999999999996,22.0,22.0,True,False
+nested_archive,KC,160,Prochlorococcus marinus MIT9313,529.4999999999999,529.5,529.5,True,False
+nested_archive,KC,161,Pteridium aquilinum,13.900000000000004,13.9,13.9,True,False
+nested_archive,KC,162,Puccinellia distans,22.2,22.2,22.2,True,False
+nested_archive,KC,163,Puccinellia lemmonii,28.099999999999994,28.1,28.1,True,False
+nested_archive,KC,164,Puccinellia maritima,20.799999999999997,20.8,20.8,True,False
+nested_archive,KC,165,Puccinellia nuttalliana,25.200000000000006,25.2,25.2,True,False
+nested_archive,KC,166,Pueraria montana,20.9,20.9,20.9,True,False
+nested_archive,KC,167,Rhodopseudomonas palustris,103.99999999999997,104.0,104.0,True,False
+nested_archive,KC,168,Riftia pachyptila endosymbiont,238.99999999999991,239.0,239.0,True,False
+nested_archive,KC,169,Saccharum officinarum,26.299999999999997,26.3,26.3,True,False
+nested_archive,KC,170,Sarracenia flava,12.600000000000001,12.6,12.6,True,False
+nested_archive,KC,171,Scenedesmus obliquus,37.99999999999999,38.0,38.0,True,False
+nested_archive,KC,172,Setaria italica,32.1,32.1,32.1,True,False
+nested_archive,KC,173,Setaria viridis,18.1,18.1,18.1,True,False
+nested_archive,KC,174,Sideritis cretica subsp. spicata,7.799999999999999,7.8,7.8,True,False
+nested_archive,KC,175,Solanum lycopersicum,9.700000000000001,9.7,9.7,True,False
+nested_archive,KC,176,Solanum tuberosum,9.6,9.6,9.6,True,False
+nested_archive,KC,177,Sorghum bicolor,29.800000000000004,29.8,29.8,True,False
+nested_archive,KC,178,Sphenostylis stenocarpa,17.4,17.4,17.4,True,False
+nested_archive,KC,179,Spinacia oleracea,12.1,12.1,12.1,True,False
+nested_archive,KC,180,Steinchisma laxa,7.699999999999999,7.7,7.7,True,False
+nested_archive,KC,181,Synechococcus 6301,175.0,175.0,175.0,True,False
+nested_archive,KC,182,Synechococcus 7002,184.99999999999997,185.0,185.0,True,False
+nested_archive,KC,183,Synechococcus elongatus PCC 7942,171.99999999999991,172.0,172.0,True,False
+nested_archive,KC,184,Tephrosia candida,15.900000000000002,15.9,15.9,True,False
+nested_archive,KC,185,Tephrosia purpurea,12.400000000000002,12.4,12.4,True,False
+nested_archive,KC,186,Tephrosia rhodesica,13.699999999999998,13.7,13.7,True,False
+nested_archive,KC,187,Teucrium heterophyllum,6.7,6.7,6.7,True,False
+nested_archive,KC,188,Thalassiosira weissflogii,31.499999999999993,31.5,31.5,True,False
+nested_archive,KC,189,Tisochrysis lutea,24.099999999999998,24.1,24.1,True,False
+nested_archive,KC,190,Trachycarpus fortunei,9.0,9.0,9.0,True,False
+nested_archive,KC,191,Triticum aestivum,12.65,12.65,12.65,True,False
+nested_archive,KC,192,Triticum baeoticum,19.7,19.7,19.7,True,False
+nested_archive,KC,193,Urochloa mosambicensis,14.800000000000004,14.8,14.8,True,False
+nested_archive,KC,194,Urochloa panicoides,15.4,15.4,15.4,True,False
+nested_archive,KC,195,Zea mays ,21.2,21.2,27.6,True,True
+nested_archive,KC,196,Zea mays ,21.2,21.2,27.6,True,True
+nested_archive,KO,0,Aegilops biuncialis,470.00000000000006,470.0,470.0,True,False
+nested_archive,KO,1,Aegilops comosa,360.0,360.0,360.0,True,False
+nested_archive,KO,2,Aegilops cylindrica,450.99999999999983,451.0,451.0,True,False
+nested_archive,KO,3,Aegilops juvenalis,491.9999999999998,492.0,492.0,True,False
+nested_archive,KO,4,Aegilops speltoides,447.00000000000017,447.0,447.0,True,False
+nested_archive,KO,5,Aegilops tauschii,495.00000000000017,495.0,495.0,True,False
+nested_archive,KO,6,Aegilops triuncialis,379.99999999999994,380.0,380.0,True,False
+nested_archive,KO,7,Aegilops uniaristata,449.99999999999983,450.0,450.0,True,False
+nested_archive,KO,8,Aegilops vavilovii,362.99999999999994,363.0,363.0,True,False
+nested_archive,KO,9,Agave victoriae−reginae,400.0000000000001,400.0,400.0,True,False
+nested_archive,KO,10,Agriophyllum squarrosum,338.99999999999994,339.0,339.0,True,False
+nested_archive,KO,11,Agrostis scabra,652.9999999999999,653.0,653.0,True,False
+nested_archive,KO,12,Agrostis stolonifera,801.9999999999999,802.0,802.0,True,False
+nested_archive,KO,13,Allochromatium vinosum,290.0,290.0,290.0,True,False
+nested_archive,KO,14,Amaranthus hybridus,639.9999999999999,640.0,640.0,True,False
+nested_archive,KO,15,Amphicarpaea bracteata,692.9999999999998,693.0,693.0,True,False
+nested_archive,KO,16,Aphanizomenon flos aquae,990.0000000000005,990.0,990.0,True,False
+nested_archive,KO,17,Arabidopsis thaliana,332.9999999999999,333.0,333.0,True,False
+nested_archive,KO,18,Archaeoglobus fulgidus,5.000000000000001,5.0,5.0,True,False
+nested_archive,KO,19,Arctagrostis latifolia,496.99999999999983,497.0,497.0,True,False
+nested_archive,KO,20,Artemisia myriantha,844.0000000000001,844.0,844.0,True,False
+nested_archive,KO,21,Artemisia vulgaris L.,625.9999999999999,626.0,626.0,True,False
+nested_archive,KO,22,Atrichum undulatum,806.0000000000003,806.0,806.0,True,False
+nested_archive,KO,23,Atriplex glabriuscula,328.0000000000001,328.0,328.0,True,False
+nested_archive,KO,24,Bromus anomalus,494.00000000000017,494.0,494.0,True,False
+nested_archive,KO,25,Calamagrostis arundinacea,614.0000000000001,614.0,614.0,True,False
+nested_archive,KO,26,Calamagrostis canescens,594.0,594.0,594.0,True,False
+nested_archive,KO,27,Calamagrostis foliosa,330.00000000000006,330.0,330.0,True,False
+nested_archive,KO,28,Calamagrostis inexpansa,608.0000000000002,608.0,608.0,True,False
+nested_archive,KO,29,Calamagrostis nutkaensis,601.0000000000001,601.0,601.0,True,False
+nested_archive,KO,30,Carpobrotus edulis,312.9999999999999,313.0,313.0,True,False
+nested_archive,KO,31,Cenchrus ciliaris,470.00000000000006,470.0,470.0,True,False
+nested_archive,KO,32,Ceratophyllum demersum,317.0000000000001,317.0,317.0,True,False
+nested_archive,KO,33,Chenopodium murale,353.99999999999983,354.0,354.0,True,False
+nested_archive,KO,34,Chenopodium rubrum,346.0000000000001,346.0,346.0,True,False
+nested_archive,KO,35,Chlamydomonas reinhardtii,479.99999999999994,480.0,480.0,True,False
+nested_archive,KO,36,Citrullus ecirrhosus,544.0,544.0,544.0,True,False
+nested_archive,KO,37,Citrullus lanatus var. lanatus,509.9999999999999,510.0,510.0,True,False
+nested_archive,KO,38,Coccochloris peniocystis,1220.0000000000005,1220.0,1220.0,True,False
+nested_archive,KO,39,Crithmum maritimum,182.99999999999991,183.0,183.0,True,False
+nested_archive,KO,40,Cycas panzhihuaensis,525.0000000000002,525.0,525.0,True,False
+nested_archive,KO,41,Cylindrotheca N1,960.4999999999998,960.5,960.5,True,False
+nested_archive,KO,42,Deschampsia danthonioides,580.0000000000001,580.0,580.0,True,False
+nested_archive,KO,43,Desmodium cinereum,403.0000000000001,403.0,403.0,True,False
+nested_archive,KO,44,Desmodium intortum,394.00000000000006,394.0,394.0,True,False
+nested_archive,KO,45,Desmodium psilocarpum,451.9999999999999,452.0,452.0,True,False
+nested_archive,KO,46,Drosera capensis,326.99999999999994,327.0,327.0,True,False
+nested_archive,KO,47,Drosera venusta,347.9999999999999,348.0,348.0,True,False
+nested_archive,KO,48,Echeveria elegans,236.00000000000009,236.0,236.0,True,False
+nested_archive,KO,49,Elymus farctus,300.0000000000001,300.0,300.0,True,False
+nested_archive,KO,50,Eragrostis tef,639.9999999999999,640.0,640.0,True,False
+nested_archive,KO,51,Erythrina flabelliformis,664.9999999999999,665.0,665.0,True,False
+nested_archive,KO,52,Euglena gracilis,409.99999999999994,410.0,410.0,True,False
+nested_archive,KO,53,Euphorbia helioscopia,453.0,453.0,453.0,True,False
+nested_archive,KO,54,Euphorbia microsphaera,546.0,546.0,546.0,True,False
+nested_archive,KO,55,Festuca gigantea,595.0000000000003,595.0,595.0,True,False
+nested_archive,KO,56,Flaveria anomala ,605.0000000000002,605.0,605.0,True,False
+nested_archive,KO,57,Flaveria australasica,309.0,309.0,309.0,True,False
+nested_archive,KO,58,Flaveria bidentis ,639.0000000000001,639.0,529.5,True,True
+nested_archive,KO,59,Flaveria bidentis ,639.0000000000001,639.0,529.5,True,True
+nested_archive,KO,60,Flaveria cronquistii ,652.9999999999999,653.0,653.0,True,False
+nested_archive,KO,61,Flaveria cronquistii ,652.9999999999999,653.0,653.0,True,False
+nested_archive,KO,62,Flaveria floridana ,685.9999999999999,686.0,530.0,True,True
+nested_archive,KO,63,Flaveria floridana ,685.9999999999999,686.0,530.0,True,True
+nested_archive,KO,64,Flaveria kochiana,150.00000000000003,150.0,150.0,True,False
+nested_archive,KO,65,Flaveria linearis ,414.9999999999998,415.0,415.0,True,False
+nested_archive,KO,66,Flaveria palmeri ,193.00000000000006,193.0,193.0,True,False
+nested_archive,KO,67,Flaveria pringlei,665.9999999999999,666.0,666.0,True,False
+nested_archive,KO,68,Flaveria ramosissima ,721.9999999999998,722.0,722.0,True,False
+nested_archive,KO,69,Flaveria sonorensis ,785.0000000000005,785.0,785.0,True,False
+nested_archive,KO,70,Flaveria trinervia ,671.0,671.0,671.0,True,False
+nested_archive,KO,71,Flaveria trinervia ,671.0,671.0,671.0,True,False
+nested_archive,KO,72,Flaveria vaginata ,880.0000000000001,880.0,880.0,True,False
+nested_archive,KO,73,Flueggea suffruticosa,547.0000000000001,547.0,547.0,True,False
+nested_archive,KO,74,Foeniculum vulgare,512.0000000000001,512.0,512.0,True,False
+nested_archive,KO,75,Glycine canescens,587.0,587.0,587.0,True,False
+nested_archive,KO,76,Glycine max,545.0000000000001,545.0,545.0,True,False
+nested_archive,KO,77,Glycine max cv. Wayne,389.9999999999999,390.0,390.0,True,False
+nested_archive,KO,78,Hordeum brachyantherum,371.00000000000017,371.0,371.0,True,False
+nested_archive,KO,79,Hordeum murinum,511.0000000000001,511.0,511.0,True,False
+nested_archive,KO,80,Iris douglasiana,413.0000000000001,413.0,413.0,True,False
+nested_archive,KO,81,Lablab purpureus,556.0,556.0,556.0,True,False
+nested_archive,KO,82,Lepidium campestre,336.00000000000006,336.0,336.0,True,False
+nested_archive,KO,83,Limonium antonii‐llorensii,397.0000000000001,397.0,397.0,True,False
+nested_archive,KO,84,Limonium artruchium,320.99999999999983,321.0,321.0,True,False
+nested_archive,KO,85,Limonium balearicum,346.0000000000001,346.0,346.0,True,False
+nested_archive,KO,86,Limonium barceloi,346.0000000000001,346.0,346.0,True,False
+nested_archive,KO,87,Limonium biflorum,316.00000000000006,316.0,316.0,True,False
+nested_archive,KO,88,Limonium companyonis,429.0000000000002,429.0,429.0,True,False
+nested_archive,KO,89,Limonium echioides,427.00000000000017,427.0,427.0,True,False
+nested_archive,KO,90,Limonium ejulabilis,414.9999999999998,415.0,415.0,True,False
+nested_archive,KO,91,Limonium gibertii,430.99999999999994,431.0,431.0,True,False
+nested_archive,KO,92,Limonium grosii,328.0000000000001,328.0,328.0,True,False
+nested_archive,KO,93,Limonium gymnesicum,388.0,388.0,388.0,True,False
+nested_archive,KO,94,Limonium latebracteatum,343.9999999999999,344.0,344.0,True,False
+nested_archive,KO,95,Limonium leonardi‐llorensii,438.0000000000002,438.0,438.0,True,False
+nested_archive,KO,96,Limonium magallufianum,296.99999999999994,297.0,297.0,True,False
+nested_archive,KO,97,Limonium retusum,395.9999999999999,396.0,396.0,True,False
+nested_archive,KO,98,Limonium stenophyllum,457.0000000000002,457.0,457.0,True,False
+nested_archive,KO,99,Limonium virgatum,381.0000000000001,381.0,381.0,True,False
+nested_archive,KO,100,Lolium multiflorum,740.0000000000001,740.0,740.0,True,False
+nested_archive,KO,101,Lolium perenne,499.99999999999994,500.0,500.0,True,False
+nested_archive,KO,102,Lolium rigidum,519.9999999999998,520.0,520.0,True,False
+nested_archive,KO,103,Macrotyloma uniflorum,518.9999999999998,519.0,519.0,True,False
+nested_archive,KO,104,Manihot esculenta,566.0,566.0,566.0,True,False
+nested_archive,KO,105,Marchantia polymorpha,565.0000000000002,565.0,565.0,True,False
+nested_archive,KO,106,Megathyrsus maximus,265.00000000000006,265.0,265.0,True,False
+nested_archive,KO,107,Mercurialis annua,417.00000000000006,417.0,417.0,True,False
+nested_archive,KO,108,Metasequoia glyptostroboides,561.0000000000003,561.0,561.0,True,False
+nested_archive,KO,109,Musa velutina,563.9999999999999,564.0,564.0,True,False
+nested_archive,KO,110,Nicotiana tabacum,292.00000000000006,292.0,292.0,True,False
+nested_archive,KO,111,Nicotiana tabacum L. cv. W38,269.5,269.5,269.5,True,False
+nested_archive,KO,112,Nicotiana tabacum cv. W38,277999.99999999994,278000.0,278000.0,True,False
+nested_archive,KO,113,Nymphaea alba,438.0000000000002,438.0,438.0,True,False
+nested_archive,KO,114,Olisthodiscus luteus,692.0000000000003,692.0,692.0,True,False
+nested_archive,KO,115,Oryza barthii/glaberrima,479.0,479.0,479.0,True,False
+nested_archive,KO,116,Oryza eichingeri,612.0000000000002,612.0,612.0,True,False
+nested_archive,KO,117,Oryza glumaepatula,483.99999999999983,484.0,484.0,True,False
+nested_archive,KO,118,Oryza longistaminata,757.0,757.0,757.0,True,False
+nested_archive,KO,119,Oryza meridionalis,382.00000000000017,382.0,382.0,True,False
+nested_archive,KO,120,Oryza punctata,341.9999999999999,342.0,342.0,True,False
+nested_archive,KO,121,P. dilatatum,414.9999999999998,415.0,415.0,True,False
+nested_archive,KO,122,Pallenis maritima,320.99999999999983,321.0,321.0,True,False
+nested_archive,KO,123,Panicum amarum,800.0000000000003,800.0,800.0,True,False
+nested_archive,KO,124,Panicum bisulcatum,416.0,416.0,416.0,True,False
+nested_archive,KO,125,Panicum coloratum,444.99999999999994,445.0,445.0,True,False
+nested_archive,KO,126,Panicum deustum,306.0000000000001,306.0,306.0,True,False
+nested_archive,KO,127,Panicum dichotomiflorum,1540.0,1540.0,1540.0,True,False
+nested_archive,KO,128,Panicum milioides,387.0,387.0,387.0,True,False
+nested_archive,KO,129,Panicum monticola,543.0000000000002,543.0,543.0,True,False
+nested_archive,KO,130,Panicum phragmitoides,687.0000000000001,687.0,687.0,True,False
+nested_archive,KO,131,Panicum virgatum,271.00000000000006,271.0,271.0,True,False
+nested_archive,KO,132,Pavlova lutheri,1150.0000000000002,1150.0,1150.0,True,False
+nested_archive,KO,133,Phaeodactylum tricornutum,467.0000000000001,467.0,467.0,True,False
+nested_archive,KO,134,Phaseolus carteri,422.0,422.0,422.0,True,False
+nested_archive,KO,135,Phaseolus coccineus,491.0000000000002,491.0,491.0,True,False
+nested_archive,KO,136,Phaseolus lunatus,536.9999999999999,537.0,537.0,True,False
+nested_archive,KO,137,Platycerium superbum,458.9999999999998,459.0,459.0,True,False
+nested_archive,KO,138,Pleurochrysis carterae,365.9999999999999,366.0,366.0,True,False
+nested_archive,KO,139,Poa palustris,562.0,562.0,562.0,True,False
+nested_archive,KO,140,Prochlorococcus marinus MIT9313,1400.0000000000005,1400.0,1400.0,True,False
+nested_archive,KO,141,Pteridium aquilinum,390.99999999999994,391.0,391.0,True,False
+nested_archive,KO,142,Puccinellia distans,487.99999999999983,488.0,488.0,True,False
+nested_archive,KO,143,Puccinellia lemmonii,1119.9999999999998,1120.0,1120.0,True,False
+nested_archive,KO,144,Puccinellia maritima,676.0,676.0,676.0,True,False
+nested_archive,KO,145,Puccinellia nuttalliana,717.0,717.0,717.0,True,False
+nested_archive,KO,146,Pueraria montana,679.0,679.0,679.0,True,False
+nested_archive,KO,147,Rhodopseudomonas palustris,277.00000000000006,277.0,277.0,True,False
+nested_archive,KO,148,Sarracenia flava,425.99999999999994,426.0,426.0,True,False
+nested_archive,KO,149,Scenedesmus obliquus,660.0000000000001,660.0,660.0,True,False
+nested_archive,KO,150,Setaria viridis,619.0000000000002,619.0,619.0,True,False
+nested_archive,KO,151,Sideritis cretica subsp. spicata,328.0000000000001,328.0,328.0,True,False
+nested_archive,KO,152,Sphenostylis stenocarpa,574.0000000000001,574.0,574.0,True,False
+nested_archive,KO,153,Spinacia oleracea,519.9999999999998,520.0,520.0,True,False
+nested_archive,KO,154,Steinchisma laxa,418.99999999999983,419.0,419.0,True,False
+nested_archive,KO,155,Synechococcus 6301,565.0000000000002,565.0,565.0,True,False
+nested_archive,KO,156,Synechococcus elongatus PCC 7942,585.0,585.0,585.0,True,False
+nested_archive,KO,157,Tephrosia candida,481.00000000000017,481.0,481.0,True,False
+nested_archive,KO,158,Tephrosia purpurea,332.9999999999999,333.0,333.0,True,False
+nested_archive,KO,159,Tephrosia rhodesica,565.0000000000002,565.0,565.0,True,False
+nested_archive,KO,160,Teucrium heterophyllum,359.00000000000017,359.0,359.0,True,False
+nested_archive,KO,161,Tisochrysis lutea,800.0000000000003,800.0,800.0,True,False
+nested_archive,KO,162,Trachycarpus fortunei,363.99999999999994,364.0,364.0,True,False
+nested_archive,KO,163,Triticum aestivum,658.0000000000003,658.0,658.0,True,False
+nested_archive,KO,164,Triticum baeoticum,905.0,905.0,905.0,True,False
+nested_archive,KO,165,Urochloa mosambicensis,463.9999999999998,464.0,464.0,True,False
+nested_archive,KO,166,Urochloa panicoides,443.99999999999983,444.0,444.0,True,False
+nested_archive,KO,167,Zea mays ,156.99999999999994,157.0,483.5,True,True
+nested_archive,KO,168,Zea mays ,156.99999999999994,157.0,483.5,True,True

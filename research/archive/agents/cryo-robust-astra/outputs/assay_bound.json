@@ -1,0 +1,66 @@
+{
+  "assumed_sample_SD": 0.36,
+  "mean": 1.47,
+  "sharp_upper_on_smallest": 1.2621539030917348,
+  "rounded_upper": 1.2700406544376828,
+  "circle_max_of_minima": 1.2621539030917346,
+  "capacity_at_start": 1442177.7500000002,
+  "tests": {
+    "clamped_caseII": {
+      "required_fe": 1.7392399300530634,
+      "min_failures_on_circle": 2,
+      "max_failures_on_circle": 3,
+      "max_possible_slowest_start_rate": 36.28464024090187,
+      "rounding_conservative_slowest_start_rate": 36.51137006723777
+    },
+    "clamped_margin": {
+      "required_fe": 2.059152500816838,
+      "min_failures_on_circle": 3,
+      "max_failures_on_circle": 3,
+      "max_possible_slowest_start_rate": 30.647412044301127,
+      "rounding_conservative_slowest_start_rate": 30.838916834325648
+    },
+    "clamped_equal": {
+      "required_fe": 1.817761339277557,
+      "min_failures_on_circle": 2,
+      "max_failures_on_circle": 3,
+      "max_possible_slowest_start_rate": 34.71726116678661,
+      "rounding_conservative_slowest_start_rate": 34.934196998117535
+    },
+    "clamped_original": {
+      "required_fe": 2.1212977131235164,
+      "min_failures_on_circle": 3,
+      "max_failures_on_circle": 3,
+      "max_possible_slowest_start_rate": 29.749570163663385,
+      "rounding_conservative_slowest_start_rate": 29.9354646587443
+    },
+    "extrapolated_caseII": {
+      "required_fe": 1.186391699572228,
+      "min_failures_on_circle": 0,
+      "max_failures_on_circle": 1,
+      "max_possible_slowest_start_rate": 53.19296753116295,
+      "rounding_conservative_slowest_start_rate": 53.525351487860874
+    },
+    "extrapolated_margin": {
+      "required_fe": 1.404614390981673,
+      "min_failures_on_circle": 1,
+      "max_failures_on_circle": 2,
+      "max_possible_slowest_start_rate": 44.928839943382116,
+      "rounding_conservative_slowest_start_rate": 45.20958430270895
+    },
+    "extrapolated_equal": {
+      "required_fe": 1.2399536875032495,
+      "min_failures_on_circle": 0,
+      "max_failures_on_circle": 1,
+      "max_possible_slowest_start_rate": 50.89520341816908,
+      "rounding_conservative_slowest_start_rate": 51.21322946323164
+    },
+    "extrapolated_original": {
+      "required_fe": 1.4470056463655971,
+      "min_failures_on_circle": 1,
+      "max_failures_on_circle": 2,
+      "max_possible_slowest_start_rate": 43.6126115423893,
+      "rounding_conservative_slowest_start_rate": 43.88513125804338
+    }
+  }
+}

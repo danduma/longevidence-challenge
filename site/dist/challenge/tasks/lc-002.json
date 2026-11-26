@@ -1,0 +1,42 @@
+{
+  "id": "LC-002",
+  "version": "2026-11-24.1",
+  "status": "open",
+  "title": "Did caloric restriction slow biological aging in the CALERIE trial?",
+  "question": "Identify what the CALERIE DNA-methylation analysis measured and whether its results establish slower biological aging, slower clinical aging, or longer human life.",
+  "verdict_question": "Did the study establish that caloric restriction slows aging in humans?",
+  "verdicts": [
+    "established",
+    "not_established",
+    "unclear"
+  ],
+  "source": {
+    "title": "Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial",
+    "doi": "10.1038/s43587-022-00357-y",
+    "pmid": "37118425",
+    "pmcid": "PMC10148951",
+    "primary_url": "https://www.nature.com/articles/s43587-022-00357-y",
+    "alternate_primary_host": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148951/",
+    "license": "CC BY 4.0, as stated in Crossref metadata; verify before reusing text"
+  },
+  "fields": [
+    "study design",
+    "intervention and duration",
+    "analyzed sample and exclusions",
+    "which aging measures were tested",
+    "main result for each measure",
+    "whether clinical outcomes or lifespan were measured",
+    "important limitations"
+  ],
+  "acceptance_criteria": [
+    "Every numerical fact points to a source section, table or figure",
+    "Report each methylation measure separately; do not merge null and positive results",
+    "Distinguish intention-to-treat from per-protocol or dose-response analyses",
+    "Do not equate a slower methylation pace with longer life or fewer diseases",
+    "Unsupported facts remain unknown",
+    "No dietary recommendation",
+    "Output explicitly labeled unreviewed"
+  ],
+  "result_destination": "Submit to https://longevidence.org/challenge/api/submit (see join.txt). Public, marked unreviewed.",
+  "publication_acceptance": "submissions are public drafts; not reviewed or accepted until marked by a reviewer"
+}

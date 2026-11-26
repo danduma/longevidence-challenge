@@ -1,0 +1,1164 @@
+mode,trait,component,node,component_size
+condition,S,0,enzyme:Agriophyllum squarrosum,215
+condition,S,0,enzyme:Agrostis scabra,215
+condition,S,0,enzyme:Agrostis stolonifera,215
+condition,S,0,enzyme:Allochromatium vinosum,215
+condition,S,0,enzyme:Amaranthus edulis,215
+condition,S,0,enzyme:Amaranthus hybridus,215
+condition,S,0,enzyme:Amphicarpaea bracteata,215
+condition,S,0,enzyme:Aphanizomenon flos aquae,215
+condition,S,0,enzyme:Aphanocapsa alpicola,215
+condition,S,0,enzyme:Arabidopsis thaliana cv. Columbia,215
+condition,S,0,enzyme:Arctagrostis latifolia,215
+condition,S,0,enzyme:Artemisia myriantha,215
+condition,S,0,enzyme:Artemisia vulgaris L.,215
+condition,S,0,enzyme:Avena sativa,215
+condition,S,0,enzyme:Beta vulgaris,215
+condition,S,0,enzyme:Beta vulgarisssp.vulgaris,215
+condition,S,0,enzyme:Brassica oleracea,215
+condition,S,0,enzyme:Bromus anomalus,215
+condition,S,0,enzyme:C. dactylon,215
+condition,S,0,enzyme:C. fusiformis,215
+condition,S,0,enzyme:Calamagrostis arundinacea,215
+condition,S,0,enzyme:Calamagrostis canescens,215
+condition,S,0,enzyme:Calamagrostis foliosa,215
+condition,S,0,enzyme:Calamagrostis inexpansa,215
+condition,S,0,enzyme:Calamagrostis nutkaensis,215
+condition,S,0,enzyme:Capsicum annuum,215
+condition,S,0,enzyme:Cenchrus ciliaris,215
+condition,S,0,enzyme:Chenopodium alba,215
+condition,S,0,enzyme:Chenopodium murale,215
+condition,S,0,enzyme:Chenopodium petiolare,215
+condition,S,0,enzyme:Chenopodium rubrum,215
+condition,S,0,enzyme:Chlamydomonas reinhardtii,215
+condition,S,0,enzyme:Chromatium vinosum,215
+condition,S,0,enzyme:Chrysanthellum indicum var. afroamericanum,215
+condition,S,0,enzyme:Citrullus ecirrhosus,215
+condition,S,0,enzyme:Citrullus lanatus var. lanatus,215
+condition,S,0,enzyme:Coccochloris peniocystis,215
+condition,S,0,enzyme:Coffee arabica,215
+condition,S,0,enzyme:Cucurbita maxima,215
+condition,S,0,enzyme:Cyanidium caldarium,215
+condition,S,0,enzyme:Cylindrotheca N1,215
+condition,S,0,enzyme:Deschampsia danthonioides,215
+condition,S,0,enzyme:Desmodium cinereum,215
+condition,S,0,enzyme:Desmodium intortum,215
+condition,S,0,enzyme:Desmodium psilocarpum,215
+condition,S,0,enzyme:Echinochloa crus-galli,215
+condition,S,0,enzyme:Elymus farctus,215
+condition,S,0,enzyme:Eragrostis tef,215
+condition,S,0,enzyme:Erythrina flabelliformis,215
+condition,S,0,enzyme:Euglena gracilis,215
+condition,S,0,enzyme:Euphorbia helioscopia,215
+condition,S,0,enzyme:Euphorbia microsphaera,215
+condition,S,0,enzyme:Festuca gigantea,215
+condition,S,0,enzyme:Festuca pratensis,215
+condition,S,0,enzyme:Flaveria angustifolia,215
+condition,S,0,enzyme:Flaveria anomala,215
+condition,S,0,enzyme:Flaveria australasica,215
+condition,S,0,enzyme:Flaveria bidentis,215
+condition,S,0,enzyme:Flaveria brownii,215
+condition,S,0,enzyme:Flaveria chloraefolia,215
+condition,S,0,enzyme:Flaveria cronquistii,215
+condition,S,0,enzyme:Flaveria floridana,215
+condition,S,0,enzyme:Flaveria kochiana,215
+condition,S,0,enzyme:Flaveria linearis,215
+condition,S,0,enzyme:Flaveria palmeri,215
+condition,S,0,enzyme:Flaveria pringlei,215
+condition,S,0,enzyme:Flaveria ramosissima,215
+condition,S,0,enzyme:Flaveria sonorensis,215
+condition,S,0,enzyme:Flaveria trinervia,215
+condition,S,0,enzyme:Flaveria vaginata,215
+condition,S,0,enzyme:Flueggea suffruticosa,215
+condition,S,0,enzyme:Foeniculum vulgare,215
+condition,S,0,enzyme:Galdieria partita Tokara,215
+condition,S,0,enzyme:Galdieria sulfuraria,215
+condition,S,0,enzyme:Glycine canescens,215
+condition,S,0,enzyme:Glycine max,215
+condition,S,0,enzyme:Griffithsia monilis,215
+condition,S,0,enzyme:Helianthus maximus,215
+condition,S,0,enzyme:Hordeum brachyantherum,215
+condition,S,0,enzyme:Hordeum murinum,215
+condition,S,0,enzyme:Hordeum vulgare cv. Stirling,215
+condition,S,0,enzyme:Hordeum vulgare ssp. vulgare cv. Morex,215
+condition,S,0,enzyme:Ipomoea batatas,215
+condition,S,0,enzyme:Lablab purpureus,215
+condition,S,0,enzyme:Lactua sativa,215
+condition,S,0,enzyme:Lepidium campestre,215
+condition,S,0,enzyme:Lolium multiflorum,215
+condition,S,0,enzyme:Lolium perenne,215
+condition,S,0,enzyme:Lolium rigidum,215
+condition,S,0,enzyme:Lycopersicon ensculentum,215
+condition,S,0,enzyme:Macrotyloma uniflorum,215
+condition,S,0,enzyme:Manihot esculenta,215
+condition,S,0,enzyme:Medicago sativa,215
+condition,S,0,enzyme:Megathyrsus maximus,215
+condition,S,0,enzyme:Mercurialis annua,215
+condition,S,0,enzyme:Methanococcoides burtonii,215
+condition,S,0,enzyme:Methanococcoides burtonii K332E,215
+condition,S,0,enzyme:Methanococcoides burtonii L2,215
+condition,S,0,enzyme:Musa velutina,215
+condition,S,0,enzyme:Nicotiana tabacum,215
+condition,S,0,enzyme:Nicotiana tabacum cv. PH,215
+condition,S,0,enzyme:Olisthodiscus luteus,215
+condition,S,0,enzyme:Oryza barthii/glaberrima,215
+condition,S,0,enzyme:Oryza eichingeri,215
+condition,S,0,enzyme:Oryza glaberrima (WAB 1939),215
+condition,S,0,enzyme:Oryza glumaepatula,215
+condition,S,0,enzyme:Oryza longistaminata,215
+condition,S,0,enzyme:Oryza meridionalis,215
+condition,S,0,enzyme:Oryza nivara,215
+condition,S,0,enzyme:Oryza punctata,215
+condition,S,0,enzyme:Oryza punctata Kotschy,215
+condition,S,0,enzyme:Oryza sativa,215
+condition,S,0,enzyme:Oryza sativa ssp.Indicacv.Icasulum,215
+condition,S,0,enzyme:Oryza sativa ssp.Japonicacv.Nipponbare,215
+condition,S,0,enzyme:P. dilatatum,215
+condition,S,0,enzyme:Panicum amarum,215
+condition,S,0,enzyme:Panicum antidotale,215
+condition,S,0,enzyme:Panicum bisulcatum,215
+condition,S,0,enzyme:Panicum coloratum,215
+condition,S,0,enzyme:Panicum deustum,215
+condition,S,0,enzyme:Panicum dichotomiflorum,215
+condition,S,0,enzyme:Panicum miliodes,215
+condition,S,0,enzyme:Panicum milioides,215
+condition,S,0,enzyme:Panicum milliaceum,215
+condition,S,0,enzyme:Panicum monticola,215
+condition,S,0,enzyme:Panicum phragmitoides,215
+condition,S,0,enzyme:Panicum virgatum,215
+condition,S,0,enzyme:Petroselinum cripsum,215
+condition,S,0,enzyme:Phaeodactylum tricornutum,215
+condition,S,0,enzyme:Phaseolus carteri,215
+condition,S,0,enzyme:Phaseolus coccineus,215
+condition,S,0,enzyme:Phaseolus lunatus,215
+condition,S,0,enzyme:Phaseolus vulgaris,215
+condition,S,0,enzyme:Pisum sativum,215
+condition,S,0,enzyme:Plectonema boryanum,215
+condition,S,0,enzyme:Poa palustris,215
+condition,S,0,enzyme:Polypodium aureum,215
+condition,S,0,enzyme:Porphyra yezoensis,215
+condition,S,0,enzyme:Porphyridium cruenteum,215
+condition,S,0,enzyme:Porphyridium purpureum,215
+condition,S,0,enzyme:Potulaca oleraca,215
+condition,S,0,enzyme:Prochlorococcus marinus MIT9313,215
+condition,S,0,enzyme:Puccinellia distans,215
+condition,S,0,enzyme:Puccinellia lemmonii,215
+condition,S,0,enzyme:Puccinellia maritima,215
+condition,S,0,enzyme:Puccinellia nuttalliana,215
+condition,S,0,enzyme:Pueraria montana,215
+condition,S,0,enzyme:Rhodobacter sphaeroides I,215
+condition,S,0,enzyme:Rhodobacter sphaeroides II,215
+condition,S,0,enzyme:Rhodospirillum rubrum,215
+condition,S,0,enzyme:Saccharum officinarum,215
+condition,S,0,enzyme:Scenedesmus obliquus,215
+condition,S,0,enzyme:Setaria italica,215
+condition,S,0,enzyme:Setaria viridis,215
+condition,S,0,enzyme:Solanum lycopersicum,215
+condition,S,0,enzyme:Solanum tuberosum,215
+condition,S,0,enzyme:Sorghum bicolor,215
+condition,S,0,enzyme:Sphenostylis stenocarpa,215
+condition,S,0,enzyme:Spinacia oleracea,215
+condition,S,0,enzyme:Spinacia oleracea hybrid 102,215
+condition,S,0,enzyme:Steinchisma laxa,215
+condition,S,0,enzyme:Synechococcus 6301,215
+condition,S,0,enzyme:Synechococcus 6301 F92L,215
+condition,S,0,enzyme:Synechococcus 6301 G91V,215
+condition,S,0,enzyme:Synechococcus 6301 I87V,215
+condition,S,0,enzyme:Synechococcus 6301 R88K,215
+condition,S,0,enzyme:Synechococcus 7002,215
+condition,S,0,enzyme:Synechococcus 7515,215
+condition,S,0,enzyme:Synechococcus elongatus PCC 7942,215
+condition,S,0,enzyme:T. elongatus,215
+condition,S,0,enzyme:Tephrosia candida,215
+condition,S,0,enzyme:Tephrosia purpurea,215
+condition,S,0,enzyme:Tephrosia rhodesica,215
+condition,S,0,enzyme:Tetragonium expansa,215
+condition,S,0,enzyme:Triticum aestivum,215
+condition,S,0,enzyme:Triticum baeoticum,215
+condition,S,0,enzyme:Ulva pertusa,215
+condition,S,0,enzyme:Urochloa mosambicensis,215
+condition,S,0,enzyme:Urochloa panicoides,215
+condition,S,0,enzyme:Z. japonica,215
+condition,S,0,enzyme:Zea mays,215
+condition,S,0,enzyme:Zea mays cv. Carella,215
+condition,S,0,source:Alonso 2009 | pH=7,215
+condition,S,0,source:Andrews 1985 | pH=8.52,215
+condition,S,0,source:Brooks 1985 | pH=unknown,215
+condition,S,0,source:Carmo-Silva 2010 | pH=8.2,215
+condition,S,0,source:Greene 2007 | pH=8.3,215
+condition,S,0,source:Gubernator 2008 | pH=8.2,215
+condition,S,0,source:Gutteridge 1984 | pH=8.2,215
+condition,S,0,source:Hermida-Carrera 2016 | pH=8.2,215
+condition,S,0,source:Jordan 1981 | pH=8.3,215
+condition,S,0,source:Jordan 1983 | pH=8.3,215
+condition,S,0,source:Jordan 1984 | pH=8.2,215
+condition,S,0,source:Jordan 1985 | pH=8,215
+condition,S,0,source:Kane 1994 | pH=8.3,215
+condition,S,0,source:Kubien 2008 | pH=8,215
+condition,S,0,source:Morell 1994 | pH=7.8,215
+condition,S,0,source:Mueller-Cajar 2007 | pH=8,215
+condition,S,0,source:Mueller-Cajar 2008 | pH=8,215
+condition,S,0,source:Occhialini 2015 | pH=8.1,215
+condition,S,0,source:Orr 2016 | pH=8.2,215
+condition,S,0,source:Perdomo 2015 | pH=unknown,215
+condition,S,0,source:Read 1992a | pH=8,215
+condition,S,0,source:Read 1992b | pH=8,215
+condition,S,0,source:Read 1994 | pH=8,215
+condition,S,0,source:Sharwood 2016 | pH=8.16,215
+condition,S,0,source:Shih 2016 | pH=8,215
+condition,S,0,source:Uemura 1996 | pH=8.3,215
+condition,S,0,source:Uemura 1997 | pH=8,215
+condition,S,0,source:Walker 2013 | pH=unknown,215
+condition,S,0,source:Whitney 2001 | pH=8,215
+condition,S,0,source:Whitney 2011 | pH=8,215
+condition,S,0,source:Wilson 2016 | pH=7.2 or 8.0,215
+condition,S,0,source:Yamori 2006 | pH=8,215
+condition,S,0,source:Zhu 1998 | pH=8,215
+condition,S,1,enzyme:Beta maritima ssp. marcosii,28
+condition,S,1,enzyme:Beta maritima ssp. maritima,28
+condition,S,1,enzyme:Diplotaxis ibicensis,28
+condition,S,1,enzyme:Hypericum balearicum,28
+condition,S,1,enzyme:Kundmannia sicula,28
+condition,S,1,enzyme:Limonium antonii‐llorensii,28
+condition,S,1,enzyme:Limonium artruchium,28
+condition,S,1,enzyme:Limonium balearicum,28
+condition,S,1,enzyme:Limonium barceloi,28
+condition,S,1,enzyme:Limonium biflorum,28
+condition,S,1,enzyme:Limonium companyonis,28
+condition,S,1,enzyme:Limonium echioides,28
+condition,S,1,enzyme:Limonium ejulabilis,28
+condition,S,1,enzyme:Limonium gibertii,28
+condition,S,1,enzyme:Limonium grosii,28
+condition,S,1,enzyme:Limonium gymnesicum,28
+condition,S,1,enzyme:Limonium leonardi‐llorensii,28
+condition,S,1,enzyme:Limonium magallufianum,28
+condition,S,1,enzyme:Limonium retusum,28
+condition,S,1,enzyme:Lysimachia minoricensis,28
+condition,S,1,enzyme:Mentha aquatica,28
+condition,S,1,enzyme:Pistacia lentiscus,28
+condition,S,1,enzyme:Rhamnus alaternus,28
+condition,S,1,enzyme:Rhamnus ludovici-salvatoris,28
+condition,S,1,enzyme:Urtica atrovirens ssp. bianorii,28
+condition,S,1,enzyme:Urtica membranacea,28
+condition,S,1,source:Galmes 2005 | pH=8.2,28
+condition,S,1,source:Galmes 2014a | pH=8,28
+condition,S,2,enzyme:Aegilops biuncialis,27
+condition,S,2,enzyme:Aegilops comosa,27
+condition,S,2,enzyme:Aegilops cylindrica,27
+condition,S,2,enzyme:Aegilops juvenalis,27
+condition,S,2,enzyme:Aegilops speltoides,27
+condition,S,2,enzyme:Aegilops tauschii,27
+condition,S,2,enzyme:Aegilops triuncialis,27
+condition,S,2,enzyme:Aegilops uniaristata,27
+condition,S,2,enzyme:Aegilops vavilovii,27
+condition,S,2,enzyme:B. distachyon,27
+condition,S,2,enzyme:H. vulgare cv. Lenins,27
+condition,S,2,enzyme:S. cereale cv. Agronom,27
+condition,S,2,enzyme:T. aestivum (C),27
+condition,S,2,enzyme:T. aestivum SATYN1,27
+condition,S,2,enzyme:T. aestivum SATYN2,27
+condition,S,2,enzyme:T. aestivum SATYN3,27
+condition,S,2,enzyme:T. dicoccon1,27
+condition,S,2,enzyme:T. dicoccon2,27
+condition,S,2,enzyme:T. dicoccon3,27
+condition,S,2,enzyme:T. dicoccon4,27
+condition,S,2,enzyme:T. monococcum,27
+condition,S,2,enzyme:T. timonovum,27
+condition,S,2,enzyme:T. timopheevii,27
+condition,S,2,enzyme:Triticale (Cando),27
+condition,S,2,enzyme:Triticale (Rotego),27
+condition,S,2,enzyme:Triticale (Talentro),27
+condition,S,2,source:Prins 2016 | pH=8.2,27
+condition,S,3,enzyme:Chaetoceros calcitrans (CCMP 1315),10
+condition,S,3,enzyme:Chaetoceros calcitrans (CS-178),10
+condition,S,3,enzyme:Chaetoceros muelleri (CCMP 1316),10
+condition,S,3,enzyme:Cylindrotheca fusiformis (CS-13),10
+condition,S,3,enzyme:Fragilariopsis cylindrus (CCMP 1102),10
+condition,S,3,enzyme:Phaeodactylum tricornutum (CS-29),10
+condition,S,3,enzyme:Phaeodactylum tricornutum (UTEX 642),10
+condition,S,3,enzyme:Thalassiosira oceania (CS-427),10
+condition,S,3,enzyme:Thalassiosira weissflogii (CCMP 1336),10
+condition,S,3,source:Young 2016 | pH=8,10
+condition,S,4,enzyme:Helianthus annuus L.,6
+condition,S,4,enzyme:Hordeum vulgare L.,6
+condition,S,4,enzyme:Nicotiana glauca Grah.,6
+condition,S,4,enzyme:Plantago lanceolata L.,6
+condition,S,4,enzyme:Triticum aestivum cv. Saratovskaya 29,6
+condition,S,4,source:Viil 2012 | pH=unknown,6
+condition,S,5,enzyme:Chaetoceros socialis,5
+condition,S,5,enzyme:Skeletonema costatum,5
+condition,S,5,enzyme:Thalassiosira antarctica,5
+condition,S,5,enzyme:Thalassiosira hyalina,5
+condition,S,5,source:Haslam 2005 | pH=8.2,5
+condition,S,6,enzyme:Pavlova lutheri,4
+condition,S,6,enzyme:Pleurochrysis carterae,4
+condition,S,6,enzyme:Tisochrysis lutea,4
+condition,S,6,source:Heureux 2017 | pH=8.16,4
+condition,S,7,enzyme:Thiobacillus denitrificans IA,3
+condition,S,7,enzyme:Thiobacillus denitrificans II,3
+condition,S,7,source:Hernandez 1996 | pH=8,3
+condition,S,8,enzyme:Anacystis nidulans,2
+condition,S,8,source:Bainbridge 1995 | pH=8,2
+condition,S,9,enzyme:Cyanobium PCC7001,2
+condition,S,9,source:Long 2018 | pH=8,2
+condition,S,10,enzyme:Nicotiana tabacum L. cv. W38,2
+condition,S,10,source:von Caemmerer 1994 | pH=unknown,2
+condition,S,11,enzyme:Thermococcus kodakaraensis,2
+condition,S,11,source:Yoshida 2007 | pH=8.3,2
+condition,vC,0,enzyme:Agriophyllum squarrosum,123
+condition,vC,0,enzyme:Agrostis scabra,123
+condition,vC,0,enzyme:Agrostis stolonifera,123
+condition,vC,0,enzyme:Allochromatium vinosum,123
+condition,vC,0,enzyme:Amaranthus edulis,123
+condition,vC,0,enzyme:Amphicarpaea bracteata,123
+condition,vC,0,enzyme:Arctagrostis latifolia,123
+condition,vC,0,enzyme:Artemisia myriantha,123
+condition,vC,0,enzyme:Artemisia vulgaris L.,123
+condition,vC,0,enzyme:Avena sativa,123
+condition,vC,0,enzyme:Beta vulgaris,123
+condition,vC,0,enzyme:Beta vulgarisssp.vulgaris,123
+condition,vC,0,enzyme:Brassica oleracea,123
+condition,vC,0,enzyme:Bromus anomalus,123
+condition,vC,0,enzyme:Calamagrostis arundinacea,123
+condition,vC,0,enzyme:Calamagrostis canescens,123
+condition,vC,0,enzyme:Calamagrostis foliosa,123
+condition,vC,0,enzyme:Calamagrostis inexpansa,123
+condition,vC,0,enzyme:Calamagrostis nutkaensis,123
+condition,vC,0,enzyme:Capsicum annuum,123
+condition,vC,0,enzyme:Chenopodium alba,123
+condition,vC,0,enzyme:Chenopodium murale,123
+condition,vC,0,enzyme:Chenopodium petiolare,123
+condition,vC,0,enzyme:Chenopodium rubrum,123
+condition,vC,0,enzyme:Chrysanthellum indicum var. afroamericanum,123
+condition,vC,0,enzyme:Citrullus ecirrhosus,123
+condition,vC,0,enzyme:Citrullus lanatus var. lanatus,123
+condition,vC,0,enzyme:Coffee arabica,123
+condition,vC,0,enzyme:Cucurbita maxima,123
+condition,vC,0,enzyme:Cyanidium caldarium,123
+condition,vC,0,enzyme:Deschampsia danthonioides,123
+condition,vC,0,enzyme:Desmodium cinereum,123
+condition,vC,0,enzyme:Desmodium intortum,123
+condition,vC,0,enzyme:Desmodium psilocarpum,123
+condition,vC,0,enzyme:Elymus farctus,123
+condition,vC,0,enzyme:Eragrostis tef,123
+condition,vC,0,enzyme:Erythrina flabelliformis,123
+condition,vC,0,enzyme:Euphorbia helioscopia,123
+condition,vC,0,enzyme:Euphorbia microsphaera,123
+condition,vC,0,enzyme:Festuca gigantea,123
+condition,vC,0,enzyme:Festuca pratensis,123
+condition,vC,0,enzyme:Flaveria angustifolia,123
+condition,vC,0,enzyme:Flaveria anomala,123
+condition,vC,0,enzyme:Flaveria australasica,123
+condition,vC,0,enzyme:Flaveria bidentis,123
+condition,vC,0,enzyme:Flaveria brownii,123
+condition,vC,0,enzyme:Flaveria chloraefolia,123
+condition,vC,0,enzyme:Flaveria cronquistii,123
+condition,vC,0,enzyme:Flaveria floridana,123
+condition,vC,0,enzyme:Flaveria kochiana,123
+condition,vC,0,enzyme:Flaveria linearis,123
+condition,vC,0,enzyme:Flaveria palmeri,123
+condition,vC,0,enzyme:Flaveria pringlei,123
+condition,vC,0,enzyme:Flaveria ramosissima,123
+condition,vC,0,enzyme:Flaveria sonorensis,123
+condition,vC,0,enzyme:Flaveria trinervia,123
+condition,vC,0,enzyme:Flaveria vaginata,123
+condition,vC,0,enzyme:Flueggea suffruticosa,123
+condition,vC,0,enzyme:Foeniculum vulgare,123
+condition,vC,0,enzyme:Galdieria partita Tokara,123
+condition,vC,0,enzyme:Glycine canescens,123
+condition,vC,0,enzyme:Glycine max,123
+condition,vC,0,enzyme:Hordeum brachyantherum,123
+condition,vC,0,enzyme:Hordeum murinum,123
+condition,vC,0,enzyme:Hordeum vulgare ssp. vulgare cv. Morex,123
+condition,vC,0,enzyme:Ipomoea batatas,123
+condition,vC,0,enzyme:Lablab purpureus,123
+condition,vC,0,enzyme:Lactua sativa,123
+condition,vC,0,enzyme:Lepidium campestre,123
+condition,vC,0,enzyme:Lolium multiflorum,123
+condition,vC,0,enzyme:Lolium rigidum,123
+condition,vC,0,enzyme:Macrotyloma uniflorum,123
+condition,vC,0,enzyme:Manihot esculenta,123
+condition,vC,0,enzyme:Medicago sativa,123
+condition,vC,0,enzyme:Mercurialis annua,123
+condition,vC,0,enzyme:Musa velutina,123
+condition,vC,0,enzyme:Nicotiana tabacum cv. PH,123
+condition,vC,0,enzyme:Oryza barthii/glaberrima,123
+condition,vC,0,enzyme:Oryza eichingeri,123
+condition,vC,0,enzyme:Oryza glaberrima (WAB 1939),123
+condition,vC,0,enzyme:Oryza glumaepatula,123
+condition,vC,0,enzyme:Oryza longistaminata,123
+condition,vC,0,enzyme:Oryza meridionalis,123
+condition,vC,0,enzyme:Oryza nivara,123
+condition,vC,0,enzyme:Oryza punctata,123
+condition,vC,0,enzyme:Oryza sativa,123
+condition,vC,0,enzyme:Oryza sativa ssp.Indicacv.Icasulum,123
+condition,vC,0,enzyme:Oryza sativa ssp.Japonicacv.Nipponbare,123
+condition,vC,0,enzyme:Panicum amarum,123
+condition,vC,0,enzyme:Panicum dichotomiflorum,123
+condition,vC,0,enzyme:Panicum phragmitoides,123
+condition,vC,0,enzyme:Phaseolus carteri,123
+condition,vC,0,enzyme:Phaseolus coccineus,123
+condition,vC,0,enzyme:Phaseolus lunatus,123
+condition,vC,0,enzyme:Phaseolus vulgaris,123
+condition,vC,0,enzyme:Poa palustris,123
+condition,vC,0,enzyme:Porphyridium purpureum,123
+condition,vC,0,enzyme:Puccinellia distans,123
+condition,vC,0,enzyme:Puccinellia lemmonii,123
+condition,vC,0,enzyme:Puccinellia maritima,123
+condition,vC,0,enzyme:Puccinellia nuttalliana,123
+condition,vC,0,enzyme:Pueraria montana,123
+condition,vC,0,enzyme:Saccharum officinarum,123
+condition,vC,0,enzyme:Solanum lycopersicum,123
+condition,vC,0,enzyme:Solanum tuberosum,123
+condition,vC,0,enzyme:Sphenostylis stenocarpa,123
+condition,vC,0,enzyme:Spinacia oleracea,123
+condition,vC,0,enzyme:Synechococcus 7515,123
+condition,vC,0,enzyme:Tephrosia candida,123
+condition,vC,0,enzyme:Tephrosia purpurea,123
+condition,vC,0,enzyme:Tephrosia rhodesica,123
+condition,vC,0,enzyme:Triticum aestivum,123
+condition,vC,0,enzyme:Triticum baeoticum,123
+condition,vC,0,enzyme:Zea mays,123
+condition,vC,0,enzyme:Zea mays cv. Carella,123
+condition,vC,0,source:Hermida-Carrera 2016 | pH=8,123
+condition,vC,0,source:Jordan 1985 | pH=8,123
+condition,vC,0,source:Kubien 2008 | pH=8,123
+condition,vC,0,source:Orr 2016 | pH=8,123
+condition,vC,0,source:Perdomo 2015 | pH=unknown,123
+condition,vC,0,source:Uemura 1997 | pH=8,123
+condition,vC,0,source:Whitney 2011 | pH=8,123
+condition,vC,0,source:Zhu 1998 | pH=8,123
+condition,vC,1,enzyme:Agave victoriae−reginae,31
+condition,vC,1,enzyme:Arabidopsis thaliana,31
+condition,vC,1,enzyme:Atrichum undulatum,31
+condition,vC,1,enzyme:Carpobrotus edulis,31
+condition,vC,1,enzyme:Ceratophyllum demersum,31
+condition,vC,1,enzyme:Crithmum maritimum,31
+condition,vC,1,enzyme:Cycas panzhihuaensis,31
+condition,vC,1,enzyme:Dactylis glomerata cv. Porto,31
+condition,vC,1,enzyme:Drosera capensis,31
+condition,vC,1,enzyme:Drosera venusta,31
+condition,vC,1,enzyme:Echeveria elegans,31
+condition,vC,1,enzyme:Eucalyptus moorei,31
+condition,vC,1,enzyme:Eucalyptus neglecta,31
+condition,vC,1,enzyme:Iris douglasiana,31
+condition,vC,1,enzyme:Limonium latebracteatum,31
+condition,vC,1,enzyme:Limonium stenophyllum,31
+condition,vC,1,enzyme:Limonium virgatum,31
+condition,vC,1,enzyme:Marchantia polymorpha,31
+condition,vC,1,enzyme:Metasequoia glyptostroboides,31
+condition,vC,1,enzyme:Nymphaea alba,31
+condition,vC,1,enzyme:Pallenis maritima,31
+condition,vC,1,enzyme:Platycerium superbum,31
+condition,vC,1,enzyme:Pteridium aquilinum,31
+condition,vC,1,enzyme:Sarracenia flava,31
+condition,vC,1,enzyme:Sideritis cretica subsp. spicata,31
+condition,vC,1,enzyme:Teucrium heterophyllum,31
+condition,vC,1,enzyme:Trachycarpus fortunei,31
+condition,vC,1,enzyme:Triticum aestivum cv. Alexandria,31
+condition,vC,1,source:Boyd 2019 | pH=7.7,31
+condition,vC,1,source:Boyd 2019 | pH=8.2,31
+condition,vC,1,source:Galmes 2014b | pH=8,31
+condition,vC,2,enzyme:Aegilops biuncialis,27
+condition,vC,2,enzyme:Aegilops comosa,27
+condition,vC,2,enzyme:Aegilops cylindrica,27
+condition,vC,2,enzyme:Aegilops juvenalis,27
+condition,vC,2,enzyme:Aegilops speltoides,27
+condition,vC,2,enzyme:Aegilops tauschii,27
+condition,vC,2,enzyme:Aegilops triuncialis,27
+condition,vC,2,enzyme:Aegilops uniaristata,27
+condition,vC,2,enzyme:Aegilops vavilovii,27
+condition,vC,2,enzyme:B. distachyon,27
+condition,vC,2,enzyme:H. vulgare cv. Lenins,27
+condition,vC,2,enzyme:S. cereale cv. Agronom,27
+condition,vC,2,enzyme:T. aestivum (C),27
+condition,vC,2,enzyme:T. aestivum SATYN1,27
+condition,vC,2,enzyme:T. aestivum SATYN2,27
+condition,vC,2,enzyme:T. aestivum SATYN3,27
+condition,vC,2,enzyme:T. dicoccon1,27
+condition,vC,2,enzyme:T. dicoccon2,27
+condition,vC,2,enzyme:T. dicoccon3,27
+condition,vC,2,enzyme:T. dicoccon4,27
+condition,vC,2,enzyme:T. monococcum,27
+condition,vC,2,enzyme:T. timonovum,27
+condition,vC,2,enzyme:T. timopheevii,27
+condition,vC,2,enzyme:Triticale (Cando),27
+condition,vC,2,enzyme:Triticale (Rotego),27
+condition,vC,2,enzyme:Triticale (Talentro),27
+condition,vC,2,source:Prins 2016 | pH=8.2,27
+condition,vC,3,enzyme:Arabidopsis thaliana cv. Columbia,25
+condition,vC,3,enzyme:Cenchrus ciliaris,25
+condition,vC,3,enzyme:Galdieria sulfuraria,25
+condition,vC,3,enzyme:Griffithsia monilis,25
+condition,vC,3,enzyme:Megathyrsus maximus,25
+condition,vC,3,enzyme:Nicotiana tabacum,25
+condition,vC,3,enzyme:Panicum antidotale,25
+condition,vC,3,enzyme:Panicum bisulcatum,25
+condition,vC,3,enzyme:Panicum coloratum,25
+condition,vC,3,enzyme:Panicum deustum,25
+condition,vC,3,enzyme:Panicum milioides,25
+condition,vC,3,enzyme:Panicum milliaceum,25
+condition,vC,3,enzyme:Panicum monticola,25
+condition,vC,3,enzyme:Panicum virgatum,25
+condition,vC,3,enzyme:Phaeodactylum tricornutum,25
+condition,vC,3,enzyme:Setaria viridis,25
+condition,vC,3,enzyme:Steinchisma laxa,25
+condition,vC,3,enzyme:Synechococcus elongatus PCC 7942,25
+condition,vC,3,enzyme:Urochloa mosambicensis,25
+condition,vC,3,enzyme:Urochloa panicoides,25
+condition,vC,3,source:Boyd 2015 | pH=7.7,25
+condition,vC,3,source:Occhialini 2015 | pH=8.1,25
+condition,vC,3,source:Sharwood 2016 | pH=8.16,25
+condition,vC,3,source:Walker 2013 | pH=unknown,25
+condition,vC,3,source:Whitney 2001 | pH=8,25
+condition,vC,4,enzyme:Limonium antonii‐llorensii,15
+condition,vC,4,enzyme:Limonium artruchium,15
+condition,vC,4,enzyme:Limonium balearicum,15
+condition,vC,4,enzyme:Limonium barceloi,15
+condition,vC,4,enzyme:Limonium biflorum,15
+condition,vC,4,enzyme:Limonium companyonis,15
+condition,vC,4,enzyme:Limonium echioides,15
+condition,vC,4,enzyme:Limonium ejulabilis,15
+condition,vC,4,enzyme:Limonium gibertii,15
+condition,vC,4,enzyme:Limonium grosii,15
+condition,vC,4,enzyme:Limonium gymnesicum,15
+condition,vC,4,enzyme:Limonium leonardi‐llorensii,15
+condition,vC,4,enzyme:Limonium magallufianum,15
+condition,vC,4,enzyme:Limonium retusum,15
+condition,vC,4,source:Galmes 2014a | pH=8,15
+condition,vC,5,enzyme:Bellerochea cf. horologicalis (CS-874/01),12
+condition,vC,5,enzyme:Chaetoceros calcitrans (CCMP 1315),12
+condition,vC,5,enzyme:Chaetoceros calcitrans (CS-178),12
+condition,vC,5,enzyme:Chaetoceros muelleri (CCMP 1316),12
+condition,vC,5,enzyme:Cylindrotheca fusiformis (CS-13),12
+condition,vC,5,enzyme:Fragilariopsis cylindrus (CCMP 1102),12
+condition,vC,5,enzyme:Phaeodactylum tricornutum (CS-29),12
+condition,vC,5,enzyme:Phaeodactylum tricornutum (UTEX 642),12
+condition,vC,5,enzyme:Skeletonema marinoi (CCMP 1332),12
+condition,vC,5,enzyme:Thalassiosira oceania (CS-427),12
+condition,vC,5,enzyme:Thalassiosira weissflogii (CCMP 1336),12
+condition,vC,5,source:Young 2016 | pH=8,12
+condition,vC,6,enzyme:C. fusiformis,12
+condition,vC,6,enzyme:Cylindrotheca N1,12
+condition,vC,6,enzyme:Olisthodiscus luteus,12
+condition,vC,6,enzyme:Porphyridium cruenteum,12
+condition,vC,6,enzyme:Prochlorococcus marinus MIT9313,12
+condition,vC,6,enzyme:Synechococcus 6301,12
+condition,vC,6,source:Greene 2007 | pH=8,12
+condition,vC,6,source:Morell 1994 | pH=7.8,12
+condition,vC,6,source:Mueller-Cajar 2008 | pH=8,12
+condition,vC,6,source:Read 1992b | pH=8,12
+condition,vC,6,source:Read 1994 | pH=8,12
+condition,vC,6,source:Shih 2016 | pH=8,12
+condition,vC,7,enzyme:Methanococcoides burtonii,5
+condition,vC,7,enzyme:Methanococcoides burtonii K332E,5
+condition,vC,7,enzyme:Methanococcoides burtonii L2,5
+condition,vC,7,source:Alonso 2009 | pH=7,5
+condition,vC,7,source:Wilson 2016 | pH=7.2 or 8.0,5
+condition,vC,8,enzyme:Pavlova lutheri,4
+condition,vC,8,enzyme:Pleurochrysis carterae,4
+condition,vC,8,enzyme:Tisochrysis lutea,4
+condition,vC,8,source:Heureux 2017 | pH=8.16,4
+condition,vC,9,enzyme:Rhodospirillum rubrum,4
+condition,vC,9,source:Gutteridge 1984 | pH=8.2,4
+condition,vC,9,source:Morell 1990 | pH=7.8,4
+condition,vC,9,source:Mueller-Cajar 2007 | pH=8,4
+condition,vC,10,enzyme:Acidithiobacillus ferrooxidans,3
+condition,vC,10,enzyme:Rhodobacter sphaeroides I,3
+condition,vC,10,source:Mueller-Cajar (personal) | pH=8,3
+condition,vC,11,enzyme:Thiobacillus denitrificans IA,3
+condition,vC,11,enzyme:Thiobacillus denitrificans II,3
+condition,vC,11,source:Hernandez 1996 | pH=8,3
+condition,vC,12,enzyme:Anacystis nidulans,2
+condition,vC,12,source:Bainbridge 1995 | pH=8,2
+condition,vC,13,enzyme:Cyanobium PCC7001,2
+condition,vC,13,source:Long 2018 | pH=8,2
+condition,vC,14,enzyme:Nicotiana tabacum L. cv. W38,2
+condition,vC,14,source:von Caemmerer 1994 | pH=unknown,2
+condition,vC,15,enzyme:Synechococcus 7002,2
+condition,vC,15,source:Andrews 1985 | pH=7.8,2
+condition,vC,16,enzyme:T. elongatus,2
+condition,vC,16,source:Gubernator 2008 | pH=8,2
+condition,vC,17,enzyme:Thermococcus kodakaraensis,2
+condition,vC,17,source:Yoshida 2007 | pH=8.3,2
+study_only,S,0,enzyme:Agriophyllum squarrosum,215
+study_only,S,0,enzyme:Agrostis scabra,215
+study_only,S,0,enzyme:Agrostis stolonifera,215
+study_only,S,0,enzyme:Allochromatium vinosum,215
+study_only,S,0,enzyme:Amaranthus edulis,215
+study_only,S,0,enzyme:Amaranthus hybridus,215
+study_only,S,0,enzyme:Amphicarpaea bracteata,215
+study_only,S,0,enzyme:Aphanizomenon flos aquae,215
+study_only,S,0,enzyme:Aphanocapsa alpicola,215
+study_only,S,0,enzyme:Arabidopsis thaliana cv. Columbia,215
+study_only,S,0,enzyme:Arctagrostis latifolia,215
+study_only,S,0,enzyme:Artemisia myriantha,215
+study_only,S,0,enzyme:Artemisia vulgaris L.,215
+study_only,S,0,enzyme:Avena sativa,215
+study_only,S,0,enzyme:Beta vulgaris,215
+study_only,S,0,enzyme:Beta vulgarisssp.vulgaris,215
+study_only,S,0,enzyme:Brassica oleracea,215
+study_only,S,0,enzyme:Bromus anomalus,215
+study_only,S,0,enzyme:C. dactylon,215
+study_only,S,0,enzyme:C. fusiformis,215
+study_only,S,0,enzyme:Calamagrostis arundinacea,215
+study_only,S,0,enzyme:Calamagrostis canescens,215
+study_only,S,0,enzyme:Calamagrostis foliosa,215
+study_only,S,0,enzyme:Calamagrostis inexpansa,215
+study_only,S,0,enzyme:Calamagrostis nutkaensis,215
+study_only,S,0,enzyme:Capsicum annuum,215
+study_only,S,0,enzyme:Cenchrus ciliaris,215
+study_only,S,0,enzyme:Chenopodium alba,215
+study_only,S,0,enzyme:Chenopodium murale,215
+study_only,S,0,enzyme:Chenopodium petiolare,215
+study_only,S,0,enzyme:Chenopodium rubrum,215
+study_only,S,0,enzyme:Chlamydomonas reinhardtii,215
+study_only,S,0,enzyme:Chromatium vinosum,215
+study_only,S,0,enzyme:Chrysanthellum indicum var. afroamericanum,215
+study_only,S,0,enzyme:Citrullus ecirrhosus,215
+study_only,S,0,enzyme:Citrullus lanatus var. lanatus,215
+study_only,S,0,enzyme:Coccochloris peniocystis,215
+study_only,S,0,enzyme:Coffee arabica,215
+study_only,S,0,enzyme:Cucurbita maxima,215
+study_only,S,0,enzyme:Cyanidium caldarium,215
+study_only,S,0,enzyme:Cylindrotheca N1,215
+study_only,S,0,enzyme:Deschampsia danthonioides,215
+study_only,S,0,enzyme:Desmodium cinereum,215
+study_only,S,0,enzyme:Desmodium intortum,215
+study_only,S,0,enzyme:Desmodium psilocarpum,215
+study_only,S,0,enzyme:Echinochloa crus-galli,215
+study_only,S,0,enzyme:Elymus farctus,215
+study_only,S,0,enzyme:Eragrostis tef,215
+study_only,S,0,enzyme:Erythrina flabelliformis,215
+study_only,S,0,enzyme:Euglena gracilis,215
+study_only,S,0,enzyme:Euphorbia helioscopia,215
+study_only,S,0,enzyme:Euphorbia microsphaera,215
+study_only,S,0,enzyme:Festuca gigantea,215
+study_only,S,0,enzyme:Festuca pratensis,215
+study_only,S,0,enzyme:Flaveria angustifolia,215
+study_only,S,0,enzyme:Flaveria anomala,215
+study_only,S,0,enzyme:Flaveria australasica,215
+study_only,S,0,enzyme:Flaveria bidentis,215
+study_only,S,0,enzyme:Flaveria brownii,215
+study_only,S,0,enzyme:Flaveria chloraefolia,215
+study_only,S,0,enzyme:Flaveria cronquistii,215
+study_only,S,0,enzyme:Flaveria floridana,215
+study_only,S,0,enzyme:Flaveria kochiana,215
+study_only,S,0,enzyme:Flaveria linearis,215
+study_only,S,0,enzyme:Flaveria palmeri,215
+study_only,S,0,enzyme:Flaveria pringlei,215
+study_only,S,0,enzyme:Flaveria ramosissima,215
+study_only,S,0,enzyme:Flaveria sonorensis,215
+study_only,S,0,enzyme:Flaveria trinervia,215
+study_only,S,0,enzyme:Flaveria vaginata,215
+study_only,S,0,enzyme:Flueggea suffruticosa,215
+study_only,S,0,enzyme:Foeniculum vulgare,215
+study_only,S,0,enzyme:Galdieria partita Tokara,215
+study_only,S,0,enzyme:Galdieria sulfuraria,215
+study_only,S,0,enzyme:Glycine canescens,215
+study_only,S,0,enzyme:Glycine max,215
+study_only,S,0,enzyme:Griffithsia monilis,215
+study_only,S,0,enzyme:Helianthus maximus,215
+study_only,S,0,enzyme:Hordeum brachyantherum,215
+study_only,S,0,enzyme:Hordeum murinum,215
+study_only,S,0,enzyme:Hordeum vulgare cv. Stirling,215
+study_only,S,0,enzyme:Hordeum vulgare ssp. vulgare cv. Morex,215
+study_only,S,0,enzyme:Ipomoea batatas,215
+study_only,S,0,enzyme:Lablab purpureus,215
+study_only,S,0,enzyme:Lactua sativa,215
+study_only,S,0,enzyme:Lepidium campestre,215
+study_only,S,0,enzyme:Lolium multiflorum,215
+study_only,S,0,enzyme:Lolium perenne,215
+study_only,S,0,enzyme:Lolium rigidum,215
+study_only,S,0,enzyme:Lycopersicon ensculentum,215
+study_only,S,0,enzyme:Macrotyloma uniflorum,215
+study_only,S,0,enzyme:Manihot esculenta,215
+study_only,S,0,enzyme:Medicago sativa,215
+study_only,S,0,enzyme:Megathyrsus maximus,215
+study_only,S,0,enzyme:Mercurialis annua,215
+study_only,S,0,enzyme:Methanococcoides burtonii,215
+study_only,S,0,enzyme:Methanococcoides burtonii K332E,215
+study_only,S,0,enzyme:Methanococcoides burtonii L2,215
+study_only,S,0,enzyme:Musa velutina,215
+study_only,S,0,enzyme:Nicotiana tabacum,215
+study_only,S,0,enzyme:Nicotiana tabacum cv. PH,215
+study_only,S,0,enzyme:Olisthodiscus luteus,215
+study_only,S,0,enzyme:Oryza barthii/glaberrima,215
+study_only,S,0,enzyme:Oryza eichingeri,215
+study_only,S,0,enzyme:Oryza glaberrima (WAB 1939),215
+study_only,S,0,enzyme:Oryza glumaepatula,215
+study_only,S,0,enzyme:Oryza longistaminata,215
+study_only,S,0,enzyme:Oryza meridionalis,215
+study_only,S,0,enzyme:Oryza nivara,215
+study_only,S,0,enzyme:Oryza punctata,215
+study_only,S,0,enzyme:Oryza punctata Kotschy,215
+study_only,S,0,enzyme:Oryza sativa,215
+study_only,S,0,enzyme:Oryza sativa ssp.Indicacv.Icasulum,215
+study_only,S,0,enzyme:Oryza sativa ssp.Japonicacv.Nipponbare,215
+study_only,S,0,enzyme:P. dilatatum,215
+study_only,S,0,enzyme:Panicum amarum,215
+study_only,S,0,enzyme:Panicum antidotale,215
+study_only,S,0,enzyme:Panicum bisulcatum,215
+study_only,S,0,enzyme:Panicum coloratum,215
+study_only,S,0,enzyme:Panicum deustum,215
+study_only,S,0,enzyme:Panicum dichotomiflorum,215
+study_only,S,0,enzyme:Panicum miliodes,215
+study_only,S,0,enzyme:Panicum milioides,215
+study_only,S,0,enzyme:Panicum milliaceum,215
+study_only,S,0,enzyme:Panicum monticola,215
+study_only,S,0,enzyme:Panicum phragmitoides,215
+study_only,S,0,enzyme:Panicum virgatum,215
+study_only,S,0,enzyme:Petroselinum cripsum,215
+study_only,S,0,enzyme:Phaeodactylum tricornutum,215
+study_only,S,0,enzyme:Phaseolus carteri,215
+study_only,S,0,enzyme:Phaseolus coccineus,215
+study_only,S,0,enzyme:Phaseolus lunatus,215
+study_only,S,0,enzyme:Phaseolus vulgaris,215
+study_only,S,0,enzyme:Pisum sativum,215
+study_only,S,0,enzyme:Plectonema boryanum,215
+study_only,S,0,enzyme:Poa palustris,215
+study_only,S,0,enzyme:Polypodium aureum,215
+study_only,S,0,enzyme:Porphyra yezoensis,215
+study_only,S,0,enzyme:Porphyridium cruenteum,215
+study_only,S,0,enzyme:Porphyridium purpureum,215
+study_only,S,0,enzyme:Potulaca oleraca,215
+study_only,S,0,enzyme:Prochlorococcus marinus MIT9313,215
+study_only,S,0,enzyme:Puccinellia distans,215
+study_only,S,0,enzyme:Puccinellia lemmonii,215
+study_only,S,0,enzyme:Puccinellia maritima,215
+study_only,S,0,enzyme:Puccinellia nuttalliana,215
+study_only,S,0,enzyme:Pueraria montana,215
+study_only,S,0,enzyme:Rhodobacter sphaeroides I,215
+study_only,S,0,enzyme:Rhodobacter sphaeroides II,215
+study_only,S,0,enzyme:Rhodospirillum rubrum,215
+study_only,S,0,enzyme:Saccharum officinarum,215
+study_only,S,0,enzyme:Scenedesmus obliquus,215
+study_only,S,0,enzyme:Setaria italica,215
+study_only,S,0,enzyme:Setaria viridis,215
+study_only,S,0,enzyme:Solanum lycopersicum,215
+study_only,S,0,enzyme:Solanum tuberosum,215
+study_only,S,0,enzyme:Sorghum bicolor,215
+study_only,S,0,enzyme:Sphenostylis stenocarpa,215
+study_only,S,0,enzyme:Spinacia oleracea,215
+study_only,S,0,enzyme:Spinacia oleracea hybrid 102,215
+study_only,S,0,enzyme:Steinchisma laxa,215
+study_only,S,0,enzyme:Synechococcus 6301,215
+study_only,S,0,enzyme:Synechococcus 6301 F92L,215
+study_only,S,0,enzyme:Synechococcus 6301 G91V,215
+study_only,S,0,enzyme:Synechococcus 6301 I87V,215
+study_only,S,0,enzyme:Synechococcus 6301 R88K,215
+study_only,S,0,enzyme:Synechococcus 7002,215
+study_only,S,0,enzyme:Synechococcus 7515,215
+study_only,S,0,enzyme:Synechococcus elongatus PCC 7942,215
+study_only,S,0,enzyme:T. elongatus,215
+study_only,S,0,enzyme:Tephrosia candida,215
+study_only,S,0,enzyme:Tephrosia purpurea,215
+study_only,S,0,enzyme:Tephrosia rhodesica,215
+study_only,S,0,enzyme:Tetragonium expansa,215
+study_only,S,0,enzyme:Triticum aestivum,215
+study_only,S,0,enzyme:Triticum baeoticum,215
+study_only,S,0,enzyme:Ulva pertusa,215
+study_only,S,0,enzyme:Urochloa mosambicensis,215
+study_only,S,0,enzyme:Urochloa panicoides,215
+study_only,S,0,enzyme:Z. japonica,215
+study_only,S,0,enzyme:Zea mays,215
+study_only,S,0,enzyme:Zea mays cv. Carella,215
+study_only,S,0,source:Alonso 2009,215
+study_only,S,0,source:Andrews 1985,215
+study_only,S,0,source:Brooks 1985,215
+study_only,S,0,source:Carmo-Silva 2010,215
+study_only,S,0,source:Greene 2007,215
+study_only,S,0,source:Gubernator 2008,215
+study_only,S,0,source:Gutteridge 1984,215
+study_only,S,0,source:Hermida-Carrera 2016,215
+study_only,S,0,source:Jordan 1981,215
+study_only,S,0,source:Jordan 1983,215
+study_only,S,0,source:Jordan 1984,215
+study_only,S,0,source:Jordan 1985,215
+study_only,S,0,source:Kane 1994,215
+study_only,S,0,source:Kubien 2008,215
+study_only,S,0,source:Morell 1994,215
+study_only,S,0,source:Mueller-Cajar 2007,215
+study_only,S,0,source:Mueller-Cajar 2008,215
+study_only,S,0,source:Occhialini 2015,215
+study_only,S,0,source:Orr 2016,215
+study_only,S,0,source:Perdomo 2015,215
+study_only,S,0,source:Read 1992a,215
+study_only,S,0,source:Read 1992b,215
+study_only,S,0,source:Read 1994,215
+study_only,S,0,source:Sharwood 2016,215
+study_only,S,0,source:Shih 2016,215
+study_only,S,0,source:Uemura 1996,215
+study_only,S,0,source:Uemura 1997,215
+study_only,S,0,source:Walker 2013,215
+study_only,S,0,source:Whitney 2001,215
+study_only,S,0,source:Whitney 2011,215
+study_only,S,0,source:Wilson 2016,215
+study_only,S,0,source:Yamori 2006,215
+study_only,S,0,source:Zhu 1998,215
+study_only,S,1,enzyme:Beta maritima ssp. marcosii,28
+study_only,S,1,enzyme:Beta maritima ssp. maritima,28
+study_only,S,1,enzyme:Diplotaxis ibicensis,28
+study_only,S,1,enzyme:Hypericum balearicum,28
+study_only,S,1,enzyme:Kundmannia sicula,28
+study_only,S,1,enzyme:Limonium antonii‐llorensii,28
+study_only,S,1,enzyme:Limonium artruchium,28
+study_only,S,1,enzyme:Limonium balearicum,28
+study_only,S,1,enzyme:Limonium barceloi,28
+study_only,S,1,enzyme:Limonium biflorum,28
+study_only,S,1,enzyme:Limonium companyonis,28
+study_only,S,1,enzyme:Limonium echioides,28
+study_only,S,1,enzyme:Limonium ejulabilis,28
+study_only,S,1,enzyme:Limonium gibertii,28
+study_only,S,1,enzyme:Limonium grosii,28
+study_only,S,1,enzyme:Limonium gymnesicum,28
+study_only,S,1,enzyme:Limonium leonardi‐llorensii,28
+study_only,S,1,enzyme:Limonium magallufianum,28
+study_only,S,1,enzyme:Limonium retusum,28
+study_only,S,1,enzyme:Lysimachia minoricensis,28
+study_only,S,1,enzyme:Mentha aquatica,28
+study_only,S,1,enzyme:Pistacia lentiscus,28
+study_only,S,1,enzyme:Rhamnus alaternus,28
+study_only,S,1,enzyme:Rhamnus ludovici-salvatoris,28
+study_only,S,1,enzyme:Urtica atrovirens ssp. bianorii,28
+study_only,S,1,enzyme:Urtica membranacea,28
+study_only,S,1,source:Galmes 2005,28
+study_only,S,1,source:Galmes 2014a,28
+study_only,S,2,enzyme:Aegilops biuncialis,27
+study_only,S,2,enzyme:Aegilops comosa,27
+study_only,S,2,enzyme:Aegilops cylindrica,27
+study_only,S,2,enzyme:Aegilops juvenalis,27
+study_only,S,2,enzyme:Aegilops speltoides,27
+study_only,S,2,enzyme:Aegilops tauschii,27
+study_only,S,2,enzyme:Aegilops triuncialis,27
+study_only,S,2,enzyme:Aegilops uniaristata,27
+study_only,S,2,enzyme:Aegilops vavilovii,27
+study_only,S,2,enzyme:B. distachyon,27
+study_only,S,2,enzyme:H. vulgare cv. Lenins,27
+study_only,S,2,enzyme:S. cereale cv. Agronom,27
+study_only,S,2,enzyme:T. aestivum (C),27
+study_only,S,2,enzyme:T. aestivum SATYN1,27
+study_only,S,2,enzyme:T. aestivum SATYN2,27
+study_only,S,2,enzyme:T. aestivum SATYN3,27
+study_only,S,2,enzyme:T. dicoccon1,27
+study_only,S,2,enzyme:T. dicoccon2,27
+study_only,S,2,enzyme:T. dicoccon3,27
+study_only,S,2,enzyme:T. dicoccon4,27
+study_only,S,2,enzyme:T. monococcum,27
+study_only,S,2,enzyme:T. timonovum,27
+study_only,S,2,enzyme:T. timopheevii,27
+study_only,S,2,enzyme:Triticale (Cando),27
+study_only,S,2,enzyme:Triticale (Rotego),27
+study_only,S,2,enzyme:Triticale (Talentro),27
+study_only,S,2,source:Prins 2016,27
+study_only,S,3,enzyme:Chaetoceros calcitrans (CCMP 1315),10
+study_only,S,3,enzyme:Chaetoceros calcitrans (CS-178),10
+study_only,S,3,enzyme:Chaetoceros muelleri (CCMP 1316),10
+study_only,S,3,enzyme:Cylindrotheca fusiformis (CS-13),10
+study_only,S,3,enzyme:Fragilariopsis cylindrus (CCMP 1102),10
+study_only,S,3,enzyme:Phaeodactylum tricornutum (CS-29),10
+study_only,S,3,enzyme:Phaeodactylum tricornutum (UTEX 642),10
+study_only,S,3,enzyme:Thalassiosira oceania (CS-427),10
+study_only,S,3,enzyme:Thalassiosira weissflogii (CCMP 1336),10
+study_only,S,3,source:Young 2016,10
+study_only,S,4,enzyme:Helianthus annuus L.,6
+study_only,S,4,enzyme:Hordeum vulgare L.,6
+study_only,S,4,enzyme:Nicotiana glauca Grah.,6
+study_only,S,4,enzyme:Plantago lanceolata L.,6
+study_only,S,4,enzyme:Triticum aestivum cv. Saratovskaya 29,6
+study_only,S,4,source:Viil 2012,6
+study_only,S,5,enzyme:Chaetoceros socialis,5
+study_only,S,5,enzyme:Skeletonema costatum,5
+study_only,S,5,enzyme:Thalassiosira antarctica,5
+study_only,S,5,enzyme:Thalassiosira hyalina,5
+study_only,S,5,source:Haslam 2005,5
+study_only,S,6,enzyme:Pavlova lutheri,4
+study_only,S,6,enzyme:Pleurochrysis carterae,4
+study_only,S,6,enzyme:Tisochrysis lutea,4
+study_only,S,6,source:Heureux 2017,4
+study_only,S,7,enzyme:Thiobacillus denitrificans IA,3
+study_only,S,7,enzyme:Thiobacillus denitrificans II,3
+study_only,S,7,source:Hernandez 1996,3
+study_only,S,8,enzyme:Anacystis nidulans,2
+study_only,S,8,source:Bainbridge 1995,2
+study_only,S,9,enzyme:Cyanobium PCC7001,2
+study_only,S,9,source:Long 2018,2
+study_only,S,10,enzyme:Nicotiana tabacum L. cv. W38,2
+study_only,S,10,source:von Caemmerer 1994,2
+study_only,S,11,enzyme:Thermococcus kodakaraensis,2
+study_only,S,11,source:Yoshida 2007,2
+study_only,vC,0,enzyme:Agriophyllum squarrosum,123
+study_only,vC,0,enzyme:Agrostis scabra,123
+study_only,vC,0,enzyme:Agrostis stolonifera,123
+study_only,vC,0,enzyme:Allochromatium vinosum,123
+study_only,vC,0,enzyme:Amaranthus edulis,123
+study_only,vC,0,enzyme:Amphicarpaea bracteata,123
+study_only,vC,0,enzyme:Arctagrostis latifolia,123
+study_only,vC,0,enzyme:Artemisia myriantha,123
+study_only,vC,0,enzyme:Artemisia vulgaris L.,123
+study_only,vC,0,enzyme:Avena sativa,123
+study_only,vC,0,enzyme:Beta vulgaris,123
+study_only,vC,0,enzyme:Beta vulgarisssp.vulgaris,123
+study_only,vC,0,enzyme:Brassica oleracea,123
+study_only,vC,0,enzyme:Bromus anomalus,123
+study_only,vC,0,enzyme:Calamagrostis arundinacea,123
+study_only,vC,0,enzyme:Calamagrostis canescens,123
+study_only,vC,0,enzyme:Calamagrostis foliosa,123
+study_only,vC,0,enzyme:Calamagrostis inexpansa,123
+study_only,vC,0,enzyme:Calamagrostis nutkaensis,123
+study_only,vC,0,enzyme:Capsicum annuum,123
+study_only,vC,0,enzyme:Chenopodium alba,123
+study_only,vC,0,enzyme:Chenopodium murale,123
+study_only,vC,0,enzyme:Chenopodium petiolare,123
+study_only,vC,0,enzyme:Chenopodium rubrum,123
+study_only,vC,0,enzyme:Chrysanthellum indicum var. afroamericanum,123
+study_only,vC,0,enzyme:Citrullus ecirrhosus,123
+study_only,vC,0,enzyme:Citrullus lanatus var. lanatus,123
+study_only,vC,0,enzyme:Coffee arabica,123
+study_only,vC,0,enzyme:Cucurbita maxima,123
+study_only,vC,0,enzyme:Cyanidium caldarium,123
+study_only,vC,0,enzyme:Deschampsia danthonioides,123
+study_only,vC,0,enzyme:Desmodium cinereum,123
+study_only,vC,0,enzyme:Desmodium intortum,123
+study_only,vC,0,enzyme:Desmodium psilocarpum,123
+study_only,vC,0,enzyme:Elymus farctus,123
+study_only,vC,0,enzyme:Eragrostis tef,123
+study_only,vC,0,enzyme:Erythrina flabelliformis,123
+study_only,vC,0,enzyme:Euphorbia helioscopia,123
+study_only,vC,0,enzyme:Euphorbia microsphaera,123
+study_only,vC,0,enzyme:Festuca gigantea,123
+study_only,vC,0,enzyme:Festuca pratensis,123
+study_only,vC,0,enzyme:Flaveria angustifolia,123
+study_only,vC,0,enzyme:Flaveria anomala,123
+study_only,vC,0,enzyme:Flaveria australasica,123
+study_only,vC,0,enzyme:Flaveria bidentis,123
+study_only,vC,0,enzyme:Flaveria brownii,123
+study_only,vC,0,enzyme:Flaveria chloraefolia,123
+study_only,vC,0,enzyme:Flaveria cronquistii,123
+study_only,vC,0,enzyme:Flaveria floridana,123
+study_only,vC,0,enzyme:Flaveria kochiana,123
+study_only,vC,0,enzyme:Flaveria linearis,123
+study_only,vC,0,enzyme:Flaveria palmeri,123
+study_only,vC,0,enzyme:Flaveria pringlei,123
+study_only,vC,0,enzyme:Flaveria ramosissima,123
+study_only,vC,0,enzyme:Flaveria sonorensis,123
+study_only,vC,0,enzyme:Flaveria trinervia,123
+study_only,vC,0,enzyme:Flaveria vaginata,123
+study_only,vC,0,enzyme:Flueggea suffruticosa,123
+study_only,vC,0,enzyme:Foeniculum vulgare,123
+study_only,vC,0,enzyme:Galdieria partita Tokara,123
+study_only,vC,0,enzyme:Glycine canescens,123
+study_only,vC,0,enzyme:Glycine max,123
+study_only,vC,0,enzyme:Hordeum brachyantherum,123
+study_only,vC,0,enzyme:Hordeum murinum,123
+study_only,vC,0,enzyme:Hordeum vulgare ssp. vulgare cv. Morex,123
+study_only,vC,0,enzyme:Ipomoea batatas,123
+study_only,vC,0,enzyme:Lablab purpureus,123
+study_only,vC,0,enzyme:Lactua sativa,123
+study_only,vC,0,enzyme:Lepidium campestre,123
+study_only,vC,0,enzyme:Lolium multiflorum,123
+study_only,vC,0,enzyme:Lolium rigidum,123
+study_only,vC,0,enzyme:Macrotyloma uniflorum,123
+study_only,vC,0,enzyme:Manihot esculenta,123
+study_only,vC,0,enzyme:Medicago sativa,123
+study_only,vC,0,enzyme:Mercurialis annua,123
+study_only,vC,0,enzyme:Musa velutina,123
+study_only,vC,0,enzyme:Nicotiana tabacum cv. PH,123
+study_only,vC,0,enzyme:Oryza barthii/glaberrima,123
+study_only,vC,0,enzyme:Oryza eichingeri,123
+study_only,vC,0,enzyme:Oryza glaberrima (WAB 1939),123
+study_only,vC,0,enzyme:Oryza glumaepatula,123
+study_only,vC,0,enzyme:Oryza longistaminata,123
+study_only,vC,0,enzyme:Oryza meridionalis,123
+study_only,vC,0,enzyme:Oryza nivara,123
+study_only,vC,0,enzyme:Oryza punctata,123
+study_only,vC,0,enzyme:Oryza sativa,123
+study_only,vC,0,enzyme:Oryza sativa ssp.Indicacv.Icasulum,123
+study_only,vC,0,enzyme:Oryza sativa ssp.Japonicacv.Nipponbare,123
+study_only,vC,0,enzyme:Panicum amarum,123
+study_only,vC,0,enzyme:Panicum dichotomiflorum,123
+study_only,vC,0,enzyme:Panicum phragmitoides,123
+study_only,vC,0,enzyme:Phaseolus carteri,123
+study_only,vC,0,enzyme:Phaseolus coccineus,123
+study_only,vC,0,enzyme:Phaseolus lunatus,123
+study_only,vC,0,enzyme:Phaseolus vulgaris,123
+study_only,vC,0,enzyme:Poa palustris,123
+study_only,vC,0,enzyme:Porphyridium purpureum,123
+study_only,vC,0,enzyme:Puccinellia distans,123
+study_only,vC,0,enzyme:Puccinellia lemmonii,123
+study_only,vC,0,enzyme:Puccinellia maritima,123
+study_only,vC,0,enzyme:Puccinellia nuttalliana,123
+study_only,vC,0,enzyme:Pueraria montana,123
+study_only,vC,0,enzyme:Saccharum officinarum,123
+study_only,vC,0,enzyme:Solanum lycopersicum,123
+study_only,vC,0,enzyme:Solanum tuberosum,123
+study_only,vC,0,enzyme:Sphenostylis stenocarpa,123
+study_only,vC,0,enzyme:Spinacia oleracea,123
+study_only,vC,0,enzyme:Synechococcus 7515,123
+study_only,vC,0,enzyme:Tephrosia candida,123
+study_only,vC,0,enzyme:Tephrosia purpurea,123
+study_only,vC,0,enzyme:Tephrosia rhodesica,123
+study_only,vC,0,enzyme:Triticum aestivum,123
+study_only,vC,0,enzyme:Triticum baeoticum,123
+study_only,vC,0,enzyme:Zea mays,123
+study_only,vC,0,enzyme:Zea mays cv. Carella,123
+study_only,vC,0,source:Hermida-Carrera 2016,123
+study_only,vC,0,source:Jordan 1985,123
+study_only,vC,0,source:Kubien 2008,123
+study_only,vC,0,source:Orr 2016,123
+study_only,vC,0,source:Perdomo 2015,123
+study_only,vC,0,source:Uemura 1997,123
+study_only,vC,0,source:Whitney 2011,123
+study_only,vC,0,source:Zhu 1998,123
+study_only,vC,1,enzyme:Agave victoriae−reginae,30
+study_only,vC,1,enzyme:Arabidopsis thaliana,30
+study_only,vC,1,enzyme:Atrichum undulatum,30
+study_only,vC,1,enzyme:Carpobrotus edulis,30
+study_only,vC,1,enzyme:Ceratophyllum demersum,30
+study_only,vC,1,enzyme:Crithmum maritimum,30
+study_only,vC,1,enzyme:Cycas panzhihuaensis,30
+study_only,vC,1,enzyme:Dactylis glomerata cv. Porto,30
+study_only,vC,1,enzyme:Drosera capensis,30
+study_only,vC,1,enzyme:Drosera venusta,30
+study_only,vC,1,enzyme:Echeveria elegans,30
+study_only,vC,1,enzyme:Eucalyptus moorei,30
+study_only,vC,1,enzyme:Eucalyptus neglecta,30
+study_only,vC,1,enzyme:Iris douglasiana,30
+study_only,vC,1,enzyme:Limonium latebracteatum,30
+study_only,vC,1,enzyme:Limonium stenophyllum,30
+study_only,vC,1,enzyme:Limonium virgatum,30
+study_only,vC,1,enzyme:Marchantia polymorpha,30
+study_only,vC,1,enzyme:Metasequoia glyptostroboides,30
+study_only,vC,1,enzyme:Nymphaea alba,30
+study_only,vC,1,enzyme:Pallenis maritima,30
+study_only,vC,1,enzyme:Platycerium superbum,30
+study_only,vC,1,enzyme:Pteridium aquilinum,30
+study_only,vC,1,enzyme:Sarracenia flava,30
+study_only,vC,1,enzyme:Sideritis cretica subsp. spicata,30
+study_only,vC,1,enzyme:Teucrium heterophyllum,30
+study_only,vC,1,enzyme:Trachycarpus fortunei,30
+study_only,vC,1,enzyme:Triticum aestivum cv. Alexandria,30
+study_only,vC,1,source:Boyd 2019,30
+study_only,vC,1,source:Galmes 2014b,30
+study_only,vC,2,enzyme:Aegilops biuncialis,27
+study_only,vC,2,enzyme:Aegilops comosa,27
+study_only,vC,2,enzyme:Aegilops cylindrica,27
+study_only,vC,2,enzyme:Aegilops juvenalis,27
+study_only,vC,2,enzyme:Aegilops speltoides,27
+study_only,vC,2,enzyme:Aegilops tauschii,27
+study_only,vC,2,enzyme:Aegilops triuncialis,27
+study_only,vC,2,enzyme:Aegilops uniaristata,27
+study_only,vC,2,enzyme:Aegilops vavilovii,27
+study_only,vC,2,enzyme:B. distachyon,27
+study_only,vC,2,enzyme:H. vulgare cv. Lenins,27
+study_only,vC,2,enzyme:S. cereale cv. Agronom,27
+study_only,vC,2,enzyme:T. aestivum (C),27
+study_only,vC,2,enzyme:T. aestivum SATYN1,27
+study_only,vC,2,enzyme:T. aestivum SATYN2,27
+study_only,vC,2,enzyme:T. aestivum SATYN3,27
+study_only,vC,2,enzyme:T. dicoccon1,27
+study_only,vC,2,enzyme:T. dicoccon2,27
+study_only,vC,2,enzyme:T. dicoccon3,27
+study_only,vC,2,enzyme:T. dicoccon4,27
+study_only,vC,2,enzyme:T. monococcum,27
+study_only,vC,2,enzyme:T. timonovum,27
+study_only,vC,2,enzyme:T. timopheevii,27
+study_only,vC,2,enzyme:Triticale (Cando),27
+study_only,vC,2,enzyme:Triticale (Rotego),27
+study_only,vC,2,enzyme:Triticale (Talentro),27
+study_only,vC,2,source:Prins 2016,27
+study_only,vC,3,enzyme:Arabidopsis thaliana cv. Columbia,25
+study_only,vC,3,enzyme:Cenchrus ciliaris,25
+study_only,vC,3,enzyme:Galdieria sulfuraria,25
+study_only,vC,3,enzyme:Griffithsia monilis,25
+study_only,vC,3,enzyme:Megathyrsus maximus,25
+study_only,vC,3,enzyme:Nicotiana tabacum,25
+study_only,vC,3,enzyme:Panicum antidotale,25
+study_only,vC,3,enzyme:Panicum bisulcatum,25
+study_only,vC,3,enzyme:Panicum coloratum,25
+study_only,vC,3,enzyme:Panicum deustum,25
+study_only,vC,3,enzyme:Panicum milioides,25
+study_only,vC,3,enzyme:Panicum milliaceum,25
+study_only,vC,3,enzyme:Panicum monticola,25
+study_only,vC,3,enzyme:Panicum virgatum,25
+study_only,vC,3,enzyme:Phaeodactylum tricornutum,25
+study_only,vC,3,enzyme:Setaria viridis,25
+study_only,vC,3,enzyme:Steinchisma laxa,25
+study_only,vC,3,enzyme:Synechococcus elongatus PCC 7942,25
+study_only,vC,3,enzyme:Urochloa mosambicensis,25
+study_only,vC,3,enzyme:Urochloa panicoides,25
+study_only,vC,3,source:Boyd 2015,25
+study_only,vC,3,source:Occhialini 2015,25
+study_only,vC,3,source:Sharwood 2016,25
+study_only,vC,3,source:Walker 2013,25
+study_only,vC,3,source:Whitney 2001,25
+study_only,vC,4,enzyme:Limonium antonii‐llorensii,15
+study_only,vC,4,enzyme:Limonium artruchium,15
+study_only,vC,4,enzyme:Limonium balearicum,15
+study_only,vC,4,enzyme:Limonium barceloi,15
+study_only,vC,4,enzyme:Limonium biflorum,15
+study_only,vC,4,enzyme:Limonium companyonis,15
+study_only,vC,4,enzyme:Limonium echioides,15
+study_only,vC,4,enzyme:Limonium ejulabilis,15
+study_only,vC,4,enzyme:Limonium gibertii,15
+study_only,vC,4,enzyme:Limonium grosii,15
+study_only,vC,4,enzyme:Limonium gymnesicum,15
+study_only,vC,4,enzyme:Limonium leonardi‐llorensii,15
+study_only,vC,4,enzyme:Limonium magallufianum,15
+study_only,vC,4,enzyme:Limonium retusum,15
+study_only,vC,4,source:Galmes 2014a,15
+study_only,vC,5,enzyme:Bellerochea cf. horologicalis (CS-874/01),12
+study_only,vC,5,enzyme:Chaetoceros calcitrans (CCMP 1315),12
+study_only,vC,5,enzyme:Chaetoceros calcitrans (CS-178),12
+study_only,vC,5,enzyme:Chaetoceros muelleri (CCMP 1316),12
+study_only,vC,5,enzyme:Cylindrotheca fusiformis (CS-13),12
+study_only,vC,5,enzyme:Fragilariopsis cylindrus (CCMP 1102),12
+study_only,vC,5,enzyme:Phaeodactylum tricornutum (CS-29),12
+study_only,vC,5,enzyme:Phaeodactylum tricornutum (UTEX 642),12
+study_only,vC,5,enzyme:Skeletonema marinoi (CCMP 1332),12
+study_only,vC,5,enzyme:Thalassiosira oceania (CS-427),12
+study_only,vC,5,enzyme:Thalassiosira weissflogii (CCMP 1336),12
+study_only,vC,5,source:Young 2016,12
+study_only,vC,6,enzyme:C. fusiformis,12
+study_only,vC,6,enzyme:Cylindrotheca N1,12
+study_only,vC,6,enzyme:Olisthodiscus luteus,12
+study_only,vC,6,enzyme:Porphyridium cruenteum,12
+study_only,vC,6,enzyme:Prochlorococcus marinus MIT9313,12
+study_only,vC,6,enzyme:Synechococcus 6301,12
+study_only,vC,6,source:Greene 2007,12
+study_only,vC,6,source:Morell 1994,12
+study_only,vC,6,source:Mueller-Cajar 2008,12
+study_only,vC,6,source:Read 1992b,12
+study_only,vC,6,source:Read 1994,12
+study_only,vC,6,source:Shih 2016,12
+study_only,vC,7,enzyme:Methanococcoides burtonii,5
+study_only,vC,7,enzyme:Methanococcoides burtonii K332E,5
+study_only,vC,7,enzyme:Methanococcoides burtonii L2,5
+study_only,vC,7,source:Alonso 2009,5
+study_only,vC,7,source:Wilson 2016,5
+study_only,vC,8,enzyme:Pavlova lutheri,4
+study_only,vC,8,enzyme:Pleurochrysis carterae,4
+study_only,vC,8,enzyme:Tisochrysis lutea,4
+study_only,vC,8,source:Heureux 2017,4
+study_only,vC,9,enzyme:Rhodospirillum rubrum,4
+study_only,vC,9,source:Gutteridge 1984,4
+study_only,vC,9,source:Morell 1990,4
+study_only,vC,9,source:Mueller-Cajar 2007,4
+study_only,vC,10,enzyme:Acidithiobacillus ferrooxidans,3
+study_only,vC,10,enzyme:Rhodobacter sphaeroides I,3
+study_only,vC,10,source:Mueller-Cajar (personal),3
+study_only,vC,11,enzyme:Thiobacillus denitrificans IA,3
+study_only,vC,11,enzyme:Thiobacillus denitrificans II,3
+study_only,vC,11,source:Hernandez 1996,3
+study_only,vC,12,enzyme:Anacystis nidulans,2
+study_only,vC,12,source:Bainbridge 1995,2
+study_only,vC,13,enzyme:Cyanobium PCC7001,2
+study_only,vC,13,source:Long 2018,2
+study_only,vC,14,enzyme:Nicotiana tabacum L. cv. W38,2
+study_only,vC,14,source:von Caemmerer 1994,2
+study_only,vC,15,enzyme:Synechococcus 7002,2
+study_only,vC,15,source:Andrews 1985,2
+study_only,vC,16,enzyme:T. elongatus,2
+study_only,vC,16,source:Gubernator 2008,2
+study_only,vC,17,enzyme:Thermococcus kodakaraensis,2
+study_only,vC,17,source:Yoshida 2007,2

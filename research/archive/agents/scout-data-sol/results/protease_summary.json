@@ -1,0 +1,185 @@
+{
+  "original_DMS_rows": 413779,
+  "original_unique_enzyme_labels": 6199,
+  "original_unique_substrates": 163,
+  "modeled_rows_after_read_and_single_substitution_filters": 294557,
+  "modeled_enzyme_labels": 4411,
+  "modeled_substrates": 161,
+  "negative_control_rows": 467,
+  "negative_control_AUC_99th_percentile": 0.1367879999999998,
+  "negative_substrate_mean_AUC_min_max": [
+    0.041666666666666664,
+    0.25653333333333334
+  ],
+  "independent_vitro_matched_distinct_pairs": 802,
+  "portability": [
+    {
+      "enzyme_label": "0",
+      "n_distinct_substrates": 133,
+      "rho_raw_AUC_vs_initial_rate": 0.6984883225864469,
+      "rho_background_subtracted_vs_initial_rate": 0.7387074436956299,
+      "rho_background_vs_initial_rate": 0.02535251862237321
+    },
+    {
+      "enzyme_label": "NX1",
+      "n_distinct_substrates": 134,
+      "rho_raw_AUC_vs_initial_rate": 0.7154902392184199,
+      "rho_background_subtracted_vs_initial_rate": 0.7004319266644224,
+      "rho_background_vs_initial_rate": 0.13578148678921112
+    },
+    {
+      "enzyme_label": "NX2",
+      "n_distinct_substrates": 133,
+      "rho_raw_AUC_vs_initial_rate": 0.8155983871260699,
+      "rho_background_subtracted_vs_initial_rate": 0.8079238122443151,
+      "rho_background_vs_initial_rate": 0.14575402708190535
+    },
+    {
+      "enzyme_label": "VI",
+      "n_distinct_substrates": 134,
+      "rho_raw_AUC_vs_initial_rate": 0.7324150194795743,
+      "rho_background_subtracted_vs_initial_rate": 0.7697147588267151,
+      "rho_background_vs_initial_rate": 0.05479540880381565
+    },
+    {
+      "enzyme_label": "VI*",
+      "n_distinct_substrates": 134,
+      "rho_raw_AUC_vs_initial_rate": 0.6964960604168385,
+      "rho_background_subtracted_vs_initial_rate": 0.7072133068990887,
+      "rho_background_vs_initial_rate": 0.1371406483492912
+    },
+    {
+      "enzyme_label": "VII",
+      "n_distinct_substrates": 134,
+      "rho_raw_AUC_vs_initial_rate": 0.6197887703462306,
+      "rho_background_subtracted_vs_initial_rate": 0.6795546561276093,
+      "rho_background_vs_initial_rate": 0.08820584443756396
+    }
+  ],
+  "baseline_metrics": [
+    {
+      "split": "random_pairs",
+      "baseline": "global_mean",
+      "train_n": 235503,
+      "unseen_test_substrates": 0,
+      "lsqr_stop": null,
+      "n": 59054,
+      "RMSE_AUC": 0.022412042325600883,
+      "spearman": null,
+      "positive_fraction_audit_threshold": 0.011972093338300538,
+      "average_precision": 0.011972093338300538
+    },
+    {
+      "split": "random_pairs",
+      "baseline": "substrate_identity_mean",
+      "train_n": 235503,
+      "unseen_test_substrates": 0,
+      "lsqr_stop": null,
+      "n": 59054,
+      "RMSE_AUC": 0.018201736034570436,
+      "spearman": 0.5152923794059074,
+      "positive_fraction_audit_threshold": 0.011972093338300538,
+      "average_precision": 0.11595902863839852
+    },
+    {
+      "split": "random_pairs",
+      "baseline": "enzyme_identity_mean",
+      "train_n": 235503,
+      "unseen_test_substrates": 0,
+      "lsqr_stop": null,
+      "n": 59054,
+      "RMSE_AUC": 0.021024447564083833,
+      "spearman": 0.39088729124618327,
+      "positive_fraction_audit_threshold": 0.011972093338300538,
+      "average_precision": 0.03577940509868375
+    },
+    {
+      "split": "random_pairs",
+      "baseline": "additive_substrate_sequence_plus_enzyme",
+      "train_n": 235503,
+      "unseen_test_substrates": 0,
+      "lsqr_stop": 2,
+      "n": 59054,
+      "RMSE_AUC": 0.016713093061232517,
+      "spearman": 0.6435068366325236,
+      "positive_fraction_audit_threshold": 0.011972093338300538,
+      "average_precision": 0.2049462933720536
+    },
+    {
+      "split": "holdout_double_or_more_mutant_substrates",
+      "baseline": "global_mean",
+      "train_n": 284539,
+      "unseen_test_substrates": 27,
+      "lsqr_stop": null,
+      "n": 10018,
+      "RMSE_AUC": 0.02149683117483459,
+      "spearman": null,
+      "positive_fraction_audit_threshold": 0.02206029147534438,
+      "average_precision": 0.02206029147534438
+    },
+    {
+      "split": "holdout_double_or_more_mutant_substrates",
+      "baseline": "substrate_identity_mean",
+      "train_n": 284539,
+      "unseen_test_substrates": 27,
+      "lsqr_stop": null,
+      "n": 10018,
+      "RMSE_AUC": 0.02149683117483459,
+      "spearman": null,
+      "positive_fraction_audit_threshold": 0.02206029147534438,
+      "average_precision": 0.02206029147534438
+    },
+    {
+      "split": "holdout_double_or_more_mutant_substrates",
+      "baseline": "enzyme_identity_mean",
+      "train_n": 284539,
+      "unseen_test_substrates": 27,
+      "lsqr_stop": null,
+      "n": 10018,
+      "RMSE_AUC": 0.021047972423027746,
+      "spearman": 0.3298700511215695,
+      "positive_fraction_audit_threshold": 0.02206029147534438,
+      "average_precision": 0.03554678619769068
+    },
+    {
+      "split": "holdout_double_or_more_mutant_substrates",
+      "baseline": "additive_substrate_sequence_plus_enzyme",
+      "train_n": 284539,
+      "unseen_test_substrates": 27,
+      "lsqr_stop": 2,
+      "n": 10018,
+      "RMSE_AUC": 0.029063136668521193,
+      "spearman": 0.3557664354007874,
+      "positive_fraction_audit_threshold": 0.02206029147534438,
+      "average_precision": 0.018764184159272827
+    }
+  ],
+  "blocked_uncertainty": [
+    {
+      "split": "holdout_double_or_more_mutant_substrates",
+      "substrate_groups": 27,
+      "cluster_bootstrap_RMSE_additive_minus_global_CI95": [
+        0.0017086172017543057,
+        0.012519077914415824
+      ],
+      "test_rows_with_any_unseen_nonzero_feature": 0
+    }
+  ],
+  "published_benchmark_output_rows": 29040,
+  "published_benchmark_columns": [
+    "Model",
+    "A",
+    "B",
+    "AB",
+    "Metric",
+    "Value",
+    "Library"
+  ],
+  "caveats": [
+    "Recorder AUC is not kcat/Km or proof of endogenous protein cleavage.",
+    "In-vitro pairs are selected validation constructs; portability is not an unbiased prospective success rate.",
+    "Simple baselines and alternative control-quantile labels differ from the authors MLDEEP evaluation; no SOTA ranking claimed.",
+    "The double-substrate split tests local combinatorial extrapolation, not arbitrary substrate or enzyme generalization.",
+    "No biological replicate variance estimated from the one-record-per-pair screen."
+  ]
+}

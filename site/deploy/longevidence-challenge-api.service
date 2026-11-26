@@ -1,0 +1,28 @@
+[Unit]
+Description=Longevidence Challenge submission service
+After=network.target
+
+[Service]
+User=lcapi
+Group=lcapi
+ExecStart=/usr/bin/python3 /opt/longevidence-challenge/api/server.py
+Environment=LC_DB=/var/lib/longevidence-challenge/challenge.db
+Environment=LC_TASKS_DIR=/opt/longevidence-challenge/challenge/tasks
+Environment=LC_PORT=8790
+Environment=LC_BASE=https://longevidence.org
+StateDirectory=longevidence-challenge
+StateDirectoryMode=0750
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+MemoryMax=256M
+
+[Install]
+WantedBy=multi-user.target

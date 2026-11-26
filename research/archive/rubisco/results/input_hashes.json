@@ -1,0 +1,5 @@
+{
+  "sources/rubisco-active-learning/supplementary/doubling_time_package_v2/inputs/flamholz_dataset_S1.csv": "586f57382c3f490becd2e76196ba72f8fe769a851f8b80b3adc1b5dca9085fb0",
+  "sources/rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt_meta.csv": "63b11839029cc6d7a840eac522b715875e0d0ba26d8940a9f4ce0bfd0dee5f50",
+  "sources/rubisco-active-learning/supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt.fasta": "96dddd017120ed9f0f34303cb9326a7887f4b15163bc8f6ad6dcabe410425140"
+}

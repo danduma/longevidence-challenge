@@ -1,0 +1,42 @@
+{
+  "runs": [
+    {
+      "script": "scripts/analyze_rubisco.py",
+      "exit_code": 0,
+      "elapsed_seconds": 3.51
+    },
+    {
+      "script": "scripts/apply_bibliographic_overlay.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.51
+    },
+    {
+      "script": "scripts/analyze_protease.py",
+      "exit_code": 0,
+      "elapsed_seconds": 3.73
+    },
+    {
+      "script": "scripts/analyze_regeneration.py",
+      "exit_code": 0,
+      "elapsed_seconds": 3.38
+    },
+    {
+      "script": "scripts/rank_challenges.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.34
+    }
+  ],
+  "before_hashes": {
+    "results/rubisco_summary.json": "acbd0b6543a515d08d120168707d6ddf29188fa97554938f6b519ad130dbeef5",
+    "results/protease_summary.json": "2a91f9689506f562a708a88febbbfd09adeea29f1ff2f8b9ff791f4c908ac302",
+    "results/regeneration_summary.json": "18756f862730c686c7bf432762539b9e86669b98aaea77ea8382c15f37bb8f7a",
+    "results/challenge_ranking.csv": "32df2a2ccb3188e04dc0acc5ed22a13ad918d9587d98ef3ccf2c466fd6107d7b"
+  },
+  "after_hashes": {
+    "results/rubisco_summary.json": "acbd0b6543a515d08d120168707d6ddf29188fa97554938f6b519ad130dbeef5",
+    "results/protease_summary.json": "2a91f9689506f562a708a88febbbfd09adeea29f1ff2f8b9ff791f4c908ac302",
+    "results/regeneration_summary.json": "18756f862730c686c7bf432762539b9e86669b98aaea77ea8382c15f37bb8f7a",
+    "results/challenge_ranking.csv": "32df2a2ccb3188e04dc0acc5ed22a13ad918d9587d98ef3ccf2c466fd6107d7b"
+  },
+  "identical_selected_outputs": true
+}

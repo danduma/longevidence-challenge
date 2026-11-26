@@ -1,0 +1,1184 @@
+mode,trait,enzyme,source,study,value,members,n_rows,pH,expression
+condition,S,Aegilops biuncialis,Prins 2016 | pH=8.2,Prins 2016,96.3,2019:row455:S,1,8.2,False
+condition,S,Aegilops comosa,Prins 2016 | pH=8.2,Prins 2016,105.79999999999998,2019:row444:S,1,8.2,False
+condition,S,Aegilops cylindrica,Prins 2016 | pH=8.2,Prins 2016,108.89999999999998,2019:row441:S,1,8.2,False
+condition,S,Aegilops juvenalis,Prins 2016 | pH=8.2,Prins 2016,90.40000000000002,2019:row465:S,1,8.2,False
+condition,S,Aegilops speltoides,Prins 2016 | pH=8.2,Prins 2016,102.30000000000003,2019:row447:S,1,8.2,False
+condition,S,Aegilops tauschii,Prins 2016 | pH=8.2,Prins 2016,106.69999999999999,2019:row443:S,1,8.2,False
+condition,S,Aegilops triuncialis,Prins 2016 | pH=8.2,Prins 2016,102.70000000000002,2019:row446:S,1,8.2,False
+condition,S,Aegilops uniaristata,Prins 2016 | pH=8.2,Prins 2016,101.69999999999997,2019:row450:S,1,8.2,False
+condition,S,Aegilops vavilovii,Prins 2016 | pH=8.2,Prins 2016,108.7,2019:row442:S,1,8.2,False
+condition,S,Agriophyllum squarrosum,Orr 2016 | pH=8.2,Orr 2016,93.89999999999998,2019:row349:S,1,8.2,False
+condition,S,Agrostis scabra,Orr 2016 | pH=8.2,Orr 2016,103.39999999999998,2019:row316:S,1,8.2,False
+condition,S,Agrostis stolonifera,Orr 2016 | pH=8.2,Orr 2016,104.99999999999997,2019:row308:S,1,8.2,False
+condition,S,Allochromatium vinosum,Jordan 1985 | pH=8,Jordan 1985,41.00000000000001,2019:row216:S,1,8,False
+condition,S,Allochromatium vinosum,Uemura 1997 | pH=8,Uemura 1997,44.400000000000006,2019:row572:S,1,8,False
+condition,S,Amaranthus edulis,Kubien 2008 | pH=8,Kubien 2008,77.5,2019:row242:S,1,8,False
+condition,S,Amaranthus hybridus,Jordan 1981 | pH=8.3,Jordan 1981,82.00000000000001,2019:row176:S,1,8.3,False
+condition,S,Amaranthus hybridus,Jordan 1984 | pH=8.2,Jordan 1984,78.0,2019:row208:S,1,8.2,False
+condition,S,Amphicarpaea bracteata,Orr 2016 | pH=8.2,Orr 2016,97.49999999999999,2019:row339:S,1,8.2,False
+condition,S,Anacystis nidulans,Bainbridge 1995 | pH=8,Bainbridge 1995,46.29999999999999,2019:row43:S,1,8,Unclear
+condition,S,Aphanizomenon flos aquae,Jordan 1981 | pH=8.3,Jordan 1981,48.00000000000001,2019:row184:S,1,8.3,False
+condition,S,Aphanocapsa alpicola,Jordan 1983 | pH=8.3,Jordan 1983,48.00000000000001,2019:row199:S,1,8.3,False
+condition,S,Arabidopsis thaliana cv. Columbia,Walker 2013 | pH=unknown,Walker 2013,104.89999999999998,2019:row580:S,1,unknown,False
+condition,S,Arctagrostis latifolia,Orr 2016 | pH=8.2,Orr 2016,104.69999999999999,2019:row311:S,1,8.2,False
+condition,S,Artemisia myriantha,Orr 2016 | pH=8.2,Orr 2016,109.60000000000002,2019:row287:S,1,8.2,False
+condition,S,Artemisia vulgaris L.,Orr 2016 | pH=8.2,Orr 2016,104.79999999999997,2019:row309:S,1,8.2,False
+condition,S,Avena sativa,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,99.90000000000002,2019:row133:S,1,8.2,False
+condition,S,B. distachyon,Prins 2016 | pH=8.2,Prins 2016,110.99999999999997,2019:row440:S,1,8.2,False
+condition,S,Beta maritima ssp. marcosii,Galmes 2005 | pH=8.2,Galmes 2005,96.3,2019:row65:S,1,8.2,False
+condition,S,Beta maritima ssp. maritima,Galmes 2005 | pH=8.2,Galmes 2005,92.90000000000003,2019:row71:S,1,8.2,False
+condition,S,Beta vulgaris,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,100.8,2019:row130:S,1,8.2,False
+condition,S,Beta vulgarisssp.vulgaris,Orr 2016 | pH=8.2,Orr 2016,97.80000000000001,2019:row336:S,1,8.2,False
+condition,S,Brassica oleracea,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,96.19999999999997,2019:row141:S,1,8.2,False
+condition,S,Bromus anomalus,Orr 2016 | pH=8.2,Orr 2016,101.40000000000002,2019:row319:S,1,8.2,False
+condition,S,C. dactylon,Carmo-Silva 2010 | pH=8.2,Carmo-Silva 2010,89.2,2019:row51:S,1,8.2,False
+condition,S,C. fusiformis,Read 1994 | pH=8,Read 1994,110.8,2019:row476:S,1,8,False
+condition,S,Calamagrostis arundinacea,Orr 2016 | pH=8.2,Orr 2016,103.79999999999997,2019:row314:S,1,8.2,False
+condition,S,Calamagrostis canescens,Orr 2016 | pH=8.2,Orr 2016,98.49999999999999,2019:row334:S,1,8.2,False
+condition,S,Calamagrostis foliosa,Orr 2016 | pH=8.2,Orr 2016,104.79999999999997,2019:row310:S,1,8.2,False
+condition,S,Calamagrostis inexpansa,Orr 2016 | pH=8.2,Orr 2016,110.60000000000001,2019:row286:S,1,8.2,False
+condition,S,Calamagrostis nutkaensis,Orr 2016 | pH=8.2,Orr 2016,108.59999999999997,2019:row291:S,1,8.2,False
+condition,S,Capsicum annuum,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,95.99999999999999,2019:row142:S,1,8.2,False
+condition,S,Cenchrus ciliaris,Sharwood 2016 | pH=8.16,Sharwood 2016,69.89999999999998,2019:row536:S,1,8.16,False
+condition,S,Chaetoceros calcitrans (CCMP 1315),Young 2016 | pH=8,Young 2016,57.00000000000001,2019:row627:S,1,8,False
+condition,S,Chaetoceros calcitrans (CS-178),Young 2016 | pH=8,Young 2016,74.99999999999997,2019:row626:S,1,8,False
+condition,S,Chaetoceros muelleri (CCMP 1316),Young 2016 | pH=8,Young 2016,95.99999999999999,2019:row621:S,1,8,False
+condition,S,Chaetoceros socialis,Haslam 2005 | pH=8.2,Haslam 2005,92.00000000000001,2019:row127:S,1,8.2,False
+condition,S,Chenopodium alba,Kubien 2008 | pH=8,Kubien 2008,78.69999999999997,2019:row238:S,1,8,False
+condition,S,Chenopodium murale,Orr 2016 | pH=8.2,Orr 2016,108.89999999999998,2019:row288:S,1,8.2,False
+condition,S,Chenopodium petiolare,Orr 2016 | pH=8.2,Orr 2016,98.49999999999999,2019:row335:S,1,8.2,False
+condition,S,Chenopodium rubrum,Orr 2016 | pH=8.2,Orr 2016,97.80000000000001,2019:row337:S,1,8.2,False
+condition,S,Chlamydomonas reinhardtii,Jordan 1981 | pH=8.3,Jordan 1981,61.00000000000001,2019:row182:S,1,8.3,False
+condition,S,Chlamydomonas reinhardtii,Uemura 1996 | pH=8.3,Uemura 1996,70.5,2019:row564:S,1,8.3,False
+condition,S,Chromatium vinosum,Uemura 1996 | pH=8.3,Uemura 1996,44.400000000000006,2019:row567:S,1,8.3,E. coli
+condition,S,Chrysanthellum indicum var. afroamericanum,Orr 2016 | pH=8.2,Orr 2016,82.4,2019:row358:S,1,8.2,False
+condition,S,Citrullus ecirrhosus,Orr 2016 | pH=8.2,Orr 2016,99.90000000000002,2019:row329:S,1,8.2,False
+condition,S,Citrullus lanatus var. lanatus,Orr 2016 | pH=8.2,Orr 2016,106.89999999999996,2019:row296:S,1,8.2,False
+condition,S,Coccochloris peniocystis,Jordan 1981 | pH=8.3,Jordan 1981,46.99999999999999,2019:row185:S,1,8.3,False
+condition,S,Coffee arabica,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,98.7,2019:row136:S,1,8.2,False
+condition,S,Cucurbita maxima,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,98.39999999999996,2019:row138:S,1,8.2,False
+condition,S,Cyanidium caldarium,Uemura 1997 | pH=8,Uemura 1997,224.5999999999999,2019:row569:S,1,8,False
+condition,S,Cyanobium PCC7001,Long 2018 | pH=8,Long 2018,55.000000000000014,2019:row257:S,1,8,Tobacco
+condition,S,Cylindrotheca N1,Read 1992b | pH=8,Read 1992b,107.09999999999998,2019:row472:S,1,8,False
+condition,S,Cylindrotheca N1,Read 1994 | pH=8,Read 1994,105.59999999999998,2019:row482:S,1,8,False
+condition,S,Cylindrotheca fusiformis (CS-13),Young 2016 | pH=8,Young 2016,79.0,2019:row624:S,1,8,False
+condition,S,Deschampsia danthonioides,Orr 2016 | pH=8.2,Orr 2016,107.89999999999996,2019:row293:S,1,8.2,False
+condition,S,Desmodium cinereum,Orr 2016 | pH=8.2,Orr 2016,97.49999999999999,2019:row340:S,1,8.2,False
+condition,S,Desmodium intortum,Orr 2016 | pH=8.2,Orr 2016,98.7,2019:row333:S,1,8.2,False
+condition,S,Desmodium psilocarpum,Orr 2016 | pH=8.2,Orr 2016,95.9,2019:row346:S,1,8.2,False
+condition,S,Diplotaxis ibicensis,Galmes 2005 | pH=8.2,Galmes 2005,95.60000000000002,2019:row66:S,1,8.2,False
+condition,S,Echinochloa crus-galli,Jordan 1983 | pH=8.3,Jordan 1983,83.00000000000003,2019:row188:S,1,8.3,False
+condition,S,Elymus farctus,Orr 2016 | pH=8.2,Orr 2016,105.99999999999997,2019:row301:S,1,8.2,False
+condition,S,Eragrostis tef,Orr 2016 | pH=8.2,Orr 2016,88.99999999999999,2019:row356:S,1,8.2,False
+condition,S,Erythrina flabelliformis,Orr 2016 | pH=8.2,Orr 2016,96.39999999999998,2019:row344:S,1,8.2,False
+condition,S,Euglena gracilis,Jordan 1981 | pH=8.3,Jordan 1981,54.00000000000001,2019:row183:S,1,8.3,False
+condition,S,Euphorbia helioscopia,Orr 2016 | pH=8.2,Orr 2016,96.80000000000003,2019:row342:S,1,8.2,False
+condition,S,Euphorbia microsphaera,Orr 2016 | pH=8.2,Orr 2016,99.69999999999997,2019:row331:S,1,8.2,False
+condition,S,Festuca gigantea,Orr 2016 | pH=8.2,Orr 2016,108.00000000000003,2019:row292:S,1,8.2,False
+condition,S,Festuca pratensis,Orr 2016 | pH=8.2,Orr 2016,105.5,2019:row304:S,1,8.2,False
+condition,S,Flaveria angustifolia,Kubien 2008 | pH=8,Kubien 2008,83.19999999999999,2019:row232:S,1,8,False
+condition,S,Flaveria angustifolia,Perdomo 2015 | pH=unknown,Perdomo 2015,90.40000000000002,2019:row434:S,1,unknown,False
+condition,S,Flaveria anomala,Kubien 2008 | pH=8,Kubien 2008,77.89999999999998,2019:row241:S,1,8,False
+condition,S,Flaveria australasica,Kubien 2008 | pH=8,Kubien 2008,77.2,2019:row243:S,1,8,False
+condition,S,Flaveria bidentis,Kubien 2008 | pH=8,Kubien 2008,75.49999999999999,2019:row246:S,1,8,False
+condition,S,Flaveria bidentis,Perdomo 2015 | pH=unknown,Perdomo 2015,79.99999999999997,2019:row438:S,1,unknown,False
+condition,S,Flaveria bidentis,Whitney 2011 | pH=8,Whitney 2011,81.00000000000003,2019:row588:S,1,8,False
+condition,S,Flaveria brownii,Kubien 2008 | pH=8,Kubien 2008,83.79999999999997,2019:row230:S,1,8,False
+condition,S,Flaveria chloraefolia,Kubien 2008 | pH=8,Kubien 2008,81.59999999999997,2019:row233:S,1,8,False
+condition,S,Flaveria cronquistii,Kubien 2008 | pH=8,Kubien 2008,81.00000000000003,2019:row234:S,1,8,False
+condition,S,Flaveria cronquistii,Perdomo 2015 | pH=unknown,Perdomo 2015,88.19999999999999,2019:row436:S,1,unknown,False
+condition,S,Flaveria floridana,Kubien 2008 | pH=8,Kubien 2008,84.5,2019:row228:S,1,8,False
+condition,S,Flaveria floridana,Perdomo 2015 | pH=unknown,Perdomo 2015,84.29999999999998,2019:row437:S,1,unknown,False
+condition,S,Flaveria floridana,Whitney 2011 | pH=8,Whitney 2011,82.00000000000001,2019:row586:S,1,8,False
+condition,S,Flaveria kochiana,Kubien 2008 | pH=8,Kubien 2008,77.00000000000001,2019:row245:S,1,8,False
+condition,S,Flaveria linearis,Kubien 2008 | pH=8,Kubien 2008,78.1,2019:row240:S,1,8,False
+condition,S,Flaveria palmeri,Kubien 2008 | pH=8,Kubien 2008,83.79999999999997,2019:row231:S,1,8,False
+condition,S,Flaveria pringlei,Kubien 2008 | pH=8,Kubien 2008,80.80000000000003,2019:row235:S,1,8,False
+condition,S,Flaveria pringlei,Perdomo 2015 | pH=unknown,Perdomo 2015,90.09999999999997,2019:row435:S,1,unknown,False
+condition,S,Flaveria pringlei,Whitney 2011 | pH=8,Whitney 2011,81.00000000000003,2019:row587:S,1,8,False
+condition,S,Flaveria pringlei,Zhu 1998 | pH=8,Zhu 1998,101.99999999999996,2019:row632:S,1,8,False
+condition,S,Flaveria ramosissima,Kubien 2008 | pH=8,Kubien 2008,79.80000000000001,2019:row236:S,1,8,False
+condition,S,Flaveria sonorensis,Kubien 2008 | pH=8,Kubien 2008,84.29999999999998,2019:row229:S,1,8,False
+condition,S,Flaveria trinervia,Kubien 2008 | pH=8,Kubien 2008,77.00000000000001,2019:row244:S,1,8,False
+condition,S,Flaveria trinervia,Perdomo 2015 | pH=unknown,Perdomo 2015,78.30000000000003,2019:row439:S,1,unknown,False
+condition,S,Flaveria vaginata,Kubien 2008 | pH=8,Kubien 2008,78.69999999999997,2019:row239:S,1,8,False
+condition,S,Flueggea suffruticosa,Orr 2016 | pH=8.2,Orr 2016,101.00000000000003,2019:row322:S,1,8.2,False
+condition,S,Foeniculum vulgare,Orr 2016 | pH=8.2,Orr 2016,94.3,2019:row348:S,1,8.2,False
+condition,S,Fragilariopsis cylindrus (CCMP 1102),Young 2016 | pH=8,Young 2016,77.00000000000001,2019:row625:S,1,8,False
+condition,S,Galdieria partita Tokara,Uemura 1997 | pH=8,Uemura 1997,238.09999999999988,2019:row568:S,1,8,False
+condition,S,Galdieria sulfuraria,Whitney 2001 | pH=8,Whitney 2001,166.00000000000006,2019:row583:S,1,8,False
+condition,S,Glycine canescens,Orr 2016 | pH=8.2,Orr 2016,97.10000000000001,2019:row341:S,1,8.2,False
+condition,S,Glycine max,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,97.0,2019:row139:S,1,8.2,False
+condition,S,Glycine max,Jordan 1981 | pH=8.3,Jordan 1981,82.00000000000001,2019:row175:S,1,8.3,False
+condition,S,Glycine max,Orr 2016 | pH=8.2,Orr 2016,99.59999999999997,2019:row332:S,1,8.2,False
+condition,S,Griffithsia monilis,Whitney 2001 | pH=8,Whitney 2001,167.00000000000006,2019:row582:S,1,8,False
+condition,S,H. vulgare cv. Lenins,Prins 2016 | pH=8.2,Prins 2016,101.99999999999996,2019:row448:S,1,8.2,False
+condition,S,Helianthus annuus L.,Viil 2012 | pH=unknown,Viil 2012,73.60000000000001,2019:row577:S,1,unknown,False
+condition,S,Helianthus maximus,Jordan 1983 | pH=8.3,Jordan 1983,77.00000000000001,2019:row192:S,1,8.3,False
+condition,S,Hordeum brachyantherum,Orr 2016 | pH=8.2,Orr 2016,101.2,2019:row320:S,1,8.2,False
+condition,S,Hordeum murinum,Orr 2016 | pH=8.2,Orr 2016,100.30000000000001,2019:row327:S,1,8.2,False
+condition,S,Hordeum vulgare L.,Viil 2012 | pH=unknown,Viil 2012,86.89999999999999,2019:row574:S,1,unknown,False
+condition,S,Hordeum vulgare cv. Stirling,Kane 1994 | pH=8.3,Kane 1994,86.80000000000001,2019:row219:S,1,8.3,False
+condition,S,Hordeum vulgare ssp. vulgare cv. Morex,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,99.20000000000003,2019:row135:S,1,8.2,False
+condition,S,Hypericum balearicum,Galmes 2005 | pH=8.2,Galmes 2005,93.60000000000002,2019:row70:S,1,8.2,False
+condition,S,Ipomoea batatas,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,98.49999999999999,2019:row137:S,1,8.2,False
+condition,S,Kundmannia sicula,Galmes 2005 | pH=8.2,Galmes 2005,89.2,2019:row73:S,1,8.2,False
+condition,S,Lablab purpureus,Orr 2016 | pH=8.2,Orr 2016,91.09999999999997,2019:row354:S,1,8.2,False
+condition,S,Lactua sativa,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,94.0,2019:row145:S,1,8.2,False
+condition,S,Lepidium campestre,Orr 2016 | pH=8.2,Orr 2016,92.8,2019:row351:S,1,8.2,False
+condition,S,Limonium antonii‐llorensii,Galmes 2014a | pH=8,Galmes 2014a,112.09999999999998,2019:row79:S,1,8,False
+condition,S,Limonium artruchium,Galmes 2014a | pH=8,Galmes 2014a,112.80000000000003,2019:row78:S,1,8,False
+condition,S,Limonium balearicum,Galmes 2014a | pH=8,Galmes 2014a,103.29999999999998,2019:row87:S,1,8,False
+condition,S,Limonium barceloi,Galmes 2014a | pH=8,Galmes 2014a,106.29999999999995,2019:row86:S,1,8,False
+condition,S,Limonium biflorum,Galmes 2014a | pH=8,Galmes 2014a,111.90000000000005,2019:row81:S,1,8,False
+condition,S,Limonium companyonis,Galmes 2014a | pH=8,Galmes 2014a,111.79999999999998,2019:row82:S,1,8,False
+condition,S,Limonium echioides,Galmes 2014a | pH=8,Galmes 2014a,106.4,2019:row85:S,1,8,False
+condition,S,Limonium ejulabilis,Galmes 2014a | pH=8,Galmes 2014a,115.99999999999999,2019:row76:S,1,8,False
+condition,S,Limonium gibertii,Galmes 2005 | pH=8.2,Galmes 2005,110.50000000000004,2019:row60:S,1,8.2,False
+condition,S,Limonium gibertii,Galmes 2014a | pH=8,Galmes 2014a,112.09999999999998,2019:row80:S,1,8,False
+condition,S,Limonium grosii,Galmes 2014a | pH=8,Galmes 2014a,113.2,2019:row77:S,1,8,False
+condition,S,Limonium gymnesicum,Galmes 2014a | pH=8,Galmes 2014a,121.19999999999995,2019:row74:S,1,8,False
+condition,S,Limonium leonardi‐llorensii,Galmes 2014a | pH=8,Galmes 2014a,109.70000000000005,2019:row84:S,1,8,False
+condition,S,Limonium magallufianum,Galmes 2005 | pH=8.2,Galmes 2005,106.09999999999995,2019:row61:S,1,8.2,False
+condition,S,Limonium magallufianum,Galmes 2014a | pH=8,Galmes 2014a,110.60000000000001,2019:row83:S,1,8,False
+condition,S,Limonium retusum,Galmes 2014a | pH=8,Galmes 2014a,121.00000000000003,2019:row75:S,1,8,False
+condition,S,Lolium multiflorum,Orr 2016 | pH=8.2,Orr 2016,99.90000000000002,2019:row330:S,1,8.2,False
+condition,S,Lolium perenne,Jordan 1981 | pH=8.3,Jordan 1981,79.99999999999997,2019:row178:S,1,8.3,False
+condition,S,Lolium rigidum,Orr 2016 | pH=8.2,Orr 2016,100.49999999999999,2019:row326:S,1,8.2,False
+condition,S,Lycopersicon ensculentum,Jordan 1983 | pH=8.3,Jordan 1983,82.00000000000001,2019:row189:S,1,8.3,False
+condition,S,Lysimachia minoricensis,Galmes 2005 | pH=8.2,Galmes 2005,93.79999999999997,2019:row69:S,1,8.2,False
+condition,S,Macrotyloma uniflorum,Orr 2016 | pH=8.2,Orr 2016,101.00000000000003,2019:row323:S,1,8.2,False
+condition,S,Manihot esculenta,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,100.8,2019:row131:S,1,8.2,False
+condition,S,Manihot esculenta,Orr 2016 | pH=8.2,Orr 2016,105.39999999999999,2019:row305:S,1,8.2,False
+condition,S,Medicago sativa,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,95.60000000000002,2019:row143:S,1,8.2,False
+condition,S,Medicago sativa,Jordan 1983 | pH=8.3,Jordan 1983,77.00000000000001,2019:row194:S,1,8.3,False
+condition,S,Megathyrsus maximus,Sharwood 2016 | pH=8.16,Sharwood 2016,80.29999999999998,2019:row530:S,1,8.16,False
+condition,S,Mentha aquatica,Galmes 2005 | pH=8.2,Galmes 2005,97.19999999999997,2019:row63:S,1,8.2,False
+condition,S,Mercurialis annua,Orr 2016 | pH=8.2,Orr 2016,95.69999999999999,2019:row347:S,1,8.2,False
+condition,S,Methanococcoides burtonii,Alonso 2009 | pH=7,Alonso 2009,1.1598275733918382,2019:row3:S;2019:row4:S,2,7,E. coli;Tobacco
+condition,S,Methanococcoides burtonii,Wilson 2016 | pH=7.2 or 8.0,Wilson 2016,1.3,2019:row590:S,1,7.2 or 8.0,Tobacco
+condition,S,Methanococcoides burtonii K332E,Wilson 2016 | pH=7.2 or 8.0,Wilson 2016,1.3,2019:row591:S,1,7.2 or 8.0,Tobacco
+condition,S,Methanococcoides burtonii L2,Alonso 2009 | pH=7,Alonso 2009,1.08,2019:row5:S,1,7,E. coli
+condition,S,Musa velutina,Orr 2016 | pH=8.2,Orr 2016,111.4,2019:row285:S,1,8.2,False
+condition,S,Nicotiana glauca Grah.,Viil 2012 | pH=unknown,Viil 2012,73.70000000000003,2019:row576:S,1,unknown,False
+condition,S,Nicotiana tabacum,Kane 1994 | pH=8.3,Kane 1994,81.9,2019:row222:S,1,8.3,False
+condition,S,Nicotiana tabacum,Occhialini 2015 | pH=8.1,Occhialini 2015,91.20000000000002,2019:row282:S,1,8.1,False
+condition,S,Nicotiana tabacum,Sharwood 2016 | pH=8.16,Sharwood 2016,82.60000000000002,2019:row527:S,1,8.16,False
+condition,S,Nicotiana tabacum,Uemura 1996 | pH=8.3,Uemura 1996,92.14510296266424,2019:row560:S;2019:row562:S,2,8.3,False
+condition,S,Nicotiana tabacum,Walker 2013 | pH=unknown,Walker 2013,94.19999999999999,2019:row581:S,1,unknown,False
+condition,S,Nicotiana tabacum,Whitney 2001 | pH=8,Whitney 2001,82.00000000000001,2019:row585:S,1,8,False
+condition,S,Nicotiana tabacum L. cv. W38,von Caemmerer 1994 | pH=unknown,von Caemmerer 1994,99.72462083156799,2019:row578:S;2019:row579:S,2,unknown,False
+condition,S,Nicotiana tabacum cv. PH,Orr 2016 | pH=8.2,Orr 2016,96.39999999999998,2019:row343:S,1,8.2,False
+condition,S,Olisthodiscus luteus,Read 1994 | pH=8,Read 1994,100.49999999999999,2019:row483:S,1,8,False
+condition,S,Oryza barthii/glaberrima,Orr 2016 | pH=8.2,Orr 2016,106.89999999999996,2019:row297:S,1,8.2,False
+condition,S,Oryza eichingeri,Orr 2016 | pH=8.2,Orr 2016,107.29999999999998,2019:row295:S,1,8.2,False
+condition,S,Oryza glaberrima (WAB 1939),Orr 2016 | pH=8.2,Orr 2016,104.69999999999999,2019:row312:S,1,8.2,False
+condition,S,Oryza glumaepatula,Orr 2016 | pH=8.2,Orr 2016,108.80000000000004,2019:row289:S,1,8.2,False
+condition,S,Oryza longistaminata,Orr 2016 | pH=8.2,Orr 2016,107.80000000000003,2019:row294:S,1,8.2,False
+condition,S,Oryza meridionalis,Orr 2016 | pH=8.2,Orr 2016,106.80000000000001,2019:row298:S,1,8.2,False
+condition,S,Oryza nivara,Orr 2016 | pH=8.2,Orr 2016,106.80000000000001,2019:row299:S,1,8.2,False
+condition,S,Oryza punctata,Orr 2016 | pH=8.2,Orr 2016,108.7,2019:row290:S,1,8.2,False
+condition,S,Oryza punctata Kotschy,Kane 1994 | pH=8.3,Kane 1994,85.00000000000001,2019:row220:S,1,8.3,False
+condition,S,Oryza sativa,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,93.1,2019:row146:S,1,8.2,False
+condition,S,Oryza sativa ssp.Indicacv.Icasulum,Orr 2016 | pH=8.2,Orr 2016,101.00000000000003,2019:row324:S,1,8.2,False
+condition,S,Oryza sativa ssp.Japonicacv.Nipponbare,Orr 2016 | pH=8.2,Orr 2016,105.59999999999998,2019:row302:S,1,8.2,False
+condition,S,P. dilatatum,Carmo-Silva 2010 | pH=8.2,Carmo-Silva 2010,88.00000000000003,2019:row52:S,1,8.2,False
+condition,S,Panicum amarum,Orr 2016 | pH=8.2,Orr 2016,89.49999999999999,2019:row355:S,1,8.2,False
+condition,S,Panicum antidotale,Sharwood 2016 | pH=8.16,Sharwood 2016,74.5,2019:row534:S,1,8.16,False
+condition,S,Panicum bisulcatum,Sharwood 2016 | pH=8.16,Sharwood 2016,87.69999999999997,2019:row524:S,1,8.16,False
+condition,S,Panicum coloratum,Sharwood 2016 | pH=8.16,Sharwood 2016,84.79999999999998,2019:row525:S,1,8.16,False
+condition,S,Panicum deustum,Sharwood 2016 | pH=8.16,Sharwood 2016,84.79999999999998,2019:row526:S,1,8.16,False
+condition,S,Panicum dichotomiflorum,Orr 2016 | pH=8.2,Orr 2016,92.6,2019:row352:S,1,8.2,False
+condition,S,Panicum miliodes,Jordan 1983 | pH=8.3,Jordan 1983,76.0,2019:row195:S,1,8.3,False
+condition,S,Panicum milioides,Sharwood 2016 | pH=8.16,Sharwood 2016,92.30000000000003,2019:row522:S,1,8.16,False
+condition,S,Panicum milliaceum,Sharwood 2016 | pH=8.16,Sharwood 2016,79.89999999999998,2019:row531:S,1,8.16,False
+condition,S,Panicum monticola,Sharwood 2016 | pH=8.16,Sharwood 2016,79.40000000000002,2019:row532:S,1,8.16,False
+condition,S,Panicum phragmitoides,Orr 2016 | pH=8.2,Orr 2016,106.59999999999995,2019:row300:S,1,8.2,False
+condition,S,Panicum virgatum,Sharwood 2016 | pH=8.16,Sharwood 2016,82.60000000000002,2019:row528:S,1,8.16,False
+condition,S,Pavlova lutheri,Heureux 2017 | pH=8.16,Heureux 2017,125.00000000000004,2019:row172:S,1,8.16,False
+condition,S,Petroselinum cripsum,Jordan 1983 | pH=8.3,Jordan 1983,77.00000000000001,2019:row193:S,1,8.3,False
+condition,S,Phaeodactylum tricornutum,Whitney 2001 | pH=8,Whitney 2001,113.00000000000003,2019:row584:S,1,8,False
+condition,S,Phaeodactylum tricornutum (CS-29),Young 2016 | pH=8,Young 2016,115.99999999999999,2019:row619:S,1,8,False
+condition,S,Phaeodactylum tricornutum (UTEX 642),Young 2016 | pH=8,Young 2016,108.00000000000003,2019:row620:S,1,8,False
+condition,S,Phaseolus carteri,Orr 2016 | pH=8.2,Orr 2016,84.5,2019:row357:S,1,8.2,False
+condition,S,Phaseolus coccineus,Orr 2016 | pH=8.2,Orr 2016,103.59999999999995,2019:row315:S,1,8.2,False
+condition,S,Phaseolus lunatus,Orr 2016 | pH=8.2,Orr 2016,101.2,2019:row321:S,1,8.2,False
+condition,S,Phaseolus vulgaris,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,99.69999999999997,2019:row134:S,1,8.2,False
+condition,S,Phaseolus vulgaris,Orr 2016 | pH=8.2,Orr 2016,105.29999999999997,2019:row307:S,1,8.2,False
+condition,S,Pistacia lentiscus,Galmes 2005 | pH=8.2,Galmes 2005,97.19999999999997,2019:row64:S,1,8.2,False
+condition,S,Pisum sativum,Uemura 1996 | pH=8.3,Uemura 1996,90.20000000000002,2019:row563:S,1,8.3,False
+condition,S,Plantago lanceolata L.,Viil 2012 | pH=unknown,Viil 2012,77.30000000000001,2019:row575:S,1,unknown,False
+condition,S,Plectonema boryanum,Jordan 1983 | pH=8.3,Jordan 1983,54.00000000000001,2019:row198:S,1,8.3,False
+condition,S,Pleurochrysis carterae,Heureux 2017 | pH=8.16,Heureux 2017,101.99999999999996,2019:row173:S,1,8.16,False
+condition,S,Poa palustris,Orr 2016 | pH=8.2,Orr 2016,111.5,2019:row284:S,1,8.2,False
+condition,S,Polypodium aureum,Jordan 1983 | pH=8.3,Jordan 1983,82.00000000000001,2019:row190:S,1,8.3,False
+condition,S,Porphyra yezoensis,Uemura 1996 | pH=8.3,Uemura 1996,144.89999999999995,2019:row557:S,1,8.3,False
+condition,S,Porphyridium cruenteum,Read 1994 | pH=8,Read 1994,128.8,2019:row475:S,1,8,False
+condition,S,Porphyridium purpureum,Uemura 1997 | pH=8,Uemura 1997,143.50000000000003,2019:row570:S,1,8,False
+condition,S,Potulaca oleraca,Jordan 1983 | pH=8.3,Jordan 1983,78.0,2019:row191:S,1,8.3,False
+condition,S,Prochlorococcus marinus MIT9313,Shih 2016 | pH=8,Shih 2016,59.899999999999984,2019:row552:S,1,8,E. coli
+condition,S,Puccinellia distans,Orr 2016 | pH=8.2,Orr 2016,104.10000000000002,2019:row313:S,1,8.2,False
+condition,S,Puccinellia lemmonii,Orr 2016 | pH=8.2,Orr 2016,101.49999999999997,2019:row318:S,1,8.2,False
+condition,S,Puccinellia maritima,Orr 2016 | pH=8.2,Orr 2016,105.59999999999998,2019:row303:S,1,8.2,False
+condition,S,Puccinellia nuttalliana,Orr 2016 | pH=8.2,Orr 2016,105.39999999999999,2019:row306:S,1,8.2,False
+condition,S,Pueraria montana,Orr 2016 | pH=8.2,Orr 2016,100.6,2019:row325:S,1,8.2,False
+condition,S,Rhamnus alaternus,Galmes 2005 | pH=8.2,Galmes 2005,94.69999999999997,2019:row67:S,1,8.2,False
+condition,S,Rhamnus ludovici-salvatoris,Galmes 2005 | pH=8.2,Galmes 2005,94.40000000000003,2019:row68:S,1,8.2,False
+condition,S,Rhodobacter sphaeroides I,Jordan 1981 | pH=8.3,Jordan 1981,62.00000000000001,2019:row181:S,1,8.3,False
+condition,S,Rhodobacter sphaeroides II,Jordan 1981 | pH=8.3,Jordan 1981,9.000000000000002,2019:row187:S,1,8.3,False
+condition,S,Rhodospirillum rubrum,Alonso 2009 | pH=7,Alonso 2009,8.100000000000001,2019:row2:S,1,7,E. coli
+condition,S,Rhodospirillum rubrum,Andrews 1985 | pH=8.52,Andrews 1985,13.999999999999996,2019:row8:S,1,8.52,E. coli
+condition,S,Rhodospirillum rubrum,Gutteridge 1984 | pH=8.2,Gutteridge 1984,7.599999999999998,2019:row125:S,1,8.2,E. coli
+condition,S,Rhodospirillum rubrum,Jordan 1981 | pH=8.3,Jordan 1981,15.0,2019:row186:S,1,8.3,False
+condition,S,Rhodospirillum rubrum,Jordan 1984 | pH=8.2,Jordan 1984,11.230993718855464,2019:row209:S;2019:row210:S;2019:row211:S;2019:row212:S;2019:row213:S;2019:row214:S,6,8.2,False
+condition,S,Rhodospirillum rubrum,Kane 1994 | pH=8.3,Kane 1994,12.300000000000002,2019:row225:S,1,8.3,E. coli
+condition,S,Rhodospirillum rubrum,Mueller-Cajar 2007 | pH=8,Mueller-Cajar 2007,9.000000000000002,2019:row272:S,1,8,E. coli
+condition,S,S. cereale cv. Agronom,Prins 2016 | pH=8.2,Prins 2016,91.50000000000003,2019:row463:S,1,8.2,False
+condition,S,Saccharum officinarum,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,82.20000000000003,2019:row149:S,1,8.2,False
+condition,S,Scenedesmus obliquus,Jordan 1981 | pH=8.3,Jordan 1981,62.99999999999999,2019:row180:S,1,8.3,False
+condition,S,Setaria italica,Jordan 1983 | pH=8.3,Jordan 1983,57.999999999999986,2019:row197:S,1,8.3,False
+condition,S,Setaria viridis,Sharwood 2016 | pH=8.16,Sharwood 2016,72.69999999999997,2019:row535:S,1,8.16,False
+condition,S,Skeletonema costatum,Haslam 2005 | pH=8.2,Haslam 2005,72.0,2019:row129:S,1,8.2,False
+condition,S,Solanum lycopersicum,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,92.39999999999996,2019:row147:S,1,8.2,False
+condition,S,Solanum tuberosum,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,95.40000000000002,2019:row144:S,1,8.2,False
+condition,S,Sorghum bicolor,Jordan 1983 | pH=8.3,Jordan 1983,70.00000000000003,2019:row196:S,1,8.3,False
+condition,S,Sphenostylis stenocarpa,Orr 2016 | pH=8.2,Orr 2016,93.60000000000002,2019:row350:S,1,8.2,False
+condition,S,Spinacia oleracea,Andrews 1985 | pH=8.52,Andrews 1985,104.99999999999997,2019:row6:S,1,8.52,False
+condition,S,Spinacia oleracea,Gubernator 2008 | pH=8.2,Gubernator 2008,98.19999999999996,2019:row120:S,1,8.2,Unclear
+condition,S,Spinacia oleracea,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,97.0,2019:row140:S,1,8.2,False
+condition,S,Spinacia oleracea,Jordan 1984 | pH=8.2,Jordan 1984,83.34857785795877,2019:row200:S;2019:row201:S;2019:row202:S;2019:row203:S;2019:row204:S;2019:row205:S;2019:row206:S;2019:row207:S,8,8.2,False
+condition,S,Spinacia oleracea,Kane 1994 | pH=8.3,Kane 1994,82.10000000000002,2019:row221:S,1,8.3,False
+condition,S,Spinacia oleracea,Kubien 2008 | pH=8,Kubien 2008,79.80000000000001,2019:row237:S,1,8,False
+condition,S,Spinacia oleracea,Read 1994 | pH=8,Read 1994,77.2,2019:row484:S,1,8,False
+condition,S,Spinacia oleracea,Uemura 1996 | pH=8.3,Uemura 1996,93.44934456698981,2019:row559:S;2019:row561:S,2,8.3,False
+condition,S,Spinacia oleracea,Uemura 1997 | pH=8,Uemura 1997,93.79999999999997,2019:row571:S,1,8,False
+condition,S,Spinacia oleracea,Yamori 2006 | pH=8,Yamori 2006,94.9,2019:row609:S,1,8,False
+condition,S,Spinacia oleracea,Zhu 1998 | pH=8,Zhu 1998,92.00000000000001,2019:row634:S,1,8,False
+condition,S,Spinacia oleracea hybrid 102,Brooks 1985 | pH=unknown,Brooks 1985,94.10000000000002,2019:row49:S,1,unknown,False
+condition,S,Steinchisma laxa,Sharwood 2016 | pH=8.16,Sharwood 2016,91.40000000000002,2019:row523:S,1,8.16,False
+condition,S,Synechococcus 6301,Andrews 1985 | pH=8.52,Andrews 1985,67.19999999999999,2019:row7:S,1,8.52,False
+condition,S,Synechococcus 6301,Greene 2007 | pH=8.3,Greene 2007,43.9,2019:row116:S,1,8.3,E. coli
+condition,S,Synechococcus 6301,Kane 1994 | pH=8.3,Kane 1994,42.50000000000001,2019:row224:S,1,8.3,E. coli
+condition,S,Synechococcus 6301,Morell 1994 | pH=7.8,Morell 1994,43.0,2019:row265:S,1,7.8,E. coli
+condition,S,Synechococcus 6301,Mueller-Cajar 2008 | pH=8,Mueller-Cajar 2008,41.49999999999999,2019:row281:S,1,8,E. coli
+condition,S,Synechococcus 6301,Read 1992a | pH=8,Read 1992a,40.8,2019:row468:S,1,8,E. coli
+condition,S,Synechococcus 6301,Read 1992b | pH=8,Read 1992b,41.00000000000001,2019:row474:S,1,8,E. coli
+condition,S,Synechococcus 6301,Read 1994 | pH=8,Read 1994,41.00000000000001,2019:row485:S,1,8,E. coli
+condition,S,Synechococcus 6301,Shih 2016 | pH=8,Shih 2016,50.29999999999999,2019:row553:S,1,8,E. coli
+condition,S,Synechococcus 6301 F92L,Read 1992a | pH=8,Read 1992a,44.6,2019:row466:S,1,8,E. coli
+condition,S,Synechococcus 6301 G91V,Read 1992a | pH=8,Read 1992a,41.00000000000001,2019:row467:S,1,8,E. coli
+condition,S,Synechococcus 6301 I87V,Read 1992a | pH=8,Read 1992a,39.5,2019:row469:S,1,8,E. coli
+condition,S,Synechococcus 6301 R88K,Read 1992a | pH=8,Read 1992a,38.50000000000001,2019:row470:S,1,8,E. coli
+condition,S,Synechococcus 7002,Gubernator 2008 | pH=8.2,Gubernator 2008,46.0,2019:row122:S,1,8.2,E. coli
+condition,S,Synechococcus 7515,Zhu 1998 | pH=8,Zhu 1998,46.99999999999999,2019:row635:S,1,8,E. coli
+condition,S,Synechococcus elongatus PCC 7942,Occhialini 2015 | pH=8.1,Occhialini 2015,43.0,2019:row283:S,1,8.1,Tobacco
+condition,S,Synechococcus elongatus PCC 7942,Uemura 1996 | pH=8.3,Uemura 1996,45.20000000000001,2019:row566:S,1,8.3,E. coli
+condition,S,T. aestivum (C),Prins 2016 | pH=8.2,Prins 2016,100.00000000000004,2019:row452:S,1,8.2,False
+condition,S,T. aestivum SATYN1,Prins 2016 | pH=8.2,Prins 2016,93.79999999999997,2019:row460:S,1,8.2,False
+condition,S,T. aestivum SATYN2,Prins 2016 | pH=8.2,Prins 2016,96.19999999999997,2019:row456:S,1,8.2,False
+condition,S,T. aestivum SATYN3,Prins 2016 | pH=8.2,Prins 2016,92.90000000000003,2019:row462:S,1,8.2,False
+condition,S,T. dicoccon1,Prins 2016 | pH=8.2,Prins 2016,94.10000000000002,2019:row459:S,1,8.2,False
+condition,S,T. dicoccon2,Prins 2016 | pH=8.2,Prins 2016,90.89999999999998,2019:row464:S,1,8.2,False
+condition,S,T. dicoccon3,Prins 2016 | pH=8.2,Prins 2016,95.20000000000003,2019:row458:S,1,8.2,False
+condition,S,T. dicoccon4,Prins 2016 | pH=8.2,Prins 2016,93.79999999999997,2019:row461:S,1,8.2,False
+condition,S,T. elongatus,Gubernator 2008 | pH=8.2,Gubernator 2008,82.10000000000002,2019:row121:S,1,8.2,E. coli
+condition,S,T. monococcum,Prins 2016 | pH=8.2,Prins 2016,103.79999999999997,2019:row445:S,1,8.2,False
+condition,S,T. timonovum,Prins 2016 | pH=8.2,Prins 2016,100.6,2019:row451:S,1,8.2,False
+condition,S,T. timopheevii,Prins 2016 | pH=8.2,Prins 2016,101.79999999999997,2019:row449:S,1,8.2,False
+condition,S,Tephrosia candida,Orr 2016 | pH=8.2,Orr 2016,97.80000000000001,2019:row338:S,1,8.2,False
+condition,S,Tephrosia purpurea,Orr 2016 | pH=8.2,Orr 2016,102.89999999999996,2019:row317:S,1,8.2,False
+condition,S,Tephrosia rhodesica,Orr 2016 | pH=8.2,Orr 2016,91.60000000000002,2019:row353:S,1,8.2,False
+condition,S,Tetragonium expansa,Jordan 1981 | pH=8.3,Jordan 1981,81.00000000000003,2019:row177:S,1,8.3,False
+condition,S,Thalassiosira antarctica,Haslam 2005 | pH=8.2,Haslam 2005,90.0,2019:row128:S,1,8.2,False
+condition,S,Thalassiosira hyalina,Haslam 2005 | pH=8.2,Haslam 2005,97.0,2019:row126:S,1,8.2,False
+condition,S,Thalassiosira oceania (CS-427),Young 2016 | pH=8,Young 2016,79.99999999999997,2019:row622:S,1,8,False
+condition,S,Thalassiosira weissflogii (CCMP 1336),Young 2016 | pH=8,Young 2016,79.0,2019:row623:S,1,8,False
+condition,S,Thermococcus kodakaraensis,Yoshida 2007 | pH=8.3,Yoshida 2007,11.000000000000002,2019:row614:S,1,8.3,E. coli
+condition,S,Thiobacillus denitrificans IA,Hernandez 1996 | pH=8,Hernandez 1996,42.704347826086945,2019:row170:S,1,8,R. sphaeroides
+condition,S,Thiobacillus denitrificans II,Hernandez 1996 | pH=8,Hernandez 1996,13.298828124999998,2019:row171:S,1,8,R. sphaeroides
+condition,S,Tisochrysis lutea,Heureux 2017 | pH=8.16,Heureux 2017,88.99999999999999,2019:row174:S,1,8.16,False
+condition,S,Triticale (Cando),Prins 2016 | pH=8.2,Prins 2016,99.69999999999997,2019:row453:S,1,8.2,False
+condition,S,Triticale (Rotego),Prins 2016 | pH=8.2,Prins 2016,96.80000000000003,2019:row454:S,1,8.2,False
+condition,S,Triticale (Talentro),Prins 2016 | pH=8.2,Prins 2016,95.20000000000003,2019:row457:S,1,8.2,False
+condition,S,Triticum aestivum,Brooks 1985 | pH=unknown,Brooks 1985,101.6,2019:row48:S,1,unknown,False
+condition,S,Triticum aestivum,Carmo-Silva 2010 | pH=8.2,Carmo-Silva 2010,100.00000000000004,2019:row50:S,1,8.2,False
+condition,S,Triticum aestivum,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,100.09999999999997,2019:row132:S,1,8.2,False
+condition,S,Triticum aestivum,Kane 1994 | pH=8.3,Kane 1994,89.90000000000003,2019:row218:S,1,8.3,False
+condition,S,Triticum aestivum,Orr 2016 | pH=8.2,Orr 2016,100.00000000000004,2019:row328:S,1,8.2,False
+condition,S,Triticum aestivum,Zhu 1998 | pH=8,Zhu 1998,98.00000000000004,2019:row633:S,1,8,False
+condition,S,Triticum aestivum cv. Saratovskaya 29,Viil 2012 | pH=unknown,Viil 2012,88.89999999999999,2019:row573:S,1,unknown,False
+condition,S,Triticum baeoticum,Orr 2016 | pH=8.2,Orr 2016,95.99999999999999,2019:row345:S,1,8.2,False
+condition,S,Ulva pertusa,Uemura 1996 | pH=8.3,Uemura 1996,68.5,2019:row565:S,1,8.3,False
+condition,S,Urochloa mosambicensis,Sharwood 2016 | pH=8.16,Sharwood 2016,82.49999999999997,2019:row529:S,1,8.16,False
+condition,S,Urochloa panicoides,Sharwood 2016 | pH=8.16,Sharwood 2016,78.30000000000003,2019:row533:S,1,8.16,False
+condition,S,Urtica atrovirens ssp. bianorii,Galmes 2005 | pH=8.2,Galmes 2005,90.20000000000002,2019:row72:S,1,8.2,False
+condition,S,Urtica membranacea,Galmes 2005 | pH=8.2,Galmes 2005,102.39999999999998,2019:row62:S,1,8.2,False
+condition,S,Z. japonica,Carmo-Silva 2010 | pH=8.2,Carmo-Silva 2010,84.1,2019:row53:S,1,8.2,False
+condition,S,Zea mays,Jordan 1981 | pH=8.3,Jordan 1981,78.0,2019:row179:S,1,8.3,False
+condition,S,Zea mays,Kane 1994 | pH=8.3,Kane 1994,78.59999999999998,2019:row223:S,1,8.3,False
+condition,S,Zea mays,Kubien 2008 | pH=8,Kubien 2008,74.90000000000003,2019:row247:S,1,8,False
+condition,S,Zea mays,Uemura 1996 | pH=8.3,Uemura 1996,96.39999999999998,2019:row558:S,1,8.3,False
+condition,S,Zea mays cv. Carella,Hermida-Carrera 2016 | pH=8.2,Hermida-Carrera 2016,87.30000000000004,2019:row148:S,1,8.2,False
+condition,vC,Acidithiobacillus ferrooxidans,Mueller-Cajar (personal) | pH=8,Mueller-Cajar (personal),6.800000000000001,2019:row267:vC,1,8,E. coli
+condition,vC,Aegilops biuncialis,Prins 2016 | pH=8.2,Prins 2016,3.2,2019:row455:vC,1,8.2,False
+condition,vC,Aegilops comosa,Prins 2016 | pH=8.2,Prins 2016,2.86,2019:row444:vC,1,8.2,False
+condition,vC,Aegilops cylindrica,Prins 2016 | pH=8.2,Prins 2016,3.6800000000000006,2019:row441:vC,1,8.2,False
+condition,vC,Aegilops juvenalis,Prins 2016 | pH=8.2,Prins 2016,3.25,2019:row465:vC,1,8.2,False
+condition,vC,Aegilops speltoides,Prins 2016 | pH=8.2,Prins 2016,3.24,2019:row447:vC,1,8.2,False
+condition,vC,Aegilops tauschii,Prins 2016 | pH=8.2,Prins 2016,2.86,2019:row443:vC,1,8.2,False
+condition,vC,Aegilops triuncialis,Prins 2016 | pH=8.2,Prins 2016,2.62,2019:row446:vC,1,8.2,False
+condition,vC,Aegilops uniaristata,Prins 2016 | pH=8.2,Prins 2016,2.7,2019:row450:vC,1,8.2,False
+condition,vC,Aegilops vavilovii,Prins 2016 | pH=8.2,Prins 2016,3.3199999999999994,2019:row442:vC,1,8.2,False
+condition,vC,Agave victoriae−reginae,Galmes 2014b | pH=8,Galmes 2014b,3.4,2019:row101:vC,1,8,False
+condition,vC,Agriophyllum squarrosum,Orr 2016 | pH=8,Orr 2016,2.8,2019:row374:vC,1,8,False
+condition,vC,Agrostis scabra,Orr 2016 | pH=8,Orr 2016,3.5999999999999996,2019:row423:vC,1,8,False
+condition,vC,Agrostis stolonifera,Orr 2016 | pH=8,Orr 2016,5.2,2019:row426:vC,1,8,False
+condition,vC,Allochromatium vinosum,Jordan 1985 | pH=8,Jordan 1985,6.700000000000001,2019:row216:vC,1,8,False
+condition,vC,Allochromatium vinosum,Uemura 1997 | pH=8,Uemura 1997,8.8,2019:row572:vC,1,8,False
+condition,vC,Amaranthus edulis,Kubien 2008 | pH=8,Kubien 2008,4.14,2019:row242:vC,1,8,False
+condition,vC,Amphicarpaea bracteata,Orr 2016 | pH=8,Orr 2016,4.0,2019:row408:vC,1,8,False
+condition,vC,Anacystis nidulans,Bainbridge 1995 | pH=8,Bainbridge 1995,7.2,2019:row43:vC,1,8,Unclear
+condition,vC,Arabidopsis thaliana,Boyd 2019 | pH=7.7,Boyd 2019,3.53,2019:row47:vC,1,7.7,False
+condition,vC,Arabidopsis thaliana,Boyd 2019 | pH=8.2,Boyd 2019,3.5,2019:row46:vC,1,8.2,False
+condition,vC,Arabidopsis thaliana,Galmes 2014b | pH=8,Galmes 2014b,4.1,2019:row92:vC,1,8,False
+condition,vC,Arabidopsis thaliana cv. Columbia,Walker 2013 | pH=unknown,Walker 2013,3.3,2019:row580:vC,1,unknown,False
+condition,vC,Arctagrostis latifolia,Orr 2016 | pH=8,Orr 2016,5.8,2019:row397:vC,1,8,False
+condition,vC,Artemisia myriantha,Orr 2016 | pH=8,Orr 2016,3.1,2019:row428:vC,1,8,False
+condition,vC,Artemisia vulgaris L.,Orr 2016 | pH=8,Orr 2016,3.8999999999999995,2019:row431:vC,1,8,False
+condition,vC,Atrichum undulatum,Galmes 2014b | pH=8,Galmes 2014b,3.0000000000000004,2019:row115:vC,1,8,False
+condition,vC,Avena sativa,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.3,2019:row159:vC,1,8,False
+condition,vC,B. distachyon,Prins 2016 | pH=8.2,Prins 2016,2.05,2019:row440:vC,1,8.2,False
+condition,vC,Bellerochea cf. horologicalis (CS-874/01),Young 2016 | pH=8,Young 2016,2.1,2019:row628:vC,1,8,False
+condition,vC,Beta vulgaris,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.0,2019:row160:vC,1,8,False
+condition,vC,Beta vulgarisssp.vulgaris,Orr 2016 | pH=8,Orr 2016,3.8,2019:row381:vC,1,8,False
+condition,vC,Brassica oleracea,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.1,2019:row164:vC,1,8,False
+condition,vC,Bromus anomalus,Orr 2016 | pH=8,Orr 2016,2.9,2019:row380:vC,1,8,False
+condition,vC,C. fusiformis,Read 1994 | pH=8,Read 1994,1.95,2019:row476:vC,1,8,False
+condition,vC,Calamagrostis arundinacea,Orr 2016 | pH=8,Orr 2016,4.1,2019:row401:vC,1,8,False
+condition,vC,Calamagrostis canescens,Orr 2016 | pH=8,Orr 2016,2.5,2019:row372:vC,1,8,False
+condition,vC,Calamagrostis foliosa,Orr 2016 | pH=8,Orr 2016,3.5,2019:row395:vC,1,8,False
+condition,vC,Calamagrostis inexpansa,Orr 2016 | pH=8,Orr 2016,3.3,2019:row418:vC,1,8,False
+condition,vC,Calamagrostis nutkaensis,Orr 2016 | pH=8,Orr 2016,3.1,2019:row419:vC,1,8,False
+condition,vC,Capsicum annuum,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,1.9,2019:row156:vC,1,8,False
+condition,vC,Carpobrotus edulis,Galmes 2014b | pH=8,Galmes 2014b,3.5999999999999996,2019:row99:vC,1,8,False
+condition,vC,Cenchrus ciliaris,Sharwood 2016 | pH=8.16,Sharwood 2016,6.0,2019:row536:vC,1,8.16,False
+condition,vC,Ceratophyllum demersum,Galmes 2014b | pH=8,Galmes 2014b,3.5,2019:row112:vC,1,8,False
+condition,vC,Chaetoceros calcitrans (CCMP 1315),Young 2016 | pH=8,Young 2016,2.6,2019:row627:vC,1,8,False
+condition,vC,Chaetoceros calcitrans (CS-178),Young 2016 | pH=8,Young 2016,3.4,2019:row626:vC,1,8,False
+condition,vC,Chaetoceros muelleri (CCMP 1316),Young 2016 | pH=8,Young 2016,2.4,2019:row621:vC,1,8,False
+condition,vC,Chenopodium alba,Kubien 2008 | pH=8,Kubien 2008,2.91,2019:row238:vC,1,8,False
+condition,vC,Chenopodium murale,Orr 2016 | pH=8,Orr 2016,4.4,2019:row403:vC,1,8,False
+condition,vC,Chenopodium petiolare,Orr 2016 | pH=8,Orr 2016,4.4,2019:row427:vC,1,8,False
+condition,vC,Chenopodium rubrum,Orr 2016 | pH=8,Orr 2016,4.1,2019:row368:vC,1,8,False
+condition,vC,Chrysanthellum indicum var. afroamericanum,Orr 2016 | pH=8,Orr 2016,4.7,2019:row430:vC,1,8,False
+condition,vC,Citrullus ecirrhosus,Orr 2016 | pH=8,Orr 2016,3.1,2019:row386:vC,1,8,False
+condition,vC,Citrullus lanatus var. lanatus,Orr 2016 | pH=8,Orr 2016,2.5,2019:row390:vC,1,8,False
+condition,vC,Coffee arabica,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.1,2019:row161:vC,1,8,False
+condition,vC,Crithmum maritimum,Galmes 2014b | pH=8,Galmes 2014b,3.4,2019:row95:vC,1,8,False
+condition,vC,Cucurbita maxima,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.2,2019:row154:vC,1,8,False
+condition,vC,Cyanidium caldarium,Uemura 1997 | pH=8,Uemura 1997,1.3,2019:row569:vC,1,8,False
+condition,vC,Cyanobium PCC7001,Long 2018 | pH=8,Long 2018,9.597916440561466,2019:row257:vC;2019:row258:vC,2,8,Tobacco
+condition,vC,Cycas panzhihuaensis,Galmes 2014b | pH=8,Galmes 2014b,3.1,2019:row96:vC,1,8,False
+condition,vC,Cylindrotheca N1,Read 1992b | pH=8,Read 1992b,0.97,2019:row472:vC,1,8,False
+condition,vC,Cylindrotheca N1,Read 1994 | pH=8,Read 1994,0.78,2019:row482:vC,1,8,False
+condition,vC,Cylindrotheca fusiformis (CS-13),Young 2016 | pH=8,Young 2016,3.7000000000000006,2019:row624:vC,1,8,False
+condition,vC,Dactylis glomerata cv. Porto,Galmes 2014b | pH=8,Galmes 2014b,3.2,2019:row106:vC,1,8,False
+condition,vC,Deschampsia danthonioides,Orr 2016 | pH=8,Orr 2016,4.5,2019:row424:vC,1,8,False
+condition,vC,Desmodium cinereum,Orr 2016 | pH=8,Orr 2016,3.0000000000000004,2019:row412:vC,1,8,False
+condition,vC,Desmodium intortum,Orr 2016 | pH=8,Orr 2016,3.3,2019:row413:vC,1,8,False
+condition,vC,Desmodium psilocarpum,Orr 2016 | pH=8,Orr 2016,3.5999999999999996,2019:row376:vC,1,8,False
+condition,vC,Drosera capensis,Galmes 2014b | pH=8,Galmes 2014b,4.7,2019:row103:vC,1,8,False
+condition,vC,Drosera venusta,Galmes 2014b | pH=8,Galmes 2014b,3.3,2019:row108:vC,1,8,False
+condition,vC,Echeveria elegans,Galmes 2014b | pH=8,Galmes 2014b,4.5,2019:row105:vC,1,8,False
+condition,vC,Elymus farctus,Orr 2016 | pH=8,Orr 2016,3.3,2019:row391:vC,1,8,False
+condition,vC,Eragrostis tef,Orr 2016 | pH=8,Orr 2016,7.1000000000000005,2019:row411:vC,1,8,False
+condition,vC,Erythrina flabelliformis,Orr 2016 | pH=8,Orr 2016,3.5999999999999996,2019:row385:vC,1,8,False
+condition,vC,Eucalyptus moorei,Galmes 2014b | pH=8,Galmes 2014b,3.2,2019:row102:vC,1,8,False
+condition,vC,Eucalyptus neglecta,Galmes 2014b | pH=8,Galmes 2014b,2.5,2019:row91:vC,1,8,False
+condition,vC,Euphorbia helioscopia,Orr 2016 | pH=8,Orr 2016,1.9,2019:row360:vC,1,8,False
+condition,vC,Euphorbia microsphaera,Orr 2016 | pH=8,Orr 2016,4.5,2019:row407:vC,1,8,False
+condition,vC,Festuca gigantea,Orr 2016 | pH=8,Orr 2016,5.1,2019:row410:vC,1,8,False
+condition,vC,Festuca pratensis,Orr 2016 | pH=8,Orr 2016,5.1,2019:row402:vC,1,8,False
+condition,vC,Flaveria angustifolia,Kubien 2008 | pH=8,Kubien 2008,2.86,2019:row232:vC,1,8,False
+condition,vC,Flaveria angustifolia,Perdomo 2015 | pH=unknown,Perdomo 2015,2.77,2019:row434:vC,1,unknown,False
+condition,vC,Flaveria anomala,Kubien 2008 | pH=8,Kubien 2008,3.8,2019:row241:vC,1,8,False
+condition,vC,Flaveria australasica,Kubien 2008 | pH=8,Kubien 2008,3.8400000000000003,2019:row243:vC,1,8,False
+condition,vC,Flaveria bidentis,Kubien 2008 | pH=8,Kubien 2008,4.16,2019:row246:vC,1,8,False
+condition,vC,Flaveria bidentis,Perdomo 2015 | pH=unknown,Perdomo 2015,3.4200000000000004,2019:row438:vC,1,unknown,False
+condition,vC,Flaveria bidentis,Whitney 2011 | pH=8,Whitney 2011,4.8,2019:row588:vC,1,8,False
+condition,vC,Flaveria brownii,Kubien 2008 | pH=8,Kubien 2008,2.58,2019:row230:vC,1,8,False
+condition,vC,Flaveria chloraefolia,Kubien 2008 | pH=8,Kubien 2008,3.35,2019:row233:vC,1,8,False
+condition,vC,Flaveria cronquistii,Kubien 2008 | pH=8,Kubien 2008,3.13,2019:row234:vC,1,8,False
+condition,vC,Flaveria cronquistii,Perdomo 2015 | pH=unknown,Perdomo 2015,2.9499999999999997,2019:row436:vC,1,unknown,False
+condition,vC,Flaveria floridana,Kubien 2008 | pH=8,Kubien 2008,3.19,2019:row228:vC,1,8,False
+condition,vC,Flaveria floridana,Perdomo 2015 | pH=unknown,Perdomo 2015,2.86,2019:row437:vC,1,unknown,False
+condition,vC,Flaveria floridana,Whitney 2011 | pH=8,Whitney 2011,3.5999999999999996,2019:row586:vC,1,8,False
+condition,vC,Flaveria kochiana,Kubien 2008 | pH=8,Kubien 2008,3.6800000000000006,2019:row245:vC,1,8,False
+condition,vC,Flaveria linearis,Kubien 2008 | pH=8,Kubien 2008,3.43,2019:row240:vC,1,8,False
+condition,vC,Flaveria palmeri,Kubien 2008 | pH=8,Kubien 2008,3.54,2019:row231:vC,1,8,False
+condition,vC,Flaveria pringlei,Kubien 2008 | pH=8,Kubien 2008,3.11,2019:row235:vC,1,8,False
+condition,vC,Flaveria pringlei,Perdomo 2015 | pH=unknown,Perdomo 2015,2.48,2019:row435:vC,1,unknown,False
+condition,vC,Flaveria pringlei,Whitney 2011 | pH=8,Whitney 2011,3.5,2019:row587:vC,1,8,False
+condition,vC,Flaveria pringlei,Zhu 1998 | pH=8,Zhu 1998,2.1,2019:row632:vC,1,8,False
+condition,vC,Flaveria ramosissima,Kubien 2008 | pH=8,Kubien 2008,2.77,2019:row236:vC,1,8,False
+condition,vC,Flaveria sonorensis,Kubien 2008 | pH=8,Kubien 2008,2.69,2019:row229:vC,1,8,False
+condition,vC,Flaveria trinervia,Kubien 2008 | pH=8,Kubien 2008,4.42,2019:row244:vC,1,8,False
+condition,vC,Flaveria trinervia,Perdomo 2015 | pH=unknown,Perdomo 2015,3.28,2019:row439:vC,1,unknown,False
+condition,vC,Flaveria vaginata,Kubien 2008 | pH=8,Kubien 2008,3.7799999999999994,2019:row239:vC,1,8,False
+condition,vC,Flueggea suffruticosa,Orr 2016 | pH=8,Orr 2016,3.4,2019:row389:vC,1,8,False
+condition,vC,Foeniculum vulgare,Orr 2016 | pH=8,Orr 2016,4.4,2019:row394:vC,1,8,False
+condition,vC,Fragilariopsis cylindrus (CCMP 1102),Young 2016 | pH=8,Young 2016,3.5,2019:row625:vC,1,8,False
+condition,vC,Galdieria partita Tokara,Uemura 1997 | pH=8,Uemura 1997,1.6,2019:row568:vC,1,8,False
+condition,vC,Galdieria sulfuraria,Whitney 2001 | pH=8,Whitney 2001,1.2,2019:row583:vC,1,8,False
+condition,vC,Glycine canescens,Orr 2016 | pH=8,Orr 2016,2.6,2019:row382:vC,1,8,False
+condition,vC,Glycine max,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,1.5,2019:row152:vC,1,8,False
+condition,vC,Glycine max,Orr 2016 | pH=8,Orr 2016,2.5,2019:row363:vC,1,8,False
+condition,vC,Griffithsia monilis,Whitney 2001 | pH=8,Whitney 2001,2.6,2019:row582:vC,1,8,False
+condition,vC,H. vulgare cv. Lenins,Prins 2016 | pH=8.2,Prins 2016,3.99,2019:row448:vC,1,8.2,False
+condition,vC,Hordeum brachyantherum,Orr 2016 | pH=8,Orr 2016,2.9,2019:row379:vC,1,8,False
+condition,vC,Hordeum murinum,Orr 2016 | pH=8,Orr 2016,4.2,2019:row399:vC,1,8,False
+condition,vC,Hordeum vulgare ssp. vulgare cv. Morex,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.4,2019:row153:vC,1,8,False
+condition,vC,Ipomoea batatas,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.5,2019:row165:vC,1,8,False
+condition,vC,Iris douglasiana,Galmes 2014b | pH=8,Galmes 2014b,3.5,2019:row100:vC,1,8,False
+condition,vC,Lablab purpureus,Orr 2016 | pH=8,Orr 2016,5.3,2019:row422:vC,1,8,False
+condition,vC,Lactua sativa,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.2,2019:row162:vC,1,8,False
+condition,vC,Lepidium campestre,Orr 2016 | pH=8,Orr 2016,3.4,2019:row377:vC,1,8,False
+condition,vC,Limonium antonii‐llorensii,Galmes 2014a | pH=8,Galmes 2014a,2.4,2019:row79:vC,1,8,False
+condition,vC,Limonium artruchium,Galmes 2014a | pH=8,Galmes 2014a,3.0000000000000004,2019:row78:vC,1,8,False
+condition,vC,Limonium balearicum,Galmes 2014a | pH=8,Galmes 2014a,3.5999999999999996,2019:row87:vC,1,8,False
+condition,vC,Limonium barceloi,Galmes 2014a | pH=8,Galmes 2014a,3.4,2019:row86:vC,1,8,False
+condition,vC,Limonium biflorum,Galmes 2014a | pH=8,Galmes 2014a,2.4,2019:row81:vC,1,8,False
+condition,vC,Limonium companyonis,Galmes 2014a | pH=8,Galmes 2014a,3.3,2019:row82:vC,1,8,False
+condition,vC,Limonium echioides,Galmes 2014a | pH=8,Galmes 2014a,3.8999999999999995,2019:row85:vC,1,8,False
+condition,vC,Limonium ejulabilis,Galmes 2014a | pH=8,Galmes 2014a,2.0,2019:row76:vC,1,8,False
+condition,vC,Limonium gibertii,Galmes 2014a | pH=8,Galmes 2014a,2.5,2019:row80:vC,1,8,False
+condition,vC,Limonium grosii,Galmes 2014a | pH=8,Galmes 2014a,2.9,2019:row77:vC,1,8,False
+condition,vC,Limonium gymnesicum,Galmes 2014a | pH=8,Galmes 2014a,2.4,2019:row74:vC,1,8,False
+condition,vC,Limonium latebracteatum,Galmes 2014b | pH=8,Galmes 2014b,2.7,2019:row97:vC,1,8,False
+condition,vC,Limonium leonardi‐llorensii,Galmes 2014a | pH=8,Galmes 2014a,2.8,2019:row84:vC,1,8,False
+condition,vC,Limonium magallufianum,Galmes 2014a | pH=8,Galmes 2014a,2.6,2019:row83:vC,1,8,False
+condition,vC,Limonium retusum,Galmes 2014a | pH=8,Galmes 2014a,2.1,2019:row75:vC,1,8,False
+condition,vC,Limonium stenophyllum,Galmes 2014b | pH=8,Galmes 2014b,2.6,2019:row93:vC,1,8,False
+condition,vC,Limonium virgatum,Galmes 2014b | pH=8,Galmes 2014b,2.4,2019:row94:vC,1,8,False
+condition,vC,Lolium multiflorum,Orr 2016 | pH=8,Orr 2016,4.5,2019:row409:vC,1,8,False
+condition,vC,Lolium rigidum,Orr 2016 | pH=8,Orr 2016,4.7,2019:row404:vC,1,8,False
+condition,vC,Macrotyloma uniflorum,Orr 2016 | pH=8,Orr 2016,4.4,2019:row405:vC,1,8,False
+condition,vC,Manihot esculenta,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,1.4,2019:row150:vC,1,8,False
+condition,vC,Manihot esculenta,Orr 2016 | pH=8,Orr 2016,2.4,2019:row415:vC,1,8,False
+condition,vC,Marchantia polymorpha,Galmes 2014b | pH=8,Galmes 2014b,2.6,2019:row111:vC,1,8,False
+condition,vC,Medicago sativa,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,1.7,2019:row158:vC,1,8,False
+condition,vC,Megathyrsus maximus,Sharwood 2016 | pH=8.16,Sharwood 2016,5.3,2019:row530:vC,1,8.16,False
+condition,vC,Mercurialis annua,Orr 2016 | pH=8,Orr 2016,3.4,2019:row417:vC,1,8,False
+condition,vC,Metasequoia glyptostroboides,Galmes 2014b | pH=8,Galmes 2014b,2.7,2019:row114:vC,1,8,False
+condition,vC,Methanococcoides burtonii,Alonso 2009 | pH=7,Alonso 2009,1.9493588689617927,2019:row3:vC;2019:row4:vC,2,7,E. coli;Tobacco
+condition,vC,Methanococcoides burtonii,Wilson 2016 | pH=7.2 or 8.0,Wilson 2016,0.6,2019:row590:vC,1,7.2 or 8.0,Tobacco
+condition,vC,Methanococcoides burtonii K332E,Wilson 2016 | pH=7.2 or 8.0,Wilson 2016,1.2,2019:row591:vC,1,7.2 or 8.0,Tobacco
+condition,vC,Methanococcoides burtonii L2,Alonso 2009 | pH=7,Alonso 2009,1.9,2019:row5:vC,1,7,E. coli
+condition,vC,Musa velutina,Orr 2016 | pH=8,Orr 2016,3.2,2019:row387:vC,1,8,False
+condition,vC,Nicotiana tabacum,Occhialini 2015 | pH=8.1,Occhialini 2015,3.8999999999999995,2019:row282:vC,1,8.1,False
+condition,vC,Nicotiana tabacum,Sharwood 2016 | pH=8.16,Sharwood 2016,3.1,2019:row527:vC,1,8.16,False
+condition,vC,Nicotiana tabacum,Walker 2013 | pH=unknown,Walker 2013,3.3,2019:row581:vC,1,unknown,False
+condition,vC,Nicotiana tabacum,Whitney 2001 | pH=8,Whitney 2001,3.4,2019:row585:vC,1,8,False
+condition,vC,Nicotiana tabacum L. cv. W38,von Caemmerer 1994 | pH=unknown,von Caemmerer 1994,3.584578078379658,2019:row578:vC;2019:row579:vC,2,unknown,False
+condition,vC,Nicotiana tabacum cv. PH,Orr 2016 | pH=8,Orr 2016,4.4,2019:row398:vC,1,8,False
+condition,vC,Nymphaea alba,Galmes 2014b | pH=8,Galmes 2014b,2.4,2019:row107:vC,1,8,False
+condition,vC,Olisthodiscus luteus,Read 1994 | pH=8,Read 1994,0.83,2019:row483:vC,1,8,False
+condition,vC,Oryza barthii/glaberrima,Orr 2016 | pH=8,Orr 2016,2.5,2019:row365:vC,1,8,False
+condition,vC,Oryza eichingeri,Orr 2016 | pH=8,Orr 2016,2.5,2019:row366:vC,1,8,False
+condition,vC,Oryza glaberrima (WAB 1939),Orr 2016 | pH=8,Orr 2016,2.7,2019:row370:vC,1,8,False
+condition,vC,Oryza glumaepatula,Orr 2016 | pH=8,Orr 2016,2.4,2019:row373:vC,1,8,False
+condition,vC,Oryza longistaminata,Orr 2016 | pH=8,Orr 2016,2.2,2019:row371:vC,1,8,False
+condition,vC,Oryza meridionalis,Orr 2016 | pH=8,Orr 2016,2.6,2019:row369:vC,1,8,False
+condition,vC,Oryza nivara,Orr 2016 | pH=8,Orr 2016,2.7,2019:row416:vC,1,8,False
+condition,vC,Oryza punctata,Orr 2016 | pH=8,Orr 2016,2.7,2019:row414:vC,1,8,False
+condition,vC,Oryza sativa,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.1,2019:row166:vC,1,8,False
+condition,vC,Oryza sativa ssp.Indicacv.Icasulum,Orr 2016 | pH=8,Orr 2016,2.2,2019:row359:vC,1,8,False
+condition,vC,Oryza sativa ssp.Japonicacv.Nipponbare,Orr 2016 | pH=8,Orr 2016,2.8,2019:row361:vC,1,8,False
+condition,vC,Pallenis maritima,Galmes 2014b | pH=8,Galmes 2014b,2.7,2019:row88:vC,1,8,False
+condition,vC,Panicum amarum,Orr 2016 | pH=8,Orr 2016,3.2,2019:row432:vC,1,8,False
+condition,vC,Panicum antidotale,Sharwood 2016 | pH=8.16,Sharwood 2016,3.8999999999999995,2019:row534:vC,1,8.16,False
+condition,vC,Panicum bisulcatum,Sharwood 2016 | pH=8.16,Sharwood 2016,2.6,2019:row524:vC,1,8.16,False
+condition,vC,Panicum coloratum,Sharwood 2016 | pH=8.16,Sharwood 2016,3.4,2019:row525:vC,1,8.16,False
+condition,vC,Panicum deustum,Sharwood 2016 | pH=8.16,Sharwood 2016,4.999999999999999,2019:row526:vC,1,8.16,False
+condition,vC,Panicum dichotomiflorum,Orr 2016 | pH=8,Orr 2016,3.1,2019:row433:vC,1,8,False
+condition,vC,Panicum milioides,Sharwood 2016 | pH=8.16,Sharwood 2016,2.2,2019:row522:vC,1,8.16,False
+condition,vC,Panicum milliaceum,Sharwood 2016 | pH=8.16,Sharwood 2016,2.1,2019:row531:vC,1,8.16,False
+condition,vC,Panicum monticola,Sharwood 2016 | pH=8.16,Sharwood 2016,5.3,2019:row532:vC,1,8.16,False
+condition,vC,Panicum phragmitoides,Orr 2016 | pH=8,Orr 2016,2.8,2019:row425:vC,1,8,False
+condition,vC,Panicum virgatum,Sharwood 2016 | pH=8.16,Sharwood 2016,3.3,2019:row528:vC,1,8.16,False
+condition,vC,Pavlova lutheri,Heureux 2017 | pH=8.16,Heureux 2017,2.5,2019:row172:vC,1,8.16,False
+condition,vC,Phaeodactylum tricornutum,Whitney 2001 | pH=8,Whitney 2001,3.4,2019:row584:vC,1,8,False
+condition,vC,Phaeodactylum tricornutum (CS-29),Young 2016 | pH=8,Young 2016,3.3,2019:row619:vC,1,8,False
+condition,vC,Phaeodactylum tricornutum (UTEX 642),Young 2016 | pH=8,Young 2016,3.2,2019:row620:vC,1,8,False
+condition,vC,Phaseolus carteri,Orr 2016 | pH=8,Orr 2016,3.2,2019:row367:vC,1,8,False
+condition,vC,Phaseolus coccineus,Orr 2016 | pH=8,Orr 2016,3.8999999999999995,2019:row375:vC,1,8,False
+condition,vC,Phaseolus lunatus,Orr 2016 | pH=8,Orr 2016,3.2,2019:row383:vC,1,8,False
+condition,vC,Phaseolus vulgaris,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,1.7,2019:row151:vC,1,8,False
+condition,vC,Phaseolus vulgaris,Orr 2016 | pH=8,Orr 2016,3.5,2019:row420:vC,1,8,False
+condition,vC,Platycerium superbum,Galmes 2014b | pH=8,Galmes 2014b,2.3,2019:row109:vC,1,8,False
+condition,vC,Pleurochrysis carterae,Heureux 2017 | pH=8.16,Heureux 2017,3.3,2019:row173:vC,1,8.16,False
+condition,vC,Poa palustris,Orr 2016 | pH=8,Orr 2016,4.2,2019:row388:vC,1,8,False
+condition,vC,Porphyridium cruenteum,Read 1994 | pH=8,Read 1994,1.59,2019:row475:vC,1,8,False
+condition,vC,Porphyridium purpureum,Uemura 1997 | pH=8,Uemura 1997,1.4,2019:row570:vC,1,8,False
+condition,vC,Prochlorococcus marinus MIT9313,Shih 2016 | pH=8,Shih 2016,6.580000000000001,2019:row552:vC,1,8,E. coli
+condition,vC,Pteridium aquilinum,Galmes 2014b | pH=8,Galmes 2014b,4.0,2019:row113:vC,1,8,False
+condition,vC,Puccinellia distans,Orr 2016 | pH=8,Orr 2016,5.4,2019:row400:vC,1,8,False
+condition,vC,Puccinellia lemmonii,Orr 2016 | pH=8,Orr 2016,5.2,2019:row429:vC,1,8,False
+condition,vC,Puccinellia maritima,Orr 2016 | pH=8,Orr 2016,5.4,2019:row421:vC,1,8,False
+condition,vC,Puccinellia nuttalliana,Orr 2016 | pH=8,Orr 2016,4.0,2019:row406:vC,1,8,False
+condition,vC,Pueraria montana,Orr 2016 | pH=8,Orr 2016,2.7,2019:row396:vC,1,8,False
+condition,vC,Rhodobacter sphaeroides I,Mueller-Cajar (personal) | pH=8,Mueller-Cajar (personal),5.2,2019:row266:vC,1,8,E. coli
+condition,vC,Rhodospirillum rubrum,Gutteridge 1984 | pH=8.2,Gutteridge 1984,5.9,2019:row125:vC,1,8.2,E. coli
+condition,vC,Rhodospirillum rubrum,Morell 1990 | pH=7.8,Morell 1990,7.300000000000001,2019:row261:vC,1,7.8,E. coli
+condition,vC,Rhodospirillum rubrum,Mueller-Cajar 2007 | pH=8,Mueller-Cajar 2007,12.300000000000002,2019:row272:vC,1,8,E. coli
+condition,vC,S. cereale cv. Agronom,Prins 2016 | pH=8.2,Prins 2016,3.2299999999999995,2019:row463:vC,1,8.2,False
+condition,vC,Saccharum officinarum,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,3.8999999999999995,2019:row167:vC,1,8,False
+condition,vC,Sarracenia flava,Galmes 2014b | pH=8,Galmes 2014b,4.4,2019:row110:vC,1,8,False
+condition,vC,Setaria viridis,Boyd 2015 | pH=7.7,Boyd 2015,5.44,2019:row45:vC,1,7.7,False
+condition,vC,Setaria viridis,Sharwood 2016 | pH=8.16,Sharwood 2016,5.9,2019:row535:vC,1,8.16,False
+condition,vC,Sideritis cretica subsp. spicata,Galmes 2014b | pH=8,Galmes 2014b,2.0,2019:row90:vC,1,8,False
+condition,vC,Skeletonema marinoi (CCMP 1332),Young 2016 | pH=8,Young 2016,3.2,2019:row629:vC,1,8,False
+condition,vC,Solanum lycopersicum,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.3,2019:row157:vC,1,8,False
+condition,vC,Solanum tuberosum,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.0,2019:row155:vC,1,8,False
+condition,vC,Sphenostylis stenocarpa,Orr 2016 | pH=8,Orr 2016,2.8,2019:row384:vC,1,8,False
+condition,vC,Spinacia oleracea,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.4,2019:row169:vC,1,8,False
+condition,vC,Spinacia oleracea,Kubien 2008 | pH=8,Kubien 2008,3.2,2019:row237:vC,1,8,False
+condition,vC,Spinacia oleracea,Uemura 1997 | pH=8,Uemura 1997,2.6,2019:row571:vC,1,8,False
+condition,vC,Spinacia oleracea,Zhu 1998 | pH=8,Zhu 1998,2.7,2019:row634:vC,1,8,False
+condition,vC,Steinchisma laxa,Sharwood 2016 | pH=8.16,Sharwood 2016,2.3,2019:row523:vC,1,8.16,False
+condition,vC,Synechococcus 6301,Greene 2007 | pH=8,Greene 2007,11.4,2019:row119:vC,1,8,E. coli
+condition,vC,Synechococcus 6301,Morell 1994 | pH=7.8,Morell 1994,11.600000000000001,2019:row265:vC,1,7.8,E. coli
+condition,vC,Synechococcus 6301,Mueller-Cajar 2008 | pH=8,Mueller-Cajar 2008,11.8,2019:row281:vC,1,8,E. coli
+condition,vC,Synechococcus 6301,Read 1992b | pH=8,Read 1992b,2.57,2019:row474:vC,1,8,E. coli
+condition,vC,Synechococcus 6301,Read 1994 | pH=8,Read 1994,3.7100000000000004,2019:row485:vC,1,8,E. coli
+condition,vC,Synechococcus 6301,Shih 2016 | pH=8,Shih 2016,9.78,2019:row553:vC,1,8,E. coli
+condition,vC,Synechococcus 7002,Andrews 1985 | pH=7.8,Andrews 1985,11.600000000000001,2019:row9:vC,1,7.8,False
+condition,vC,Synechococcus 7515,Zhu 1998 | pH=8,Zhu 1998,6.599999999999999,2019:row635:vC,1,8,E. coli
+condition,vC,Synechococcus elongatus PCC 7942,Occhialini 2015 | pH=8.1,Occhialini 2015,14.399999999999999,2019:row283:vC,1,8.1,Tobacco
+condition,vC,T. aestivum (C),Prins 2016 | pH=8.2,Prins 2016,3.5699999999999994,2019:row452:vC,1,8.2,False
+condition,vC,T. aestivum SATYN1,Prins 2016 | pH=8.2,Prins 2016,3.26,2019:row460:vC,1,8.2,False
+condition,vC,T. aestivum SATYN2,Prins 2016 | pH=8.2,Prins 2016,3.3300000000000005,2019:row456:vC,1,8.2,False
+condition,vC,T. aestivum SATYN3,Prins 2016 | pH=8.2,Prins 2016,3.6400000000000006,2019:row462:vC,1,8.2,False
+condition,vC,T. dicoccon1,Prins 2016 | pH=8.2,Prins 2016,3.55,2019:row459:vC,1,8.2,False
+condition,vC,T. dicoccon2,Prins 2016 | pH=8.2,Prins 2016,3.5699999999999994,2019:row464:vC,1,8.2,False
+condition,vC,T. dicoccon3,Prins 2016 | pH=8.2,Prins 2016,3.36,2019:row458:vC,1,8.2,False
+condition,vC,T. dicoccon4,Prins 2016 | pH=8.2,Prins 2016,3.55,2019:row461:vC,1,8.2,False
+condition,vC,T. elongatus,Gubernator 2008 | pH=8,Gubernator 2008,2.65,2019:row123:vC,1,8,E. coli
+condition,vC,T. monococcum,Prins 2016 | pH=8.2,Prins 2016,3.18,2019:row445:vC,1,8.2,False
+condition,vC,T. timonovum,Prins 2016 | pH=8.2,Prins 2016,3.48,2019:row451:vC,1,8.2,False
+condition,vC,T. timopheevii,Prins 2016 | pH=8.2,Prins 2016,3.43,2019:row449:vC,1,8.2,False
+condition,vC,Tephrosia candida,Orr 2016 | pH=8,Orr 2016,2.2,2019:row378:vC,1,8,False
+condition,vC,Tephrosia purpurea,Orr 2016 | pH=8,Orr 2016,2.2,2019:row362:vC,1,8,False
+condition,vC,Tephrosia rhodesica,Orr 2016 | pH=8,Orr 2016,2.2,2019:row364:vC,1,8,False
+condition,vC,Teucrium heterophyllum,Galmes 2014b | pH=8,Galmes 2014b,2.7,2019:row89:vC,1,8,False
+condition,vC,Thalassiosira oceania (CS-427),Young 2016 | pH=8,Young 2016,2.4,2019:row622:vC,1,8,False
+condition,vC,Thalassiosira weissflogii (CCMP 1336),Young 2016 | pH=8,Young 2016,3.2,2019:row623:vC,1,8,False
+condition,vC,Thermococcus kodakaraensis,Yoshida 2007 | pH=8.3,Yoshida 2007,0.25,2019:row614:vC,1,8.3,E. coli
+condition,vC,Thiobacillus denitrificans IA,Hernandez 1996 | pH=8,Hernandez 1996,1.9,2019:row170:vC,1,8,R. sphaeroides
+condition,vC,Thiobacillus denitrificans II,Hernandez 1996 | pH=8,Hernandez 1996,3.5,2019:row171:vC,1,8,R. sphaeroides
+condition,vC,Tisochrysis lutea,Heureux 2017 | pH=8.16,Heureux 2017,2.2,2019:row174:vC,1,8.16,False
+condition,vC,Trachycarpus fortunei,Galmes 2014b | pH=8,Galmes 2014b,2.8,2019:row98:vC,1,8,False
+condition,vC,Triticale (Cando),Prins 2016 | pH=8.2,Prins 2016,3.62,2019:row453:vC,1,8.2,False
+condition,vC,Triticale (Rotego),Prins 2016 | pH=8.2,Prins 2016,3.46,2019:row454:vC,1,8.2,False
+condition,vC,Triticale (Talentro),Prins 2016 | pH=8.2,Prins 2016,3.36,2019:row457:vC,1,8.2,False
+condition,vC,Triticum aestivum,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,2.2,2019:row163:vC,1,8,False
+condition,vC,Triticum aestivum,Orr 2016 | pH=8,Orr 2016,4.9,2019:row393:vC,1,8,False
+condition,vC,Triticum aestivum,Zhu 1998 | pH=8,Zhu 1998,2.5,2019:row633:vC,1,8,False
+condition,vC,Triticum aestivum cv. Alexandria,Galmes 2014b | pH=8,Galmes 2014b,4.0,2019:row104:vC,1,8,False
+condition,vC,Triticum baeoticum,Orr 2016 | pH=8,Orr 2016,3.8,2019:row392:vC,1,8,False
+condition,vC,Urochloa mosambicensis,Sharwood 2016 | pH=8.16,Sharwood 2016,5.700000000000001,2019:row529:vC,1,8.16,False
+condition,vC,Urochloa panicoides,Sharwood 2016 | pH=8.16,Sharwood 2016,5.6,2019:row533:vC,1,8.16,False
+condition,vC,Zea mays,Kubien 2008 | pH=8,Kubien 2008,4.05,2019:row247:vC,1,8,False
+condition,vC,Zea mays cv. Carella,Hermida-Carrera 2016 | pH=8,Hermida-Carrera 2016,4.1,2019:row168:vC,1,8,False
+study_only,S,Aegilops biuncialis,Prins 2016,Prins 2016,96.3,2019:row455:S,1,8.2,False
+study_only,S,Aegilops comosa,Prins 2016,Prins 2016,105.79999999999998,2019:row444:S,1,8.2,False
+study_only,S,Aegilops cylindrica,Prins 2016,Prins 2016,108.89999999999998,2019:row441:S,1,8.2,False
+study_only,S,Aegilops juvenalis,Prins 2016,Prins 2016,90.40000000000002,2019:row465:S,1,8.2,False
+study_only,S,Aegilops speltoides,Prins 2016,Prins 2016,102.30000000000003,2019:row447:S,1,8.2,False
+study_only,S,Aegilops tauschii,Prins 2016,Prins 2016,106.69999999999999,2019:row443:S,1,8.2,False
+study_only,S,Aegilops triuncialis,Prins 2016,Prins 2016,102.70000000000002,2019:row446:S,1,8.2,False
+study_only,S,Aegilops uniaristata,Prins 2016,Prins 2016,101.69999999999997,2019:row450:S,1,8.2,False
+study_only,S,Aegilops vavilovii,Prins 2016,Prins 2016,108.7,2019:row442:S,1,8.2,False
+study_only,S,Agriophyllum squarrosum,Orr 2016,Orr 2016,93.89999999999998,2019:row349:S,1,8.2,False
+study_only,S,Agrostis scabra,Orr 2016,Orr 2016,103.39999999999998,2019:row316:S,1,8.2,False
+study_only,S,Agrostis stolonifera,Orr 2016,Orr 2016,104.99999999999997,2019:row308:S,1,8.2,False
+study_only,S,Allochromatium vinosum,Jordan 1985,Jordan 1985,41.00000000000001,2019:row216:S,1,8,False
+study_only,S,Allochromatium vinosum,Uemura 1997,Uemura 1997,44.400000000000006,2019:row572:S,1,8,False
+study_only,S,Amaranthus edulis,Kubien 2008,Kubien 2008,77.5,2019:row242:S,1,8,False
+study_only,S,Amaranthus hybridus,Jordan 1981,Jordan 1981,82.00000000000001,2019:row176:S,1,8.3,False
+study_only,S,Amaranthus hybridus,Jordan 1984,Jordan 1984,78.0,2019:row208:S,1,8.2,False
+study_only,S,Amphicarpaea bracteata,Orr 2016,Orr 2016,97.49999999999999,2019:row339:S,1,8.2,False
+study_only,S,Anacystis nidulans,Bainbridge 1995,Bainbridge 1995,46.29999999999999,2019:row43:S,1,8,Unclear
+study_only,S,Aphanizomenon flos aquae,Jordan 1981,Jordan 1981,48.00000000000001,2019:row184:S,1,8.3,False
+study_only,S,Aphanocapsa alpicola,Jordan 1983,Jordan 1983,48.00000000000001,2019:row199:S,1,8.3,False
+study_only,S,Arabidopsis thaliana cv. Columbia,Walker 2013,Walker 2013,104.89999999999998,2019:row580:S,1,unknown,False
+study_only,S,Arctagrostis latifolia,Orr 2016,Orr 2016,104.69999999999999,2019:row311:S,1,8.2,False
+study_only,S,Artemisia myriantha,Orr 2016,Orr 2016,109.60000000000002,2019:row287:S,1,8.2,False
+study_only,S,Artemisia vulgaris L.,Orr 2016,Orr 2016,104.79999999999997,2019:row309:S,1,8.2,False
+study_only,S,Avena sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,99.90000000000002,2019:row133:S,1,8.2,False
+study_only,S,B. distachyon,Prins 2016,Prins 2016,110.99999999999997,2019:row440:S,1,8.2,False
+study_only,S,Beta maritima ssp. marcosii,Galmes 2005,Galmes 2005,96.3,2019:row65:S,1,8.2,False
+study_only,S,Beta maritima ssp. maritima,Galmes 2005,Galmes 2005,92.90000000000003,2019:row71:S,1,8.2,False
+study_only,S,Beta vulgaris,Hermida-Carrera 2016,Hermida-Carrera 2016,100.8,2019:row130:S,1,8.2,False
+study_only,S,Beta vulgarisssp.vulgaris,Orr 2016,Orr 2016,97.80000000000001,2019:row336:S,1,8.2,False
+study_only,S,Brassica oleracea,Hermida-Carrera 2016,Hermida-Carrera 2016,96.19999999999997,2019:row141:S,1,8.2,False
+study_only,S,Bromus anomalus,Orr 2016,Orr 2016,101.40000000000002,2019:row319:S,1,8.2,False
+study_only,S,C. dactylon,Carmo-Silva 2010,Carmo-Silva 2010,89.2,2019:row51:S,1,8.2,False
+study_only,S,C. fusiformis,Read 1994,Read 1994,110.8,2019:row476:S,1,8,False
+study_only,S,Calamagrostis arundinacea,Orr 2016,Orr 2016,103.79999999999997,2019:row314:S,1,8.2,False
+study_only,S,Calamagrostis canescens,Orr 2016,Orr 2016,98.49999999999999,2019:row334:S,1,8.2,False
+study_only,S,Calamagrostis foliosa,Orr 2016,Orr 2016,104.79999999999997,2019:row310:S,1,8.2,False
+study_only,S,Calamagrostis inexpansa,Orr 2016,Orr 2016,110.60000000000001,2019:row286:S,1,8.2,False
+study_only,S,Calamagrostis nutkaensis,Orr 2016,Orr 2016,108.59999999999997,2019:row291:S,1,8.2,False
+study_only,S,Capsicum annuum,Hermida-Carrera 2016,Hermida-Carrera 2016,95.99999999999999,2019:row142:S,1,8.2,False
+study_only,S,Cenchrus ciliaris,Sharwood 2016,Sharwood 2016,69.89999999999998,2019:row536:S,1,8.16,False
+study_only,S,Chaetoceros calcitrans (CCMP 1315),Young 2016,Young 2016,57.00000000000001,2019:row627:S,1,8,False
+study_only,S,Chaetoceros calcitrans (CS-178),Young 2016,Young 2016,74.99999999999997,2019:row626:S,1,8,False
+study_only,S,Chaetoceros muelleri (CCMP 1316),Young 2016,Young 2016,95.99999999999999,2019:row621:S,1,8,False
+study_only,S,Chaetoceros socialis,Haslam 2005,Haslam 2005,92.00000000000001,2019:row127:S,1,8.2,False
+study_only,S,Chenopodium alba,Kubien 2008,Kubien 2008,78.69999999999997,2019:row238:S,1,8,False
+study_only,S,Chenopodium murale,Orr 2016,Orr 2016,108.89999999999998,2019:row288:S,1,8.2,False
+study_only,S,Chenopodium petiolare,Orr 2016,Orr 2016,98.49999999999999,2019:row335:S,1,8.2,False
+study_only,S,Chenopodium rubrum,Orr 2016,Orr 2016,97.80000000000001,2019:row337:S,1,8.2,False
+study_only,S,Chlamydomonas reinhardtii,Jordan 1981,Jordan 1981,61.00000000000001,2019:row182:S,1,8.3,False
+study_only,S,Chlamydomonas reinhardtii,Uemura 1996,Uemura 1996,70.5,2019:row564:S,1,8.3,False
+study_only,S,Chromatium vinosum,Uemura 1996,Uemura 1996,44.400000000000006,2019:row567:S,1,8.3,E. coli
+study_only,S,Chrysanthellum indicum var. afroamericanum,Orr 2016,Orr 2016,82.4,2019:row358:S,1,8.2,False
+study_only,S,Citrullus ecirrhosus,Orr 2016,Orr 2016,99.90000000000002,2019:row329:S,1,8.2,False
+study_only,S,Citrullus lanatus var. lanatus,Orr 2016,Orr 2016,106.89999999999996,2019:row296:S,1,8.2,False
+study_only,S,Coccochloris peniocystis,Jordan 1981,Jordan 1981,46.99999999999999,2019:row185:S,1,8.3,False
+study_only,S,Coffee arabica,Hermida-Carrera 2016,Hermida-Carrera 2016,98.7,2019:row136:S,1,8.2,False
+study_only,S,Cucurbita maxima,Hermida-Carrera 2016,Hermida-Carrera 2016,98.39999999999996,2019:row138:S,1,8.2,False
+study_only,S,Cyanidium caldarium,Uemura 1997,Uemura 1997,224.5999999999999,2019:row569:S,1,8,False
+study_only,S,Cyanobium PCC7001,Long 2018,Long 2018,55.000000000000014,2019:row257:S,1,8,Tobacco
+study_only,S,Cylindrotheca N1,Read 1992b,Read 1992b,107.09999999999998,2019:row472:S,1,8,False
+study_only,S,Cylindrotheca N1,Read 1994,Read 1994,105.59999999999998,2019:row482:S,1,8,False
+study_only,S,Cylindrotheca fusiformis (CS-13),Young 2016,Young 2016,79.0,2019:row624:S,1,8,False
+study_only,S,Deschampsia danthonioides,Orr 2016,Orr 2016,107.89999999999996,2019:row293:S,1,8.2,False
+study_only,S,Desmodium cinereum,Orr 2016,Orr 2016,97.49999999999999,2019:row340:S,1,8.2,False
+study_only,S,Desmodium intortum,Orr 2016,Orr 2016,98.7,2019:row333:S,1,8.2,False
+study_only,S,Desmodium psilocarpum,Orr 2016,Orr 2016,95.9,2019:row346:S,1,8.2,False
+study_only,S,Diplotaxis ibicensis,Galmes 2005,Galmes 2005,95.60000000000002,2019:row66:S,1,8.2,False
+study_only,S,Echinochloa crus-galli,Jordan 1983,Jordan 1983,83.00000000000003,2019:row188:S,1,8.3,False
+study_only,S,Elymus farctus,Orr 2016,Orr 2016,105.99999999999997,2019:row301:S,1,8.2,False
+study_only,S,Eragrostis tef,Orr 2016,Orr 2016,88.99999999999999,2019:row356:S,1,8.2,False
+study_only,S,Erythrina flabelliformis,Orr 2016,Orr 2016,96.39999999999998,2019:row344:S,1,8.2,False
+study_only,S,Euglena gracilis,Jordan 1981,Jordan 1981,54.00000000000001,2019:row183:S,1,8.3,False
+study_only,S,Euphorbia helioscopia,Orr 2016,Orr 2016,96.80000000000003,2019:row342:S,1,8.2,False
+study_only,S,Euphorbia microsphaera,Orr 2016,Orr 2016,99.69999999999997,2019:row331:S,1,8.2,False
+study_only,S,Festuca gigantea,Orr 2016,Orr 2016,108.00000000000003,2019:row292:S,1,8.2,False
+study_only,S,Festuca pratensis,Orr 2016,Orr 2016,105.5,2019:row304:S,1,8.2,False
+study_only,S,Flaveria angustifolia,Kubien 2008,Kubien 2008,83.19999999999999,2019:row232:S,1,8,False
+study_only,S,Flaveria angustifolia,Perdomo 2015,Perdomo 2015,90.40000000000002,2019:row434:S,1,unknown,False
+study_only,S,Flaveria anomala,Kubien 2008,Kubien 2008,77.89999999999998,2019:row241:S,1,8,False
+study_only,S,Flaveria australasica,Kubien 2008,Kubien 2008,77.2,2019:row243:S,1,8,False
+study_only,S,Flaveria bidentis,Kubien 2008,Kubien 2008,75.49999999999999,2019:row246:S,1,8,False
+study_only,S,Flaveria bidentis,Perdomo 2015,Perdomo 2015,79.99999999999997,2019:row438:S,1,unknown,False
+study_only,S,Flaveria bidentis,Whitney 2011,Whitney 2011,81.00000000000003,2019:row588:S,1,8,False
+study_only,S,Flaveria brownii,Kubien 2008,Kubien 2008,83.79999999999997,2019:row230:S,1,8,False
+study_only,S,Flaveria chloraefolia,Kubien 2008,Kubien 2008,81.59999999999997,2019:row233:S,1,8,False
+study_only,S,Flaveria cronquistii,Kubien 2008,Kubien 2008,81.00000000000003,2019:row234:S,1,8,False
+study_only,S,Flaveria cronquistii,Perdomo 2015,Perdomo 2015,88.19999999999999,2019:row436:S,1,unknown,False
+study_only,S,Flaveria floridana,Kubien 2008,Kubien 2008,84.5,2019:row228:S,1,8,False
+study_only,S,Flaveria floridana,Perdomo 2015,Perdomo 2015,84.29999999999998,2019:row437:S,1,unknown,False
+study_only,S,Flaveria floridana,Whitney 2011,Whitney 2011,82.00000000000001,2019:row586:S,1,8,False
+study_only,S,Flaveria kochiana,Kubien 2008,Kubien 2008,77.00000000000001,2019:row245:S,1,8,False
+study_only,S,Flaveria linearis,Kubien 2008,Kubien 2008,78.1,2019:row240:S,1,8,False
+study_only,S,Flaveria palmeri,Kubien 2008,Kubien 2008,83.79999999999997,2019:row231:S,1,8,False
+study_only,S,Flaveria pringlei,Kubien 2008,Kubien 2008,80.80000000000003,2019:row235:S,1,8,False
+study_only,S,Flaveria pringlei,Perdomo 2015,Perdomo 2015,90.09999999999997,2019:row435:S,1,unknown,False
+study_only,S,Flaveria pringlei,Whitney 2011,Whitney 2011,81.00000000000003,2019:row587:S,1,8,False
+study_only,S,Flaveria pringlei,Zhu 1998,Zhu 1998,101.99999999999996,2019:row632:S,1,8,False
+study_only,S,Flaveria ramosissima,Kubien 2008,Kubien 2008,79.80000000000001,2019:row236:S,1,8,False
+study_only,S,Flaveria sonorensis,Kubien 2008,Kubien 2008,84.29999999999998,2019:row229:S,1,8,False
+study_only,S,Flaveria trinervia,Kubien 2008,Kubien 2008,77.00000000000001,2019:row244:S,1,8,False
+study_only,S,Flaveria trinervia,Perdomo 2015,Perdomo 2015,78.30000000000003,2019:row439:S,1,unknown,False
+study_only,S,Flaveria vaginata,Kubien 2008,Kubien 2008,78.69999999999997,2019:row239:S,1,8,False
+study_only,S,Flueggea suffruticosa,Orr 2016,Orr 2016,101.00000000000003,2019:row322:S,1,8.2,False
+study_only,S,Foeniculum vulgare,Orr 2016,Orr 2016,94.3,2019:row348:S,1,8.2,False
+study_only,S,Fragilariopsis cylindrus (CCMP 1102),Young 2016,Young 2016,77.00000000000001,2019:row625:S,1,8,False
+study_only,S,Galdieria partita Tokara,Uemura 1997,Uemura 1997,238.09999999999988,2019:row568:S,1,8,False
+study_only,S,Galdieria sulfuraria,Whitney 2001,Whitney 2001,166.00000000000006,2019:row583:S,1,8,False
+study_only,S,Glycine canescens,Orr 2016,Orr 2016,97.10000000000001,2019:row341:S,1,8.2,False
+study_only,S,Glycine max,Hermida-Carrera 2016,Hermida-Carrera 2016,97.0,2019:row139:S,1,8.2,False
+study_only,S,Glycine max,Jordan 1981,Jordan 1981,82.00000000000001,2019:row175:S,1,8.3,False
+study_only,S,Glycine max,Orr 2016,Orr 2016,99.59999999999997,2019:row332:S,1,8.2,False
+study_only,S,Griffithsia monilis,Whitney 2001,Whitney 2001,167.00000000000006,2019:row582:S,1,8,False
+study_only,S,H. vulgare cv. Lenins,Prins 2016,Prins 2016,101.99999999999996,2019:row448:S,1,8.2,False
+study_only,S,Helianthus annuus L.,Viil 2012,Viil 2012,73.60000000000001,2019:row577:S,1,unknown,False
+study_only,S,Helianthus maximus,Jordan 1983,Jordan 1983,77.00000000000001,2019:row192:S,1,8.3,False
+study_only,S,Hordeum brachyantherum,Orr 2016,Orr 2016,101.2,2019:row320:S,1,8.2,False
+study_only,S,Hordeum murinum,Orr 2016,Orr 2016,100.30000000000001,2019:row327:S,1,8.2,False
+study_only,S,Hordeum vulgare L.,Viil 2012,Viil 2012,86.89999999999999,2019:row574:S,1,unknown,False
+study_only,S,Hordeum vulgare cv. Stirling,Kane 1994,Kane 1994,86.80000000000001,2019:row219:S,1,8.3,False
+study_only,S,Hordeum vulgare ssp. vulgare cv. Morex,Hermida-Carrera 2016,Hermida-Carrera 2016,99.20000000000003,2019:row135:S,1,8.2,False
+study_only,S,Hypericum balearicum,Galmes 2005,Galmes 2005,93.60000000000002,2019:row70:S,1,8.2,False
+study_only,S,Ipomoea batatas,Hermida-Carrera 2016,Hermida-Carrera 2016,98.49999999999999,2019:row137:S,1,8.2,False
+study_only,S,Kundmannia sicula,Galmes 2005,Galmes 2005,89.2,2019:row73:S,1,8.2,False
+study_only,S,Lablab purpureus,Orr 2016,Orr 2016,91.09999999999997,2019:row354:S,1,8.2,False
+study_only,S,Lactua sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,94.0,2019:row145:S,1,8.2,False
+study_only,S,Lepidium campestre,Orr 2016,Orr 2016,92.8,2019:row351:S,1,8.2,False
+study_only,S,Limonium antonii‐llorensii,Galmes 2014a,Galmes 2014a,112.09999999999998,2019:row79:S,1,8,False
+study_only,S,Limonium artruchium,Galmes 2014a,Galmes 2014a,112.80000000000003,2019:row78:S,1,8,False
+study_only,S,Limonium balearicum,Galmes 2014a,Galmes 2014a,103.29999999999998,2019:row87:S,1,8,False
+study_only,S,Limonium barceloi,Galmes 2014a,Galmes 2014a,106.29999999999995,2019:row86:S,1,8,False
+study_only,S,Limonium biflorum,Galmes 2014a,Galmes 2014a,111.90000000000005,2019:row81:S,1,8,False
+study_only,S,Limonium companyonis,Galmes 2014a,Galmes 2014a,111.79999999999998,2019:row82:S,1,8,False
+study_only,S,Limonium echioides,Galmes 2014a,Galmes 2014a,106.4,2019:row85:S,1,8,False
+study_only,S,Limonium ejulabilis,Galmes 2014a,Galmes 2014a,115.99999999999999,2019:row76:S,1,8,False
+study_only,S,Limonium gibertii,Galmes 2005,Galmes 2005,110.50000000000004,2019:row60:S,1,8.2,False
+study_only,S,Limonium gibertii,Galmes 2014a,Galmes 2014a,112.09999999999998,2019:row80:S,1,8,False
+study_only,S,Limonium grosii,Galmes 2014a,Galmes 2014a,113.2,2019:row77:S,1,8,False
+study_only,S,Limonium gymnesicum,Galmes 2014a,Galmes 2014a,121.19999999999995,2019:row74:S,1,8,False
+study_only,S,Limonium leonardi‐llorensii,Galmes 2014a,Galmes 2014a,109.70000000000005,2019:row84:S,1,8,False
+study_only,S,Limonium magallufianum,Galmes 2005,Galmes 2005,106.09999999999995,2019:row61:S,1,8.2,False
+study_only,S,Limonium magallufianum,Galmes 2014a,Galmes 2014a,110.60000000000001,2019:row83:S,1,8,False
+study_only,S,Limonium retusum,Galmes 2014a,Galmes 2014a,121.00000000000003,2019:row75:S,1,8,False
+study_only,S,Lolium multiflorum,Orr 2016,Orr 2016,99.90000000000002,2019:row330:S,1,8.2,False
+study_only,S,Lolium perenne,Jordan 1981,Jordan 1981,79.99999999999997,2019:row178:S,1,8.3,False
+study_only,S,Lolium rigidum,Orr 2016,Orr 2016,100.49999999999999,2019:row326:S,1,8.2,False
+study_only,S,Lycopersicon ensculentum,Jordan 1983,Jordan 1983,82.00000000000001,2019:row189:S,1,8.3,False
+study_only,S,Lysimachia minoricensis,Galmes 2005,Galmes 2005,93.79999999999997,2019:row69:S,1,8.2,False
+study_only,S,Macrotyloma uniflorum,Orr 2016,Orr 2016,101.00000000000003,2019:row323:S,1,8.2,False
+study_only,S,Manihot esculenta,Hermida-Carrera 2016,Hermida-Carrera 2016,100.8,2019:row131:S,1,8.2,False
+study_only,S,Manihot esculenta,Orr 2016,Orr 2016,105.39999999999999,2019:row305:S,1,8.2,False
+study_only,S,Medicago sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,95.60000000000002,2019:row143:S,1,8.2,False
+study_only,S,Medicago sativa,Jordan 1983,Jordan 1983,77.00000000000001,2019:row194:S,1,8.3,False
+study_only,S,Megathyrsus maximus,Sharwood 2016,Sharwood 2016,80.29999999999998,2019:row530:S,1,8.16,False
+study_only,S,Mentha aquatica,Galmes 2005,Galmes 2005,97.19999999999997,2019:row63:S,1,8.2,False
+study_only,S,Mercurialis annua,Orr 2016,Orr 2016,95.69999999999999,2019:row347:S,1,8.2,False
+study_only,S,Methanococcoides burtonii,Alonso 2009,Alonso 2009,1.1598275733918382,2019:row3:S;2019:row4:S,2,7,E. coli;Tobacco
+study_only,S,Methanococcoides burtonii,Wilson 2016,Wilson 2016,1.3,2019:row590:S,1,7.2 or 8.0,Tobacco
+study_only,S,Methanococcoides burtonii K332E,Wilson 2016,Wilson 2016,1.3,2019:row591:S,1,7.2 or 8.0,Tobacco
+study_only,S,Methanococcoides burtonii L2,Alonso 2009,Alonso 2009,1.08,2019:row5:S,1,7,E. coli
+study_only,S,Musa velutina,Orr 2016,Orr 2016,111.4,2019:row285:S,1,8.2,False
+study_only,S,Nicotiana glauca Grah.,Viil 2012,Viil 2012,73.70000000000003,2019:row576:S,1,unknown,False
+study_only,S,Nicotiana tabacum,Kane 1994,Kane 1994,81.9,2019:row222:S,1,8.3,False
+study_only,S,Nicotiana tabacum,Occhialini 2015,Occhialini 2015,91.20000000000002,2019:row282:S,1,8.1,False
+study_only,S,Nicotiana tabacum,Sharwood 2016,Sharwood 2016,82.60000000000002,2019:row527:S,1,8.16,False
+study_only,S,Nicotiana tabacum,Uemura 1996,Uemura 1996,92.14510296266424,2019:row560:S;2019:row562:S,2,8.3,False
+study_only,S,Nicotiana tabacum,Walker 2013,Walker 2013,94.19999999999999,2019:row581:S,1,unknown,False
+study_only,S,Nicotiana tabacum,Whitney 2001,Whitney 2001,82.00000000000001,2019:row585:S,1,8,False
+study_only,S,Nicotiana tabacum L. cv. W38,von Caemmerer 1994,von Caemmerer 1994,99.72462083156799,2019:row578:S;2019:row579:S,2,unknown,False
+study_only,S,Nicotiana tabacum cv. PH,Orr 2016,Orr 2016,96.39999999999998,2019:row343:S,1,8.2,False
+study_only,S,Olisthodiscus luteus,Read 1994,Read 1994,100.49999999999999,2019:row483:S,1,8,False
+study_only,S,Oryza barthii/glaberrima,Orr 2016,Orr 2016,106.89999999999996,2019:row297:S,1,8.2,False
+study_only,S,Oryza eichingeri,Orr 2016,Orr 2016,107.29999999999998,2019:row295:S,1,8.2,False
+study_only,S,Oryza glaberrima (WAB 1939),Orr 2016,Orr 2016,104.69999999999999,2019:row312:S,1,8.2,False
+study_only,S,Oryza glumaepatula,Orr 2016,Orr 2016,108.80000000000004,2019:row289:S,1,8.2,False
+study_only,S,Oryza longistaminata,Orr 2016,Orr 2016,107.80000000000003,2019:row294:S,1,8.2,False
+study_only,S,Oryza meridionalis,Orr 2016,Orr 2016,106.80000000000001,2019:row298:S,1,8.2,False
+study_only,S,Oryza nivara,Orr 2016,Orr 2016,106.80000000000001,2019:row299:S,1,8.2,False
+study_only,S,Oryza punctata,Orr 2016,Orr 2016,108.7,2019:row290:S,1,8.2,False
+study_only,S,Oryza punctata Kotschy,Kane 1994,Kane 1994,85.00000000000001,2019:row220:S,1,8.3,False
+study_only,S,Oryza sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,93.1,2019:row146:S,1,8.2,False
+study_only,S,Oryza sativa ssp.Indicacv.Icasulum,Orr 2016,Orr 2016,101.00000000000003,2019:row324:S,1,8.2,False
+study_only,S,Oryza sativa ssp.Japonicacv.Nipponbare,Orr 2016,Orr 2016,105.59999999999998,2019:row302:S,1,8.2,False
+study_only,S,P. dilatatum,Carmo-Silva 2010,Carmo-Silva 2010,88.00000000000003,2019:row52:S,1,8.2,False
+study_only,S,Panicum amarum,Orr 2016,Orr 2016,89.49999999999999,2019:row355:S,1,8.2,False
+study_only,S,Panicum antidotale,Sharwood 2016,Sharwood 2016,74.5,2019:row534:S,1,8.16,False
+study_only,S,Panicum bisulcatum,Sharwood 2016,Sharwood 2016,87.69999999999997,2019:row524:S,1,8.16,False
+study_only,S,Panicum coloratum,Sharwood 2016,Sharwood 2016,84.79999999999998,2019:row525:S,1,8.16,False
+study_only,S,Panicum deustum,Sharwood 2016,Sharwood 2016,84.79999999999998,2019:row526:S,1,8.16,False
+study_only,S,Panicum dichotomiflorum,Orr 2016,Orr 2016,92.6,2019:row352:S,1,8.2,False
+study_only,S,Panicum miliodes,Jordan 1983,Jordan 1983,76.0,2019:row195:S,1,8.3,False
+study_only,S,Panicum milioides,Sharwood 2016,Sharwood 2016,92.30000000000003,2019:row522:S,1,8.16,False
+study_only,S,Panicum milliaceum,Sharwood 2016,Sharwood 2016,79.89999999999998,2019:row531:S,1,8.16,False
+study_only,S,Panicum monticola,Sharwood 2016,Sharwood 2016,79.40000000000002,2019:row532:S,1,8.16,False
+study_only,S,Panicum phragmitoides,Orr 2016,Orr 2016,106.59999999999995,2019:row300:S,1,8.2,False
+study_only,S,Panicum virgatum,Sharwood 2016,Sharwood 2016,82.60000000000002,2019:row528:S,1,8.16,False
+study_only,S,Pavlova lutheri,Heureux 2017,Heureux 2017,125.00000000000004,2019:row172:S,1,8.16,False
+study_only,S,Petroselinum cripsum,Jordan 1983,Jordan 1983,77.00000000000001,2019:row193:S,1,8.3,False
+study_only,S,Phaeodactylum tricornutum,Whitney 2001,Whitney 2001,113.00000000000003,2019:row584:S,1,8,False
+study_only,S,Phaeodactylum tricornutum (CS-29),Young 2016,Young 2016,115.99999999999999,2019:row619:S,1,8,False
+study_only,S,Phaeodactylum tricornutum (UTEX 642),Young 2016,Young 2016,108.00000000000003,2019:row620:S,1,8,False
+study_only,S,Phaseolus carteri,Orr 2016,Orr 2016,84.5,2019:row357:S,1,8.2,False
+study_only,S,Phaseolus coccineus,Orr 2016,Orr 2016,103.59999999999995,2019:row315:S,1,8.2,False
+study_only,S,Phaseolus lunatus,Orr 2016,Orr 2016,101.2,2019:row321:S,1,8.2,False
+study_only,S,Phaseolus vulgaris,Hermida-Carrera 2016,Hermida-Carrera 2016,99.69999999999997,2019:row134:S,1,8.2,False
+study_only,S,Phaseolus vulgaris,Orr 2016,Orr 2016,105.29999999999997,2019:row307:S,1,8.2,False
+study_only,S,Pistacia lentiscus,Galmes 2005,Galmes 2005,97.19999999999997,2019:row64:S,1,8.2,False
+study_only,S,Pisum sativum,Uemura 1996,Uemura 1996,90.20000000000002,2019:row563:S,1,8.3,False
+study_only,S,Plantago lanceolata L.,Viil 2012,Viil 2012,77.30000000000001,2019:row575:S,1,unknown,False
+study_only,S,Plectonema boryanum,Jordan 1983,Jordan 1983,54.00000000000001,2019:row198:S,1,8.3,False
+study_only,S,Pleurochrysis carterae,Heureux 2017,Heureux 2017,101.99999999999996,2019:row173:S,1,8.16,False
+study_only,S,Poa palustris,Orr 2016,Orr 2016,111.5,2019:row284:S,1,8.2,False
+study_only,S,Polypodium aureum,Jordan 1983,Jordan 1983,82.00000000000001,2019:row190:S,1,8.3,False
+study_only,S,Porphyra yezoensis,Uemura 1996,Uemura 1996,144.89999999999995,2019:row557:S,1,8.3,False
+study_only,S,Porphyridium cruenteum,Read 1994,Read 1994,128.8,2019:row475:S,1,8,False
+study_only,S,Porphyridium purpureum,Uemura 1997,Uemura 1997,143.50000000000003,2019:row570:S,1,8,False
+study_only,S,Potulaca oleraca,Jordan 1983,Jordan 1983,78.0,2019:row191:S,1,8.3,False
+study_only,S,Prochlorococcus marinus MIT9313,Shih 2016,Shih 2016,59.899999999999984,2019:row552:S,1,8,E. coli
+study_only,S,Puccinellia distans,Orr 2016,Orr 2016,104.10000000000002,2019:row313:S,1,8.2,False
+study_only,S,Puccinellia lemmonii,Orr 2016,Orr 2016,101.49999999999997,2019:row318:S,1,8.2,False
+study_only,S,Puccinellia maritima,Orr 2016,Orr 2016,105.59999999999998,2019:row303:S,1,8.2,False
+study_only,S,Puccinellia nuttalliana,Orr 2016,Orr 2016,105.39999999999999,2019:row306:S,1,8.2,False
+study_only,S,Pueraria montana,Orr 2016,Orr 2016,100.6,2019:row325:S,1,8.2,False
+study_only,S,Rhamnus alaternus,Galmes 2005,Galmes 2005,94.69999999999997,2019:row67:S,1,8.2,False
+study_only,S,Rhamnus ludovici-salvatoris,Galmes 2005,Galmes 2005,94.40000000000003,2019:row68:S,1,8.2,False
+study_only,S,Rhodobacter sphaeroides I,Jordan 1981,Jordan 1981,62.00000000000001,2019:row181:S,1,8.3,False
+study_only,S,Rhodobacter sphaeroides II,Jordan 1981,Jordan 1981,9.000000000000002,2019:row187:S,1,8.3,False
+study_only,S,Rhodospirillum rubrum,Alonso 2009,Alonso 2009,8.100000000000001,2019:row2:S,1,7,E. coli
+study_only,S,Rhodospirillum rubrum,Andrews 1985,Andrews 1985,13.999999999999996,2019:row8:S,1,8.52,E. coli
+study_only,S,Rhodospirillum rubrum,Gutteridge 1984,Gutteridge 1984,7.599999999999998,2019:row125:S,1,8.2,E. coli
+study_only,S,Rhodospirillum rubrum,Jordan 1981,Jordan 1981,15.0,2019:row186:S,1,8.3,False
+study_only,S,Rhodospirillum rubrum,Jordan 1984,Jordan 1984,11.230993718855464,2019:row209:S;2019:row210:S;2019:row211:S;2019:row212:S;2019:row213:S;2019:row214:S,6,8.2,False
+study_only,S,Rhodospirillum rubrum,Kane 1994,Kane 1994,12.300000000000002,2019:row225:S,1,8.3,E. coli
+study_only,S,Rhodospirillum rubrum,Mueller-Cajar 2007,Mueller-Cajar 2007,9.000000000000002,2019:row272:S,1,8,E. coli
+study_only,S,S. cereale cv. Agronom,Prins 2016,Prins 2016,91.50000000000003,2019:row463:S,1,8.2,False
+study_only,S,Saccharum officinarum,Hermida-Carrera 2016,Hermida-Carrera 2016,82.20000000000003,2019:row149:S,1,8.2,False
+study_only,S,Scenedesmus obliquus,Jordan 1981,Jordan 1981,62.99999999999999,2019:row180:S,1,8.3,False
+study_only,S,Setaria italica,Jordan 1983,Jordan 1983,57.999999999999986,2019:row197:S,1,8.3,False
+study_only,S,Setaria viridis,Sharwood 2016,Sharwood 2016,72.69999999999997,2019:row535:S,1,8.16,False
+study_only,S,Skeletonema costatum,Haslam 2005,Haslam 2005,72.0,2019:row129:S,1,8.2,False
+study_only,S,Solanum lycopersicum,Hermida-Carrera 2016,Hermida-Carrera 2016,92.39999999999996,2019:row147:S,1,8.2,False
+study_only,S,Solanum tuberosum,Hermida-Carrera 2016,Hermida-Carrera 2016,95.40000000000002,2019:row144:S,1,8.2,False
+study_only,S,Sorghum bicolor,Jordan 1983,Jordan 1983,70.00000000000003,2019:row196:S,1,8.3,False
+study_only,S,Sphenostylis stenocarpa,Orr 2016,Orr 2016,93.60000000000002,2019:row350:S,1,8.2,False
+study_only,S,Spinacia oleracea,Andrews 1985,Andrews 1985,104.99999999999997,2019:row6:S,1,8.52,False
+study_only,S,Spinacia oleracea,Gubernator 2008,Gubernator 2008,98.19999999999996,2019:row120:S,1,8.2,Unclear
+study_only,S,Spinacia oleracea,Hermida-Carrera 2016,Hermida-Carrera 2016,97.0,2019:row140:S,1,8.2,False
+study_only,S,Spinacia oleracea,Jordan 1984,Jordan 1984,83.34857785795877,2019:row200:S;2019:row201:S;2019:row202:S;2019:row203:S;2019:row204:S;2019:row205:S;2019:row206:S;2019:row207:S,8,8.2,False
+study_only,S,Spinacia oleracea,Kane 1994,Kane 1994,82.10000000000002,2019:row221:S,1,8.3,False
+study_only,S,Spinacia oleracea,Kubien 2008,Kubien 2008,79.80000000000001,2019:row237:S,1,8,False
+study_only,S,Spinacia oleracea,Read 1994,Read 1994,77.2,2019:row484:S,1,8,False
+study_only,S,Spinacia oleracea,Uemura 1996,Uemura 1996,93.44934456698981,2019:row559:S;2019:row561:S,2,8.3,False
+study_only,S,Spinacia oleracea,Uemura 1997,Uemura 1997,93.79999999999997,2019:row571:S,1,8,False
+study_only,S,Spinacia oleracea,Yamori 2006,Yamori 2006,94.9,2019:row609:S,1,8,False
+study_only,S,Spinacia oleracea,Zhu 1998,Zhu 1998,92.00000000000001,2019:row634:S,1,8,False
+study_only,S,Spinacia oleracea hybrid 102,Brooks 1985,Brooks 1985,94.10000000000002,2019:row49:S,1,unknown,False
+study_only,S,Steinchisma laxa,Sharwood 2016,Sharwood 2016,91.40000000000002,2019:row523:S,1,8.16,False
+study_only,S,Synechococcus 6301,Andrews 1985,Andrews 1985,67.19999999999999,2019:row7:S,1,8.52,False
+study_only,S,Synechococcus 6301,Greene 2007,Greene 2007,43.9,2019:row116:S,1,8.3,E. coli
+study_only,S,Synechococcus 6301,Kane 1994,Kane 1994,42.50000000000001,2019:row224:S,1,8.3,E. coli
+study_only,S,Synechococcus 6301,Morell 1994,Morell 1994,43.0,2019:row265:S,1,7.8,E. coli
+study_only,S,Synechococcus 6301,Mueller-Cajar 2008,Mueller-Cajar 2008,41.49999999999999,2019:row281:S,1,8,E. coli
+study_only,S,Synechococcus 6301,Read 1992a,Read 1992a,40.8,2019:row468:S,1,8,E. coli
+study_only,S,Synechococcus 6301,Read 1992b,Read 1992b,41.00000000000001,2019:row474:S,1,8,E. coli
+study_only,S,Synechococcus 6301,Read 1994,Read 1994,41.00000000000001,2019:row485:S,1,8,E. coli
+study_only,S,Synechococcus 6301,Shih 2016,Shih 2016,50.29999999999999,2019:row553:S,1,8,E. coli
+study_only,S,Synechococcus 6301 F92L,Read 1992a,Read 1992a,44.6,2019:row466:S,1,8,E. coli
+study_only,S,Synechococcus 6301 G91V,Read 1992a,Read 1992a,41.00000000000001,2019:row467:S,1,8,E. coli
+study_only,S,Synechococcus 6301 I87V,Read 1992a,Read 1992a,39.5,2019:row469:S,1,8,E. coli
+study_only,S,Synechococcus 6301 R88K,Read 1992a,Read 1992a,38.50000000000001,2019:row470:S,1,8,E. coli
+study_only,S,Synechococcus 7002,Gubernator 2008,Gubernator 2008,46.0,2019:row122:S,1,8.2,E. coli
+study_only,S,Synechococcus 7515,Zhu 1998,Zhu 1998,46.99999999999999,2019:row635:S,1,8,E. coli
+study_only,S,Synechococcus elongatus PCC 7942,Occhialini 2015,Occhialini 2015,43.0,2019:row283:S,1,8.1,Tobacco
+study_only,S,Synechococcus elongatus PCC 7942,Uemura 1996,Uemura 1996,45.20000000000001,2019:row566:S,1,8.3,E. coli
+study_only,S,T. aestivum (C),Prins 2016,Prins 2016,100.00000000000004,2019:row452:S,1,8.2,False
+study_only,S,T. aestivum SATYN1,Prins 2016,Prins 2016,93.79999999999997,2019:row460:S,1,8.2,False
+study_only,S,T. aestivum SATYN2,Prins 2016,Prins 2016,96.19999999999997,2019:row456:S,1,8.2,False
+study_only,S,T. aestivum SATYN3,Prins 2016,Prins 2016,92.90000000000003,2019:row462:S,1,8.2,False
+study_only,S,T. dicoccon1,Prins 2016,Prins 2016,94.10000000000002,2019:row459:S,1,8.2,False
+study_only,S,T. dicoccon2,Prins 2016,Prins 2016,90.89999999999998,2019:row464:S,1,8.2,False
+study_only,S,T. dicoccon3,Prins 2016,Prins 2016,95.20000000000003,2019:row458:S,1,8.2,False
+study_only,S,T. dicoccon4,Prins 2016,Prins 2016,93.79999999999997,2019:row461:S,1,8.2,False
+study_only,S,T. elongatus,Gubernator 2008,Gubernator 2008,82.10000000000002,2019:row121:S,1,8.2,E. coli
+study_only,S,T. monococcum,Prins 2016,Prins 2016,103.79999999999997,2019:row445:S,1,8.2,False
+study_only,S,T. timonovum,Prins 2016,Prins 2016,100.6,2019:row451:S,1,8.2,False
+study_only,S,T. timopheevii,Prins 2016,Prins 2016,101.79999999999997,2019:row449:S,1,8.2,False
+study_only,S,Tephrosia candida,Orr 2016,Orr 2016,97.80000000000001,2019:row338:S,1,8.2,False
+study_only,S,Tephrosia purpurea,Orr 2016,Orr 2016,102.89999999999996,2019:row317:S,1,8.2,False
+study_only,S,Tephrosia rhodesica,Orr 2016,Orr 2016,91.60000000000002,2019:row353:S,1,8.2,False
+study_only,S,Tetragonium expansa,Jordan 1981,Jordan 1981,81.00000000000003,2019:row177:S,1,8.3,False
+study_only,S,Thalassiosira antarctica,Haslam 2005,Haslam 2005,90.0,2019:row128:S,1,8.2,False
+study_only,S,Thalassiosira hyalina,Haslam 2005,Haslam 2005,97.0,2019:row126:S,1,8.2,False
+study_only,S,Thalassiosira oceania (CS-427),Young 2016,Young 2016,79.99999999999997,2019:row622:S,1,8,False
+study_only,S,Thalassiosira weissflogii (CCMP 1336),Young 2016,Young 2016,79.0,2019:row623:S,1,8,False
+study_only,S,Thermococcus kodakaraensis,Yoshida 2007,Yoshida 2007,11.000000000000002,2019:row614:S,1,8.3,E. coli
+study_only,S,Thiobacillus denitrificans IA,Hernandez 1996,Hernandez 1996,42.704347826086945,2019:row170:S,1,8,R. sphaeroides
+study_only,S,Thiobacillus denitrificans II,Hernandez 1996,Hernandez 1996,13.298828124999998,2019:row171:S,1,8,R. sphaeroides
+study_only,S,Tisochrysis lutea,Heureux 2017,Heureux 2017,88.99999999999999,2019:row174:S,1,8.16,False
+study_only,S,Triticale (Cando),Prins 2016,Prins 2016,99.69999999999997,2019:row453:S,1,8.2,False
+study_only,S,Triticale (Rotego),Prins 2016,Prins 2016,96.80000000000003,2019:row454:S,1,8.2,False
+study_only,S,Triticale (Talentro),Prins 2016,Prins 2016,95.20000000000003,2019:row457:S,1,8.2,False
+study_only,S,Triticum aestivum,Brooks 1985,Brooks 1985,101.6,2019:row48:S,1,unknown,False
+study_only,S,Triticum aestivum,Carmo-Silva 2010,Carmo-Silva 2010,100.00000000000004,2019:row50:S,1,8.2,False
+study_only,S,Triticum aestivum,Hermida-Carrera 2016,Hermida-Carrera 2016,100.09999999999997,2019:row132:S,1,8.2,False
+study_only,S,Triticum aestivum,Kane 1994,Kane 1994,89.90000000000003,2019:row218:S,1,8.3,False
+study_only,S,Triticum aestivum,Orr 2016,Orr 2016,100.00000000000004,2019:row328:S,1,8.2,False
+study_only,S,Triticum aestivum,Zhu 1998,Zhu 1998,98.00000000000004,2019:row633:S,1,8,False
+study_only,S,Triticum aestivum cv. Saratovskaya 29,Viil 2012,Viil 2012,88.89999999999999,2019:row573:S,1,unknown,False
+study_only,S,Triticum baeoticum,Orr 2016,Orr 2016,95.99999999999999,2019:row345:S,1,8.2,False
+study_only,S,Ulva pertusa,Uemura 1996,Uemura 1996,68.5,2019:row565:S,1,8.3,False
+study_only,S,Urochloa mosambicensis,Sharwood 2016,Sharwood 2016,82.49999999999997,2019:row529:S,1,8.16,False
+study_only,S,Urochloa panicoides,Sharwood 2016,Sharwood 2016,78.30000000000003,2019:row533:S,1,8.16,False
+study_only,S,Urtica atrovirens ssp. bianorii,Galmes 2005,Galmes 2005,90.20000000000002,2019:row72:S,1,8.2,False
+study_only,S,Urtica membranacea,Galmes 2005,Galmes 2005,102.39999999999998,2019:row62:S,1,8.2,False
+study_only,S,Z. japonica,Carmo-Silva 2010,Carmo-Silva 2010,84.1,2019:row53:S,1,8.2,False
+study_only,S,Zea mays,Jordan 1981,Jordan 1981,78.0,2019:row179:S,1,8.3,False
+study_only,S,Zea mays,Kane 1994,Kane 1994,78.59999999999998,2019:row223:S,1,8.3,False
+study_only,S,Zea mays,Kubien 2008,Kubien 2008,74.90000000000003,2019:row247:S,1,8,False
+study_only,S,Zea mays,Uemura 1996,Uemura 1996,96.39999999999998,2019:row558:S,1,8.3,False
+study_only,S,Zea mays cv. Carella,Hermida-Carrera 2016,Hermida-Carrera 2016,87.30000000000004,2019:row148:S,1,8.2,False
+study_only,vC,Acidithiobacillus ferrooxidans,Mueller-Cajar (personal),Mueller-Cajar (personal),6.800000000000001,2019:row267:vC,1,8,E. coli
+study_only,vC,Aegilops biuncialis,Prins 2016,Prins 2016,3.2,2019:row455:vC,1,8.2,False
+study_only,vC,Aegilops comosa,Prins 2016,Prins 2016,2.86,2019:row444:vC,1,8.2,False
+study_only,vC,Aegilops cylindrica,Prins 2016,Prins 2016,3.6800000000000006,2019:row441:vC,1,8.2,False
+study_only,vC,Aegilops juvenalis,Prins 2016,Prins 2016,3.25,2019:row465:vC,1,8.2,False
+study_only,vC,Aegilops speltoides,Prins 2016,Prins 2016,3.24,2019:row447:vC,1,8.2,False
+study_only,vC,Aegilops tauschii,Prins 2016,Prins 2016,2.86,2019:row443:vC,1,8.2,False
+study_only,vC,Aegilops triuncialis,Prins 2016,Prins 2016,2.62,2019:row446:vC,1,8.2,False
+study_only,vC,Aegilops uniaristata,Prins 2016,Prins 2016,2.7,2019:row450:vC,1,8.2,False
+study_only,vC,Aegilops vavilovii,Prins 2016,Prins 2016,3.3199999999999994,2019:row442:vC,1,8.2,False
+study_only,vC,Agave victoriae−reginae,Galmes 2014b,Galmes 2014b,3.4,2019:row101:vC,1,8,False
+study_only,vC,Agriophyllum squarrosum,Orr 2016,Orr 2016,2.8,2019:row374:vC,1,8,False
+study_only,vC,Agrostis scabra,Orr 2016,Orr 2016,3.5999999999999996,2019:row423:vC,1,8,False
+study_only,vC,Agrostis stolonifera,Orr 2016,Orr 2016,5.2,2019:row426:vC,1,8,False
+study_only,vC,Allochromatium vinosum,Jordan 1985,Jordan 1985,6.700000000000001,2019:row216:vC,1,8,False
+study_only,vC,Allochromatium vinosum,Uemura 1997,Uemura 1997,8.8,2019:row572:vC,1,8,False
+study_only,vC,Amaranthus edulis,Kubien 2008,Kubien 2008,4.14,2019:row242:vC,1,8,False
+study_only,vC,Amphicarpaea bracteata,Orr 2016,Orr 2016,4.0,2019:row408:vC,1,8,False
+study_only,vC,Anacystis nidulans,Bainbridge 1995,Bainbridge 1995,7.2,2019:row43:vC,1,8,Unclear
+study_only,vC,Arabidopsis thaliana,Boyd 2019,Boyd 2019,3.5149679941643854,2019:row46:vC;2019:row47:vC,2,7.7;8.2,False
+study_only,vC,Arabidopsis thaliana,Galmes 2014b,Galmes 2014b,4.1,2019:row92:vC,1,8,False
+study_only,vC,Arabidopsis thaliana cv. Columbia,Walker 2013,Walker 2013,3.3,2019:row580:vC,1,unknown,False
+study_only,vC,Arctagrostis latifolia,Orr 2016,Orr 2016,5.8,2019:row397:vC,1,8,False
+study_only,vC,Artemisia myriantha,Orr 2016,Orr 2016,3.1,2019:row428:vC,1,8,False
+study_only,vC,Artemisia vulgaris L.,Orr 2016,Orr 2016,3.8999999999999995,2019:row431:vC,1,8,False
+study_only,vC,Atrichum undulatum,Galmes 2014b,Galmes 2014b,3.0000000000000004,2019:row115:vC,1,8,False
+study_only,vC,Avena sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,2.3,2019:row159:vC,1,8,False
+study_only,vC,B. distachyon,Prins 2016,Prins 2016,2.05,2019:row440:vC,1,8.2,False
+study_only,vC,Bellerochea cf. horologicalis (CS-874/01),Young 2016,Young 2016,2.1,2019:row628:vC,1,8,False
+study_only,vC,Beta vulgaris,Hermida-Carrera 2016,Hermida-Carrera 2016,2.0,2019:row160:vC,1,8,False
+study_only,vC,Beta vulgarisssp.vulgaris,Orr 2016,Orr 2016,3.8,2019:row381:vC,1,8,False
+study_only,vC,Brassica oleracea,Hermida-Carrera 2016,Hermida-Carrera 2016,2.1,2019:row164:vC,1,8,False
+study_only,vC,Bromus anomalus,Orr 2016,Orr 2016,2.9,2019:row380:vC,1,8,False
+study_only,vC,C. fusiformis,Read 1994,Read 1994,1.95,2019:row476:vC,1,8,False
+study_only,vC,Calamagrostis arundinacea,Orr 2016,Orr 2016,4.1,2019:row401:vC,1,8,False
+study_only,vC,Calamagrostis canescens,Orr 2016,Orr 2016,2.5,2019:row372:vC,1,8,False
+study_only,vC,Calamagrostis foliosa,Orr 2016,Orr 2016,3.5,2019:row395:vC,1,8,False
+study_only,vC,Calamagrostis inexpansa,Orr 2016,Orr 2016,3.3,2019:row418:vC,1,8,False
+study_only,vC,Calamagrostis nutkaensis,Orr 2016,Orr 2016,3.1,2019:row419:vC,1,8,False
+study_only,vC,Capsicum annuum,Hermida-Carrera 2016,Hermida-Carrera 2016,1.9,2019:row156:vC,1,8,False
+study_only,vC,Carpobrotus edulis,Galmes 2014b,Galmes 2014b,3.5999999999999996,2019:row99:vC,1,8,False
+study_only,vC,Cenchrus ciliaris,Sharwood 2016,Sharwood 2016,6.0,2019:row536:vC,1,8.16,False
+study_only,vC,Ceratophyllum demersum,Galmes 2014b,Galmes 2014b,3.5,2019:row112:vC,1,8,False
+study_only,vC,Chaetoceros calcitrans (CCMP 1315),Young 2016,Young 2016,2.6,2019:row627:vC,1,8,False
+study_only,vC,Chaetoceros calcitrans (CS-178),Young 2016,Young 2016,3.4,2019:row626:vC,1,8,False
+study_only,vC,Chaetoceros muelleri (CCMP 1316),Young 2016,Young 2016,2.4,2019:row621:vC,1,8,False
+study_only,vC,Chenopodium alba,Kubien 2008,Kubien 2008,2.91,2019:row238:vC,1,8,False
+study_only,vC,Chenopodium murale,Orr 2016,Orr 2016,4.4,2019:row403:vC,1,8,False
+study_only,vC,Chenopodium petiolare,Orr 2016,Orr 2016,4.4,2019:row427:vC,1,8,False
+study_only,vC,Chenopodium rubrum,Orr 2016,Orr 2016,4.1,2019:row368:vC,1,8,False
+study_only,vC,Chrysanthellum indicum var. afroamericanum,Orr 2016,Orr 2016,4.7,2019:row430:vC,1,8,False
+study_only,vC,Citrullus ecirrhosus,Orr 2016,Orr 2016,3.1,2019:row386:vC,1,8,False
+study_only,vC,Citrullus lanatus var. lanatus,Orr 2016,Orr 2016,2.5,2019:row390:vC,1,8,False
+study_only,vC,Coffee arabica,Hermida-Carrera 2016,Hermida-Carrera 2016,2.1,2019:row161:vC,1,8,False
+study_only,vC,Crithmum maritimum,Galmes 2014b,Galmes 2014b,3.4,2019:row95:vC,1,8,False
+study_only,vC,Cucurbita maxima,Hermida-Carrera 2016,Hermida-Carrera 2016,2.2,2019:row154:vC,1,8,False
+study_only,vC,Cyanidium caldarium,Uemura 1997,Uemura 1997,1.3,2019:row569:vC,1,8,False
+study_only,vC,Cyanobium PCC7001,Long 2018,Long 2018,9.597916440561466,2019:row257:vC;2019:row258:vC,2,8,Tobacco
+study_only,vC,Cycas panzhihuaensis,Galmes 2014b,Galmes 2014b,3.1,2019:row96:vC,1,8,False
+study_only,vC,Cylindrotheca N1,Read 1992b,Read 1992b,0.97,2019:row472:vC,1,8,False
+study_only,vC,Cylindrotheca N1,Read 1994,Read 1994,0.78,2019:row482:vC,1,8,False
+study_only,vC,Cylindrotheca fusiformis (CS-13),Young 2016,Young 2016,3.7000000000000006,2019:row624:vC,1,8,False
+study_only,vC,Dactylis glomerata cv. Porto,Galmes 2014b,Galmes 2014b,3.2,2019:row106:vC,1,8,False
+study_only,vC,Deschampsia danthonioides,Orr 2016,Orr 2016,4.5,2019:row424:vC,1,8,False
+study_only,vC,Desmodium cinereum,Orr 2016,Orr 2016,3.0000000000000004,2019:row412:vC,1,8,False
+study_only,vC,Desmodium intortum,Orr 2016,Orr 2016,3.3,2019:row413:vC,1,8,False
+study_only,vC,Desmodium psilocarpum,Orr 2016,Orr 2016,3.5999999999999996,2019:row376:vC,1,8,False
+study_only,vC,Drosera capensis,Galmes 2014b,Galmes 2014b,4.7,2019:row103:vC,1,8,False
+study_only,vC,Drosera venusta,Galmes 2014b,Galmes 2014b,3.3,2019:row108:vC,1,8,False
+study_only,vC,Echeveria elegans,Galmes 2014b,Galmes 2014b,4.5,2019:row105:vC,1,8,False
+study_only,vC,Elymus farctus,Orr 2016,Orr 2016,3.3,2019:row391:vC,1,8,False
+study_only,vC,Eragrostis tef,Orr 2016,Orr 2016,7.1000000000000005,2019:row411:vC,1,8,False
+study_only,vC,Erythrina flabelliformis,Orr 2016,Orr 2016,3.5999999999999996,2019:row385:vC,1,8,False
+study_only,vC,Eucalyptus moorei,Galmes 2014b,Galmes 2014b,3.2,2019:row102:vC,1,8,False
+study_only,vC,Eucalyptus neglecta,Galmes 2014b,Galmes 2014b,2.5,2019:row91:vC,1,8,False
+study_only,vC,Euphorbia helioscopia,Orr 2016,Orr 2016,1.9,2019:row360:vC,1,8,False
+study_only,vC,Euphorbia microsphaera,Orr 2016,Orr 2016,4.5,2019:row407:vC,1,8,False
+study_only,vC,Festuca gigantea,Orr 2016,Orr 2016,5.1,2019:row410:vC,1,8,False
+study_only,vC,Festuca pratensis,Orr 2016,Orr 2016,5.1,2019:row402:vC,1,8,False
+study_only,vC,Flaveria angustifolia,Kubien 2008,Kubien 2008,2.86,2019:row232:vC,1,8,False
+study_only,vC,Flaveria angustifolia,Perdomo 2015,Perdomo 2015,2.77,2019:row434:vC,1,unknown,False
+study_only,vC,Flaveria anomala,Kubien 2008,Kubien 2008,3.8,2019:row241:vC,1,8,False
+study_only,vC,Flaveria australasica,Kubien 2008,Kubien 2008,3.8400000000000003,2019:row243:vC,1,8,False
+study_only,vC,Flaveria bidentis,Kubien 2008,Kubien 2008,4.16,2019:row246:vC,1,8,False
+study_only,vC,Flaveria bidentis,Perdomo 2015,Perdomo 2015,3.4200000000000004,2019:row438:vC,1,unknown,False
+study_only,vC,Flaveria bidentis,Whitney 2011,Whitney 2011,4.8,2019:row588:vC,1,8,False
+study_only,vC,Flaveria brownii,Kubien 2008,Kubien 2008,2.58,2019:row230:vC,1,8,False
+study_only,vC,Flaveria chloraefolia,Kubien 2008,Kubien 2008,3.35,2019:row233:vC,1,8,False
+study_only,vC,Flaveria cronquistii,Kubien 2008,Kubien 2008,3.13,2019:row234:vC,1,8,False
+study_only,vC,Flaveria cronquistii,Perdomo 2015,Perdomo 2015,2.9499999999999997,2019:row436:vC,1,unknown,False
+study_only,vC,Flaveria floridana,Kubien 2008,Kubien 2008,3.19,2019:row228:vC,1,8,False
+study_only,vC,Flaveria floridana,Perdomo 2015,Perdomo 2015,2.86,2019:row437:vC,1,unknown,False
+study_only,vC,Flaveria floridana,Whitney 2011,Whitney 2011,3.5999999999999996,2019:row586:vC,1,8,False
+study_only,vC,Flaveria kochiana,Kubien 2008,Kubien 2008,3.6800000000000006,2019:row245:vC,1,8,False
+study_only,vC,Flaveria linearis,Kubien 2008,Kubien 2008,3.43,2019:row240:vC,1,8,False
+study_only,vC,Flaveria palmeri,Kubien 2008,Kubien 2008,3.54,2019:row231:vC,1,8,False
+study_only,vC,Flaveria pringlei,Kubien 2008,Kubien 2008,3.11,2019:row235:vC,1,8,False
+study_only,vC,Flaveria pringlei,Perdomo 2015,Perdomo 2015,2.48,2019:row435:vC,1,unknown,False
+study_only,vC,Flaveria pringlei,Whitney 2011,Whitney 2011,3.5,2019:row587:vC,1,8,False
+study_only,vC,Flaveria pringlei,Zhu 1998,Zhu 1998,2.1,2019:row632:vC,1,8,False
+study_only,vC,Flaveria ramosissima,Kubien 2008,Kubien 2008,2.77,2019:row236:vC,1,8,False
+study_only,vC,Flaveria sonorensis,Kubien 2008,Kubien 2008,2.69,2019:row229:vC,1,8,False
+study_only,vC,Flaveria trinervia,Kubien 2008,Kubien 2008,4.42,2019:row244:vC,1,8,False
+study_only,vC,Flaveria trinervia,Perdomo 2015,Perdomo 2015,3.28,2019:row439:vC,1,unknown,False
+study_only,vC,Flaveria vaginata,Kubien 2008,Kubien 2008,3.7799999999999994,2019:row239:vC,1,8,False
+study_only,vC,Flueggea suffruticosa,Orr 2016,Orr 2016,3.4,2019:row389:vC,1,8,False
+study_only,vC,Foeniculum vulgare,Orr 2016,Orr 2016,4.4,2019:row394:vC,1,8,False
+study_only,vC,Fragilariopsis cylindrus (CCMP 1102),Young 2016,Young 2016,3.5,2019:row625:vC,1,8,False
+study_only,vC,Galdieria partita Tokara,Uemura 1997,Uemura 1997,1.6,2019:row568:vC,1,8,False
+study_only,vC,Galdieria sulfuraria,Whitney 2001,Whitney 2001,1.2,2019:row583:vC,1,8,False
+study_only,vC,Glycine canescens,Orr 2016,Orr 2016,2.6,2019:row382:vC,1,8,False
+study_only,vC,Glycine max,Hermida-Carrera 2016,Hermida-Carrera 2016,1.5,2019:row152:vC,1,8,False
+study_only,vC,Glycine max,Orr 2016,Orr 2016,2.5,2019:row363:vC,1,8,False
+study_only,vC,Griffithsia monilis,Whitney 2001,Whitney 2001,2.6,2019:row582:vC,1,8,False
+study_only,vC,H. vulgare cv. Lenins,Prins 2016,Prins 2016,3.99,2019:row448:vC,1,8.2,False
+study_only,vC,Hordeum brachyantherum,Orr 2016,Orr 2016,2.9,2019:row379:vC,1,8,False
+study_only,vC,Hordeum murinum,Orr 2016,Orr 2016,4.2,2019:row399:vC,1,8,False
+study_only,vC,Hordeum vulgare ssp. vulgare cv. Morex,Hermida-Carrera 2016,Hermida-Carrera 2016,2.4,2019:row153:vC,1,8,False
+study_only,vC,Ipomoea batatas,Hermida-Carrera 2016,Hermida-Carrera 2016,2.5,2019:row165:vC,1,8,False
+study_only,vC,Iris douglasiana,Galmes 2014b,Galmes 2014b,3.5,2019:row100:vC,1,8,False
+study_only,vC,Lablab purpureus,Orr 2016,Orr 2016,5.3,2019:row422:vC,1,8,False
+study_only,vC,Lactua sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,2.2,2019:row162:vC,1,8,False
+study_only,vC,Lepidium campestre,Orr 2016,Orr 2016,3.4,2019:row377:vC,1,8,False
+study_only,vC,Limonium antonii‐llorensii,Galmes 2014a,Galmes 2014a,2.4,2019:row79:vC,1,8,False
+study_only,vC,Limonium artruchium,Galmes 2014a,Galmes 2014a,3.0000000000000004,2019:row78:vC,1,8,False
+study_only,vC,Limonium balearicum,Galmes 2014a,Galmes 2014a,3.5999999999999996,2019:row87:vC,1,8,False
+study_only,vC,Limonium barceloi,Galmes 2014a,Galmes 2014a,3.4,2019:row86:vC,1,8,False
+study_only,vC,Limonium biflorum,Galmes 2014a,Galmes 2014a,2.4,2019:row81:vC,1,8,False
+study_only,vC,Limonium companyonis,Galmes 2014a,Galmes 2014a,3.3,2019:row82:vC,1,8,False
+study_only,vC,Limonium echioides,Galmes 2014a,Galmes 2014a,3.8999999999999995,2019:row85:vC,1,8,False
+study_only,vC,Limonium ejulabilis,Galmes 2014a,Galmes 2014a,2.0,2019:row76:vC,1,8,False
+study_only,vC,Limonium gibertii,Galmes 2014a,Galmes 2014a,2.5,2019:row80:vC,1,8,False
+study_only,vC,Limonium grosii,Galmes 2014a,Galmes 2014a,2.9,2019:row77:vC,1,8,False
+study_only,vC,Limonium gymnesicum,Galmes 2014a,Galmes 2014a,2.4,2019:row74:vC,1,8,False
+study_only,vC,Limonium latebracteatum,Galmes 2014b,Galmes 2014b,2.7,2019:row97:vC,1,8,False
+study_only,vC,Limonium leonardi‐llorensii,Galmes 2014a,Galmes 2014a,2.8,2019:row84:vC,1,8,False
+study_only,vC,Limonium magallufianum,Galmes 2014a,Galmes 2014a,2.6,2019:row83:vC,1,8,False
+study_only,vC,Limonium retusum,Galmes 2014a,Galmes 2014a,2.1,2019:row75:vC,1,8,False
+study_only,vC,Limonium stenophyllum,Galmes 2014b,Galmes 2014b,2.6,2019:row93:vC,1,8,False
+study_only,vC,Limonium virgatum,Galmes 2014b,Galmes 2014b,2.4,2019:row94:vC,1,8,False
+study_only,vC,Lolium multiflorum,Orr 2016,Orr 2016,4.5,2019:row409:vC,1,8,False
+study_only,vC,Lolium rigidum,Orr 2016,Orr 2016,4.7,2019:row404:vC,1,8,False
+study_only,vC,Macrotyloma uniflorum,Orr 2016,Orr 2016,4.4,2019:row405:vC,1,8,False
+study_only,vC,Manihot esculenta,Hermida-Carrera 2016,Hermida-Carrera 2016,1.4,2019:row150:vC,1,8,False
+study_only,vC,Manihot esculenta,Orr 2016,Orr 2016,2.4,2019:row415:vC,1,8,False
+study_only,vC,Marchantia polymorpha,Galmes 2014b,Galmes 2014b,2.6,2019:row111:vC,1,8,False
+study_only,vC,Medicago sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,1.7,2019:row158:vC,1,8,False
+study_only,vC,Megathyrsus maximus,Sharwood 2016,Sharwood 2016,5.3,2019:row530:vC,1,8.16,False
+study_only,vC,Mercurialis annua,Orr 2016,Orr 2016,3.4,2019:row417:vC,1,8,False
+study_only,vC,Metasequoia glyptostroboides,Galmes 2014b,Galmes 2014b,2.7,2019:row114:vC,1,8,False
+study_only,vC,Methanococcoides burtonii,Alonso 2009,Alonso 2009,1.9493588689617927,2019:row3:vC;2019:row4:vC,2,7,E. coli;Tobacco
+study_only,vC,Methanococcoides burtonii,Wilson 2016,Wilson 2016,0.6,2019:row590:vC,1,7.2 or 8.0,Tobacco
+study_only,vC,Methanococcoides burtonii K332E,Wilson 2016,Wilson 2016,1.2,2019:row591:vC,1,7.2 or 8.0,Tobacco
+study_only,vC,Methanococcoides burtonii L2,Alonso 2009,Alonso 2009,1.9,2019:row5:vC,1,7,E. coli
+study_only,vC,Musa velutina,Orr 2016,Orr 2016,3.2,2019:row387:vC,1,8,False
+study_only,vC,Nicotiana tabacum,Occhialini 2015,Occhialini 2015,3.8999999999999995,2019:row282:vC,1,8.1,False
+study_only,vC,Nicotiana tabacum,Sharwood 2016,Sharwood 2016,3.1,2019:row527:vC,1,8.16,False
+study_only,vC,Nicotiana tabacum,Walker 2013,Walker 2013,3.3,2019:row581:vC,1,unknown,False
+study_only,vC,Nicotiana tabacum,Whitney 2001,Whitney 2001,3.4,2019:row585:vC,1,8,False
+study_only,vC,Nicotiana tabacum L. cv. W38,von Caemmerer 1994,von Caemmerer 1994,3.584578078379658,2019:row578:vC;2019:row579:vC,2,unknown,False
+study_only,vC,Nicotiana tabacum cv. PH,Orr 2016,Orr 2016,4.4,2019:row398:vC,1,8,False
+study_only,vC,Nymphaea alba,Galmes 2014b,Galmes 2014b,2.4,2019:row107:vC,1,8,False
+study_only,vC,Olisthodiscus luteus,Read 1994,Read 1994,0.83,2019:row483:vC,1,8,False
+study_only,vC,Oryza barthii/glaberrima,Orr 2016,Orr 2016,2.5,2019:row365:vC,1,8,False
+study_only,vC,Oryza eichingeri,Orr 2016,Orr 2016,2.5,2019:row366:vC,1,8,False
+study_only,vC,Oryza glaberrima (WAB 1939),Orr 2016,Orr 2016,2.7,2019:row370:vC,1,8,False
+study_only,vC,Oryza glumaepatula,Orr 2016,Orr 2016,2.4,2019:row373:vC,1,8,False
+study_only,vC,Oryza longistaminata,Orr 2016,Orr 2016,2.2,2019:row371:vC,1,8,False
+study_only,vC,Oryza meridionalis,Orr 2016,Orr 2016,2.6,2019:row369:vC,1,8,False
+study_only,vC,Oryza nivara,Orr 2016,Orr 2016,2.7,2019:row416:vC,1,8,False
+study_only,vC,Oryza punctata,Orr 2016,Orr 2016,2.7,2019:row414:vC,1,8,False
+study_only,vC,Oryza sativa,Hermida-Carrera 2016,Hermida-Carrera 2016,2.1,2019:row166:vC,1,8,False
+study_only,vC,Oryza sativa ssp.Indicacv.Icasulum,Orr 2016,Orr 2016,2.2,2019:row359:vC,1,8,False
+study_only,vC,Oryza sativa ssp.Japonicacv.Nipponbare,Orr 2016,Orr 2016,2.8,2019:row361:vC,1,8,False
+study_only,vC,Pallenis maritima,Galmes 2014b,Galmes 2014b,2.7,2019:row88:vC,1,8,False
+study_only,vC,Panicum amarum,Orr 2016,Orr 2016,3.2,2019:row432:vC,1,8,False
+study_only,vC,Panicum antidotale,Sharwood 2016,Sharwood 2016,3.8999999999999995,2019:row534:vC,1,8.16,False
+study_only,vC,Panicum bisulcatum,Sharwood 2016,Sharwood 2016,2.6,2019:row524:vC,1,8.16,False
+study_only,vC,Panicum coloratum,Sharwood 2016,Sharwood 2016,3.4,2019:row525:vC,1,8.16,False
+study_only,vC,Panicum deustum,Sharwood 2016,Sharwood 2016,4.999999999999999,2019:row526:vC,1,8.16,False
+study_only,vC,Panicum dichotomiflorum,Orr 2016,Orr 2016,3.1,2019:row433:vC,1,8,False
+study_only,vC,Panicum milioides,Sharwood 2016,Sharwood 2016,2.2,2019:row522:vC,1,8.16,False
+study_only,vC,Panicum milliaceum,Sharwood 2016,Sharwood 2016,2.1,2019:row531:vC,1,8.16,False
+study_only,vC,Panicum monticola,Sharwood 2016,Sharwood 2016,5.3,2019:row532:vC,1,8.16,False
+study_only,vC,Panicum phragmitoides,Orr 2016,Orr 2016,2.8,2019:row425:vC,1,8,False
+study_only,vC,Panicum virgatum,Sharwood 2016,Sharwood 2016,3.3,2019:row528:vC,1,8.16,False
+study_only,vC,Pavlova lutheri,Heureux 2017,Heureux 2017,2.5,2019:row172:vC,1,8.16,False
+study_only,vC,Phaeodactylum tricornutum,Whitney 2001,Whitney 2001,3.4,2019:row584:vC,1,8,False
+study_only,vC,Phaeodactylum tricornutum (CS-29),Young 2016,Young 2016,3.3,2019:row619:vC,1,8,False
+study_only,vC,Phaeodactylum tricornutum (UTEX 642),Young 2016,Young 2016,3.2,2019:row620:vC,1,8,False
+study_only,vC,Phaseolus carteri,Orr 2016,Orr 2016,3.2,2019:row367:vC,1,8,False
+study_only,vC,Phaseolus coccineus,Orr 2016,Orr 2016,3.8999999999999995,2019:row375:vC,1,8,False
+study_only,vC,Phaseolus lunatus,Orr 2016,Orr 2016,3.2,2019:row383:vC,1,8,False
+study_only,vC,Phaseolus vulgaris,Hermida-Carrera 2016,Hermida-Carrera 2016,1.7,2019:row151:vC,1,8,False
+study_only,vC,Phaseolus vulgaris,Orr 2016,Orr 2016,3.5,2019:row420:vC,1,8,False
+study_only,vC,Platycerium superbum,Galmes 2014b,Galmes 2014b,2.3,2019:row109:vC,1,8,False
+study_only,vC,Pleurochrysis carterae,Heureux 2017,Heureux 2017,3.3,2019:row173:vC,1,8.16,False
+study_only,vC,Poa palustris,Orr 2016,Orr 2016,4.2,2019:row388:vC,1,8,False
+study_only,vC,Porphyridium cruenteum,Read 1994,Read 1994,1.59,2019:row475:vC,1,8,False
+study_only,vC,Porphyridium purpureum,Uemura 1997,Uemura 1997,1.4,2019:row570:vC,1,8,False
+study_only,vC,Prochlorococcus marinus MIT9313,Shih 2016,Shih 2016,6.580000000000001,2019:row552:vC,1,8,E. coli
+study_only,vC,Pteridium aquilinum,Galmes 2014b,Galmes 2014b,4.0,2019:row113:vC,1,8,False
+study_only,vC,Puccinellia distans,Orr 2016,Orr 2016,5.4,2019:row400:vC,1,8,False
+study_only,vC,Puccinellia lemmonii,Orr 2016,Orr 2016,5.2,2019:row429:vC,1,8,False
+study_only,vC,Puccinellia maritima,Orr 2016,Orr 2016,5.4,2019:row421:vC,1,8,False
+study_only,vC,Puccinellia nuttalliana,Orr 2016,Orr 2016,4.0,2019:row406:vC,1,8,False
+study_only,vC,Pueraria montana,Orr 2016,Orr 2016,2.7,2019:row396:vC,1,8,False
+study_only,vC,Rhodobacter sphaeroides I,Mueller-Cajar (personal),Mueller-Cajar (personal),5.2,2019:row266:vC,1,8,E. coli
+study_only,vC,Rhodospirillum rubrum,Gutteridge 1984,Gutteridge 1984,5.9,2019:row125:vC,1,8.2,E. coli
+study_only,vC,Rhodospirillum rubrum,Morell 1990,Morell 1990,7.300000000000001,2019:row261:vC,1,7.8,E. coli
+study_only,vC,Rhodospirillum rubrum,Mueller-Cajar 2007,Mueller-Cajar 2007,12.300000000000002,2019:row272:vC,1,8,E. coli
+study_only,vC,S. cereale cv. Agronom,Prins 2016,Prins 2016,3.2299999999999995,2019:row463:vC,1,8.2,False
+study_only,vC,Saccharum officinarum,Hermida-Carrera 2016,Hermida-Carrera 2016,3.8999999999999995,2019:row167:vC,1,8,False
+study_only,vC,Sarracenia flava,Galmes 2014b,Galmes 2014b,4.4,2019:row110:vC,1,8,False
+study_only,vC,Setaria viridis,Boyd 2015,Boyd 2015,5.44,2019:row45:vC,1,7.7,False
+study_only,vC,Setaria viridis,Sharwood 2016,Sharwood 2016,5.9,2019:row535:vC,1,8.16,False
+study_only,vC,Sideritis cretica subsp. spicata,Galmes 2014b,Galmes 2014b,2.0,2019:row90:vC,1,8,False
+study_only,vC,Skeletonema marinoi (CCMP 1332),Young 2016,Young 2016,3.2,2019:row629:vC,1,8,False
+study_only,vC,Solanum lycopersicum,Hermida-Carrera 2016,Hermida-Carrera 2016,2.3,2019:row157:vC,1,8,False
+study_only,vC,Solanum tuberosum,Hermida-Carrera 2016,Hermida-Carrera 2016,2.0,2019:row155:vC,1,8,False
+study_only,vC,Sphenostylis stenocarpa,Orr 2016,Orr 2016,2.8,2019:row384:vC,1,8,False
+study_only,vC,Spinacia oleracea,Hermida-Carrera 2016,Hermida-Carrera 2016,2.4,2019:row169:vC,1,8,False
+study_only,vC,Spinacia oleracea,Kubien 2008,Kubien 2008,3.2,2019:row237:vC,1,8,False
+study_only,vC,Spinacia oleracea,Uemura 1997,Uemura 1997,2.6,2019:row571:vC,1,8,False
+study_only,vC,Spinacia oleracea,Zhu 1998,Zhu 1998,2.7,2019:row634:vC,1,8,False
+study_only,vC,Steinchisma laxa,Sharwood 2016,Sharwood 2016,2.3,2019:row523:vC,1,8.16,False
+study_only,vC,Synechococcus 6301,Greene 2007,Greene 2007,11.4,2019:row119:vC,1,8,E. coli
+study_only,vC,Synechococcus 6301,Morell 1994,Morell 1994,11.600000000000001,2019:row265:vC,1,7.8,E. coli
+study_only,vC,Synechococcus 6301,Mueller-Cajar 2008,Mueller-Cajar 2008,11.8,2019:row281:vC,1,8,E. coli
+study_only,vC,Synechococcus 6301,Read 1992b,Read 1992b,2.57,2019:row474:vC,1,8,E. coli
+study_only,vC,Synechococcus 6301,Read 1994,Read 1994,3.7100000000000004,2019:row485:vC,1,8,E. coli
+study_only,vC,Synechococcus 6301,Shih 2016,Shih 2016,9.78,2019:row553:vC,1,8,E. coli
+study_only,vC,Synechococcus 7002,Andrews 1985,Andrews 1985,11.600000000000001,2019:row9:vC,1,7.8,False
+study_only,vC,Synechococcus 7515,Zhu 1998,Zhu 1998,6.599999999999999,2019:row635:vC,1,8,E. coli
+study_only,vC,Synechococcus elongatus PCC 7942,Occhialini 2015,Occhialini 2015,14.399999999999999,2019:row283:vC,1,8.1,Tobacco
+study_only,vC,T. aestivum (C),Prins 2016,Prins 2016,3.5699999999999994,2019:row452:vC,1,8.2,False
+study_only,vC,T. aestivum SATYN1,Prins 2016,Prins 2016,3.26,2019:row460:vC,1,8.2,False
+study_only,vC,T. aestivum SATYN2,Prins 2016,Prins 2016,3.3300000000000005,2019:row456:vC,1,8.2,False
+study_only,vC,T. aestivum SATYN3,Prins 2016,Prins 2016,3.6400000000000006,2019:row462:vC,1,8.2,False
+study_only,vC,T. dicoccon1,Prins 2016,Prins 2016,3.55,2019:row459:vC,1,8.2,False
+study_only,vC,T. dicoccon2,Prins 2016,Prins 2016,3.5699999999999994,2019:row464:vC,1,8.2,False
+study_only,vC,T. dicoccon3,Prins 2016,Prins 2016,3.36,2019:row458:vC,1,8.2,False
+study_only,vC,T. dicoccon4,Prins 2016,Prins 2016,3.55,2019:row461:vC,1,8.2,False
+study_only,vC,T. elongatus,Gubernator 2008,Gubernator 2008,2.65,2019:row123:vC,1,8,E. coli
+study_only,vC,T. monococcum,Prins 2016,Prins 2016,3.18,2019:row445:vC,1,8.2,False
+study_only,vC,T. timonovum,Prins 2016,Prins 2016,3.48,2019:row451:vC,1,8.2,False
+study_only,vC,T. timopheevii,Prins 2016,Prins 2016,3.43,2019:row449:vC,1,8.2,False
+study_only,vC,Tephrosia candida,Orr 2016,Orr 2016,2.2,2019:row378:vC,1,8,False
+study_only,vC,Tephrosia purpurea,Orr 2016,Orr 2016,2.2,2019:row362:vC,1,8,False
+study_only,vC,Tephrosia rhodesica,Orr 2016,Orr 2016,2.2,2019:row364:vC,1,8,False
+study_only,vC,Teucrium heterophyllum,Galmes 2014b,Galmes 2014b,2.7,2019:row89:vC,1,8,False
+study_only,vC,Thalassiosira oceania (CS-427),Young 2016,Young 2016,2.4,2019:row622:vC,1,8,False
+study_only,vC,Thalassiosira weissflogii (CCMP 1336),Young 2016,Young 2016,3.2,2019:row623:vC,1,8,False
+study_only,vC,Thermococcus kodakaraensis,Yoshida 2007,Yoshida 2007,0.25,2019:row614:vC,1,8.3,E. coli
+study_only,vC,Thiobacillus denitrificans IA,Hernandez 1996,Hernandez 1996,1.9,2019:row170:vC,1,8,R. sphaeroides
+study_only,vC,Thiobacillus denitrificans II,Hernandez 1996,Hernandez 1996,3.5,2019:row171:vC,1,8,R. sphaeroides
+study_only,vC,Tisochrysis lutea,Heureux 2017,Heureux 2017,2.2,2019:row174:vC,1,8.16,False
+study_only,vC,Trachycarpus fortunei,Galmes 2014b,Galmes 2014b,2.8,2019:row98:vC,1,8,False
+study_only,vC,Triticale (Cando),Prins 2016,Prins 2016,3.62,2019:row453:vC,1,8.2,False
+study_only,vC,Triticale (Rotego),Prins 2016,Prins 2016,3.46,2019:row454:vC,1,8.2,False
+study_only,vC,Triticale (Talentro),Prins 2016,Prins 2016,3.36,2019:row457:vC,1,8.2,False
+study_only,vC,Triticum aestivum,Hermida-Carrera 2016,Hermida-Carrera 2016,2.2,2019:row163:vC,1,8,False
+study_only,vC,Triticum aestivum,Orr 2016,Orr 2016,4.9,2019:row393:vC,1,8,False
+study_only,vC,Triticum aestivum,Zhu 1998,Zhu 1998,2.5,2019:row633:vC,1,8,False
+study_only,vC,Triticum aestivum cv. Alexandria,Galmes 2014b,Galmes 2014b,4.0,2019:row104:vC,1,8,False
+study_only,vC,Triticum baeoticum,Orr 2016,Orr 2016,3.8,2019:row392:vC,1,8,False
+study_only,vC,Urochloa mosambicensis,Sharwood 2016,Sharwood 2016,5.700000000000001,2019:row529:vC,1,8.16,False
+study_only,vC,Urochloa panicoides,Sharwood 2016,Sharwood 2016,5.6,2019:row533:vC,1,8.16,False
+study_only,vC,Zea mays,Kubien 2008,Kubien 2008,4.05,2019:row247:vC,1,8,False
+study_only,vC,Zea mays cv. Carella,Hermida-Carrera 2016,Hermida-Carrera 2016,4.1,2019:row168:vC,1,8,False

@@ -1,0 +1,1 @@
+No actual model refusals occurred in this review. No other model sessions were invoked. Tool access and source retrieval failures are recorded separately in access_failures.md and sources/retrieval_log.json.

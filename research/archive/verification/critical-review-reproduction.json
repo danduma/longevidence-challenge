@@ -1,0 +1,38 @@
+[
+  {
+    "name": "critical-thg1",
+    "script": "check_bound.py",
+    "exit_code": 0,
+    "elapsed_seconds": 0.4,
+    "before_hashes": {
+      "outputs/independent_check.json": "8198896d2e277ab1a0738b19f3dbb64e69205aaa360f7a54f1c1eda263e9df92"
+    },
+    "after_hashes": {
+      "outputs/independent_check.json": "8198896d2e277ab1a0738b19f3dbb64e69205aaa360f7a54f1c1eda263e9df92"
+    },
+    "identical_selected_outputs": true
+  },
+  {
+    "name": "critical-protease",
+    "script": "audit.py",
+    "exit_code": 0,
+    "elapsed_seconds": 2.68,
+    "before_hashes": {
+      "results/audit.json": "6da2f24ae78c60eb0528bf2d8f26ca230f2af68f90ac2a8610421d3b9c8cdd33",
+      "results/replication.csv": "0dc9d163b2a8330688dd11c8098f3a644f704938b802e68ca726f05c36bc0aee",
+      "results/threshold.csv": "50558bf8e3fe1fb1fc0de27f69f4103964f88f837be0f3e10f72e653b5fb4b74",
+      "results/control_transfer.csv": "6779c37012b6cc232075010bc7d79a3449b51bbbacad6201bc5792d9080628dc",
+      "results/cross_screen.csv": "8051c0ed2502ce607c6fec79069e28c63f3d23bb61e5ca8fea1d5683d09094f2",
+      "results/validation.csv": "bd3b6e6c7088bcd81a6d60e34634013abb6150f84ab96e1216f82017e69cc30b"
+    },
+    "after_hashes": {
+      "results/audit.json": "6da2f24ae78c60eb0528bf2d8f26ca230f2af68f90ac2a8610421d3b9c8cdd33",
+      "results/replication.csv": "0dc9d163b2a8330688dd11c8098f3a644f704938b802e68ca726f05c36bc0aee",
+      "results/threshold.csv": "50558bf8e3fe1fb1fc0de27f69f4103964f88f837be0f3e10f72e653b5fb4b74",
+      "results/control_transfer.csv": "6779c37012b6cc232075010bc7d79a3449b51bbbacad6201bc5792d9080628dc",
+      "results/cross_screen.csv": "8051c0ed2502ce607c6fec79069e28c63f3d23bb61e5ca8fea1d5683d09094f2",
+      "results/validation.csv": "bd3b6e6c7088bcd81a6d60e34634013abb6150f84ab96e1216f82017e69cc30b"
+    },
+    "identical_selected_outputs": true
+  }
+]

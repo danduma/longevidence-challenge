@@ -1,0 +1,10 @@
+dataset,reason,n
+DMS,retained,400912
+DMS,no_barcode_depth20_after_backbone,121314
+DMS,all_barcodes_author_backbone_excluded,9931
+DMS,discordant_duplicate_ge3,731
+DMS,at_or_above_positive_control,47
+controls,retained,3448
+controls,no_barcode_depth20_after_backbone,244
+controls,all_barcodes_author_backbone_excluded,21
+controls,discordant_duplicate_ge3,2

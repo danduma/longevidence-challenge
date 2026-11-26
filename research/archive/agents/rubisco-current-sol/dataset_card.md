@@ -1,0 +1,17 @@
+# Dataset card: Rubisco measurement/control benchmark v1.0.0
+
+Release date: 2026-11-26. Purpose: retrospective, assay-aware kinetic comparison and control portability auditing. This release is not a prospective candidate-discovery benchmark or a collection of success/failure labels for the experimental Millennium challenge.
+
+The canonical rows are in `derived/measurement_ledger.csv` (long S/vC endpoints) and `derived/library2025_measurement_ledger.csv` (separate 30°C corrected coupled screen). `measurement_id` is unique. Historical IDs use the original Excel row number, preventing accidental joins on repeated identifiers. The complete raw workbook and row-selection flags are preserved. No source tables were changed.
+
+`study` is the displaying/compiling publication; `origin_source` is the measurement's documented origin when audited. `cohort` distinguishes new2026 measurements from 2023 reuse. `compiled_error` preserves the number; `error_kind` supplies the audited or explicitly unknown interpretation. `uncertainty_usable` is an eligibility description, not an imputed uncertainty. `pH_compiled` and `pH_endpoint` are different columns because a workbook row can mix endpoint conditions. `source_doi`, `source_identifier`, `primary_numeric_status`, `strain_cultivar`, `identity_warning`, `control_role` and `same_preparation_cross_study` preserve separate evidence levels.
+
+No exact-sequence validation is claimed for all historical enzyme records. Five mutation-bearing names conflict with the deposited WT flag (six endpoint rows); these are flagged. Slash-separated species/literature records in the2025 overlap set remain author-defined pairings rather than certified common holoenzymes. Unknown pH, cultivar, gas convention, n, covariance, or uncertainty kinds remain unknown. Numeric empty cells never encode zero or inactivity.
+
+`control_ledger.csv` contains ratios and the two source row IDs. Imported comparators and contemporaneous controls have different status strings. All ratio uncertainties are withheld because joint covariance, exact n or source preparation identity is incomplete. `assay_frontier_benchmark.csv` records same-original-row/table pairs, with separate endpoint origins/pH and an explicit WT-identity eligibility flag. Dominance is descriptive within recorded cohorts only. Shared-control comparability remains conditional and must not be inferred from graph connectivity alone.
+
+The2025 numeric rates and reported stdev values retain a common calibration-group ID. The published 1.7–2.8 interval refers to the fitted common factor, not an individual rate. Below0.5 flags and unreported/unsuccessful screens are separate states. No 25°C conversion or specificity label is supplied for this cohort.
+
+Permitted scientific interpretation: quantify this finite collection's source/control overlap, reproducibility, uncertainty transport and conditional portability. Unsupported interpretation: a global chemical constraint, physiological photosynthesis improvement, precision for jointly exceptional enzymes, or proof that any enzyme meets the official paired-control criterion.
+
+Third-party snapshots retain original licenses/rights. Derived factual tables and executable analysis are kept distinct from original source files. See report.md for primary citations, bounded novelty and next falsification tests. `results/artifact_manifest.json` pins this release's artifacts; `results/shared_input_snapshots.json` pins upstream read-only inputs.
