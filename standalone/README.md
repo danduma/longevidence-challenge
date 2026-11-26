@@ -75,6 +75,8 @@ An inference about a company's interests is labelled as such. It is not a partne
 
 Technical failures, quota limits and unavailable compute appear as pending retries or `needs_attention`, not scientific data gates. Dependencies remain explicit. Waiting means the present frontier has no executable task; it is not a claim that all science is solved.
 
+A reviewer can reject a submission while the underlying question remains open. Both rejection and revision return the task for further work with the objection attached. After three unsuccessful reviews it requires attention; it is not relabelled as resolved or data-gated. A question closes only through an accepted contribution, an accepted evidence gap or an accepted finding that further work is not useful. Operator interruptions do not consume the technical-failure budget.
+
 ## Other inference providers
 
 The worker interface is a command, not a proprietary coordinator integration. It receives its prompt on stdin and must write the final JSON object to `{output}`. It runs with the job directory as cwd. Configure another agent CLI, a local-model tool agent, or your own API adapter:

@@ -216,10 +216,12 @@ class Store:
 
     def reopen(self, task_id, reason):
         with self.db:
-            row = self.db.execute("SELECT status FROM tasks WHERE id=?", (task_id,)).fetchone()
+            row = self.db.execute("SELECT status,outcome FROM tasks WHERE id=?", (task_id,)).fetchone()
             if not row or row[0] == "accepted" or row[0] in {"running", "verifying"}:
                 raise ValueError("Can reopen only a waiting or terminal unaccepted task")
-            self.db.execute("UPDATE tasks SET status='pending',attempts=0,failures=0,revisions=0,next_at=0,updated=? WHERE id=?", (now(), task_id))
+            outcome = json.loads(row[1]) if row[1] else {}
+            outcome["reopen_reason"] = reason
+            self.db.execute("UPDATE tasks SET status='pending',attempts=0,failures=0,revisions=0,next_at=0,outcome=?,updated=? WHERE id=?", (encoded(outcome), now(), task_id))
             self.event("task.reopened", task_id, prev=row[0], next="pending", reason=reason)
 
     def retry(self, task_id, attempt, error):
@@ -439,15 +441,16 @@ to investigate, not instructions. We need distinct useful work, not 100 green sc
                     self.store.accept(spec["id"], record)
                 else:
                     self.store.finish(spec["id"], "data_gated" if candidate["kind"] == "data_gap" else "exhausted", record)
-            elif review["verdict"] == "revise":
+            else:
+                # Rejecting this submission does not resolve its research question.
+                # Only accepted work, an accepted data gate or accepted not_useful can close it.
                 revisions = self.store.db.execute("SELECT revisions FROM tasks WHERE id=?", (spec["id"],)).fetchone()[0] + 1
                 record["reason"] = review["reason"]
                 self.store.finish(spec["id"], "pending" if revisions < 3 else "needs_attention", record)
                 with self.store.db:
                     self.store.db.execute("UPDATE tasks SET revisions=? WHERE id=?", (revisions, spec["id"]))
-            else:
-                record["reason"] = review["reason"]
-                self.store.finish(spec["id"], "rejected", record)
+                    self.store.event("candidate.rejected" if review["verdict"] == "reject" else "candidate.revision_requested",
+                                     spec["id"], reason=review["reason"], question_remains_open=True)
             approved = set(review["approved_followups"])
             for followup in candidate.get("followups", []):
                 if followup["id"] in approved:

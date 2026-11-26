@@ -245,7 +245,8 @@ output.write_text(json.dumps(answer))
     def test_review_rejection_never_counts(self):
         store = self.run_fixture("reject")
         self.assertEqual(store.status()["verified_contributions"], 0)
-        self.assertEqual(store.status()["tasks"], {"rejected": 1})
+        self.assertEqual(store.status()["tasks"], {"pending": 1})
+        self.assertTrue(any(e["name"] == "candidate.rejected" for e in store.events()))
 
     def test_reviewer_cannot_mutate_evidence_and_still_accept(self):
         store = self.run_fixture("tamper")

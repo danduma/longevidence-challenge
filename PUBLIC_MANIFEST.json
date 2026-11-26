@@ -61,7 +61,7 @@
   },
   {
     "file": "docs/superpowers/plans/2026-11-27-standalone-research-loop.md",
-    "sha256": "4460df4f3690e347cdb772f20343ddd3f2b2bfae6de77c19866d2e0cb679c13b"
+    "sha256": "42d1e025452abd24632c0a953f7cc5ec9d6875c45562cfd36b5b5021c1a32ba2"
   },
   {
     "file": "research/FINDINGS.md",
@@ -4977,7 +4977,7 @@
   },
   {
     "file": "skills/auditing-research-contributions/SKILL.md",
-    "sha256": "4b678c62d52f8141f1cc7c5e4213d34afbcfa293cfeb7d2b611e6df76a148d3b"
+    "sha256": "e2a0e091cee8c51d76999f9a99ee9025f5bf514ad4b35165edbb146257b12942"
   },
   {
     "file": "skills/auditing-research-contributions/agents/openai.yaml",
@@ -4985,7 +4985,7 @@
   },
   {
     "file": "skills/auditing-research-contributions/references/longevidence-case.md",
-    "sha256": "81286f339369df06c2a2b6ac7ad05a24bfaa77175c4912a1efda7ece55c5cc3d"
+    "sha256": "7cd18c0d0730915ec61e824374cbb5d3ac8fa78fb3c293a450dbdf07e5b45bcb"
   },
   {
     "file": "standalone/.gitignore",
@@ -4993,11 +4993,11 @@
   },
   {
     "file": "standalone/README.md",
-    "sha256": "160b314da6a5803d52146381791da4d60dab75933b63f28e7a27c8200055c273"
+    "sha256": "f6fd5b5c72c8f40aa728c5d4f7d2ec4b451b092ea1314d62a99f184139e44b8d"
   },
   {
     "file": "standalone/loop.py",
-    "sha256": "1914b316c66c1854c416b0d45e59e956335ad5f0131087b9ea080671e6438499"
+    "sha256": "c7930a5917baa970cafc887f1379b0fe68556ad07d03309d3d0a794f7f38ad6f"
   },
   {
     "file": "standalone/protocol.py",
@@ -5009,6 +5009,6 @@
   },
   {
     "file": "standalone/test_loop.py",
-    "sha256": "e0ced936c05fcb3d78fd2ff9805507f18f042bf51363183e41041345ee47eee2"
+    "sha256": "ec187d255e82ebb6368ac35074f7452be50064f6335628b49d6dc8f27b9ea382"
   }
 ]

@@ -21,3 +21,9 @@ C08's selected-library Form II≥ 10 s⁻¹ hit-fraction lower bound exceeds For
 ## Reporting failure
 
 Ten executed, hash-checked bundles were described in a way that implied ten meaningful advances. Subsequent adversarial review supported a much narrower account: one small pairing correction, a modest conditional library inference, useful disconfirming evidence and other technical audits. Checksums, successful CLI exits and multiple agents had been allowed to stand in for significance. Public reassessment preserves the original work while changing its interpretation.
+
+## Rejected submission, unresolved question — 27 November
+
+The first live [standalone loop](../../../standalone/README.md) run proposed a Rubisco data gate after verifying that the release archive lacked an ordered feature cache. Its separate reviewer rejected the gate: a known target-row replay discrepancy and the public checkpoint regeneration path remained untested. Archive integrity and missing-file checks did not establish that the research question required unavailable data. The same run returned a numerically reproducible protease candidate for revision because another feasible comparator remained untested. Neither outcome counted as a verified contribution.
+
+The coordinator initially treated candidate rejection as a terminal task rejection. A failing subprocess regression test demonstrated that this could abandon an unresolved question. The corrected runner returns rejected submissions to the open queue with the review attached, distinguishes repeated operational/review failures from data gates, and records explicit reopening reasons. The live Rubisco task was reopened for the remaining computational work. These are workflow lessons, not new biological findings or a claim that the target of 100 contributions has been reached.

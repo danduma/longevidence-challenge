@@ -43,4 +43,6 @@ When evidence changes the assessment, narrow the headline and public status wher
 
 Recommend the smallest next experiment or controlled comparison that could change the assessment, including a success condition and a reason to stop or narrow. Do not turn that recommendation into unrequested outreach, experiments, model training or an open-ended campaign. Continue authorized work without inventing approval requirements.
 
+Keep submission decisions separate from question resolution. Rejecting a claim or an alleged data gate leaves the question open when useful work remains. A missing released cache does not establish an irreducible data gap before feasible public regeneration paths are tested; distinguish missing provenance, inaccessible existing data, unavailable compute and genuinely new measurements.
+
 For the concrete failures that motivated these rules, read [the case study](references/longevidence-case.md). Use it when choosing baselines, interpreting temperature screens, or deciding whether a source repair has demonstrated impact; it is evidence from one effort, not a universal scientific rule.
