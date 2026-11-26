@@ -31,5 +31,12 @@
     "No joint unseen-enzyme/unseen-position test, folded-site test, proteome-wide test or replicate-level uncertainty.",
     "Agent analysis with no human expert review."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "calibration significance downgraded",
+    "limit": "A training-only motif baseline substantially outperforms AUC-linear in the same held-enzyme design; unseen-position analysis is separate.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

@@ -1,6 +1,9 @@
-# Requirement-by-requirement audit
+# Historical execution audit — significance reassessed
 
-**Ten additional contributions, produced by direct Codex CLI workers, inspected and reproduced by the coordinator, and published for review. No human acceptance or experimental validation.** The earlier research release, baseline reproductions and website implementation are not counted as additional contributions.
+**Superseded significance assessment:** Ten numerical artifacts were reproduced and published; this does not establish ten meaningful scientific advances. The [skeptical reassessment](../reassessment-2026-11-26/README.md) controls interpretation: one small pairing repair, a modest conditional library inference, disconfirming evidence and other technical audits. No human acceptance or biological validation.
+
+
+**Ten additional analysis artifacts, produced by direct Codex CLI workers, inspected and reproduced by the coordinator, and published for review. No human acceptance or experimental validation.** The earlier research release, baseline reproductions and website implementation are not counted as additional contributions.
 
 | ID | Increment beyond previous work | Fresh coordinator evidence | Important limit |
 |---|---|---|---|

@@ -1,5 +1,8 @@
 # C02 — Boundary exchange feasibility envelope
 
+**Scientific significance reassessed,26November2026:** conditional benchmark envelope. Fixed-horizon brackets are not measured environmental tolerances. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** Produced by a direct Codex CLI agent requesting gpt-6.2-astra at medium effort. This is one additional contribution in the ten-contribution batch; it is not human acceptance or biological validation.
 
 At a prescribed cold exterior, the flat schedule's terminal myocardial cold spot fails first; at room temperature, the bath can fail the all-time rate screen while the myocardium still passes. Cold transition brackets shift between voxelizations. See [report.md](report.md), [137 scenario rows](results/envelope.csv), [switch brackets](results/brackets.csv), and [coordinator checks](coordinator-crosscheck.json).

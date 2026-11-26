@@ -11,5 +11,12 @@
   "publication_notes": [
     "Links to omitted full workbook and runtime log point to public reproduction limits/check records; raw copyrighted sources remain excluded.",
     "BSD-licensed pypdf parser and notice retained for the historical source audit."
-  ]
+  ],
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "literature and coverage audit",
+    "limit": "The original authors already disclosed calibration and temperature assumptions.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

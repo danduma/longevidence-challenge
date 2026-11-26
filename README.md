@@ -4,6 +4,8 @@ Small, public contributions to longevity evidence and computational biology rese
 
 **[Website](https://longevidence.org/challenge/) · [How it works and credit](https://longevidence.org/challenge/process/) · [Review desk](https://longevidence.org/challenge/review) · [Research](research/README.md)**
 
+**Research update:** [What survived our skeptical audit](research/reassessment-2026-11-26/README.md). Ten reproducible analyses did not establish ten meaningful advances. Read the [lessons](research/reassessment-2026-11-26/LESSONS.md), [next steps](research/reassessment-2026-11-26/NEXT.md), and reusable [research-audit skill](skills/auditing-research-contributions/SKILL.md).
+
 You can check a paper, rerun a calculation, review a claim, report earlier work or improve the explanation. There is no requirement to find something new. Every contribution starts with its evidence and stated limits.
 
 ## Start here

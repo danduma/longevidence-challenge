@@ -14,5 +14,12 @@
     "not a prospective accuracy or sequencing uncertainty estimate",
     "no human review"
   ],
-  "coordinator_checks": "coordinator-checks.json"
+  "coordinator_checks": "coordinator-checks.json",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "coverage and selection audit",
+    "limit": "General read-quality concerns are prior art; fixed-score invariance is structural.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

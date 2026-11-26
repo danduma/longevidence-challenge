@@ -1,5 +1,8 @@
 # C09 — Depth and candidate stability
 
+**Scientific significance reassessed,26November2026:** coverage and selection audit. General read-quality concerns are prior art; fixed-score invariance is structural. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** The coordinator inspected filtering, population definitions, selection and shared-motif bootstrap logic, reran the complete analysis and reproduced all twelve frozen scientific output hashes. An independent direct-input calculation reproduced the depth500 attrition and replacement counts.
 
 Install requirements.txt and run `C09_PYTHON=python3 sh verify.sh`. All consumed processed-data snapshots are bundled with CC BY attribution in [sources/README.md](sources/README.md); no network or model is needed. [Report](report.md) · [Coordinator checks](coordinator-checks.json). Requested tool: gpt-6.1-sol, medium effort.

@@ -116,5 +116,12 @@
     "No original-model refit, performance improvement, candidate superiority or independent-replicate claim.",
     "Third-party snapshots with unidentified redistribution terms remain local-only; sources.md gives acquisition instructions."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "supported pairing correction; impact untested",
+    "limit": "One native-core pairing repair; no upstream adoption or demonstrated model benefit.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

@@ -1,5 +1,8 @@
 # C03 — Localized delivery-deficit geometry
 
+**Scientific significance reassessed,26November2026:** restricted numerical null. Patch overlap and spatial discretization limit general usefulness. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** The coordinator inspected the diagnostics-only solver diff, seed and patch construction, reran every integration and analytic fixture, and reproduced every original worker manifest hash. Independent matched-mass and placement-range checks passed. Requested tool: gpt-6.1-sol, medium effort.
 
 Install requirements.txt and run `python3 -B verify.py`. A C++17 compiler is required. Inputs are bundled with MIT/Apache notices and primary source attribution; no network or model access is needed. [Report](report.md) · [Coordinator checks](coordinator-checks.json) · [Sources](sources.md).

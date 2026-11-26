@@ -190,5 +190,12 @@
     "Third-party raw inputs retained locally only; redistribution license not identified for most inputs. Public acquisition instructions and hashes provided.",
     "The previous eleven-overlap rank-1 result is prior work, not counted as C06 contribution."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "literature and coverage audit",
+    "limit": "The original authors already disclosed calibration and temperature assumptions.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

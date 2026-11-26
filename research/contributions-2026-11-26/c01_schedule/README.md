@@ -1,5 +1,8 @@
 # C01 — Equal-dose schedule family
 
+**Scientific significance reassessed,26November2026:** technical objective audit. No demonstrated stress or preservation improvement. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; human review pending.** The coordinator inspected the physical solver diff and reran all 66 integrations, scalar quadrature checks and report generation. Independent equal-dose, energy, finite-family and narrower-window checks passed.
 
 Run `PYTHON=python3 sh reproduce.sh` after installing `requirements.txt`; a C++17 compiler is required. All runtime inputs are bundled with their licenses. No network or model call is needed. `python3 -B verify.py` checks stored results without reintegration.

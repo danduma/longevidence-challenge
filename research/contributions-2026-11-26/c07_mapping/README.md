@@ -1,5 +1,8 @@
 # C07 — Source-verified native-core repair
 
+**Scientific significance reassessed,26November2026:** supported pairing correction; impact untested. One native-core pairing repair; no upstream adoption or demonstrated model benefit. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** The coordinator inspected primary-assay identity/kinetic evidence, accession and deposition sequences, eligibility and fixed-fold logic. A fresh full offline source audit passed389 hash/shared-input checks; separate native-core, strain and source-count checks passed. Requested tool: gpt-6.1-sol, medium effort.
 
 Run `python3 -B verify_public.py` using only the standard library. It checks public-file hashes, the exact accession/deposition native-core repair, patch counts and arithmetic of the derived exposure records. It does **not** independently re-extract primary-assay text or regenerate all exposures from original release inputs. [Report](report.md) · [Coordinator checks](coordinator-checks.json) · [Attribution](DATA_ATTRIBUTION.md).

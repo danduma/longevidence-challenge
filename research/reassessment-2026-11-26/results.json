@@ -1,0 +1,100 @@
+{
+  "C07": {
+    "old_accession": "Q07N61",
+    "old_strain": "BisA53",
+    "old_length": 460,
+    "replacement_accession": "Q6N0W9",
+    "replacement_strain": "CGA009",
+    "replacement_length": 461,
+    "deposition_native_core_exact_match": true,
+    "scope": "Accession/deposition consistency; original assay identity is linked in README, not re-extracted here.",
+    "upstream_acceptance": false,
+    "downstream_model_improvement_tested": false
+  },
+  "C08": {
+    "comparisons": [
+      {
+        "threshold_s_minus1": 10,
+        "factor_interval": [
+          1.7,
+          2.8
+        ],
+        "exact_breakpoints_and_midpoints": 43,
+        "minimum_lower_II_minus_upper_I_pp": 1.5059300873907615,
+        "order_survives_all_tested_intervals": true
+      },
+      {
+        "threshold_s_minus1": 15,
+        "factor_interval": [
+          1.7,
+          2.8
+        ],
+        "exact_breakpoints_and_midpoints": 73,
+        "minimum_lower_II_minus_upper_I_pp": -11.095505617977528,
+        "order_survives_all_tested_intervals": false
+      }
+    ],
+    "scope": "Selected finite library; comparable latent endpoints and one common calibration multiplier assumed. No enzyme-specific uncertainty or population inference."
+  },
+  "C10": {
+    "noncanonical_pairs": 780,
+    "negative_estimates_retained": 170,
+    "folds": [
+      {
+        "held_enzyme": "0",
+        "n": 133,
+        "pooled_mean_RMSE": 0.41264330800700955,
+        "AUC_linear_RMSE": 0.26170451382382737,
+        "motif_mean_RMSE": 0.16177006738814043,
+        "motif_median_RMSE": 0.15297886993322596
+      },
+      {
+        "held_enzyme": "NX1",
+        "n": 125,
+        "pooled_mean_RMSE": 0.43921763064874825,
+        "AUC_linear_RMSE": 0.35721544861674936,
+        "motif_mean_RMSE": 0.15159339999200006,
+        "motif_median_RMSE": 0.15551902123336755
+      },
+      {
+        "held_enzyme": "NX2",
+        "n": 130,
+        "pooled_mean_RMSE": 0.43866607930173274,
+        "AUC_linear_RMSE": 0.3103269946537051,
+        "motif_mean_RMSE": 0.11965173157598823,
+        "motif_median_RMSE": 0.12589362138198196
+      },
+      {
+        "held_enzyme": "VI",
+        "n": 131,
+        "pooled_mean_RMSE": 0.419435464024874,
+        "AUC_linear_RMSE": 0.3188834242732431,
+        "motif_mean_RMSE": 0.11163304391388044,
+        "motif_median_RMSE": 0.10877974022389168
+      },
+      {
+        "held_enzyme": "VI*",
+        "n": 132,
+        "pooled_mean_RMSE": 0.4303990025934648,
+        "AUC_linear_RMSE": 0.29520108458113686,
+        "motif_mean_RMSE": 0.06402505059810952,
+        "motif_median_RMSE": 0.06662759588215075
+      },
+      {
+        "held_enzyme": "VII",
+        "n": 129,
+        "pooled_mean_RMSE": 0.4408749895895611,
+        "AUC_linear_RMSE": 0.3055182378831348,
+        "motif_mean_RMSE": 0.11886234256964821,
+        "motif_median_RMSE": 0.1100900578291354
+      }
+    ],
+    "mean_fold_RMSE": {
+      "pooled_mean_RMSE": 0.4302060790275651,
+      "AUC_linear_RMSE": 0.3081416173052994,
+      "motif_mean_RMSE": 0.1212559393396278,
+      "motif_median_RMSE": 0.11998148441395888
+    },
+    "scope": "Exploratory audit comparator for known motifs in held-enzyme folds. Does not refute position-held-out analysis or test unseen motifs."
+  }
+}

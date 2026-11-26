@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Research Contributions"
+  short_description: "Check novelty, baselines, sources and scientific value"
+  default_prompt: "Use $auditing-research-contributions to critically audit the evidence, prior art, comparisons and significance of this research claim."

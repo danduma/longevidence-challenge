@@ -5,12 +5,16 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c01_schedule",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c01_schedule/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "technical objective audit",
+    "assessment_limit": "No demonstrated stress or preservation improvement.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C02",
@@ -18,12 +22,16 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c02_boundary",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c02_boundary/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "conditional benchmark envelope",
+    "assessment_limit": "Fixed-horizon brackets are not measured environmental tolerances.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C03",
@@ -31,12 +39,16 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c03_patches",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c03_patches/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "restricted numerical null",
+    "assessment_limit": "Patch overlap and spatial discretization limit general usefulness.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C04",
@@ -44,12 +56,16 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c04_properties",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c04_properties/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "numerical fragility check",
+    "assessment_limit": "The initial power/capacity ratio substantially predicts the small margin.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C05",
@@ -57,12 +73,16 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c05_domains",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c05_domains/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "compartment attribution audit",
+    "assessment_limit": "No feasibility decision or paired ranking changed.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C06",
@@ -70,12 +90,16 @@
     "model": "gpt-6.1-sol",
     "effort": "high",
     "job": "c06_temperature",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c06_temperature/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "literature and coverage audit",
+    "assessment_limit": "The original authors already disclosed calibration and temperature assumptions.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C07",
@@ -83,12 +107,16 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c07_mapping",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c07_mapping/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "supported pairing correction; impact untested",
+    "assessment_limit": "One native-core pairing repair; no upstream adoption or demonstrated model benefit.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C08",
@@ -96,12 +124,16 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c08_selection",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c08_selection/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "modest conditional library inference",
+    "assessment_limit": "The10s-1 ordering survives shared-factor sensitivity; the15s-1 ordering does not.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C09",
@@ -109,12 +141,16 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c09_depth",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c09_depth/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "coverage and selection audit",
+    "assessment_limit": "General read-quality concerns are prior art; fixed-score invariance is structural.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   },
   {
     "id": "C10",
@@ -122,11 +158,15 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c10_calibration",
-    "state": "coordinator-reproduced; awaiting human review",
+    "state": "coordinator-reproduced; scientific significance reassessed; human review pending",
     "counts_toward_ten": true,
     "verification": "See bundle README and coordinator check record",
     "publication": "c10_calibration/",
     "human_review": "not performed",
-    "exit_code": 0
+    "exit_code": 0,
+    "scientific_assessment": "calibration significance downgraded",
+    "assessment_limit": "A training-only motif baseline substantially outperforms AUC-linear in the same held-enzyme design; unseen-position analysis is separate.",
+    "reassessment": "../reassessment-2026-11-26/README.md",
+    "counting_note": "counts_toward_ten is a legacy executed-artifact count, not a count of meaningful scientific advances."
   }
 ]

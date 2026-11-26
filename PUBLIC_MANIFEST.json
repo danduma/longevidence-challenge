@@ -45,7 +45,7 @@
   },
   {
     "file": "README.md",
-    "sha256": "6ac644f1c4dcc9b0d4fff3d59741194edf2150141b6fa235f5057086cc6e9020"
+    "sha256": "b34cb4fc9185bfb977fffddeff988d18dda83022d367786953fd01915747c723"
   },
   {
     "file": "REVIEWING.md",
@@ -56,8 +56,12 @@
     "sha256": "a4abb140e1a68b90c85c518fcdf76d0b0ba54f307a486b7a8e95584753fd3bf8"
   },
   {
+    "file": "docs/superpowers/plans/2026-11-26-research-reassessment-publication.md",
+    "sha256": "9c538d5f6b45d877739fc236c1abaa85df65768dca55fa4cc4f4384da22893e1"
+  },
+  {
     "file": "research/FINDINGS.md",
-    "sha256": "380eeea872811b683987f02e86bb76a3934a5423b88295009b7be0ba1c546a0e"
+    "sha256": "b3aaaba412cab451ed3cc564a92bdd9baad8d9b2627a7875748849269fe2aeaf"
   },
   {
     "file": "research/MODEL_COMPARISON.md",
@@ -69,7 +73,7 @@
   },
   {
     "file": "research/README.md",
-    "sha256": "5fb101b941a0e99a2131661c7c778c649a395237115f4aad364de3c760a493c5"
+    "sha256": "f104ba81f7fa3fc1a9ece251180ace4b32241cb3999fc857754b783b62b56f63"
   },
   {
     "file": "research/REFUSALS.md",
@@ -2073,11 +2077,11 @@
   },
   {
     "file": "research/contributions-2026-11-26/AUDIT.md",
-    "sha256": "f09642b1952cdeb5e1c5cb73916941b181fca1b69d43993cb2e8e4a15fc334e0"
+    "sha256": "86581a0801bceb5379c350cb0419e71c7640d261fa0bee6b3fc517fff50facc8"
   },
   {
     "file": "research/contributions-2026-11-26/README.md",
-    "sha256": "593fd3ece5ba8fcedd2046de826a06d3a7487c5b1ed8feb1c4360941c9052e31"
+    "sha256": "29a85c3411f75eb28fc41cbf0b15c7d7db3bdacce25d305442889e9b60cf1c77"
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/LICENSE",
@@ -2085,7 +2089,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/README.md",
-    "sha256": "57edbfe59938390e37171a565d1125d04edf3e2b38eaa708e0d24483a7f1fa71"
+    "sha256": "021ad59818641bec2b1063184267684cc6de64bb4bc4fb21bbb37717e3e94511"
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/analyze.py",
@@ -2097,7 +2101,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/contribution.json",
-    "sha256": "51ec7d60470d37a4d32b3daed48ebeaa849c7aa4ae015b83398b45a35dd3a427"
+    "sha256": "cefccf557a4695cdc77288d2a756db68b2fea8c64258ea14e2a30b5076c4acf0"
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/coordinator-checks.json",
@@ -2141,7 +2145,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/manifest.sha256",
-    "sha256": "93d97e74620347085f61f0fdbf872060e38f83b08b39e569273f84221cb91237"
+    "sha256": "c98bf737bc24a3c089aba008b331b6663258827faaec5ba8443742668ab1aa6c"
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/original-worker-provenance.json",
@@ -2161,7 +2165,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/publication.json",
-    "sha256": "6152eb95f43c65c363ab0f1b73f501caf783cc5ab7e5b4aa4359e62aac86fbdf"
+    "sha256": "9ab544b093e47a484f6ef76a037772057967da88cd7775a5b6218ecb5ec79f70"
   },
   {
     "file": "research/contributions-2026-11-26/c01_schedule/refusals.md",
@@ -2537,7 +2541,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/README.md",
-    "sha256": "c9a976858f2bd0b4d9142dd5b90093288dace7b012b6101bb7c5c4bcc33b9287"
+    "sha256": "61c39a57b47b024bffff824d7a7223aaffdd092ba8420e45d75ed2ff32e701d6"
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/boundary.cpp",
@@ -2545,7 +2549,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/contribution.json",
-    "sha256": "13c02ada8e560907e2176bf4ea4b64cc77a672d233de1c56580f19e989ffed8a"
+    "sha256": "7ce88c949d7f64ff3adf22758c05fbd15d373c8b4d90bbd64e1fbf95449b59ad"
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/coordinator-crosscheck.json",
@@ -2553,7 +2557,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/manifest.sha256",
-    "sha256": "fef6ce2ada3585179ffff1c824ab96cf47362af20df7c2aa9546297da90056ee"
+    "sha256": "9c31e09726d65e096db8b2ef02896c3e3370bb68bbae196736a2b946d3e9e25c"
   },
   {
     "file": "research/contributions-2026-11-26/c02_boundary/original-worker-manifest.sha256",
@@ -2633,7 +2637,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/README.md",
-    "sha256": "b2c52934f62cad8f5c4aadf454bf1d750177f8edca018df53576ea9015cec78f"
+    "sha256": "ebb9b7abc75191b735171ee67bda751e8b7c55f85c95ef720b481bbe0da6b8a7"
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/analytic_checks.py",
@@ -2645,7 +2649,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/contribution.json",
-    "sha256": "4003df2b8faee4cb59cdf8b102ca785e7799430c216a2b03e2999a1528b93e0d"
+    "sha256": "76c3d5f9be4e4b0e73ad2b94d00083b303c32d520a779e9d2f355869feb2a1a0"
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/coordinator-checks.json",
@@ -2653,7 +2657,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/manifest.sha256",
-    "sha256": "d862e1c71505d578e83ab0cef1db1604694db2a9ed831c0e8402570906cb6a59"
+    "sha256": "5ffd3f8b9cdcf79b8036c49545eaef31b5746e0ef1ca71f7c1e202924747e619"
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/original-worker-manifest.sha256",
@@ -2669,7 +2673,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/publication.json",
-    "sha256": "4ac1528c950e92fea749aaa9fa537ee69a84d8778c122f13a38521c1877dd75f"
+    "sha256": "1db8482696351579a72986fdd80ed14ecab82b9ae56cb0709cd857bf7051fc63"
   },
   {
     "file": "research/contributions-2026-11-26/c03_patches/refusals.md",
@@ -2973,7 +2977,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/README.md",
-    "sha256": "7f2e28acd8040c5f6766ecba7dd12761a7c3931708fd90d46a9ea7a4bdc02ebe"
+    "sha256": "9a3735acb078129d448a9b4e4c87a11ca485364c6e8750b00766db870ee0a740"
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/THIRD_PARTY_NOTICES.md",
@@ -2985,7 +2989,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/contribution.json",
-    "sha256": "608d1332a5d7c8a196d55e5087b7fe9a09c4bb2b6a279d33f8e5b01f315a5100"
+    "sha256": "7716faf87b8359160f1e9a49deca74e55c934e39914df0ceb99cd65c4d3739e4"
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/coordinator-checks.json",
@@ -3009,7 +3013,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/manifest.sha256",
-    "sha256": "eece0cd6aea80c9a1b2fe3858097b6b349440d0378e5951995303a7879d4cffe"
+    "sha256": "c5af007b987bb0ba0aa633fe2fcfa5ad18dd67722d96582cabc72b24c774c8c9"
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/original-worker-manifest.sha256",
@@ -3021,7 +3025,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/publication.json",
-    "sha256": "65a5ed182a373fcc8b35c42fc9e5928cbdbdf182947671f6c272d5c4e5fa4a6f"
+    "sha256": "18501a2ee694228dba9361ba9be93c19c7bff3770b09b0679584406155763e1d"
   },
   {
     "file": "research/contributions-2026-11-26/c04_properties/refusals.md",
@@ -3081,7 +3085,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/README.md",
-    "sha256": "6ddaeca995a2ce6efd2c56501284568854d30e453fd68e0a2fc7507a782f2c88"
+    "sha256": "a7e81e59e9d8d9a96d4554149c2911b8067dda99853d0b7c7021b25b3d78e07a"
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/analyze.py",
@@ -3097,7 +3101,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/contribution.json",
-    "sha256": "22e251a364f304f85be2b8ff71d1b2730bd84fd124c207aaceda97d1a7aec039"
+    "sha256": "d3639c070ad943af653171ba368e8769365062402d9162cea60a5d93d5d30581"
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/coordinator-checks.json",
@@ -3121,7 +3125,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/manifest.sha256",
-    "sha256": "56febe670536b69c265ec8f3c96be5448ff5ef5dc2607412cef7ac7da7e7436d"
+    "sha256": "8d492710131549e5249c7ccce339cb2c11d27a6e4e9449dd86647ca2016657c6"
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/original-worker-scientific-manifest.sha256",
@@ -3145,7 +3149,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/publication.json",
-    "sha256": "550ccff28764ddc839f9e77741eba675159c989b5be7e7f07f6611bf08eeb5a9"
+    "sha256": "304a8163d166c5094d56ba5367cf2085649faed764b68aa69a4c42b56d5daeaf"
   },
   {
     "file": "research/contributions-2026-11-26/c05_domains/refusals.md",
@@ -3405,11 +3409,11 @@
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/README.md",
-    "sha256": "0cd6aca1a408b300f337b7baec3bc38d0f7d019a1691b0e6e3e4af8e155cd795"
+    "sha256": "e67ee5a80a38f72202712d45ecc0296a23a62928020c2c51735c60d72b2b30c8"
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/contribution.json",
-    "sha256": "c9a0e2e5df1ea6014bb68c5fd11d1dee9d0d28f07b0d1a5e30878ea35790e710"
+    "sha256": "af16ab8772d1d0a05af3ba017675d3d2974b4866edb6c3f309f80169a5c2197f"
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/coordinator-checks.json",
@@ -3421,7 +3425,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/manifest.sha256",
-    "sha256": "2c63516a914a11ef3bbaf71f8dde30f416e30b328dfa78160b210b2b13576832"
+    "sha256": "76a266e97f23307513f80d927cac0b1c08804bf70f6514e0e7ad31853463c29b"
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/protocol.md",
@@ -3429,7 +3433,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/publication.json",
-    "sha256": "0a80704aea23fb3d2c982629606c54f1139ac1b6be67ed7dc82c673d9c4031c6"
+    "sha256": "70776359cc246982f591e2cffd8e1e0b380b274432f1f078b246d67f9c730229"
   },
   {
     "file": "research/contributions-2026-11-26/c06_temperature/refusals.md",
@@ -3761,7 +3765,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/README.md",
-    "sha256": "d612e6d6a4c8d6e598aad985da1bfc8c38852b18b488f583c3ed62a8ed0a5324"
+    "sha256": "078ce05adef4b79800f110da0f8744fcf4b2741fbda2192735029c63ee9faa26"
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/audit.py",
@@ -3769,7 +3773,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/contribution.json",
-    "sha256": "d2cae09ca69d07499a808ffa59dfc4af5b33b79ccf69d99ac15228ebc1bbe2b6"
+    "sha256": "7e5e17992d662157350e0375c99d9a17f92a74d430c30bcaa9a1a73731842ff8"
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/coordinator-checks.json",
@@ -4305,7 +4309,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/manifest.sha256",
-    "sha256": "e4c48db0a41e21f6cadaf9a38084fc41667192267d5622c6540e5047c0b5bdf8"
+    "sha256": "26fd5e3879afa56b968db16ddcab2d5a1050083316ceacf2a9445990b0077f7e"
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/original-worker-provenance-hashes.json",
@@ -4317,11 +4321,11 @@
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/provenance_hashes.json",
-    "sha256": "08419588a5393cdcc8646356acfd664adee518941e693dff6ec6ff4326c06cc5"
+    "sha256": "3a8633b445594a0b936aeddbf9b3b4db558591235d78b092bfc09c958d6b1fd4"
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/publication.json",
-    "sha256": "fe437b311692bcc61a599c10bf07d9c51b19f651979698c1bd21243071cdf921"
+    "sha256": "29113c2f73eeb85375ca12f4b5cabb896c21215b9aec43adbd9b29f2ecf50a57"
   },
   {
     "file": "research/contributions-2026-11-26/c07_mapping/refusals.md",
@@ -4381,11 +4385,11 @@
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/README.md",
-    "sha256": "2af0541ec8cdea7bd1ce0fc37a67b5a46af134e36a5dff945fdec57ccf8a9d0c"
+    "sha256": "040a8d9e37104213cbd7de258fcfa3b7bbf3f7d44041f185363d322f8d23f427"
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/contribution.json",
-    "sha256": "5eb3d5e912be3a5156d823190e17138607ea6d2c14d0b9033f139e7b5892a225"
+    "sha256": "332c537a3929a808b3ad7d6a3061a2bc66a48c38eacba943448387fa3d1ac2db"
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/coordinator-checks.json",
@@ -4405,7 +4409,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/manifest.sha256",
-    "sha256": "9990ffcc70cb7d37740ec60a82e1e6b3a495cf6080496a5a89c7dcc045caf5ee"
+    "sha256": "13436a08f6b97fc2b0a055ce98ce443bb7b38eb0fc7ac037c49f5bdd04a23291"
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/protocol.md",
@@ -4413,7 +4417,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/publication.json",
-    "sha256": "7f174f7fa823e92b25d8ed3343b69d0424cf71d2dfd0cecfc3a8a9ad5d9040cf"
+    "sha256": "ff09dc23f64d783b67d53e4478b098b4c67df97c0a404c11c7f75094a01c9533"
   },
   {
     "file": "research/contributions-2026-11-26/c08_selection/refusals.md",
@@ -4437,7 +4441,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/README.md",
-    "sha256": "001b071e1524417721c3f65cc0bc520df9325b9a3f67a82e4d86875821709b5a"
+    "sha256": "60fafd2f2041019e81ae89dc3805543074bce90224c73d75c876db3c11667e84"
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/analyze.py",
@@ -4445,7 +4449,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/contribution.json",
-    "sha256": "c74a2f1e0ced85a85249f038d05cefff37b4fe33ba9fe3fa398456d21a9e73ca"
+    "sha256": "9408de77fa6ad72e5261951f465b4cb105a9739747aba0bc1965ed1b6eeb1cec"
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/coordinator-checks.json",
@@ -4473,7 +4477,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/manifest.sha256",
-    "sha256": "ecd647dc9cc2be636dcc86f448fa69243141a2d03b4bf207909e2c1cb1ccb61a"
+    "sha256": "4c7eeff57383a9b59a6fef094d7f2c2b06b701161279b49ade03ed1572077396"
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/protocol.md",
@@ -4481,7 +4485,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/publication.json",
-    "sha256": "550ccff28764ddc839f9e77741eba675159c989b5be7e7f07f6611bf08eeb5a9"
+    "sha256": "b11db188b4add9c84b8c496e6b9e36cb54cb4dadc7acf0141bdc435157e7cb9f"
   },
   {
     "file": "research/contributions-2026-11-26/c09_depth/refusals.md",
@@ -4605,11 +4609,11 @@
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/README.md",
-    "sha256": "9d50fde2f317d10cb6abc7373a8c7aa16b47c8c64f1b71cab07af94d10458fdb"
+    "sha256": "81fd6e6d92b266c576c19346b80ffff3ecd32bee59441fbd7e26ed450a4134d1"
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/contribution.json",
-    "sha256": "0f510e2a8a162f08607ff3b2a0d215deaf05818ccd9026bc233c4a5f32ea3d2c"
+    "sha256": "47f247a338fa70a91c24bb915e3a52c87009f25c38c5fccee9e1d3ea0107ae6b"
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/coordinator-checks.json",
@@ -4637,7 +4641,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/manifest.sha256",
-    "sha256": "3535fd00638ac98291142ea3c7c00358444f44edbb695de30ca94e6a86150a65"
+    "sha256": "224e8dcbc2da66d65c78bcc0f3585a89eb461d08709dc907e58593152fb17af6"
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/original-worker-manifest.sha256",
@@ -4649,7 +4653,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/publication.json",
-    "sha256": "e76e0bd6c5a81bb31c9d93fb4f0a9d0f8280473621024e5f4987b53b3095edd5"
+    "sha256": "523063a66f0d0125213b864867c704ed4ace4fbea91b3b4842b45f51b574de84"
   },
   {
     "file": "research/contributions-2026-11-26/c10_calibration/refusals.md",
@@ -4689,7 +4693,7 @@
   },
   {
     "file": "research/contributions-2026-11-26/ledger.json",
-    "sha256": "403d4ef216cbe378454304b4c3611aa34016deae5d1e7727cf7c2e5d5af66ded"
+    "sha256": "7d04d098b1f15a3d3237c352acab1cdfe4216e1cc7d40857ce103ee5f8b3f165"
   },
   {
     "file": "research/cryopreservation/README.md",
@@ -4774,6 +4778,38 @@
   {
     "file": "research/ranking_sensitivity.json",
     "sha256": "c800d01a11d5c4e6b04bf116f6db417805ea77fd4780c99f16a2c2780632d5cc"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/.gitignore",
+    "sha256": "ee3146f4840d191730e04788d395bbcb12506a900c4f32bdd1b71404dc38543d"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/LESSONS.md",
+    "sha256": "3c38c433e25b577abeeef40b3fb59f035e98f0cd8b3d29925059567b5d4d16ce"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/NEXT.md",
+    "sha256": "111d5b757b33042c64e5d9fda905c0df15ecee587ca1b29fb286aef43f50b436"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/README.md",
+    "sha256": "fcbb6923b94b8d6d30422ff74c6e6629a61033b6320834364f0e1c8d96a8d4e8"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/SKILL_EVALUATION.md",
+    "sha256": "f2202553300ac2ee42fe6bd99894c1532aad65444e084ce9ceeb99e8d55a6107"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/requirements.txt",
+    "sha256": "799d33693096e417ce4299c3007f4dc5f7067e329355b4cc0554f93547164e8a"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/results.json",
+    "sha256": "114abdffdd9bb0ae0e8c0cd2e2386130382c7ac5c71ae7ac18cae7e80f73de9d"
+  },
+  {
+    "file": "research/reassessment-2026-11-26/verify.py",
+    "sha256": "70246b5e603e45a362a88e3c68ac537f6ab812a59eb67f5d4b4692a6235c0883"
   },
   {
     "file": "research/requirements.lock.txt",
@@ -4889,11 +4925,11 @@
   },
   {
     "file": "site/dist/challenge/process/index.html",
-    "sha256": "8e9802fb199db80efce2a6d811a0f23d9d23699fdacfc40762c1368f3c8777fe"
+    "sha256": "b20e795c8e6adfec5ad4b908a2e1c2179b6e1e980a75c709d6afda05ab4a5314"
   },
   {
     "file": "site/dist/challenge/research/index.html",
-    "sha256": "3adc08087a30d75d8c1432cd0d705a94433b090fcd14dc131724b8e1700e8b4d"
+    "sha256": "860a31539df6377cc80680ee649fd73c5c902840edadd19eccc766157c8098df"
   },
   {
     "file": "site/dist/challenge/style.css",
@@ -4934,5 +4970,17 @@
   {
     "file": "site/docs/collaboration-live-checks.json",
     "sha256": "0818bd7d92f735f93102d16d3b204e1d1e0b05cb0ab363a9213c305e583fc9ed"
+  },
+  {
+    "file": "skills/auditing-research-contributions/SKILL.md",
+    "sha256": "4b678c62d52f8141f1cc7c5e4213d34afbcfa293cfeb7d2b611e6df76a148d3b"
+  },
+  {
+    "file": "skills/auditing-research-contributions/agents/openai.yaml",
+    "sha256": "227a04597c5f782032e455865dcdd48c65e224b9e946075c6a58968937f71876"
+  },
+  {
+    "file": "skills/auditing-research-contributions/references/longevidence-case.md",
+    "sha256": "81286f339369df06c2a2b6ac7ad05a24bfaa77175c4912a1efda7ece55c5cc3d"
   }
 ]

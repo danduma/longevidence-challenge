@@ -1,5 +1,8 @@
 # C10 — Held-out reporter calibration
 
+**Scientific significance reassessed,26November2026:** calibration significance downgraded. A training-only motif baseline substantially outperforms AUC-linear in the same held-enzyme design; unseen-position analysis is separate. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** A direct CLI agent produced the grouped calibration and normalization audit. The coordinator inspected split/normalization logic, regenerated all four output tables and independently reconstructed the 13 linear fits using centered closed-form OLS. Signed negative estimates remain included.
 
 Install requirements.txt and run `python3 -B verify.py`. All licensed inputs are bundled; no network or model access is required. See [report](report.md), [source and data-license attribution](sources.md), and [coordinator checks](coordinator-checks.json). Original requested tool: gpt-6.2-astra, medium effort.

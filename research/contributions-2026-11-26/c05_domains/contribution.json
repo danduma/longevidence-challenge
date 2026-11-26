@@ -64,5 +64,12 @@
     "No measured loading/CPA/temperature maps, ice, mechanics or biological validation; isolated tissue screen is not biological safety.",
     "No human expert review; no universal novelty claim."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "compartment attribution audit",
+    "limit": "No feasibility decision or paired ranking changed.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

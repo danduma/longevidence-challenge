@@ -3,5 +3,12 @@
   "human_review": false,
   "portable_path_changes": [],
   "numerical_changes": "none; model equations, scientific inputs and result values unchanged",
-  "credit": "Publishing account credited by Git history; actual direct Codex CLI worker and requested model recorded in batch ledger"
+  "credit": "Publishing account credited by Git history; actual direct Codex CLI worker and requested model recorded in batch ledger",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "modest conditional library inference",
+    "limit": "The10s-1 ordering survives shared-factor sensitivity; the15s-1 ordering does not.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

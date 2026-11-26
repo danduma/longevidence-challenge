@@ -1,4 +1,7 @@
-# Ten further research contributions — public record
+# Ten reproduced research artifacts — reassessed
+
+**Superseded significance assessment:** Ten numerical artifacts were reproduced and published; this does not establish ten meaningful scientific advances. The [skeptical reassessment](../reassessment-2026-11-26/README.md) controls interpretation: one small pairing repair, a modest conditional library inference, disconfirming evidence and other technical audits. No human acceptance or biological validation.
+
 
 **10 of 10 published and coordinator-reproduced. None has received human acceptance.** The earlier research and website implementation do not count toward these ten. An agent finishing a job does not count by itself.
 

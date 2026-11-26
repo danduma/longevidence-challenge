@@ -1,5 +1,8 @@
 # C06 — Temperature-calibration evidence audit
 
+**Scientific significance reassessed,26November2026:** literature and coverage audit. The original authors already disclosed calibration and temperature assumptions. This is not a demonstrated biological advance. Read the [controlling reassessment](../../reassessment-2026-11-26/README.md). Earlier reports below preserve their historical wording.
+
+
 **Coordinator-reproduced; awaiting human review.** The coordinator inspected extraction and eligibility logic, reran the full original-input audit (87 input/parser hashes; byte-identical reconstructed outputs), checked primary table headings and sentinel values, and separately recomputed the 60 ratios and confounding argument. Requested tool: gpt-6.1-sol, high effort.
 
 Run `python3 -B verify_public.py` using only the standard library to recompute the public derived ratios, interval summaries, candidate coverage and rank implications. It checks derived tables; it does **not** independently authenticate their transcription from the source papers. [Report](report.md) · [Coordinator record](coordinator-checks.json) · [Sources and acquisition URLs](sources.md).

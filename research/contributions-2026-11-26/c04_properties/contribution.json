@@ -41,5 +41,12 @@
     "Some weak-heating voxels did not complete the diagnostic transit. Spatial discretization affects terminal extrema.",
     "Thermal model only. No human expert review, population inference or biological outcome validation."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "numerical fragility check",
+    "limit": "The initial power/capacity ratio substantially predicts the small margin.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

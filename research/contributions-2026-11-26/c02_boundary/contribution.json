@@ -1,12 +1,12 @@
 {
   "id": "C02",
-  "title": "C02 \u00b7 Boundary exchange feasibility envelope",
+  "title": "C02 · Boundary exchange feasibility envelope",
   "question": "At which external exchange coefficients and ambient temperatures do individual and joint thermal constraints switch for constant equal duty and the released ramp on the pinned high-loading phantom?",
   "method": "Locally preregistered finite-volume RK2 scan and bisection at fixed 70 s, uniform 1.83 mg Fe/mL myocardial loading and clamped SAR. Discovery at 0.75 mm, cold and room repeats at 0.50 mm, half-step checks around joint transitions, component-localized extrema and signed energy accounting.",
-  "result": "At \u2212150 \u00b0C the myocardial cold endpoint binds first, in disjoint brackets across meshes. At +22 \u00b0C the surrounding solution fails the final-stage rate screen before any terminal-temperature failure, with matching coarse and fine brackets. The ramp fails the all-time rate screen throughout.",
+  "result": "At −150 °C the myocardial cold endpoint binds first, in disjoint brackets across meshes. At +22 °C the surrounding solution fails the final-stage rate screen before any terminal-temperature failure, with matching coarse and fine brackets. The ramp fails the all-time rate screen throughout.",
   "verification_command": "python3 -B verify.py",
   "numerical_claims": {
-    "h_units": "W/(m\u00b2 K), lower value passes and upper value fails",
+    "h_units": "W/(m² K), lower value passes and upper value fails",
     "flat_first_switches": [
       {
         "mm": 0.75,
@@ -78,5 +78,12 @@
     "Full offline re-integration and comparison: 137 rows; successful exit 0.",
     "Independent six-face boundary-energy fixture.",
     "Source diff inspection and independent h=0 invariance, conservation, constraint/domain and mesh-bracket cross-checks."
-  ]
+  ],
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "conditional benchmark envelope",
+    "limit": "Fixed-horizon brackets are not measured environmental tolerances.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }

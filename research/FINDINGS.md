@@ -1,5 +1,7 @@
 # Results of the three selected investigations
 
+**Later significance correction:** The [skeptical reassessment](reassessment-2026-11-26/README.md) supersedes novelty/importance and “accepted result” language below. These numerical results do not demonstrate improved preservation, reduced stress or biological recovery. One small Rubisco pairing correction and a conditional library inference survive, with impact still unestablished. Original numerical work is retained for inspection.
+
 26 November 2026. Computational research only. Independent Sol review supports the precise new thermal contribution after the corrections below. The complete coordinator thermal rerun passes and all nine selected outputs match the original completed worker manifest. Four central cases also pass fresh coordinator execution in the separate reviewer solver. The supported novelty is the bounded benchmark/counterexample described below, not a claim of universal priority or biological recovery.
 
 ## Cryopreservation: a new thermal counterexample, with bounded novelty

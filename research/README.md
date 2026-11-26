@@ -1,6 +1,6 @@
 # Research record
 
-Start with [FINDINGS.md](FINDINGS.md), which incorporates the independent review corrections, and [RANKING.md](RANKING.md). These are computational investigations, not experimentally validated solutions. Agent review is not external human expert review.
+Start with the [skeptical reassessment](reassessment-2026-11-26/README.md), [lessons](reassessment-2026-11-26/LESSONS.md) and [next-work brief](reassessment-2026-11-26/NEXT.md). It narrows earlier significance claims. The numerical [FINDINGS.md](FINDINGS.md) and [RANKING.md](RANKING.md) remain historical/technical context. These are computational investigations, not experimentally validated solutions. Agent review is not external human expert review.
 
 Run the portable [cryopreservation benchmark](cryopreservation/README.md) to reproduce the four central cases without local workspace paths or LLM access. The reference folder contains the extended sweep and interval-comparison results.
 

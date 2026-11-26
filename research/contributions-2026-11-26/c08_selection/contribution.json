@@ -44,5 +44,12 @@
     "Thresholds condition on reported calibrated means. No inference across natural sequence diversity or accounting for kinetic measurement error.",
     "No human expert review."
   ],
-  "status": "agent-produced; awaiting coordinator verification"
+  "status": "agent-produced; awaiting coordinator verification",
+  "scientific_assessment": {
+    "date": "2026-11-26",
+    "category": "modest conditional library inference",
+    "limit": "The10s-1 ordering survives shared-factor sensitivity; the15s-1 ordering does not.",
+    "controlling_record": "../../reassessment-2026-11-26/README.md",
+    "human_review": "not performed"
+  }
 }
