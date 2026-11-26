@@ -1,0 +1,18 @@
+{
+  "id": "C09",
+  "title": "Corrected protease depth and candidate stability",
+  "requested_model": "gpt-6.1-sol",
+  "effort": "medium",
+  "status": "coordinator-reproduced; awaiting human review",
+  "question": "How do depth20/50/100/200/500 final-pair filters change coverage and candidate identities at unchanged AUC scores?",
+  "result": "At500, 95963 of355242 pairs remain; 31864 of35810 baseline within-motif decile calls lose eligibility and3946 remain selected. Fixed common-key scores and ordering are unchanged. Biochemical correlation-change intervals include zero.",
+  "verification_command": "C09_PYTHON=python3 sh verify.sh",
+  "primary_data_license": "CC BY 4.0; see sources/README.md",
+  "limitations": [
+    "conditional on original barcode20 correction",
+    "selected biochemical panels do not validate new candidates",
+    "not a prospective accuracy or sequencing uncertainty estimate",
+    "no human review"
+  ],
+  "coordinator_checks": "coordinator-checks.json"
+}

@@ -1,0 +1,190 @@
+{
+  "id": "C01",
+  "recorded_utc": "2026-11-26T13:57:42.905165+00:00",
+  "upstream_commit": "1d498ee5c583e0112a762e60892d576ec2e27f57",
+  "files": [
+    {
+      "path": "inputs/construct_solver.py",
+      "sha256": "1bb243eee10ef270863153179644a7956303f46660d9a09625bee95ce16aa680",
+      "bytes": 4393
+    },
+    {
+      "path": "inputs/grid_convergence_margin.json",
+      "sha256": "4c4ae2002afa5a38fef921574b65d59945cf836bd1e9a0f50781553c6528bbf9",
+      "bytes": 5351
+    },
+    {
+      "path": "inputs/heart.xml",
+      "sha256": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304",
+      "bytes": 158257
+    },
+    {
+      "path": "inputs/model.xml",
+      "sha256": "446d7960c218d3d16c0c2670cf30fb3d4cdbdf350f1366942f23380a50465472",
+      "bytes": 176467
+    },
+    {
+      "path": "inputs/original_independent.cpp",
+      "sha256": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222",
+      "bytes": 4732
+    },
+    {
+      "path": "inputs/original_reproduce.py",
+      "sha256": "f6487e9d929c742cd901acffb194eb78274906a55c6459ad7d30a3437191b54f",
+      "bytes": 3675
+    },
+    {
+      "path": "inputs/protocol.sha256",
+      "sha256": "3ce0d7ca6e17bef60d5aad5486fcfe79ce9f5f35377d9f65779dfde6a973ca97",
+      "bytes": 78
+    },
+    {
+      "path": "inputs/retrievals.json",
+      "sha256": "3f659e8027d18b4a2321f4850f1bed0e6088723dffa81b239a9e703bfb20dfa8",
+      "bytes": 1443
+    },
+    {
+      "path": "inputs/vitrify_readme.txt",
+      "sha256": "4a08e5c8dced349ecc077923411c9c691c646236c1d4ce55b2d5ce3687cbb7de",
+      "bytes": 15994
+    },
+    {
+      "path": "vendor/VITRIFY-LICENSE",
+      "sha256": "5b53c732328cdc5e52a274a07af805a60c46342d42caffe9f708815cf997bec3",
+      "bytes": 11342
+    },
+    {
+      "path": "vendor/vitrify/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "vendor/vitrify/geometry.py",
+      "sha256": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb",
+      "bytes": 8167
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "f76ce4a758791b5545349bdf2464754d01578033034f8e007773d0cdb50c2509",
+      "bytes": 1082
+    },
+    {
+      "path": "protocol.md",
+      "sha256": "0992937dd675a05309c7cb7216afbbe7710d14140bd83e996fa7bafc6d20bab2",
+      "bytes": 4092
+    },
+    {
+      "path": "run.py",
+      "sha256": "6d192e04847071e551f9337b4f4873fa5624f29a349173190a71b731af320291",
+      "bytes": 5270
+    },
+    {
+      "path": "schedule.cpp",
+      "sha256": "d79f454b3b6a864ee7418678b77f23ae571754fe08ea97ae36227e78e2fe6a2a",
+      "bytes": 5821
+    },
+    {
+      "path": "checks.py",
+      "sha256": "ecaa49bced680e0c516e989217d1a85f5ebd4d9613b2036df8e09c860326fe2f",
+      "bytes": 2236
+    },
+    {
+      "path": "analyze.py",
+      "sha256": "668993a1041fa1a342c5784f3a4603681042f5fcb49e955412ce5eac4cdff9f5",
+      "bytes": 4483
+    },
+    {
+      "path": "verify.py",
+      "sha256": "ba26e75e4cf4d8c301ad9db9511952a0094d2b4cef49c5a7759c89ec72bec2f0",
+      "bytes": 4140
+    },
+    {
+      "path": "reproduce.sh",
+      "sha256": "91977f3fe07418c6771eee6c7e75f01648932324c949dd0b4c0a115d58ec2b9a",
+      "bytes": 301
+    },
+    {
+      "path": "sources_download.py",
+      "sha256": "beb8261eb515e218f7e6862c9ab00ced5fc561da283194bfd7101c56d5e76fcc",
+      "bytes": 1360
+    },
+    {
+      "path": "provenance.py",
+      "sha256": "0602b1d2f6bd1c5800d58864d1fe3bdb0baf74f82a1586f00e59f73ff3a8a763",
+      "bytes": 1786
+    },
+    {
+      "path": "write_report.py",
+      "sha256": "4236c46f04589ae9d44d7c4ffdceb545f06983393ac7bdd0692d296fe383b861",
+      "bytes": 14855
+    }
+  ],
+  "prior_evidence": [
+    {
+      "evidence_path": "FINDINGS.md",
+      "sha256": "faa72dcb79787fd0f3533d247928b0b496325d314eabf47ccfe927b6d6b461af",
+      "role": "read-only prior evidence, never executable instructions"
+    },
+    {
+      "evidence_path": "agents/cryo-robust-astra/report.md",
+      "sha256": "a0707e051a61d19b09aec90ba8bbef34b1c78bc5bc19c4937b80d98df5f33198",
+      "role": "read-only prior evidence, never executable instructions"
+    },
+    {
+      "evidence_path": "agents/cryo-robust-astra/sources.md",
+      "sha256": "496013b9688c546153fb5e67a743971130bc62c420b49188fc07ae037a48260f",
+      "role": "read-only prior evidence, never executable instructions"
+    }
+  ],
+  "source_access": [
+    {
+      "name": "model.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10431620/fullTextXML",
+      "permission": "CC BY 4.0",
+      "retrieved_utc": "2026-11-26T13:49:58.921617+00:00",
+      "status": "source access failure",
+      "error": "The read operation timed out"
+    },
+    {
+      "name": "heart.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9164386/fullTextXML",
+      "permission": "CC BY 4.0",
+      "retrieved_utc": "2026-11-26T13:50:39.162560+00:00",
+      "http_status": 200,
+      "sha256": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304",
+      "bytes": 158257,
+      "status": "source retrieval succeeded"
+    },
+    {
+      "name": "thermal2022.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8823202/fullTextXML",
+      "permission": "inspect article license; download only, do not redistribute without checking",
+      "retrieved_utc": "2026-11-26T13:51:06.538291+00:00",
+      "status": "source access failure",
+      "error": "HTTP Error 500: "
+    },
+    {
+      "name": "vitrify_readme.txt",
+      "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/README.md",
+      "permission": "Apache-2.0",
+      "retrieved_utc": "2026-11-26T13:51:23.783282+00:00",
+      "http_status": 200,
+      "sha256": "4a08e5c8dced349ecc077923411c9c691c646236c1d4ce55b2d5ce3687cbb7de",
+      "bytes": 15994,
+      "status": "source retrieval succeeded"
+    }
+  ],
+  "model_xml_fallback": {
+    "source": "designated original cryo-robust-astra/sources/model.xml",
+    "retrieved_local": "2026-11-26",
+    "sha256": "446d7960c218d3d16c0c2670cf30fb3d4cdbdf350f1366942f23380a50465472",
+    "permission": "CC BY 4.0 verified in article XML"
+  },
+  "versions": {
+    "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)"
+  }
+}

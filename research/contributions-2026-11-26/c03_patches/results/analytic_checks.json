@@ -1,0 +1,11 @@
+{
+  "id": "C03",
+  "crossing_absolute_errors_s": {
+    "glass": 9.842864301390364e-10,
+    "endglass": 6.05191909670566e-05,
+    "entry": 6.052009640100664e-05,
+    "leave": 6.051897014458518e-05
+  },
+  "terminal_error_C": 4.339211171711099e-05,
+  "energy_relative_error": 2.3523392671254e-08
+}

@@ -1,0 +1,16 @@
+file,url,retrieved_utc,http_status,content_type,outcome,error,sha256
+hermida_supp.pdf,https://pmc.ncbi.nlm.nih.gov/articles/instance/4972260/bin/supp_pp.16.01846_PP2015-01846DR1_Supplemental_Materialrev.pdf,2026-11-26T13:48:59.498603+00:00,200,text/html; charset=utf-8,HTML_or_other_nondata_payload,,153b87e22c738f43f028a6287d5cabcb87f4a3a225345a6f22c835d737b174ed
+orr_supp.docx,https://pmc.ncbi.nlm.nih.gov/articles/instance/5047088/bin/supp_pp.16.00750_00750revsupp.docx,2026-11-26T13:48:59.632743+00:00,200,text/html; charset=utf-8,HTML_or_other_nondata_payload,,45d2a47e99daab8dff5d2503d01eda96b90348c0f4600ae8d2627b1bc9a20f65
+hermida_supp_ljmu.pdf,https://researchonline.ljmu.ac.uk/id/eprint/3863/2/Supplemental%20Material.pdf,2026-11-26T13:49:22.754534+00:00,,,transport_error,HTTP Error 404: Not Found,
+orr_supp_epmc.zip,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5047088/supplementaryFiles,2026-11-26T13:49:22.754801+00:00,200,application/xml,XML_error_payload,,3dbee073edfa10bed23f955fbe0345017269ad620b17c2318c93f9e60527a206
+hermida_supp_epmc.zip,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4972260/supplementaryFiles,2026-11-26T13:49:22.754919+00:00,200,application/xml,XML_error_payload,,3dbee073edfa10bed23f955fbe0345017269ad620b17c2318c93f9e60527a206
+orr_xml.xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5047088/fullTextXML,2026-11-26T13:49:22.754990+00:00,,,transport_error,The read operation timed out,
+hermida_xml.xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4972260/fullTextXML,2026-11-26T13:49:22.755059+00:00,,,transport_error,The read operation timed out,
+hermida_supp_ljmu_correct.pdf,https://researchonline.ljmu.ac.uk/id/eprint/3863/3/Supplemental%20Material.pdf,2026-11-26T13:50:28.109900+00:00,200,application/pdf,verified_PDF_payload,,b918dafc92007e9062ee03dd0a47d4828f9f1869564b2af3c70f3adf2b0d9bd9
+orr_supp_direct.docx,https://pmc.ncbi.nlm.nih.gov/articles/PMC5047088/bin/supp_pp.16.00750_00750revsupp.docx,2026-11-26T13:50:28.110136+00:00,,,transport_error,HTTP Error 404: Not Found,
+orr_publisher.docx,https://academic.oup.com/plphys/article/172/2/707/6115841/suppl_file/00750revsupp.docx,2026-11-26T13:50:28.110238+00:00,,,transport_error,HTTP Error 403: Forbidden,
+orr_supp_without_prefix.docx,https://pmc.ncbi.nlm.nih.gov/articles/PMC5047088/bin/pp.16.00750_00750revsupp.docx,2026-11-26T13:51:11.895757+00:00,,,transport_error,HTTP Error 404: Not Found,
+orr_publisher_correct.docx,https://academic.oup.com/plphys/article/172/2/707/6115883/suppl_file/00750revsupp.docx,2026-11-26T13:51:11.896640+00:00,,,transport_error,HTTP Error 403: Forbidden,
+orr_old_ncbi.docx,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5047088/bin/supp_pp.16.00750_00750revsupp.docx,2026-11-26T13:51:11.897467+00:00,,,transport_error,HTTP Error 404: Not Found,
+orr_supp_oldpublisher.docx,https://www.plantphysiol.org/content/suppl/2016/06/24/pp.16.00750.DC1/00750revsupp.docx,2026-11-26T13:51:11.897711+00:00,,,transport_error,<urlopen error timed out>,
+orr_supp_oup.docx,https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/172/2/10.1104_pp.16.00750/1/00750revsupp.docx,2026-11-26T13:51:11.899692+00:00,,,transport_error,HTTP Error 403: Forbidden,

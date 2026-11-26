@@ -1,0 +1,14 @@
+{
+  "id": "C06",
+  "full_source_reextraction_exit": 0,
+  "ratios_recomputed": 60,
+  "crop_series": 20,
+  "original_overlap_null_vector": [
+    0.5,
+    1,
+    0
+  ],
+  "verified_temperature_bridges": 0,
+  "primary_sentinels_visually_checked": "Table S1 headings and Avena/Beta/Cucurbita/Zea values; Table I 25C extraction",
+  "human_review": false
+}

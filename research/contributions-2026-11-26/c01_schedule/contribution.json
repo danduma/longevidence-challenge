@@ -1,0 +1,101 @@
+{
+  "id": "C01",
+  "title": "Equal-command three-ordinate family: broad-primary null and narrower-window tradeoffs",
+  "question": "How does a fixed equal-command schedule family trade all-time and post-glass thermal floors in the released margin-shell phantom?",
+  "method": "Prespecified nine schedules; nominal/high uniform Fe; both SAR readings; independent exact-horizon RK2 baseline then 36 discovery, 20 spatial and 10 time-refinement runs; separate myocardium/specimen endpoints and conditional sampled nondominance.",
+  "result": "At 0.02 C/min tolerance, middle deficit is the sole sampled wider-primary nondominated discovery member in each scenario, conditional on terminal eligibility (no eligible nominal/clamped discovery schedule). Narrower supports retain four-member discovery frontiers and refined control/vertex tradeoffs. Storage-temperature minima can reward early duty while obscuring later performance. No robust or mechanical protocol is claimed.",
+  "verification_command": "PYTHON=python3 ./reproduce.sh",
+  "numerical_claims": [
+    {
+      "name": "family_size",
+      "value": 9,
+      "unit": "deterministic schedules"
+    },
+    {
+      "name": "scored_runs",
+      "value": 66,
+      "unit": "deterministic simulations, not replicates"
+    },
+    {
+      "name": "equal_continuous_command",
+      "value": 66.9762264567146,
+      "unit": "duty seconds"
+    },
+    {
+      "name": "high_clamped_time_refined_middle_all",
+      "value": 52.5764905326866,
+      "unit": "C/min"
+    },
+    {
+      "name": "high_clamped_time_refined_original_all",
+      "value": 44.435756926067,
+      "unit": "C/min",
+      "role": "prior control reproduced"
+    },
+    {
+      "name": "high_clamped_time_refined_middle_glass",
+      "value": 59.4760977432765,
+      "unit": "C/min"
+    },
+    {
+      "name": "high_clamped_time_refined_middle_glass35",
+      "value": 70.6414332059966,
+      "unit": "C/min"
+    },
+    {
+      "name": "high_clamped_time_refined_original_glass35",
+      "value": 71.4786690371953,
+      "unit": "C/min"
+    },
+    {
+      "name": "middle_minimum_time",
+      "value": 0.1125,
+      "unit": "s"
+    },
+    {
+      "name": "middle_minimum_temperature",
+      "value": -149.901394599461,
+      "unit": "C"
+    },
+    {
+      "name": "max_full_field_energy_relative_error",
+      "value": 5.15690633428394e-07,
+      "unit": "dimensionless"
+    },
+    {
+      "name": "max_time_refinement_rate_change",
+      "value": 0.00026075063579611424,
+      "unit": "C/min"
+    }
+  ],
+  "primary_sources": [
+    {
+      "url": "https://github.com/Marc-Dvci/Vitrify",
+      "version": "1d498ee5c583e0112a762e60892d576ec2e27f57",
+      "retrieval_date": "2026-11-26",
+      "permission": "Apache-2.0"
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0290063",
+      "snapshot": "inputs/model.xml",
+      "retrieval_date": "2026-11-26 local fallback after live timeout",
+      "permission": "CC BY"
+    },
+    {
+      "url": "https://doi.org/10.1002/admt.202100873",
+      "snapshot": "inputs/heart.xml",
+      "retrieval_date": "2026-11-26",
+      "permission": "CC BY 4.0"
+    }
+  ],
+  "limitations": [
+    "Synthetic geometry and voxelization-sensitive terminal decisions",
+    "Uniform assumed Fe and adiabatic exterior",
+    "Only nine schedules and selected finer-grid subset; no continuum optimum",
+    "Both low-temperature SAR extensions remain uncertain",
+    "Wider rate floor is only over observed trajectories; 0 C crossings incomplete",
+    "No ice, stress, fracture, recovery or mechanical optimization evidence",
+    "No human expert review"
+  ],
+  "status": "agent-produced; awaiting coordinator verification"
+}

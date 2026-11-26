@@ -1,0 +1,41 @@
+{
+  "contribution_id": "C06",
+  "workbook_rows": 634,
+  "workbook_sources": 67,
+  "workbook_missing_temperature": 3,
+  "workbook_non25_reported_temperature": 23,
+  "workbook_cross_temperature_candidates": 46,
+  "workbook_same_origin_candidates": 14,
+  "workbook_positive_turnover_same_origin_candidates": 1,
+  "workbook_eligible_in_vitro_pairs": 0,
+  "primary_series": 20,
+  "primary_points": 60,
+  "primary_correlated_pairs": 60,
+  "primary_source_studies": 1,
+  "exact_25_to_30_pairs": 0,
+  "overlap_enzymes": 11,
+  "overlap_enzymes_with_verified_series": 0,
+  "strict_augmented_rank": 1,
+  "conditional_universal_Q10_rank": 2,
+  "effective_Q10_by_interval": {
+    "15-25": {
+      "n_series": 20,
+      "minimum": 1.3333333333333333,
+      "median": 1.8819444444444444,
+      "maximum": 4.4
+    },
+    "25-35": {
+      "n_series": 20,
+      "minimum": 1.3599999999999999,
+      "median": 1.566287878787879,
+      "maximum": 2.25
+    },
+    "15-35": {
+      "n_series": 20,
+      "minimum": 1.426784596817013,
+      "median": 1.7579079888002833,
+      "maximum": 2.569046515733026
+    }
+  },
+  "input_files_checked": 87
+}

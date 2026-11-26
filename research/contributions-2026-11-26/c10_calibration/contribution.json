@@ -1,0 +1,35 @@
+{
+  "id": "C10",
+  "title": "Out-of-sample reporter-to-biochemical calibration",
+  "question": "Does corrected reporter AUC improve prediction of signed relative initial rates across held-out enzyme panels and held-out motif positions?",
+  "method": "Frozen pooled OLS and increasing isotonic fits versus training means, leave-one-enzyme-out and leave-one-position-out across enzymes, excluding canonical keys. Reconcile deposited slopes and audit control inclusion.",
+  "result": "Linear calibration beat the pooled training mean on all six enzyme panels and five of seven positions. Held-out P5 had substantial underprediction. The biochemical ratios use enzyme-by-position canonical controls.",
+  "verification_command": "./verify.py",
+  "numerical_claims": {
+    "noncanonical_pairs": 780,
+    "noncanonical_motifs": 133,
+    "negative_estimates": 170,
+    "enzyme_linear_macro_rmse": 0.308141617305,
+    "enzyme_mean_macro_rmse": 0.430206079028,
+    "position_linear_macro_rmse": 0.31440149077,
+    "position_mean_macro_rmse": 0.359590067967,
+    "enzyme_isotonic_macro_rmse": 0.300795294854,
+    "position_isotonic_macro_rmse": 0.293416131831,
+    "linear_wins_enzyme": 6,
+    "linear_wins_position": 5,
+    "canonical_series": 42,
+    "source_ratios_checked": 840
+  },
+  "primary_sources": [
+    "https://doi.org/10.1038/s41467-025-60622-7",
+    "https://github.com/JeschekLab/ProtRec/tree/8b9a1865108fa44c3e0a24ac20a59754222847ca",
+    "https://doi.org/10.5281/zenodo.15346003"
+  ],
+  "limitations": [
+    "Six selected related panels and single substitutions around one canonical motif.",
+    "Dimensionless control-normalized targets with shared denominators. No calibration to absolute kcat.",
+    "No joint unseen-enzyme/unseen-position test, folded-site test, proteome-wide test or replicate-level uncertainty.",
+    "Agent analysis with no human expert review."
+  ],
+  "status": "agent-produced; awaiting coordinator verification"
+}

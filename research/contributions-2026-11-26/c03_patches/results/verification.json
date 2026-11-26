@@ -1,0 +1,24 @@
+{
+  "analytic_checks": {
+    "id": "C03",
+    "crossing_absolute_errors_s": {
+      "glass": 9.842864301390364e-10,
+      "endglass": 6.05191909670566e-05,
+      "entry": 6.052009640100664e-05,
+      "leave": 6.051897014458518e-05
+    },
+    "terminal_error_C": 4.339211171711099e-05,
+    "energy_relative_error": 2.3523392671254e-08
+  },
+  "id": "C03",
+  "baseline": "six metrics matched within 1e-8",
+  "source_unit_check": true,
+  "zero_source_check": true,
+  "max_energy_relative_error": 1.2293397625539e-07,
+  "protocol_sha256": "7198a4a22a21e9ad1edc42aba3841cbd495150160ae1521946f10a93f8bc3611",
+  "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "numpy": "2.5.5",
+  "scipy": "1.18.1",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)"
+}

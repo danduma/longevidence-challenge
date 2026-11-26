@@ -1,0 +1,16 @@
+cutoff,population,pairs,enzymes,motifs
+20,intended,355242,4440,134
+20,off_panel_motif,15527,4110,26
+20,other_enzyme,27106,1757,159
+50,intended,321457,4439,134
+50,off_panel_motif,12954,3967,25
+50,other_enzyme,22770,1743,159
+100,intended,274198,4439,134
+100,off_panel_motif,9653,3684,25
+100,other_enzyme,17183,1718,158
+200,intended,206009,4438,134
+200,off_panel_motif,5804,3037,25
+200,other_enzyme,10655,1664,158
+500,intended,95963,4432,134
+500,off_panel_motif,1688,1324,25
+500,other_enzyme,3726,1427,156

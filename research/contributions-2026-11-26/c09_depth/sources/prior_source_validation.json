@@ -1,0 +1,43 @@
+{
+  "S8e_final_singles": {
+    "deposited": 358058,
+    "reconstructed": 358058,
+    "common": 358058,
+    "only_deposited": 0,
+    "only_reconstructed": 0,
+    "max_AUC_error": 0.0,
+    "AUC_discrepancies_over_1e12": 0
+  },
+  "S7a_controls": {
+    "(1-13)-mCherry": {
+      "deposited_n": 134,
+      "reconstructed_n": 134,
+      "max_error": 0.0
+    },
+    "I C151A 30*31*": {
+      "deposited_n": 134,
+      "reconstructed_n": 134,
+      "max_error": 0.0
+    },
+    "no TEVp": {
+      "deposited_n": 134,
+      "reconstructed_n": 134,
+      "max_error": 0.0
+    }
+  },
+  "S7c_normalized_controls": {
+    "deposited_rows": 840,
+    "deposited_nonmissing": 836,
+    "reconstructed_nonmissing": 838,
+    "common_nonmissing": 836,
+    "max_error": 0.7679762215920085,
+    "discrepancies_over_1e10": 55
+  },
+  "S7c_manual_parent_branch": {
+    "deposited_nonmissing": 836,
+    "reconstructed_nonmissing": 836,
+    "common_nonmissing": 836,
+    "max_error": 5.10702591327572e-15,
+    "discrepancies_over_1e10": 0
+  }
+}

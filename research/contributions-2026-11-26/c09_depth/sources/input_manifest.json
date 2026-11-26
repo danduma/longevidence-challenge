@@ -1,0 +1,38 @@
+[
+  {
+    "local": "inputs/DMS_script05_singles.tsv.gz",
+    "origin": "research/millennium/agents/protease-corrected-sol/results/DMS_script05_singles.tsv.gz",
+    "sha256": "f0d62b74f0ebbfafcc59128d754f65e929cc786341ea33b64fe638680017bc5f",
+    "bytes": 12039061,
+    "retrieved": "2026-11-26",
+    "version": "ProtRec 8b9a1865108fa44c3e0a24ac20a59754222847ca; corrected reconstruction 2026-11-26",
+    "permission": "CC BY 4.0 processed data; Huber et al. 2025 DOI 10.1038/s41467-025-60622-7 Data availability; transformed by prior reconstruction"
+  },
+  {
+    "local": "inputs/DMS_corrected.tsv.gz",
+    "origin": "research/millennium/agents/protease-corrected-sol/results/DMS_corrected.tsv.gz",
+    "sha256": "ec21f546f7179d79faf1e824cc94109b10bb7af8d368e0b4638a8e1280e1751a",
+    "bytes": 13468582,
+    "retrieved": "2026-11-26",
+    "version": "ProtRec 8b9a1865108fa44c3e0a24ac20a59754222847ca; corrected reconstruction 2026-11-26",
+    "permission": "CC BY 4.0 processed data; Huber et al. 2025 DOI 10.1038/s41467-025-60622-7 Data availability; transformed by prior reconstruction"
+  },
+  {
+    "local": "inputs/controls_corrected.tsv.gz",
+    "origin": "research/millennium/agents/protease-corrected-sol/results/controls_corrected.tsv.gz",
+    "sha256": "f1e3140e310f39a25a29cd86ef1bc59cba8c73dbb81dfc3dd96b575117781540",
+    "bytes": 126954,
+    "retrieved": "2026-11-26",
+    "version": "ProtRec 8b9a1865108fa44c3e0a24ac20a59754222847ca; corrected reconstruction 2026-11-26",
+    "permission": "CC BY 4.0 processed data; Huber et al. 2025 DOI 10.1038/s41467-025-60622-7 Data availability; transformed by prior reconstruction"
+  },
+  {
+    "local": "inputs/protease_vitro_relative.tsv",
+    "origin": "research/millennium/agents/scout-data-sol/data/protease_vitro_relative.tsv",
+    "sha256": "ca80441cdaa611d01b42d485977cf15d3bb4ba0f9a45e04291923b6f8763375a",
+    "bytes": 22488,
+    "retrieved": "2026-11-26",
+    "version": "ProtRec 8b9a1865108fa44c3e0a24ac20a59754222847ca; corrected reconstruction 2026-11-26",
+    "permission": "CC BY 4.0 processed data; Huber et al. 2025 DOI 10.1038/s41467-025-60622-7 Data availability; transformed by prior reconstruction"
+  }
+]

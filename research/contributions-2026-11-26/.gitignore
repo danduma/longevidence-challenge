@@ -1,0 +1,9 @@
+*.log
+*.input
+__pycache__/
+.venv/
+downloaded-inputs/
+/c01_schedule/schedule_solver
+/c01_schedule/baseline_solver
+/c03_patches/solver
+/c02_boundary/build/

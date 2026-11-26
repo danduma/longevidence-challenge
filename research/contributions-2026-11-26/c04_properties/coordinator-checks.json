@@ -1,0 +1,11 @@
+{
+  "id": "C04",
+  "fresh_full_reproduction_exit": 0,
+  "byte_identical_result_files": 4,
+  "full_field_cases": 40,
+  "independent_necessary_sar_capacity_ratio": 0.9933122072554956,
+  "brackets_reconciled": 5,
+  "scaled_source_capacity_enthalpy_and_diagnostics_diff_inspected": true,
+  "hypothetical_sensitivity_not_empirical_uncertainty": true,
+  "human_review": false
+}

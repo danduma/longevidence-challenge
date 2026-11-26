@@ -1,0 +1,13 @@
+{
+  "id": "C09",
+  "fresh_full_reproduction_exit": 0,
+  "frozen_scientific_hashes_reproduced": true,
+  "independent_baseline_pairs": 355242,
+  "independent_depth500_pairs": 95963,
+  "independent_baseline_decile_calls": 35810,
+  "surviving_selected": 3946,
+  "lost_eligibility": 31864,
+  "newly_selected": 5802,
+  "method_and_conditional_bootstrap_inspected": true,
+  "human_review": false
+}

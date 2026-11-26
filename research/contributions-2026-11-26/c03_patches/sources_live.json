@@ -1,0 +1,15 @@
+[
+  {
+    "name": "model.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10431620/fullTextXML",
+    "retrieved": "2026-11-26",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "heart.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9164386/fullTextXML",
+    "retrieved": "2026-11-26",
+    "http_status": 200,
+    "sha256": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304"
+  }
+]

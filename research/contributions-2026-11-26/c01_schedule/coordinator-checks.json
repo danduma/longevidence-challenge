@@ -1,0 +1,10 @@
+{
+  "id": "C01",
+  "fresh_full_reproduction_exit": 0,
+  "integrations": 66,
+  "equal_continuous_command_s": 66.97622645671458,
+  "four_finite_family_checks": true,
+  "narrower_window_reversal": true,
+  "physical_solver_diff_inspected": true,
+  "human_review": false
+}

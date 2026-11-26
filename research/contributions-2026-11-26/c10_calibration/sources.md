@@ -1,0 +1,18 @@
+# C10 | Provenance and public reproduction
+
+Retrieved or inspected on 2026-11-26. Huber et al. describe the recorder endpoint, selected TEVp variants and orthogonal biochemical comparisons. The paper and repository supply the measurements. Longevidence contributors reconstructed the corrected common-key table. C10 adds the grouped holdout fits and normalization audit. [Paper](https://doi.org/10.1038/s41467-025-60622-7) · [ProtRec source release](https://doi.org/10.5281/zenodo.15346003)
+
+The ProtRec README grants CC BY 4.0 for data in the repository and associated repositories. The included slope tables and prior derivative matched table contain ProtRec data. Credit Huber et al., Luzius Pestalozzi for the in vitro data, and Longevidence contributors for the reconstruction. C10 preserves the input bytes and adds derived error, prediction and control tables. [Authors' license statement](https://github.com/JeschekLab/ProtRec/blob/8b9a1865108fa44c3e0a24ac20a59754222847ca/README.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Inputs
+
+- The assigned CSV is byte-identical to the public archive at commit 01b6be05300e5e7878e51c77ab2f4ccb7658259d, confirmed by live download. Its reconstruction selects common raw/corrected depth-qualified keys, uses the DMS parent and averages canonical representations by sequence. Only the corrected AUC is used as a model feature. [Download biochemical_common_keys.csv](https://raw.githubusercontent.com/danduma/longevidence-challenge/01b6be05300e5e7878e51c77ab2f4ccb7658259d/research/archive/agents/protease-corrected-sol/results/biochemical_common_keys.csv) · [Prior reconstruction and source checks](https://github.com/danduma/longevidence-challenge/tree/01b6be05300e5e7878e51c77ab2f4ccb7658259d/research/archive/agents/protease-corrected-sol)
+- The published relative table was copied from the earlier local snapshot and verified by live download at ProtRec commit 8b9a1865108fa44c3e0a24ac20a59754222847ca. Save it as inputs/protease_vitro_relative.tsv. [Download data_vinirel_Luzi.txt](https://raw.githubusercontent.com/JeschekLab/ProtRec/8b9a1865108fa44c3e0a24ac20a59754222847ca/2%20Data%20analysis%20%28Lukas%20Huber%29/In%20vitro%20data%20by%20Luzius%20Pestalozzi/data_vinirel_Luzi.txt)
+- The initial-slope table was downloaded at the same revision and matched to its Git blob 0466214d07e1dcfed3dbe965771282a37b90c399. Save it as inputs/data_viniabs_Luzi.txt. Only the control audit reads its values. [Download data_viniabs_Luzi.txt](https://raw.githubusercontent.com/JeschekLab/ProtRec/8b9a1865108fa44c3e0a24ac20a59754222847ca/2%20Data%20analysis%20%28Lukas%20Huber%29/In%20vitro%20data%20by%20Luzius%20Pestalozzi/data_viniabs_Luzi.txt)
+- The upstream license snapshot is inputs/ProtRec-README.md. [Download README.md](https://raw.githubusercontent.com/JeschekLab/ProtRec/8b9a1865108fa44c3e0a24ac20a59754222847ca/README.md)
+
+## Execution
+
+The package includes the pinned inputs. To restore individual files, save the linked raw downloads under the indicated names in inputs/. For the matched CSV use its original filename. The input and prescoring protocol SHA-256 values are in frozen.sha256.
+
+In the assigned environment run `./verify.py`. On another machine install Python 3.14 with numpy==2.5.5, pandas==3.1.1 and scipy==1.18.1 and run `python -B verify.py`. The original execution used Python 3.14.10. Use `python -B verify.py --write` to regenerate the tables. Verification uses local files and checks all numeric output within documented code tolerances. Manifest file checks can be run with `shasum -a 256 -c manifest.sha256`.

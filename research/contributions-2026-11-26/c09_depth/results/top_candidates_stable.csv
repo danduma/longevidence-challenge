@@ -1,0 +1,16 @@
+TEVp,TEVs,min,AUC,source,rank20_within_motif,eligible20,selected20,top20,rank20,eligible50,selected50,top50,rank50,eligible100,selected100,top100,rank100,eligible200,selected200,top200,rank200,eligible500,selected500,top500,rank500
+D127W,EHLYFQS,995,0.2172,repl_uncorrected,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+D127W,ENLYFQC,508,0.2291,repl_uncorrected,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+N177F,ENLYFQS,5181,0.2038,repl_uncorrected,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+Y11A,ENLYRQS,848,0.1512,repl_uncorrected,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+F217V,ENLYFQK,647,0.1697,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+H46R,ENLYYQS,767,0.2187,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+L55R,ENLYFYS,728,0.2001,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+M124H,ENLYFSS,641,0.1161,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+M82L,ENLYEQS,674,0.1615,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+M82P,ENLYFFS,520,0.1553,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+N177Y,ENLYVQS,920,0.2137,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+Q145M,ENSYFQS,1048,0.1575,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+V216Q,ENLYAQS,651,0.1825,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+V219C,ENLRFQS,518,0.1452,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1
+W143Q,ENLYHQS,583,0.2366,original,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1,True,True,True,1

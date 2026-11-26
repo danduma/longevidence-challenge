@@ -1,0 +1,12 @@
+{
+  "snapshots/LONGEVIDENCE-LICENSE": "f76ce4a758791b5545349bdf2464754d01578033034f8e007773d0cdb50c2509",
+  "snapshots/VITRIFY-LICENSE": "5b53c732328cdc5e52a274a07af805a60c46342d42caffe9f708815cf997bec3",
+  "snapshots/baseline.json": "58138dd88e343d165e55839e31c1b6772c7ba925bcd8ff80689acbb5bc25007b",
+  "snapshots/grid_convergence_margin.json": "4c4ae2002afa5a38fef921574b65d59945cf836bd1e9a0f50781553c6528bbf9",
+  "snapshots/heart.xml": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304",
+  "snapshots/independent.cpp": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222",
+  "snapshots/model.xml": "446d7960c218d3d16c0c2670cf30fb3d4cdbdf350f1366942f23380a50465472",
+  "snapshots/vendor/vitrify/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "snapshots/vendor/vitrify/geometry.py": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb",
+  "protocol.md": "7198a4a22a21e9ad1edc42aba3841cbd495150160ae1521946f10a93f8bc3611"
+}

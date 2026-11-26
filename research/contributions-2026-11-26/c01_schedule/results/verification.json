@@ -1,0 +1,11 @@
+{
+  "id": "C01",
+  "runs": 66,
+  "continuous_command_duty_s": 66.9762264567146,
+  "max_relative_energy_imbalance": 5.15690633428394e-07,
+  "max_time_refinement_rate_change_C_min": 0.00026075063579611424,
+  "max_time_refinement_endpoint_change_C": 1.880193040015854e-05,
+  "primary_family_result": "deficit_mid weakly dominates entire nine-schedule discovery family within 0.02 C/min in all four whole-specimen scenarios; nominal clamped discovery has no terminal-eligible schedule",
+  "secondary_result": "narrower-window tradeoffs persist in time-refined high-loading clamped comparison",
+  "status": "agent-produced; awaiting coordinator verification"
+}

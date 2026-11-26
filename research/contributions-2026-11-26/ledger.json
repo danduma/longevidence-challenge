@@ -5,10 +5,10 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c01_schedule",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c01_schedule/",
     "human_review": "not performed",
     "exit_code": 0
   },
@@ -20,12 +20,7 @@
     "job": "c02_boundary",
     "state": "coordinator-reproduced; awaiting human review",
     "counts_toward_ten": true,
-    "verification": {
-      "full_offline_reintegration": true,
-      "scenario_rows": 137,
-      "method_diff_inspected": true,
-      "energy_and_bracket_crosschecks": true
-    },
+    "verification": "See bundle README and coordinator check record",
     "publication": "c02_boundary/",
     "human_review": "not performed",
     "exit_code": 0
@@ -36,11 +31,12 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c03_patches",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c03_patches/",
+    "human_review": "not performed",
+    "exit_code": 0
   },
   {
     "id": "C04",
@@ -48,11 +44,12 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c04_properties",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c04_properties/",
+    "human_review": "not performed",
+    "exit_code": 0
   },
   {
     "id": "C05",
@@ -72,12 +69,12 @@
     "model": "gpt-6.1-sol",
     "effort": "high",
     "job": "c06_temperature",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c06_temperature/",
     "human_review": "not performed",
-    "exit_code": null
+    "exit_code": 0
   },
   {
     "id": "C07",
@@ -97,10 +94,10 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c08_selection",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c08_selection/",
     "human_review": "not performed",
     "exit_code": 0
   },
@@ -110,11 +107,12 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c09_depth",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c09_depth/",
+    "human_review": "not performed",
+    "exit_code": 0
   },
   {
     "id": "C10",
@@ -122,10 +120,11 @@
     "model": "gpt-6.2-astra",
     "effort": "medium",
     "job": "c10_calibration",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c10_calibration/",
+    "human_review": "not performed",
+    "exit_code": 0
   }
 ]

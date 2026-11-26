@@ -1,0 +1,24 @@
+{
+  "contribution_id": "C06",
+  "status": "PASS",
+  "all_input_sha256_checked": 87,
+  "byte_identical_reextracted_outputs": [
+    "calibration_overlap_coverage.csv",
+    "environment.json",
+    "hermida_supp_extracted.txt",
+    "measured_temperature_pairs.csv",
+    "original_calibration_overlaps.csv",
+    "primary_temperature_points.csv",
+    "rank_tests.csv",
+    "source_access_ledger.csv",
+    "source_inventory.csv",
+    "summary.json",
+    "workbook_candidate_pairs.csv",
+    "workbook_row_ledger.csv"
+  ],
+  "primary_table_sentinels": 6,
+  "species_series_arithmetic_verified": 20,
+  "no_network": true,
+  "no_LLM_calls": true,
+  "human_expert_review": false
+}

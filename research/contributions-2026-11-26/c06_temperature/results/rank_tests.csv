@@ -1,0 +1,5 @@
+scenario,parameters,rank,exact_calibration_bridges,interpretation
+original_overlaps_prior_result,2,1,0,known baseline; not C06 novelty
+append_verified_exact_calibration_bridges,2,1,0,no eligible new row
+force_universal_plant_and_microbe_Q10,2,2,0,conditional algebraic rank gain requires unverified cross-enzyme transfer
+allow_separate_plant_Q10,3,2,0,"microbial alpha and beta remain confounded; explicit null vector [0.5,1,0]"

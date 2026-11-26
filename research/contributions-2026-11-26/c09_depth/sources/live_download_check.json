@@ -1,0 +1,10 @@
+{
+  "id": "C09",
+  "url": "https://raw.githubusercontent.com/JeschekLab/ProtRec/8b9a1865108fa44c3e0a24ac20a59754222847ca/2%20Data%20analysis%20%28Lukas%20Huber%29/In%20vitro%20data%20by%20Luzius%20Pestalozzi/data_vinirel_Luzi.txt",
+  "retrieved_utc": "2026-11-26T14:03:50.459799+00:00",
+  "commit": "8b9a1865108fa44c3e0a24ac20a59754222847ca",
+  "status": 200,
+  "sha256": "ca80441cdaa611d01b42d485977cf15d3bb4ba0f9a45e04291923b6f8763375a",
+  "git_blob": "17a2b0225edafcda1fed7463161b4d8bb70389df",
+  "local_snapshot_exact": true
+}

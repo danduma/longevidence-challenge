@@ -1,0 +1,14 @@
+{
+  "enzyme": {
+    "held_groups": 6,
+    "mean_fold_RMSE": 0.3081416173052994
+  },
+  "position": {
+    "held_groups": 7,
+    "mean_fold_RMSE": 0.3144014907699591
+  },
+  "id": "C10",
+  "full_worker_reproduction_exit": 0,
+  "negative_estimates_retained": 170,
+  "human_review": false
+}

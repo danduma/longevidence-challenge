@@ -1,0 +1,10 @@
+{
+  "scalar_transit_exact": 28.609027119620183,
+  "scalar_transit_RK2": 28.609074194991,
+  "scalar_exact_C": -138.47406662009794,
+  "scalar_solver_C": -138.47406662135,
+  "scalar_source_J": 0.018019552500001,
+  "max_abs_relative_energy_error": 4.158219708941e-07,
+  "max_missing_crossings": 40,
+  "onset_required_ratio": 0.9933122072554954
+}

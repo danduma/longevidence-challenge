@@ -1,0 +1,38 @@
+[
+  {
+    "name": "model.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10431620/fullTextXML",
+    "permission": "CC BY 4.0",
+    "retrieved_utc": "2026-11-26T13:49:58.921617+00:00",
+    "status": "source access failure",
+    "error": "The read operation timed out"
+  },
+  {
+    "name": "heart.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9164386/fullTextXML",
+    "permission": "CC BY 4.0",
+    "retrieved_utc": "2026-11-26T13:50:39.162560+00:00",
+    "http_status": 200,
+    "sha256": "01161db73cb046c18fd5e39744aebe29a28f93e200c6b3e6969f44eab0826304",
+    "bytes": 158257,
+    "status": "source retrieval succeeded"
+  },
+  {
+    "name": "thermal2022.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8823202/fullTextXML",
+    "permission": "inspect article license; download only, do not redistribute without checking",
+    "retrieved_utc": "2026-11-26T13:51:06.538291+00:00",
+    "status": "source access failure",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "name": "vitrify_readme.txt",
+    "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/README.md",
+    "permission": "Apache-2.0",
+    "retrieved_utc": "2026-11-26T13:51:23.783282+00:00",
+    "http_status": 200,
+    "sha256": "4a08e5c8dced349ecc077923411c9c691c646236c1d4ce55b2d5ce3687cbb7de",
+    "bytes": 15994,
+    "status": "source retrieval succeeded"
+  }
+]

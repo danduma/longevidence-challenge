@@ -1,0 +1,7 @@
+{
+  "python": "3.14.10",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "pypdf": "7.1.1",
+  "protocol_sha256": "6578e0d9a2cca260a19368dd76c992af9c9cd376ee225d012e9c08b543386a95"
+}

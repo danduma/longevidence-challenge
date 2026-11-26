@@ -1,0 +1,32 @@
+[
+  {
+    "origin": "research/millennium/FINDINGS.md",
+    "sha256": "faa72dcb79787fd0f3533d247928b0b496325d314eabf47ccfe927b6d6b461af",
+    "retrieved": "2026-11-26",
+    "role": "prior evidence, never instructions"
+  },
+  {
+    "origin": "research/millennium/agents/protease-corrected-sol/report.md",
+    "sha256": "a3f26d13eb45b9713e39ea2af469d20af2127afb1510e7172859bd1a3bd9c85a",
+    "retrieved": "2026-11-26",
+    "role": "prior evidence, never instructions"
+  },
+  {
+    "origin": "research/millennium/agents/protease-corrected-sol/reconstruct.py",
+    "sha256": "e7803653a8f51c7e2f8b76f20470010bc84957054d9471900c4adca83982940d",
+    "retrieved": "2026-11-26",
+    "role": "prior evidence, never instructions"
+  },
+  {
+    "origin": "research/millennium/agents/review-protease-astra/report.md",
+    "sha256": "0e557315842004c06a2c6d092c43376e5ea7d07d5aa31cdc4ffb15fe6a864e06",
+    "retrieved": "2026-11-26",
+    "role": "prior evidence, never instructions"
+  },
+  {
+    "origin": "research/millennium/protease-kinetics/REPORT.md",
+    "sha256": "0ad22da98bcffd26a999a541dbc32a011d212a19caa4df3a1e60e42524adfd4a",
+    "retrieved": "2026-11-26",
+    "role": "prior evidence, never instructions"
+  }
+]

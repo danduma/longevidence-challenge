@@ -1,0 +1,42 @@
+{
+  "id": "C08",
+  "access_date": "2026-11-26",
+  "commit": "e1c9ed945864a0744e81b9cfdbfeb609ccf67907",
+  "repository": "https://gitlab.com/milo-lab-public/rubisco_is_slow",
+  "inputs": {
+    "supp": {
+      "local_path": "raw/shared_inputs/data/rubisco2025_supp3.csv",
+      "sha256": "432b433f1e593a5a78d55306887730916e1a37f9a41cbc586a1e7eec83fd7207",
+      "upstream_path": "outputs/Supplementary_Data_3.csv",
+      "git_blob": "474ab2acbe1a5ad61c135f7cf0451231cc5ce655",
+      "download_url": "https://gitlab.com/milo-lab-public/rubisco_is_slow/-/raw/e1c9ed945864a0744e81b9cfdbfeb609ccf67907/outputs/Supplementary_Data_3.csv"
+    },
+    "library": {
+      "local_path": "raw/shared_inputs/data/rubisco2025_library.csv",
+      "sha256": "5e3116dbf5aa4cdc77b01b326e291170692eac1032c9dc8e8db8e1e69690acdf",
+      "upstream_path": "data/rubisco_library.csv",
+      "git_blob": "4d8e06323b499cfc5d67fb3a7989a9786feed293",
+      "download_url": "https://gitlab.com/milo-lab-public/rubisco_is_slow/-/raw/e1c9ed945864a0744e81b9cfdbfeb609ccf67907/data/rubisco_library.csv"
+    },
+    "notebook": {
+      "local_path": "raw/library2025_calibration.ipynb",
+      "sha256": "81908754e21ad09da9effb6f86097c7807f13995e84edb6361aad5aac7ab44e3",
+      "upstream_path": "1_regression_measured_lit.ipynb",
+      "git_blob": "bafbc0633ccf8ec9f9608181711a00a9182bc110",
+      "download_url": "https://gitlab.com/milo-lab-public/rubisco_is_slow/-/raw/e1c9ed945864a0744e81b9cfdbfeb609ccf67907/1_regression_measured_lit.ipynb"
+    },
+    "ledger": {
+      "local_path": "derived/library2025_measurement_ledger.csv",
+      "sha256": "ddd456647705f41e26a129a5cb09db403e8d1cb755f0d1cd352d7c9c775c3fe2"
+    },
+    "paper": {
+      "local_path": "raw/shared_inputs/sources/rubisco2025.xml",
+      "sha256": "357f1065029d4b7f777e0e05dccb114a7b5de58c11f1d3e3f6c7012dcd401d47"
+    },
+    "tree": {
+      "local_path": "raw/shared_inputs/sources/rubisco2025_tree.json",
+      "sha256": "6bca4e00f850808040391a3bdb62b2ec92475788231ffc2dac95652c0bc2ae23"
+    }
+  },
+  "paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663927/"
+}

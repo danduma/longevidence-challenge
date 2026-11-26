@@ -1,0 +1,19 @@
+{
+  "id": "C09",
+  "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "numpy": "2.5.5",
+  "pandas": "3.1.1",
+  "scipy": "1.18.1",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "cutoffs": [
+    20,
+    50,
+    100,
+    200,
+    500
+  ],
+  "biochemical_input_rows": 840,
+  "biochemical_distinct_keys": 804,
+  "checks": "input SHA256, pooled depth/sum, unique keys, exact intended subset, fixed common scores and calls invariant: PASS"
+}
+C09 PASS: 12 scientific output hashes reproduced; key and signed-rate checks passed.

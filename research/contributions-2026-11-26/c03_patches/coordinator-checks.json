@@ -1,0 +1,12 @@
+{
+  "id": "C03",
+  "full_coordinator_reproduction_exit": 0,
+  "solver_diagnostics_only_diff_inspected": true,
+  "worker_manifest_mismatches": [],
+  "placement_range_C": 0.03997113224312443,
+  "placement_range_s": 0.021070594039549917,
+  "equal_deficit_mg": 0.0144,
+  "primary_materiality_threshold_not_met": true,
+  "grid_censoring_and_patch_overlap_limit_null": true,
+  "human_review": false
+}

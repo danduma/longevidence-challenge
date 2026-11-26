@@ -1,0 +1,34 @@
+{
+  "id": "C03",
+  "title": "Localized delivery-deficit geometry: matched compact patches yield a bounded placement null",
+  "question": "Do equal-volume, equal-deficit localized myocardial patches near chamber, deep tissue, or exterior materially change post-glass transit or terminal cold spots in the pinned Vitrify phantom?",
+  "method": "Prescoring protocol; geometry-only compact connected voxel patches at targets 0.010 and 0.040 mL; common 0.36 mg Fe/mL local depletion compensated over remaining muscle to retain mean 1.47; released margin shell/ramp and clamped SAR; independent RK2 finite-volume integrations at 0.75 mm with 0.50-mm large-trio checks and halved time step; uniform nominal/equal-total-iron and uniform lower-mean dose controls; separate myocardial and whole-specimen diagnostics.",
+  "result": "Informative bounded null: predefined placement materiality thresholds were not met. The refined 0.040-mL trio spans only 0.0399711 C in terminal myocardial minimum and 0.0210706 s in longest complete post-glass transit. Local patch cooling persists relative to uniform loading. Coarse post-glass transits are censored and spatial error/patch overlap limit generalization.",
+  "verification_command": "PYTHONDONTWRITEBYTECODE=1 python3 /Users/masterman/NLP/longevitokens/research/contributions-2026-11-26/agents/c03_patches/verify.py",
+  "numerical_claims": [
+    {"claim": "0.50-mm large-trio terminal myocardial minimum placement range", "value": 0.039971132243124, "unit": "degC", "artifact": "results/summary.csv"},
+    {"claim": "0.50-mm large-trio longest complete -123 to -35 C transit placement range", "value": 0.02107059403955, "unit": "s", "artifact": "results/summary.csv"},
+    {"claim": "0.75-mm large-trio terminal myocardial minimum placement range", "value": 0.01355236182821, "unit": "degC", "artifact": "results/summary.csv"},
+    {"claim": "0.50-mm large patch count in every placement", "value": 320, "unit": "voxels", "artifact": "results/maps.csv"},
+    {"claim": "0.50-mm large patch deficit mass in every placement", "value": 0.0144, "unit": "mg Fe", "artifact": "results/maps.csv"},
+    {"claim": "maximum new full-field relative energy residual", "value": 1.2293397625539e-7, "unit": "dimensionless", "artifact": "results/verification.json"},
+    {"claim": "maximum terminal temperature change after halving dt for 0.50-mm large trio", "value": 7.438349669541822e-6, "unit": "degC", "artifact": "results/time_refinement.csv"},
+    {"claim": "new full-field scored cases, deterministic and not independent replicates", "value": 16, "unit": "cases", "artifact": "results/summary.csv"}
+  ],
+  "primary_sources": [
+    {"title": "Vitrify", "url": "https://github.com/Marc-Dvci/Vitrify/tree/1d498ee5c583e0112a762e60892d576ec2e27f57", "version": "1d498ee5c583e0112a762e60892d576ec2e27f57", "retrieval_date": "2026-11-26", "hashes": "pinned_hashes.json"},
+    {"title": "Joshi and Rabin 2023", "url": "https://doi.org/10.1371/journal.pone.0290063", "snapshot": "snapshots/model.xml", "retrieval_date": "2026-11-26 local archived snapshot inspection; live XML timed out", "hashes": "pinned_hashes.json"},
+    {"title": "Gao et al. 2022", "url": "https://doi.org/10.1002/admt.202100873", "snapshot": "snapshots/heart.xml", "retrieval_date": "2026-11-26", "hashes": "sources_live.json"}
+  ],
+  "limitations": [
+    "Synthetic matched-volume geometry and delivery maps; no measured coronary map or biological validation.",
+    "Large patches overlap 64.7 to 91.9 percent at 0.50 mm; geometry-only seeds shift with voxelization.",
+    "At 0.75 mm 31 large-patch voxels per placement have incomplete -123 to -35 C crossings. Complete-case transits are censored summaries, not whole-domain maxima.",
+    "Uniform cold endpoint moves by about 1.787 C across meshes; no continuum terminal-threshold certificate.",
+    "Two patch sizes have different deficit masses. No fixed-deficit-mass size effect is established.",
+    "Adiabatic boundary and clamped SAR are assumptions. No ice, mechanics, fracture, toxicity, survival or recovery conclusions.",
+    "Equal-iron spatial concepts, half-muscle maps, staged heating and rate-window ideas are prior art; novelty is restricted to these new executed localized-patch results.",
+    "No human expert review. No empirical triplicate failure inference."
+  ],
+  "status": "agent-produced; awaiting coordinator verification"
+}
