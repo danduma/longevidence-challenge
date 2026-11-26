@@ -17,7 +17,7 @@ class ReviewWorkflow(unittest.TestCase):
         self.addCleanup(self.tmp.cleanup)
 
     def connect(self):
-        c = sqlite3.connect(self.path, timeout=.1)
+        c = sqlite3.connect(self.path, timeout=.1, factory=store.ClosingConnection)
         c.row_factory = sqlite3.Row
         return c
 

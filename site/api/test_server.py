@@ -56,6 +56,22 @@ class PublicWorkflow(unittest.TestCase):
         for path in ['/challenge/review','/challenge/activity','/challenge/credits']:
             code,body=self.request(path);self.assertEqual(code,200);self.assertIn('<h1>',body)
         self.assertEqual(self.request('/challenge/api/activity?after=bad')[0],400)
+    def test_public_total_does_not_confuse_recent_list_limit_with_all_contributions(self):
+        self.request('/challenge/api/submit',self.card)
+        with server.db() as c:
+            original=c.execute('SELECT * FROM submissions WHERE id=1').fetchone()
+            for i in range(2,202):
+                c.execute("INSERT INTO submissions(task_id,verdict,card_json,card_md,digest,via,created_at) VALUES(?,?,?,?,?,?,?)",('LC-001','not_established',original['card_json'],original['card_md'],str(i),'test',original['created_at']))
+        code,html=self.request('/challenge/contributions')
+        self.assertEqual(code,200)
+        self.assertTrue('201 cards so far' in html, 'Public total must include cards beyond the 200-item recent list.')
+
+    def test_database_context_closes_connection_after_read(self):
+        c=server.db()
+        with c: c.execute('SELECT 1')
+        import sqlite3
+        with self.assertRaises(sqlite3.ProgrammingError): c.execute('SELECT 1')
+
     def test_wal_read_paths_still_work_while_another_writer_holds_lock(self):
         self.request('/challenge/api/submit',self.card)
         with server.db() as c:

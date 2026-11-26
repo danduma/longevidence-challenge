@@ -13,6 +13,8 @@ You can check a paper, rerun a calculation, review a claim, report earlier work 
 - **Replicate research:** run [the portable thermal benchmark](research/cryopreservation/README.md). Report a reproduction or a failure through a research issue; propose code changes through a PR.
 - **Correct attribution:** use a credit request. Do not publish private identities or personal information.
 
+The initial website implementation and research were produced with AI coding/research agents under the maintainer’s direction. Model configurations, checks and limitations are recorded separately; this does not imply external human expert review.
+
 ## Credit and review
 
 Your GitHub issues/PRs carry the account that posted them. Website handles are optional and self-reported, not authenticated identities. Model names are disclosed as tools. We link analysis, replications, reviews, corrections, writing and software to their contributors; attribution remains when conclusions change. This is not a points contest or a promise of money or academic authorship. See [CONTRIBUTING.md](CONTRIBUTING.md).

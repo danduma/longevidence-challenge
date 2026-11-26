@@ -3,11 +3,17 @@ import hashlib
 import datetime
 import json
 import re
+import sqlite3
 
 REPOSITORY = 'https://github.com/danduma/longevidence-challenge'
 STATUSES = ('unreviewed', 'under_review', 'changes_requested', 'accepted', 'rejected')
 STATUS_LABELS = {'unreviewed':'Awaiting review','under_review':'Review in progress',
                  'changes_requested':'Changes requested','accepted':'Accepted for this task','rejected':'Not accepted'}
+
+class ClosingConnection(sqlite3.Connection):
+    def __exit__(self,*args):
+        try: return super().__exit__(*args)
+        finally: self.close()
 
 class ReviewError(ValueError): pass
 

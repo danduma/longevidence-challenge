@@ -21,7 +21,7 @@
   },
   {
     "file": ".github/workflows/check.yml",
-    "sha256": "ef688d305d01277544b5ad36430966ceeb931bf511f685cdd45828e75ac60350"
+    "sha256": "6bb7e14e746f2f0b9f0d94d7d73ddfdcd4194d383cac96403b536b0f18d9b27f"
   },
   {
     "file": ".gitignore",
@@ -45,7 +45,7 @@
   },
   {
     "file": "README.md",
-    "sha256": "c34f22ab8aa72e2c85386e260d7ccd3b78f554f3733634ae112522a68af5f9a5"
+    "sha256": "6ac644f1c4dcc9b0d4fff3d59741194edf2150141b6fa235f5057086cc6e9020"
   },
   {
     "file": "REVIEWING.md",
@@ -2169,7 +2169,7 @@
   },
   {
     "file": "site/api/review_store.py",
-    "sha256": "e4878dd17411519c54b024be560f41a4046aee5ea1246cfcb297eb1a3a3991b0"
+    "sha256": "663995799372a712994c44303b5378459b320496ccaee545dac98365fbb4f6a7"
   },
   {
     "file": "site/api/review_views.py",
@@ -2177,15 +2177,15 @@
   },
   {
     "file": "site/api/server.py",
-    "sha256": "8c9fb4e6ac48ac64730edb1fc601763599f2c1f908cfab107d05e12de848e0cc"
+    "sha256": "92f2fb96d16349efb107c0fce79b44fcb594c2de0fb6ddb65095b16f85927d3e"
   },
   {
     "file": "site/api/test_review.py",
-    "sha256": "f5d6a4aa1d68b5a5d26905376af781dd68c82127953728c99ec58448542f554e"
+    "sha256": "66c652eddcb7fc15359d5ac5ddb52840ce9416a25b51e2e9d5d0cc94c9899ca1"
   },
   {
     "file": "site/api/test_server.py",
-    "sha256": "0616c2a86cb4e86d010d9d846a1047595c7c117d7c980599f2bbce7c51dbc771"
+    "sha256": "2e4e3da1623841aa39a37a61cb38650541df81a505e4ea84194184a1e2c88630"
   },
   {
     "file": "site/deploy/add-api-route.py",
@@ -2306,5 +2306,9 @@
   {
     "file": "site/docs/check-page.mjs",
     "sha256": "a234b664147f3c0a3d53f5bd95af0627069eed96a3c47d53a8de9e052d714ae9"
+  },
+  {
+    "file": "site/docs/collaboration-live-checks.json",
+    "sha256": "0818bd7d92f735f93102d16d3b204e1d1e0b05cb0ab363a9213c305e583fc9ed"
   }
 ]

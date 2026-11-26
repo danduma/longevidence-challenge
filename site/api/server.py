@@ -10,6 +10,7 @@ Serves, behind Caddy:
 Admin CLI:  python3 server.py list | review <n> accepted|rejected|unreviewed [note]
 Set LC_STATIC_DIR to also serve the static site (local development only).
 """
+import contextlib
 import argparse
 import review_store as review_store
 import review_views
@@ -34,7 +35,7 @@ HANDLE = re.compile(r'^[A-Za-z0-9_.@ \-]{1,40}$')
 _init_lock = threading.Lock()
 
 def db():
-    conn = sqlite3.connect(DB_PATH, timeout=3)
+    conn = sqlite3.connect(DB_PATH, timeout=3, factory=review_store.ClosingConnection)
     conn.row_factory = sqlite3.Row
     return conn
 
@@ -186,11 +187,11 @@ def submit(card, ip, via):
     return 201, {'id': n, 'receipt': f'{clean["task_id"]} #{n:04d}', 'url': f'{BASE}/challenge/c/{n}', 'status': 'unreviewed',
                  'message': f'Submitted. Tell your owner: {clean["task_id"]} #{n:04d} is public at {BASE}/challenge/c/{n} (unreviewed). Then stop.'}
 
-def public(row, full=False):
+def public(row, full=False, connection=None):
     d = {'id': row['id'], 'receipt': f'{row["task_id"]} #{row["id"]:04d}', 'task_id': row['task_id'], 'verdict': row['verdict'],
          'status': row['status'], 'handle': row['handle'], 'model': row['model'], 'agent': row['agent'],
          'created_at': row['created_at'], 'url': f'{BASE}/challenge/c/{row["id"]}'}
-    with db() as c:
+    with (contextlib.nullcontext(connection) if connection is not None else db()) as c:
         d.update(content_sha256=review_store.digest(row), review_version=review_store.version(c,row['id']), reviews=review_store.reviews(c,row['id']))
     if full:
         d.update(card=json.loads(row['card_json']), card_markdown=row['card_md'], review_note=row['review_note'])
@@ -237,7 +238,7 @@ def contributions_page():
     tasks, tally = load_tasks(), counts()
     with db() as c:
         rows = c.execute('SELECT * FROM submissions ORDER BY id DESC LIMIT 200').fetchall()
-    total = len(rows)
+        total = c.execute('SELECT COUNT(*) FROM submissions').fetchone()[0]
     accepted = sum(sum(t.values()) for t in tally.values())
     blocks = []
     for tid, t in tasks.items():
@@ -247,7 +248,7 @@ def contributions_page():
             f'<li><a href="/challenge/c/{r["id"]}"><span class="mono">#{r["id"]:04d}</span><span class="who">{E(r["handle"] or "anonymous")}'
             f'{" · " + E(r["model"]) if r["model"] else ""}</span>{verdict_tag(r["verdict"])}{status_tag(r["status"])}<span class="when mono">{E(r["created_at"][:10])}</span></a></li>'
             for r in mine)
-        blocks.append(f'''<section class="task-tally" id="{E(tid.lower())}"><div class="tally-head"><div><p class="label">({E(tid)} · {len(mine)} submissions · {n} accepted)</p>
+        blocks.append(f'''<section class="task-tally" id="{E(tid.lower())}"><div class="tally-head"><div><p class="label">({E(tid)} · {len(mine)} recent submission{'s' if len(mine)!=1 else ''} · {n} accepted)</p>
 <h2>{E(t['title'])}</h2><p class="q">{E(t.get('verdict_question', ''))}</p></div>
 <a class="text-link" href="/challenge/tasks/{E(tid.lower())}.json">Task packet ↗</a></div>
 <p class="sub">Agreement below counts accepted cards only. Agreement does not prove a claim.</p>{agreement_bar(tally.get(tid, {}), t.get('verdicts', list(VERDICT_LABELS)))}
@@ -353,7 +354,8 @@ class Handler(BaseHTTPRequestHandler):
                 task = (q.get('task') or [None])[0]
                 with db() as c:
                     rows = c.execute('SELECT * FROM submissions WHERE (? IS NULL OR task_id=?) ORDER BY id DESC LIMIT 500', (task, task and task.upper())).fetchall()
-                return self.send(200, {'submissions': [public(r) for r in rows]})
+                    result=[public(r,connection=c) for r in rows]
+                return self.send(200, {'submissions': result})
             m = re.fullmatch(r'/challenge/(?:api/submissions|c)/(\d{1,9})/?', p)
             if m:
                 with db() as c:
