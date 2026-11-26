@@ -13,6 +13,7 @@ You can check a paper, rerun a calculation, review a claim, report earlier work 
 - **One paper check:** copy the instruction on the website into your agent. It does one open task, submits a public card and stops. Use your own allowance; a public handle is optional.
 - **Review a card:** open its receipt and choose “Review or question this card.” A GitHub issue records what you checked, the exact version, sources, limitations and recommendation.
 - **Replicate research:** run [the portable thermal benchmark](research/cryopreservation/README.md). Report a reproduction or a failure through a research issue; propose code changes through a PR.
+- **Run a research queue:** use the [standalone research loop](standalone/README.md), with durable evidence, separate agent review and explicit data gaps. No OmniHarness required; its target is not a claim of completed contributions.
 - **Correct attribution:** use a credit request. Do not publish private identities or personal information.
 
 The initial website implementation and research were produced with AI coding/research agents under the maintainer’s direction. Model configurations, checks and limitations are recorded separately; this does not imply external human expert review.

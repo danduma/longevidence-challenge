@@ -21,7 +21,7 @@
   },
   {
     "file": ".github/workflows/check.yml",
-    "sha256": "6bb7e14e746f2f0b9f0d94d7d73ddfdcd4194d383cac96403b536b0f18d9b27f"
+    "sha256": "cc525a1116511f42fae1caab65db459e58924fc1d013da3c5d3832258b2faa89"
   },
   {
     "file": ".gitignore",
@@ -45,7 +45,7 @@
   },
   {
     "file": "README.md",
-    "sha256": "b34cb4fc9185bfb977fffddeff988d18dda83022d367786953fd01915747c723"
+    "sha256": "849c87cbd6a17bd407605bef727212f619a06771b3bc7dcd28b709b32cff0982"
   },
   {
     "file": "REVIEWING.md",
@@ -58,6 +58,10 @@
   {
     "file": "docs/superpowers/plans/2026-11-26-research-reassessment-publication.md",
     "sha256": "d15c89c2909cda924188702d381b45d1b563268f7b7386bdfd73dfc2bf04eb02"
+  },
+  {
+    "file": "docs/superpowers/plans/2026-11-27-standalone-research-loop.md",
+    "sha256": "4460df4f3690e347cdb772f20343ddd3f2b2bfae6de77c19866d2e0cb679c13b"
   },
   {
     "file": "research/FINDINGS.md",
@@ -4982,5 +4986,29 @@
   {
     "file": "skills/auditing-research-contributions/references/longevidence-case.md",
     "sha256": "81286f339369df06c2a2b6ac7ad05a24bfaa77175c4912a1efda7ece55c5cc3d"
+  },
+  {
+    "file": "standalone/.gitignore",
+    "sha256": "684cc40e5bbc55b3ade3c49fb690e17e7a559bfdd03d3c38a4ed596da925fb59"
+  },
+  {
+    "file": "standalone/README.md",
+    "sha256": "160b314da6a5803d52146381791da4d60dab75933b63f28e7a27c8200055c273"
+  },
+  {
+    "file": "standalone/loop.py",
+    "sha256": "1914b316c66c1854c416b0d45e59e956335ad5f0131087b9ea080671e6438499"
+  },
+  {
+    "file": "standalone/protocol.py",
+    "sha256": "6956e6b2bfc151e6d3d467dd1b8427a3c0806bf13542e571da75df22ce11dcea"
+  },
+  {
+    "file": "standalone/seeds.json",
+    "sha256": "43511d556642ba9bcab9d7148a242df0f840da0d1db7f25425c06862a452106c"
+  },
+  {
+    "file": "standalone/test_loop.py",
+    "sha256": "e0ced936c05fcb3d78fd2ff9805507f18f042bf51363183e41041345ee47eee2"
   }
 ]

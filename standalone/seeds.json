@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rubisco-repair-feature-path",
+    "title": "Determine the downstream effect of the CGA009 pairing repair",
+    "question": "Can the exact released feature-generation path be reproduced for Q6N0W9, and does a controlled replacement change benchmark predictions or conclusions?",
+    "increment": "The published reassessment establishes sequence identity only; it has not regenerated the replacement embedding or compared downstream predictions. Locate and reproduce the exact model/pooling/folds, or document the precise unavailable dependency. Do not recount the original correction.",
+    "why_useful": "Distinguishes a metadata repair from a repair that changes a benchmark result and yields a reviewable corrected input path.",
+    "context": ["research/reassessment-2026-11-26/NEXT.md", "research/contributions-2026-11-26/c07_mapping", "https://github.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning"],
+    "depends_on": [],
+    "watches": []
+  },
+  {
+    "id": "protease-unseen-context-baseline",
+    "title": "Test feasible baselines for genuinely unseen motif positions",
+    "question": "Does the reported reporter-to-biochemical benefit survive stronger training-only baselines when an entire motif position is held out?",
+    "increment": "The existing motif-mean counterexample is for known motifs in held-enzyme folds. Position holdouts require a different feasible comparator. Preserve signed targets, control normalization, dependence and the information available at deployment. Report all positions as one investigation.",
+    "why_useful": "Tests the narrower predictive claim that survived the held-enzyme reassessment without leaking measurements of the held-out motif.",
+    "context": ["research/reassessment-2026-11-26/README.md", "research/contributions-2026-11-26/c10_calibration", "https://github.com/JeschekLab/ProtRec", "https://www.nature.com/articles/s41467-025-60622-7"],
+    "depends_on": [],
+    "watches": []
+  },
+  {
+    "id": "rubisco-selection-decision",
+    "title": "Determine whether the surviving bounds change a real selection decision",
+    "question": "Can one defensible choice among released Rubisco candidates be identified that remains justified under available uncertainty and calibration assumptions?",
+    "increment": "Go beyond repeating C08's form-level hit fractions or adding thresholds. Separate representative versus expanded collection, available individual uncertainty and endpoint comparability. Establish a concrete robust selection decision or a useful identification limit.",
+    "why_useful": "Tests whether the finite-library inference can guide actual follow-up allocation rather than only describe an aggregate contrast.",
+    "context": ["research/reassessment-2026-11-26/NEXT.md", "research/contributions-2026-11-26/c08_selection", "https://gitlab.com/milo-lab-public/rubisco_is_slow", "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663927/"],
+    "depends_on": [],
+    "watches": []
+  },
+  {
+    "id": "cryo-objective-and-endpoint",
+    "title": "Evaluate the actual thermal-mechanical objective under a physical stopping rule",
+    "question": "Can the source model's mechanical objective be independently reproduced under temperature-based termination, and does that alter an existing claimed design choice?",
+    "increment": "Do not add another warming-rate parameter sweep. Inspect actual upstream mechanics, material laws and stopping rule. A contribution must evaluate a decision under the actual objective or establish a concrete reproducible limitation of that calculation, beyond the known absence of stress calculations in C01-C05.",
+    "why_useful": "Separates thermal proxy improvements from the mechanical endpoint that motivates staged heating.",
+    "context": ["research/reassessment-2026-11-26/README.md", "research/cryopreservation", "https://github.com/Marc-Dvci/Vitrify", "https://pmc.ncbi.nlm.nih.gov/articles/PMC8823202/"],
+    "depends_on": [],
+    "watches": []
+  },
+  {
+    "id": "rubisco-assay-identifiability",
+    "title": "Identify evidence that separates temperature and assay calibration effects",
+    "question": "Do released matched measurements identify assay-format and temperature effects separately, and what exact additional comparison would resolve the remaining ambiguity?",
+    "increment": "The original Q10 and calibration limitations are already disclosed. Seek actual same-construct matched comparisons in primary data, code, subsequent work and specialist discussion; do not promote the elementary confounding argument as a discovery. If no new conclusion is supported, write the exact data gap and discriminating design.",
+    "why_useful": "Makes the calibration uncertainty actionable with an explicit measurement request and suitable producer candidates.",
+    "context": ["research/reassessment-2026-11-26/README.md", "research/contributions-2026-11-26/c06_temperature", "https://gitlab.com/milo-lab-public/rubisco_is_slow", "https://www.weizmann.ac.il/plants/milo/", "https://doi.org/10.1093/jxb/erab356"],
+    "depends_on": [],
+    "watches": []
+  },
+  {
+    "id": "cryo-measurement-bridge",
+    "title": "Find the measurement bridge from particle maps to model inputs",
+    "question": "Do existing public matched organ measurements identify the volumetric particle loading and temperature-dependent heating terms required by the model, or which measurements specifically remain missing?",
+    "increment": "Known generic heterogeneity is not new. Trace actual maps, units, dry-weight conversions, spatial correspondence, heating calibration and thermal boundary conditions. Either establish a concrete recoverable model-input bridge or produce a precise data gap with a minimum discriminating design and documented producer fit.",
+    "why_useful": "Determines whether the model can be tested against existing measurements before proposing new laboratory work.",
+    "context": ["research/reassessment-2026-11-26/README.md", "research/cryopreservation", "https://pmc.ncbi.nlm.nih.gov/articles/PMC7793590/", "https://atp-bio.org/", "https://www.untillabs.com/science-technology", "https://www.cryonet.org/cgi-bin/dsp.cgi?msg=18925"],
+    "depends_on": [],
+    "watches": []
+  }
+]
