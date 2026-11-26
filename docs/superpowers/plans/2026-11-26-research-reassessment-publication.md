@@ -34,7 +34,11 @@
 
 ### Task 4: Publish and verify
 
-- [ ] Commit/push the public source and reassessment; deploy the existing static site.
-- [ ] Read back GitHub and live pages, check applicable CI, and record the final publication evidence.
+- [x] Commit/push the public source and reassessment; deploy the existing static site.
+- [x] Read back GitHub and live pages, check applicable CI, and record the final publication evidence.
 
 **Verification:** Exact published content/hash checks and successful relevant CI. Checkboxes stay open until their requirements pass.
+
+Publication evidence: implementation commit `c4fc53471daf29918d656af8f70deaeb4a093601` pushed; exact GitHub results/skill readback and exact live research/process content match. Deployment helper also copied pre-existing unrelated homepage/style edits; those two live files were restored from its backup, preserving the workspace edits. Remote diff is restricted to the two authorized pages. Applicable implementation CI is still being checked.
+
+Final implementation verification: GitHub run `45847064901` succeeded (API/database tests and existing thermal benchmark). Reassessment checks passed both fresh public-download and subsequent offline modes. Skill validator and public/installed byte parity passed. All409 original numerical/code/protocol/report files remain unchanged. Public input downloads are ignored, not staged. Final live source matches include research/process and the restored homepage/style.
