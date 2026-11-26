@@ -1,0 +1,68 @@
+{
+  "id": "C05",
+  "title": "Tissue versus bath constraint attribution in the pinned Vitrify phantom",
+  "question": "Does requiring surrounding CPA as well as myocardium change frozen schedule rankings or thermal feasibility, and which domains set the constraints?",
+  "method": "Predefined 2 schedules x 2 loadings x 2 SAR readings at .75 mm; high/clamped and nominal/extrapolated pairs at .5 mm with .01/.005 s exact-horizon conservative RK2; six domain masks with full-cell minima, endpoint, crossing and failure-volume diagnostics.",
+  "result": "Informative null: no domain-dependent decision or ranking changes. Myocardium sets all cold endpoints; surrounding CPA sets all hot endpoints and most restricted-window minima. Exact rate-bottleneck attribution can change with voxelization.",
+  "verification_command": "./verify.sh",
+  "numerical_claims": [
+    {
+      "name": "domain_decision_changes",
+      "value": 0,
+      "unit": "of 16 deterministic integrations per screen",
+      "evidence": "results/domain_comparison.csv"
+    },
+    {
+      "name": "domain_ranking_changes",
+      "value": 0,
+      "unit": "of 8 numerical schedule pairs per rate screen",
+      "evidence": "results/domain_rankings.csv"
+    },
+    {
+      "name": "max_myocardial_minus_specimen_all_time_minimum",
+      "value": 1.4136604567430524,
+      "unit": "C/min",
+      "evidence": "results/summary.json"
+    },
+    {
+      "name": "max_energy_relative_error",
+      "value": 1.2293397625538536e-07,
+      "unit": "relative",
+      "evidence": "results/verification.json"
+    },
+    {
+      "name": "max_time_refinement_rate_change",
+      "value": 0.0028714682522519297,
+      "unit": "C/min",
+      "evidence": "results/time_refinement.csv"
+    },
+    {
+      "name": "max_time_refinement_endpoint_change",
+      "value": 1.4807653130333165e-05,
+      "unit": "C",
+      "evidence": "results/time_refinement.csv"
+    }
+  ],
+  "primary_sources": [
+    {
+      "title": "Vitrify pinned release",
+      "url": "https://github.com/Marc-Dvci/Vitrify/tree/1d498ee5c583e0112a762e60892d576ec2e27f57",
+      "version": "1d498ee5c583e0112a762e60892d576ec2e27f57",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "title": "Joshi and Rabin 2023",
+      "url": "https://doi.org/10.1371/journal.pone.0290063",
+      "version": "published 2023-08-16",
+      "retrieved": "2026-11-26"
+    }
+  ],
+  "limitations": [
+    "Synthetic geometry, uniform myocardial loading, substituted CPA properties, unresolved SAR reading and adiabatic boundary.",
+    "Deterministic parameter scenarios and overlapping domain masks are not independent replicates.",
+    "Near-tied spatial attribution and endpoint values depend on voxelization; only predefined subset refined.",
+    "No measured loading/CPA/temperature maps, ice, mechanics or biological validation; isolated tissue screen is not biological safety.",
+    "No human expert review; no universal novelty claim."
+  ],
+  "status": "agent-produced; awaiting coordinator verification"
+}

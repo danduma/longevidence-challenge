@@ -1,0 +1,24 @@
+{
+  "scalar_quadrature_time_s": 69.99993652285823,
+  "scalar_time_error_s": -6.347714176513364e-05,
+  "scalar_crossing_error_s": 2.4845547841323423e-10,
+  "initial_unit_rate": 50.33664102261376,
+  "zero_source": true,
+  "symmetry": true,
+  "baseline_max_abs_error": 3.6415315207705135e-13,
+  "max_energy_rel_error": 1.2293397625538536e-07,
+  "simulations": 16,
+  "domain_rows": 96,
+  "max_time_rate_delta": 0.0028714682522519297,
+  "max_time_endpoint_delta": 1.4807653130333165e-05,
+  "nonwall_window_complete": true,
+  "crossing_accounting": true,
+  "monotone": true,
+  "versions": {
+    "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)"
+  }
+}

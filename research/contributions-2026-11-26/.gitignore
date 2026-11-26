@@ -6,4 +6,5 @@ downloaded-inputs/
 /c01_schedule/schedule_solver
 /c01_schedule/baseline_solver
 /c03_patches/solver
+/c05_domains/domains
 /c02_boundary/build/

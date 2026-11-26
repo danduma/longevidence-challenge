@@ -1,0 +1,136 @@
+ID   A0A1C3HPM7_9POAL        Unreviewed;       463 AA.
+AC   A0A1C3HPM7;
+DT   02-NOV-2016, integrated into UniProtKB/TrEMBL.
+DT   02-NOV-2016, sequence version 1.
+DT   18-JUN-2025, entry version 21.
+DE   RecName: Full=Ribulose bisphosphate carboxylase large chain {ECO:0000256|ARBA:ARBA00017725, ECO:0000256|RuleBase:RU000302};
+DE            EC=4.1.1.39 {ECO:0000256|ARBA:ARBA00012287, ECO:0000256|RuleBase:RU000302};
+DE   Flags: Fragment;
+GN   Name=rbcL {ECO:0000313|EMBL:SBO07484.1};
+OS   Calamagrostis stricta subsp. inexpansa.
+OG   Plastid; Chloroplast {ECO:0000313|EMBL:SBO07484.1}.
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Pooideae; Poodae; Poeae; Poeae Chloroplast Group 1 (Aveneae type);
+OC   Agrostidodinae; Agrostidinae; Calamagrostis.
+OX   NCBI_TaxID=497293 {ECO:0000313|EMBL:SBO07484.1};
+RN   [1] {ECO:0000313|EMBL:SBO07484.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Evans L.H., Alamgir A., Owens N., Weber N.D., Virtaneva K., Barbian K.,
+RA   Babar A., Rosenke K.;
+RL   Submitted (APR-2016) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:SBO07484.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Orr D.J., Alcantara A., Kapralov M.V., Andralojc P.J., Carmo-Silva A.E.,
+RA   Parry M.A.J.;
+RT   "Naturally better Rubiscos for improving crop photosynthetic efficiency at
+RT   a range of temperatures.";
+RL   Submitted (JUL-2016) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: RuBisCO catalyzes two reactions: the carboxylation of D-
+CC       ribulose 1,5-bisphosphate, the primary event in carbon dioxide
+CC       fixation, as well as the oxidative fragmentation of the pentose
+CC       substrate in the photorespiration process. Both reactions occur
+CC       simultaneously and in competition at the same active site.
+CC       {ECO:0000256|ARBA:ARBA00025664}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=2 (2R)-3-phosphoglycerate + 2 H(+) = D-ribulose 1,5-
+CC         bisphosphate + CO2 + H2O; Xref=Rhea:RHEA:23124, ChEBI:CHEBI:15377,
+CC         ChEBI:CHEBI:15378, ChEBI:CHEBI:16526, ChEBI:CHEBI:57870,
+CC         ChEBI:CHEBI:58272; EC=4.1.1.39;
+CC         Evidence={ECO:0000256|ARBA:ARBA00049469,
+CC         ECO:0000256|RuleBase:RU000302};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=D-ribulose 1,5-bisphosphate + O2 = 2-phosphoglycolate + (2R)-
+CC         3-phosphoglycerate + 2 H(+); Xref=Rhea:RHEA:36631, ChEBI:CHEBI:15378,
+CC         ChEBI:CHEBI:15379, ChEBI:CHEBI:57870, ChEBI:CHEBI:58033,
+CC         ChEBI:CHEBI:58272; Evidence={ECO:0000256|ARBA:ARBA00048059,
+CC         ECO:0000256|RuleBase:RU000302};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420;
+CC         Evidence={ECO:0000256|RuleBase:RU000302};
+CC       Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000256|RuleBase:RU000302};
+CC   -!- SUBUNIT: Heterohexadecamer of 8 large chains and 8 small chains;
+CC       disulfide-linked. The disulfide link is formed within the large subunit
+CC       homodimers. {ECO:0000256|ARBA:ARBA00025888}.
+CC   -!- SUBCELLULAR LOCATION: Plastid, chloroplast
+CC       {ECO:0000256|RuleBase:RU000302}.
+CC   -!- SIMILARITY: Belongs to the RuBisCO large chain family. Type I
+CC       subfamily. {ECO:0000256|ARBA:ARBA00006204}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; LT576803; SBO07484.1; -; Genomic_DNA.
+DR   AlphaFoldDB; A0A1C3HPM7; -.
+DR   BRENDA; 4.1.1.39; 15881.
+DR   GO; GO:0009507; C:chloroplast; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000287; F:magnesium ion binding; IEA:InterPro.
+DR   GO; GO:0004497; F:monooxygenase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0016984; F:ribulose-bisphosphate carboxylase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009853; P:photorespiration; IEA:UniProtKB-KW.
+DR   GO; GO:0019253; P:reductive pentose-phosphate cycle; IEA:UniProtKB-KW.
+DR   CDD; cd08212; RuBisCO_large_I; 1.
+DR   FunFam; 3.20.20.110:FF:000001; Ribulose bisphosphate carboxylase large chain; 1.
+DR   FunFam; 3.30.70.150:FF:000001; Ribulose bisphosphate carboxylase large chain; 1.
+DR   Gene3D; 3.20.20.110; Ribulose bisphosphate carboxylase, large subunit, C-terminal domain; 1.
+DR   Gene3D; 3.30.70.150; RuBisCO large subunit, N-terminal domain; 1.
+DR   HAMAP; MF_01338; RuBisCO_L_type1; 1.
+DR   InterPro; IPR033966; RuBisCO.
+DR   InterPro; IPR020878; RuBisCo_large_chain_AS.
+DR   InterPro; IPR000685; RuBisCO_lsu_C.
+DR   InterPro; IPR036376; RuBisCO_lsu_C_sf.
+DR   InterPro; IPR017443; RuBisCO_lsu_fd_N.
+DR   InterPro; IPR036422; RuBisCO_lsu_N_sf.
+DR   InterPro; IPR020888; RuBisCO_lsuI.
+DR   NCBIfam; NF003252; PRK04208.1; 1.
+DR   PANTHER; PTHR42704; RIBULOSE BISPHOSPHATE CARBOXYLASE; 1.
+DR   PANTHER; PTHR42704:SF16; RIBULOSE BISPHOSPHATE CARBOXYLASE LARGE CHAIN; 1.
+DR   Pfam; PF00016; RuBisCO_large; 1.
+DR   Pfam; PF02788; RuBisCO_large_N; 1.
+DR   SFLD; SFLDG01052; RuBisCO; 1.
+DR   SFLD; SFLDS00014; RuBisCO; 1.
+DR   SFLD; SFLDG00301; RuBisCO-like_proteins; 1.
+DR   SUPFAM; SSF51649; RuBisCo, C-terminal domain; 1.
+DR   SUPFAM; SSF54966; RuBisCO, large subunit, small (N-terminal) domain; 1.
+DR   PROSITE; PS00157; RUBISCO_LARGE; 1.
+PE   3: Inferred from homology;
+KW   Acetylation {ECO:0000256|ARBA:ARBA00022990};
+KW   Calvin cycle {ECO:0000256|ARBA:ARBA00022567,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Carbon dioxide fixation {ECO:0000256|ARBA:ARBA00023300,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Chloroplast {ECO:0000256|RuleBase:RU000302, ECO:0000313|EMBL:SBO07484.1};
+KW   Disulfide bond {ECO:0000256|ARBA:ARBA00023157};
+KW   Lyase {ECO:0000256|ARBA:ARBA00023239, ECO:0000256|RuleBase:RU000302};
+KW   Magnesium {ECO:0000256|ARBA:ARBA00022842, ECO:0000256|RuleBase:RU000302};
+KW   Metal-binding {ECO:0000256|ARBA:ARBA00022723,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Monooxygenase {ECO:0000256|ARBA:ARBA00023033,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Oxidoreductase {ECO:0000256|ARBA:ARBA00023002,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Photorespiration {ECO:0000256|ARBA:ARBA00023238,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Photosynthesis {ECO:0000256|ARBA:ARBA00022531,
+KW   ECO:0000256|RuleBase:RU000302};
+KW   Plastid {ECO:0000256|ARBA:ARBA00022640, ECO:0000313|EMBL:SBO07484.1}.
+FT   DOMAIN          24..144
+FT                   /note="Ribulose bisphosphate carboxylase large subunit
+FT                   ferrodoxin-like N-terminal"
+FT                   /evidence="ECO:0000259|Pfam:PF02788"
+FT   DOMAIN          154..462
+FT                   /note="Ribulose bisphosphate carboxylase large subunit C-
+FT                   terminal"
+FT                   /evidence="ECO:0000259|Pfam:PF00016"
+FT   NON_TER         463
+FT                   /evidence="ECO:0000313|EMBL:SBO07484.1"
+SQ   SEQUENCE   463 AA;  51199 MW;  A7CEDAD04E60E13F CRC64;
+     MSPQTETKAS VGFKAGVKDY KLTYYTPEYE TKDTDILAAF RVTPQPGVPP EEAGAAVAAE
+     SSTGTWTTVW TDGLTSLDRY KGRCYHIEPV AGEDNQWICY VAYPLDLFEE GSVTNMFTSI
+     VGNVFGFKAL RALRLEDLRI PPAYTKTFQG PPHGIQVERD KLNKYGRPLL GCTIKPKLGL
+     SAKNYGRACY ECLRGGLDFT KDDENVNSQP FMRWRDRFVF CAEAIYKAQA ETGEIKGHYL
+     NATAGTCEEM IKRAVFAREL GVPIVMHDYI TGGFTANTSL AQYCRDNGLL LHIHRAMHAV
+     IDRQKNHGMH FRVLAKALRM SGGDHIHAGT VVGKLEGERE MTLGFVDLLR DDFIEKDRAR
+     GIFFTQDWVS LPGVIPVASG GIHVWHMPAL TEIFGDDSVL QFGGGTLGHP WGNAPGAAAN
+     RVALEACVQA RNEGRDLARE GNEIIRAACK WSPELAAACE VWK
+//

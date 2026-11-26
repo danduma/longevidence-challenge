@@ -7,7 +7,7 @@ Serves, behind Caddy:
   GET  /challenge/contributions         public list with verdict agreement per task
   GET  /challenge/c/<n>                 public card page (the contributor's receipt)
 
-Admin CLI:  python3 server.py list | review <n> accepted|rejected|unreviewed [note]
+Admin CLI: python3 server.py list | review <n> <status> --reviewer <name> --kind human|agent --note <reason> --evidence <public-url> --expected-review <version> --digest <sha256>
 Set LC_STATIC_DIR to also serve the static site (local development only).
 """
 import contextlib

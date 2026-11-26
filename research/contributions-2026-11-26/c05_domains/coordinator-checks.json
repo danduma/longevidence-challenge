@@ -1,0 +1,11 @@
+{
+  "id": "C05",
+  "fresh_full_reproduction_exit": 0,
+  "byte_identical_scientific_files": 45,
+  "independently_reaggregated_domain_rows": 96,
+  "simulations": 16,
+  "decision_and_paired_ranking_null_reconciled": true,
+  "per_cell_rates_endpoints_failure_volumes_checked": true,
+  "diagnostics_only_solver_diff_and_mask_definitions_inspected": true,
+  "human_review": false
+}

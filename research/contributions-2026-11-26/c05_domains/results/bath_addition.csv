@@ -1,0 +1,17 @@
+case,all_decision_differs,window_decision_differs,glass_decision_differs
+0.75_original_1.47_extrapolated_0.01,False,False,False
+0.75_flat_1.47_extrapolated_0.01,False,False,False
+0.75_original_1.47_clamped_0.01,False,False,False
+0.75_flat_1.47_clamped_0.01,False,False,False
+0.75_original_1.83_extrapolated_0.01,False,False,False
+0.75_flat_1.83_extrapolated_0.01,False,False,False
+0.75_original_1.83_clamped_0.01,False,False,False
+0.75_flat_1.83_clamped_0.01,False,False,False
+0.5_original_1.83_clamped_0.01,False,False,False
+0.5_flat_1.83_clamped_0.01,False,False,False
+0.5_original_1.83_clamped_0.005,False,False,False
+0.5_flat_1.83_clamped_0.005,False,False,False
+0.5_original_1.47_extrapolated_0.01,False,False,False
+0.5_original_1.47_extrapolated_0.005,False,False,False
+0.5_flat_1.47_extrapolated_0.01,False,False,False
+0.5_flat_1.47_extrapolated_0.005,False,False,False

@@ -1,0 +1,13 @@
+{
+  "status": "coordinator-reproduced; awaiting human review",
+  "human_review": false,
+  "portable_path_changes": [
+    "fetch.py",
+    "inputs/manifest.json",
+    "verify.sh",
+    "inputs/manifest.json: remove private optional shared paths",
+    "provenance_hashes.json: refresh hashes of public portability adaptations"
+  ],
+  "numerical_changes": "none; model equations, scientific inputs and result values unchanged",
+  "credit": "Publishing account credited by Git history; actual direct Codex CLI worker and requested model recorded in batch ledger"
+}

@@ -1,0 +1,17 @@
+{
+  "contribution": "C07",
+  "selected_links": 60,
+  "selected_accessions": 58,
+  "selected_inactive_accessions": 34,
+  "new_replaced_links": 1,
+  "patch_quarantined_links": 9,
+  "fragment_quarantines_prior_recognized": 7,
+  "new_nonfragment_quarantines": 2,
+  "baseline_links_excluding_prior_error": 206,
+  "additional_only_links": 204,
+  "additional_only_wt_source_records": 360,
+  "after_links": 197,
+  "baseline_wt_source_records": 366,
+  "after_wt_source_records": 348,
+  "repaired_wt_source_records": 1
+}

@@ -1,0 +1,91 @@
+{
+  "id": "C05",
+  "date": "2026-11-26",
+  "source_origins": {
+    "inputs/independent_original.cpp": {
+      "workspace_relative_source": "public/longevidence-challenge/research/cryopreservation/independent.cpp",
+      "local_sha256": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222"
+    },
+    "inputs/baseline_core.json": {
+      "workspace_relative_source": "public/longevidence-challenge/research/cryopreservation/results/core.json",
+      "local_sha256": "4752cbf75de7f99e34e4f9765aeb4eaa419c91e075cf9fbcfe4a527f2eca4ac6"
+    },
+    "inputs/grid_convergence_margin.json": {
+      "workspace_relative_source": "public/longevidence-challenge/research/cryopreservation/inputs/grid_convergence_margin.json",
+      "local_sha256": "4c4ae2002afa5a38fef921574b65d59945cf836bd1e9a0f50781553c6528bbf9"
+    },
+    "vendor/vitrify/geometry.py": {
+      "workspace_relative_source": "public/longevidence-challenge/research/cryopreservation/vendor/vitrify/geometry.py",
+      "local_sha256": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb"
+    },
+    "sources/model.xml": {
+      "workspace_relative_source": "research/millennium/agents/cryo-robust-astra/sources/model.xml",
+      "local_sha256": "446d7960c218d3d16c0c2670cf30fb3d4cdbdf350f1366942f23380a50465472"
+    },
+    "sources/upstream_thermal.py": {
+      "workspace_relative_source": "research/millennium/agents/cryo-robust-astra/upstream/src/vitrify/thermal.py",
+      "local_sha256": "c93c699dd92b4e99a21e29dd615fad5e397bd6d929c0c6f37c256007d8c3c791"
+    }
+  },
+  "live_retrievals": [
+    {
+      "file": "model.xml",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10431620/fullTextXML",
+      "error": "The read operation timed out"
+    },
+    {
+      "file": "upstream_geometry.py",
+      "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/src/vitrify/geometry.py",
+      "retrieved_utc": "2026-11-26T14:11:18.865522+00:00",
+      "bytes": 8167,
+      "sha256": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb",
+      "status": 200
+    },
+    {
+      "file": "upstream_workflow.py",
+      "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/coupler/workflow.py",
+      "retrieved_utc": "2026-11-26T14:11:19.115789+00:00",
+      "bytes": 23288,
+      "sha256": "1d3e134fedabd6be2083a4f56b3fb25d32672fcdcadd95cbfaae1abb217198a5",
+      "status": 200
+    },
+    {
+      "file": "model_publisher.xml",
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0290063&type=manuscript",
+      "retrieved_utc": "2026-11-26T14:12:32.518515+00:00",
+      "sha256": "93b1ac02c092f5be9af25e528e3e891cf5c2e3f834623f3f8d6a46f44e343848",
+      "bytes": 171873,
+      "status": 200
+    }
+  ],
+  "pinned_inputs": {
+    "inputs/baseline_core.json": "4752cbf75de7f99e34e4f9765aeb4eaa419c91e075cf9fbcfe4a527f2eca4ac6",
+    "inputs/grid_convergence_margin.json": "4c4ae2002afa5a38fef921574b65d59945cf836bd1e9a0f50781553c6528bbf9",
+    "inputs/independent_original.cpp": "63fe78a9d5105bdffa9f9b5a1a2c9fcf301c064ca8f9ef000b8d497f3c662222",
+    "sources/LONGEVIDENCE_CONTENT_LICENSE.md": "deeb083a503af85900e42860797f7d39a28c4735c10c62521107589fbb772409",
+    "sources/model.xml": "446d7960c218d3d16c0c2670cf30fb3d4cdbdf350f1366942f23380a50465472",
+    "sources/model_extract.txt": "c445d29499106df2a6e2487bb458db95d044b1d43c01b2e2324bec4971f5b379",
+    "sources/model_publisher.xml": "93b1ac02c092f5be9af25e528e3e891cf5c2e3f834623f3f8d6a46f44e343848",
+    "sources/retrieval.json": "50d10cc89dece7e6f9bd43d77512a8b09d9c7f819e9fe9c769c467a9b6968dd9",
+    "sources/upstream_geometry.py": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb",
+    "sources/upstream_thermal.py": "c93c699dd92b4e99a21e29dd615fad5e397bd6d929c0c6f37c256007d8c3c791",
+    "sources/upstream_workflow.py": "1d3e134fedabd6be2083a4f56b3fb25d32672fcdcadd95cbfaae1abb217198a5",
+    "vendor/VITRIFY-LICENSE": "5b53c732328cdc5e52a274a07af805a60c46342d42caffe9f708815cf997bec3",
+    "vendor/vitrify/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "vendor/vitrify/geometry.py": "cc7b8ae444a9b7f7828a56220d9613bd33c863303a351633457e1d168af123fb"
+  },
+  "protocol_sha256": "34f08a7369807146fea329e024ba4a0939c1329fbf186a222e3d79265b57e18a",
+  "versions": {
+    "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1",
+    "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+    "compiler": "Apple clang version 21.0.0 (clang-2100.4.1.1)"
+  },
+  "licenses": {
+    "solver": "MIT; retained LICENSE and original independent implementation comment",
+    "Vitrify": "Apache-2.0; vendor/VITRIFY-LICENSE; retained copyright/SPDX",
+    "Joshi_Rabin_2023_XML": "CC BY 4.0; publisher XML license and author/source attribution in sources.md"
+  },
+  "method": "No external model calls or experimental work. SHA-256 calculated over exact bytes; protocol local hash has no third-party timestamp."
+}

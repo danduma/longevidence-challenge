@@ -7,5 +7,9 @@
     "sources.md"
   ],
   "numerical_changes": "none; model equations, scientific inputs and result values unchanged",
-  "credit": "Publishing account credited by Git history; actual direct Codex CLI worker and requested model recorded in batch ledger"
+  "credit": "Publishing account credited by Git history; actual direct Codex CLI worker and requested model recorded in batch ledger",
+  "publication_notes": [
+    "Links to omitted full workbook and runtime log point to public reproduction limits/check records; raw copyrighted sources remain excluded.",
+    "BSD-licensed pypdf parser and notice retained for the historical source audit."
+  ]
 }

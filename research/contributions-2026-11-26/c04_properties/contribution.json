@@ -4,16 +4,28 @@
   "question": "How does independent scaling of SAR and specimen volumetric heat capacity affect the two schedule decisions in the clamped 1.83 mg Fe/mL phantom?",
   "method": "Frozen hypothetical 3 by 3 source/capacity grid, fixed transition probes, adiabatic finite-volume midpoint RK2, 0.75 mm discovery and paired 0.5 mm time refinement. Whole-specimen and myocardial screens computed separately.",
   "result": "Across the three discovery capacity levels the flat schedule failed at SAR/capacity ratio 0.992 and passed at 0.996. Nominal-capacity fine-grid checks reproduced this bracket. The ramp retained the higher post-glass minimum across all nine discovery settings and all paired refinements.",
-  "verification_command": "cd /Users/masterman/NLP/longevitokens/research/contributions-2026-11-26/agents/c04_properties && python3 -B verify.py",
+  "verification_command": "python3 -B verify.py",
   "numerical_claims": {
     "discovery_flat_pass_cases_of_9": 6,
     "discovery_ramp_pass_cases_of_9": 0,
-    "flat_fail_pass_ratio_neighbors": [0.992, 0.996],
+    "flat_fail_pass_ratio_neighbors": [
+      0.992,
+      0.996
+    ],
     "necessary_initial_ratio_flat": 0.9933122073,
-    "fine_grid_flat_rate_at_neighbors_degC_per_min": [49.917048, 50.118236],
-    "discovery_whole_ramp_minus_flat_postglass_range_degC_per_min": [2.554295, 2.647500],
-    "discovery_myocardial_ramp_minus_flat_postglass_range_degC_per_min": [2.638467, 2.726352],
-    "max_abs_relative_energy_error": 4.15822e-7
+    "fine_grid_flat_rate_at_neighbors_degC_per_min": [
+      49.917048,
+      50.118236
+    ],
+    "discovery_whole_ramp_minus_flat_postglass_range_degC_per_min": [
+      2.554295,
+      2.6475
+    ],
+    "discovery_myocardial_ramp_minus_flat_postglass_range_degC_per_min": [
+      2.638467,
+      2.726352
+    ],
+    "max_abs_relative_energy_error": 4.15822e-07
   },
   "primary_sources": [
     "https://github.com/Marc-Dvci/Vitrify/tree/1d498ee5c583e0112a762e60892d576ec2e27f57",
@@ -23,6 +35,11 @@
     "https://doi.org/10.1002/admt.202100873",
     "https://doi.org/10.1089/bio.2018.0006"
   ],
-  "limitations": ["Hypothetical coherent scalar perturbations, finite deterministic sampling and no measured confidence bounds.", "Synthetic geometry, adiabatic wall exterior, fixed loading and clamped low-temperature SAR.", "Some weak-heating voxels did not complete the diagnostic transit. Spatial discretization affects terminal extrema.", "Thermal model only. No human expert review, population inference or biological outcome validation."],
+  "limitations": [
+    "Hypothetical coherent scalar perturbations, finite deterministic sampling and no measured confidence bounds.",
+    "Synthetic geometry, adiabatic wall exterior, fixed loading and clamped low-temperature SAR.",
+    "Some weak-heating voxels did not complete the diagnostic transit. Spatial discretization affects terminal extrema.",
+    "Thermal model only. No human expert review, population inference or biological outcome validation."
+  ],
   "status": "agent-produced; awaiting coordinator verification"
 }

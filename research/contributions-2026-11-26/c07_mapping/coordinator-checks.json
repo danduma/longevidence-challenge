@@ -1,0 +1,14 @@
+{
+  "id": "C07",
+  "fresh_full_source_audit_exit": 0,
+  "independent_native_core_length": 461,
+  "deposition_length_including_tag": 481,
+  "wrong_strain_link_repaired": 1,
+  "additional_nonfragment_quarantines": 2,
+  "source_records_baseline": 366,
+  "source_records_additional_operations": 360,
+  "primary_assay_tuple_and_strain_text_inspected": true,
+  "all_selected_accession_and_historical_snapshots_reconciled_by_full_verifier": true,
+  "model_refit": false,
+  "human_review": false
+}

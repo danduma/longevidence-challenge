@@ -57,11 +57,12 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c05_domains",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c05_domains/",
+    "human_review": "not performed",
+    "exit_code": 0
   },
   {
     "id": "C06",
@@ -82,11 +83,12 @@
     "model": "gpt-6.1-sol",
     "effort": "medium",
     "job": "c07_mapping",
-    "state": "pending coordinator verification and publication",
-    "counts_toward_ten": false,
-    "verification": null,
-    "publication": null,
-    "human_review": "not performed"
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": "See bundle README and coordinator check record",
+    "publication": "c07_mapping/",
+    "human_review": "not performed",
+    "exit_code": 0
   },
   {
     "id": "C08",

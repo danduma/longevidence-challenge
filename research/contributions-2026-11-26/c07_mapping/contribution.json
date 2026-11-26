@@ -1,0 +1,120 @@
+{
+  "id": "C07",
+  "title": "C07: Source-verified Rubisco native-core repair and linkage quarantines",
+  "question": "Do additional ambiguous, truncated or literal species-to-sequence links in the pinned Rubisco release have accession and primary-assay support, and how does curation change eligibility and apparent grouped exposure?",
+  "method": "Prespecified target-independent suspect selection; 58 current accession snapshots and 34 historical record retrievals; primary assay identity and kinetic tuple reconciliation; structure-to-native-core sequence equality; versioned mapping patch; fixed released-order KFold5 seed0 exposure reconstruction without refitting.",
+  "result": "C07 repairs Rhodopseudomonas palustris from BisA53 Q07N61 to the assayed CGA009 native core Q6N0W9. It explicitly quarantines Avena sativa and Glycine max cv. Wayne provenance links, plus seven previously recognized fragments without claiming their rediscovery. Additional operations remove six source records (366 to360); full patch including prior fragments retains348. Exposure reductions are limited to two KC and two KO prediction records, with no original-model score inference.",
+  "verification_command": "./verify.sh",
+  "numerical_claims": [
+    {
+      "claim": "selected unique links/accessions",
+      "value": [
+        60,
+        58
+      ],
+      "artifact": "results/link_audit.csv"
+    },
+    {
+      "claim": "additional native-core replacements/nonfragment quarantine links",
+      "value": [
+        1,
+        2
+      ],
+      "artifact": "results/mapping_patch_v1.json"
+    },
+    {
+      "claim": "WT source records baseline/additional-only/full patch, prior Paspalum excluded in all arms",
+      "value": [
+        366,
+        360,
+        348
+      ],
+      "artifact": "results/summary.json"
+    },
+    {
+      "claim": "unique labels baseline/additional-only/full patch",
+      "value": [
+        206,
+        204,
+        197
+      ],
+      "artifact": "results/summary.json"
+    },
+    {
+      "claim": "repaired WT source records",
+      "value": 1,
+      "artifact": "results/summary.json"
+    },
+    {
+      "claim": "KC exact-sequence exposure baseline/additional-only/full",
+      "value": [
+        58,
+        56,
+        56
+      ],
+      "artifact": "results/exposure_impact.csv"
+    },
+    {
+      "claim": "KO exact-sequence exposure baseline/additional-only/full",
+      "value": [
+        53,
+        51,
+        51
+      ],
+      "artifact": "results/exposure_impact.csv"
+    }
+  ],
+  "primary_sources": [
+    {
+      "url": "https://github.com/jamesyoung93/Rubisco_Protein_Language_Model_Active_Learning/tree/ade87f378aa25c24a24c19915722aa04be92936e",
+      "version": "ade87f378aa25c24a24c19915722aa04be92936e",
+      "retrieved": "2026-11-26 local pinned snapshot"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4118107/?pdf=1",
+      "doi": "10.1074/jbc.M114.578625",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4972260/?pdf=1",
+      "doi": "10.1104/pp.16.01846",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/4LF1/1",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/Q6N0W9.json",
+      "version": "2026_04; entry127; sequence1",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/Q07N61.json",
+      "version": "2026_04; entry101; sequence1",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://rest.uniprot.org/unisave/A0A510B6V9?format=txt&versions=17",
+      "version": "entry17; sequence1",
+      "retrieved": "2026-11-26"
+    },
+    {
+      "url": "https://rest.uniprot.org/uniprotkb/P27066.json",
+      "version": "2026_04; entry131; sequence3",
+      "retrieved": "2026-11-26"
+    }
+  ],
+  "limitations": [
+    "No human expert review.",
+    "Wayne primary fulltext identity unresolved; quarantine is missing provenance, not proven sequence inequality.",
+    "Avena taxonomic synonymy does not establish a Forridena sequence bridge.",
+    "46 selected links remain unresolved; unselected links were not validated.",
+    "Seven fragment observations and Paspalum mapping error are prior work, not new discoveries.",
+    "Native-core correction does not assert identical assay/crystallography tag contexts.",
+    "Apparent exposure assumes released prediction order and default KFold; original fold manifests and embeddings unavailable.",
+    "No original-model refit, performance improvement, candidate superiority or independent-replicate claim.",
+    "Third-party snapshots with unidentified redistribution terms remain local-only; sources.md gives acquisition instructions."
+  ],
+  "status": "agent-produced; awaiting coordinator verification"
+}

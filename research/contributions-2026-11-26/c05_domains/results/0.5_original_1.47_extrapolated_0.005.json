@@ -1,0 +1,31 @@
+{
+  "case": "0.5_original_1.47_extrapolated_0.005",
+  "mm": 0.5,
+  "design": "original",
+  "mean": 1.47,
+  "mode": "extrapolated",
+  "dt_requested": 0.005,
+  "n": 25867,
+  "steps": 14000,
+  "dt": 0.005,
+  "source_J": 712.7448316677228,
+  "boundary_J": 0,
+  "enthalpy_J": 712.7448498653785,
+  "energy_rel_error": 2.5531796029532106e-08,
+  "iron_g": 0.01698368659603367,
+  "duty_s": 66.97622645671458,
+  "minimum_observed_rate": 0,
+  "geometry": {
+    "cells_total": 41125.0,
+    "cells_active": 25867.0,
+    "spacing_mm": 0.5,
+    "pillow_exponent": 2.482058043914822,
+    "container_contents_ml": 2.199625,
+    "heart_ml": 0.690375,
+    "myocardium_ml": 0.4625,
+    "chamber_ml": 0.227875,
+    "wall_ml": 1.03375
+  },
+  "input_sha256": "dfad084b057437c4043b19ffea6259e7586ddbd87dd9c75e22b75475307518ea",
+  "cells_sha256": "4a51bef3b8da4f00f68536a4417b85506e3e21a164b158e8a7b72028ee7262d2"
+}

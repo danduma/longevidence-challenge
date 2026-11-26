@@ -1,0 +1,9 @@
+mm,mean,mode,dt_requested,all_ranking_differs,window_ranking_differs,glass_ranking_differs
+0.75,1.47,extrapolated,0.01,False,False,False
+0.75,1.47,clamped,0.01,False,False,False
+0.75,1.83,extrapolated,0.01,False,False,False
+0.75,1.83,clamped,0.01,False,False,False
+0.5,1.83,clamped,0.01,False,False,False
+0.5,1.83,clamped,0.005,False,False,False
+0.5,1.47,extrapolated,0.01,False,False,False
+0.5,1.47,extrapolated,0.005,False,False,False

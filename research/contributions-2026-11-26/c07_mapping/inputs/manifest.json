@@ -1,0 +1,65 @@
+[
+  {
+    "file": "inputs/meta.csv",
+    "shared_path": "not-bundled-shared-inputs/meta.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt_meta.csv",
+    "sha256": "63b11839029cc6d7a840eac522b715875e0d0ba26d8940a9f4ce0bfd0dee5f50",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/sequences.fasta",
+    "shared_path": "not-bundled-shared-inputs/sequences.fasta",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/flamholz_rubisco_wt.fasta",
+    "sha256": "96dddd017120ed9f0f34303cb9326a7887f4b15163bc8f6ad6dcabe410425140",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/assays.csv",
+    "shared_path": "not-bundled-shared-inputs/assays.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/inputs/flamholz_dataset_S1.csv",
+    "sha256": "586f57382c3f490becd2e76196ba72f8fe769a851f8b80b3adc1b5dca9085fb0",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_S.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_S.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_S.csv",
+    "sha256": "5a2d8d6741d89d9c0f35a84f44cd7aee221b83a089d82ed31d3cd0f4c9853baf",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_KC.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_KC.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KC.csv",
+    "sha256": "93ac264fd791c113847001b20fb2df9547cb944fe9827ceece0d802faaee2b41",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_vC.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_vC.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vC.csv",
+    "sha256": "958bc45012858cbc4404ca7a4e5ebc254e43ec91185985fece73d4393e873472",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_KO.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_KO.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KO.csv",
+    "sha256": "7b12fda57d919ee0706ec047c625a9ba3e2ac48af5f6a573ef83709a201954ba",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_vO.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_vO.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_vO.csv",
+    "sha256": "4f989dd6e0e9cc4fd08b4e79edb7b34e261cf19c6aac34a8cbcd0f0bd7509270",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  },
+  {
+    "file": "inputs/pred_KRuBP.csv",
+    "shared_path": "not-bundled-shared-inputs/pred_KRuBP.csv",
+    "release_relative_path": "supplementary/doubling_time_package_v2/manuscript_assets/flamholz/embedding_vs_kinetics/pred_KRuBP.csv",
+    "sha256": "ac19e8784c7b1ad9460d4c8030162f2a78cb791009008436460aaec16df68737",
+    "redistribution": "local verification snapshot; third-party terms not established; do not redistribute source CSV/predictions"
+  }
+]
