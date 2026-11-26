@@ -1,0 +1,82 @@
+{
+  "id": "C02",
+  "title": "C02 \u00b7 Boundary exchange feasibility envelope",
+  "question": "At which external exchange coefficients and ambient temperatures do individual and joint thermal constraints switch for constant equal duty and the released ramp on the pinned high-loading phantom?",
+  "method": "Locally preregistered finite-volume RK2 scan and bisection at fixed 70 s, uniform 1.83 mg Fe/mL myocardial loading and clamped SAR. Discovery at 0.75 mm, cold and room repeats at 0.50 mm, half-step checks around joint transitions, component-localized extrema and signed energy accounting.",
+  "result": "At \u2212150 \u00b0C the myocardial cold endpoint binds first, in disjoint brackets across meshes. At +22 \u00b0C the surrounding solution fails the final-stage rate screen before any terminal-temperature failure, with matching coarse and fine brackets. The ramp fails the all-time rate screen throughout.",
+  "verification_command": "python3 -B verify.py",
+  "numerical_claims": {
+    "h_units": "W/(m\u00b2 K), lower value passes and upper value fails",
+    "flat_first_switches": [
+      {
+        "mm": 0.75,
+        "ambient_C": -150,
+        "first_constraint": "cold",
+        "pass_h": 0,
+        "fail_h": 2
+      },
+      {
+        "mm": 0.5,
+        "ambient_C": -150,
+        "first_constraint": "cold",
+        "pass_h": 3.5,
+        "fail_h": 5
+      },
+      {
+        "mm": 0.75,
+        "ambient_C": -80,
+        "first_constraint": "rate",
+        "pass_h": 7.5,
+        "fail_h": 8.75
+      },
+      {
+        "mm": 0.75,
+        "ambient_C": -20,
+        "first_constraint": "rate",
+        "pass_h": 10,
+        "fail_h": 11.25
+      },
+      {
+        "mm": 0.75,
+        "ambient_C": 22,
+        "first_constraint": "rate",
+        "pass_h": 12.5,
+        "fail_h": 13.75
+      },
+      {
+        "mm": 0.5,
+        "ambient_C": 22,
+        "first_constraint": "rate",
+        "pass_h": 12.5,
+        "fail_h": 13.75
+      }
+    ],
+    "fine_room_h15": {
+      "specimen_rate_C_min": 48.88635,
+      "myocardial_rate_C_min": 50.31942,
+      "cold_C": -23.69037,
+      "hot_C": -0.66737,
+      "source_J": 644.04883,
+      "boundary_J": 125.89812
+    },
+    "max_relative_energy_imbalance": 1.7792834011635e-06,
+    "scenario_rows": 137
+  },
+  "primary_sources": [
+    "https://github.com/Marc-Dvci/Vitrify/tree/1d498ee5c583e0112a762e60892d576ec2e27f57",
+    "https://github.com/danduma/longevidence-challenge/tree/01b6be05300e5e7878e51c77ab2f4ccb7658259d/research/cryopreservation",
+    "https://doi.org/10.1002/admt.202100873",
+    "https://doi.org/10.1371/journal.pone.0290063"
+  ],
+  "limitations": [
+    "Constant effective boundary, synthetic voxel geometry, modeled loading, no measured coefficient for this phantom.",
+    "Finite bracket resolution, intermediate ambients checked only at 0.75 mm, no continuum error guarantee.",
+    "Thermal screens only. No biological or mechanical outcomes, no independent human expert review."
+  ],
+  "status": "coordinator-reproduced; awaiting human review",
+  "coordinator_checks": [
+    "Full offline re-integration and comparison: 137 rows; successful exit 0.",
+    "Independent six-face boundary-energy fixture.",
+    "Source diff inspection and independent h=0 invariance, conservation, constraint/domain and mesh-bracket cross-checks."
+  ]
+}

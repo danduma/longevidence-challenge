@@ -1,0 +1,162 @@
+{
+  "sar_mode": "extrapolated",
+  "design_parameters": [
+    9.020603776237667,
+    9.48750497809484,
+    9.713455989695056,
+    0.8446387187753849,
+    0.9912871108041529,
+    1.0
+  ],
+  "levels": [
+    {
+      "grid_spacing_mm": 1.4,
+      "grid_shape": [
+        17,
+        12,
+        9
+      ],
+      "specimen_cells": 802,
+      "designs": {
+        "baseline": {
+          "peak_tension_mpa": 1.2338368193444618,
+          "peak_compression_mpa": 1.3844303204788846,
+          "stress_objective_mpa": 1.2617939016044588,
+          "min_warming_rate_c_per_min": 50.81924672272565,
+          "mean_warming_rate_c_per_min": 106.85138754658367,
+          "final_min_temperature_c": -40.24756327063231,
+          "final_max_temperature_c": -15.70143352593361,
+          "feasible": false
+        },
+        "optimized": {
+          "peak_tension_mpa": 1.1799177493368582,
+          "peak_compression_mpa": 1.0058280645156739,
+          "stress_objective_mpa": 1.2074451877653984,
+          "min_warming_rate_c_per_min": 51.5026020911803,
+          "mean_warming_rate_c_per_min": 113.89329893638264,
+          "final_min_temperature_c": -34.99998391174069,
+          "final_max_temperature_c": -7.736735861012941,
+          "feasible": true
+        }
+      },
+      "wall_clock_s": 12.124124799855053,
+      "peak_tension_improvement_percent": 4.37003250042828
+    },
+    {
+      "grid_spacing_mm": 1.1,
+      "grid_shape": [
+        21,
+        16,
+        11
+      ],
+      "specimen_cells": 1653,
+      "designs": {
+        "baseline": {
+          "peak_tension_mpa": 1.1839198586158906,
+          "peak_compression_mpa": 1.3317264990965998,
+          "stress_objective_mpa": 1.21771968863457,
+          "min_warming_rate_c_per_min": 51.16250741155901,
+          "mean_warming_rate_c_per_min": 106.1273297976099,
+          "final_min_temperature_c": -38.36714660689075,
+          "final_max_temperature_c": -18.156810863446363,
+          "feasible": false
+        },
+        "optimized": {
+          "peak_tension_mpa": 1.1811112334724942,
+          "peak_compression_mpa": 0.98255936748681,
+          "stress_objective_mpa": 1.2132469248700348,
+          "min_warming_rate_c_per_min": 51.27325749968891,
+          "mean_warming_rate_c_per_min": 113.13339650275243,
+          "final_min_temperature_c": -33.06494333113154,
+          "final_max_temperature_c": -9.651014578500703,
+          "feasible": true
+        }
+      },
+      "wall_clock_s": 17.313417399767786,
+      "peak_tension_improvement_percent": 0.2372310188866872
+    },
+    {
+      "grid_spacing_mm": 0.9,
+      "grid_shape": [
+        26,
+        19,
+        14
+      ],
+      "specimen_cells": 3018,
+      "designs": {
+        "baseline": {
+          "peak_tension_mpa": 1.1420083493079862,
+          "peak_compression_mpa": 1.2843185899772922,
+          "stress_objective_mpa": 1.184887100663397,
+          "min_warming_rate_c_per_min": 51.47911002990464,
+          "mean_warming_rate_c_per_min": 106.41744656572052,
+          "final_min_temperature_c": -35.72571865646532,
+          "final_max_temperature_c": -18.207869008222904,
+          "feasible": false
+        },
+        "optimized": {
+          "peak_tension_mpa": 1.1215151216042056,
+          "peak_compression_mpa": 0.9274979436455918,
+          "stress_objective_mpa": 1.1682180469460666,
+          "min_warming_rate_c_per_min": 52.31945904737125,
+          "mean_warming_rate_c_per_min": 113.4635609894327,
+          "final_min_temperature_c": -30.491292077099768,
+          "final_max_temperature_c": -9.62340529680777,
+          "feasible": true
+        }
+      },
+      "wall_clock_s": 26.66320910025388,
+      "peak_tension_improvement_percent": 1.7944901818098538
+    },
+    {
+      "grid_spacing_mm": 0.75,
+      "grid_shape": [
+        31,
+        23,
+        17
+      ],
+      "specimen_cells": 5214,
+      "designs": {
+        "baseline": {
+          "peak_tension_mpa": 1.1268036466097544,
+          "peak_compression_mpa": 1.330901854796364,
+          "stress_objective_mpa": 1.1684768555318616,
+          "min_warming_rate_c_per_min": 51.25592568309603,
+          "mean_warming_rate_c_per_min": 106.58545983605481,
+          "final_min_temperature_c": -36.68953655945047,
+          "final_max_temperature_c": -17.588414445919522,
+          "feasible": false
+        },
+        "optimized": {
+          "peak_tension_mpa": 1.1040431108495272,
+          "peak_compression_mpa": 0.9612528590493856,
+          "stress_objective_mpa": 1.149847115430429,
+          "min_warming_rate_c_per_min": 52.313429413756985,
+          "mean_warming_rate_c_per_min": 113.6291802293612,
+          "final_min_temperature_c": -31.165471783754814,
+          "final_max_temperature_c": -9.118104148711126,
+          "feasible": true
+        }
+      },
+      "wall_clock_s": 41.1460389001295,
+      "peak_tension_improvement_percent": 2.019920314307417
+    }
+  ],
+  "summary": {
+    "improvement_percent_by_level": [
+      4.37003250042828,
+      0.2372310188866872,
+      1.7944901818098538,
+      2.019920314307417
+    ],
+    "improvement_spread_percent": 4.132801481541593,
+    "improvement_sign_stable": true,
+    "optimized_min_rate_by_level": [
+      51.5026020911803,
+      51.27325749968891,
+      52.31945904737125,
+      52.313429413756985
+    ],
+    "optimized_min_rate_spread_c_per_min": 1.0462015476823368
+  }
+}

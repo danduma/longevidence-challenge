@@ -1,0 +1,21 @@
+{
+  "id": "C02",
+  "crosschecks_passed": true,
+  "rows": 137,
+  "review": "Source diff inspected: new code adds compartment/crossing diagnostics to the previously independently verified physical solver; boundary law is unchanged. Primary h=15/T=22 is a modeling assumption, not a measured calibration for this phantom.",
+  "independent_checks": [
+    "h=0 ambient invariance",
+    "enthalpy versus source plus signed boundary",
+    "initial myocardial ramp rate bound",
+    "exposed faces all wall",
+    "sampled cold/rate transition brackets",
+    "whole-specimen failure with passing myocardium",
+    "disjoint cold mesh brackets"
+  ],
+  "does_not_establish": [
+    "biological failure",
+    "continuum boundary threshold",
+    "measured heat-transfer coefficient",
+    "human expert acceptance"
+  ]
+}

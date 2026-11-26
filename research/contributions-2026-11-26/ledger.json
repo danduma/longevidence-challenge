@@ -1,0 +1,131 @@
+[
+  {
+    "id": "C01",
+    "title": "Equal-dose schedule family",
+    "model": "gpt-6.1-sol",
+    "effort": "medium",
+    "job": "c01_schedule",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed",
+    "exit_code": 0
+  },
+  {
+    "id": "C02",
+    "title": "Boundary exchange feasibility envelope",
+    "model": "gpt-6.2-astra",
+    "effort": "medium",
+    "job": "c02_boundary",
+    "state": "coordinator-reproduced; awaiting human review",
+    "counts_toward_ten": true,
+    "verification": {
+      "full_offline_reintegration": true,
+      "scenario_rows": 137,
+      "method_diff_inspected": true,
+      "energy_and_bracket_crosschecks": true
+    },
+    "publication": "c02_boundary/",
+    "human_review": "not performed",
+    "exit_code": 0
+  },
+  {
+    "id": "C03",
+    "title": "Localized delivery-deficit geometry",
+    "model": "gpt-6.1-sol",
+    "effort": "medium",
+    "job": "c03_patches",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  },
+  {
+    "id": "C04",
+    "title": "Constitutive sensitivity of thermal conclusions",
+    "model": "gpt-6.2-astra",
+    "effort": "medium",
+    "job": "c04_properties",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  },
+  {
+    "id": "C05",
+    "title": "Tissue versus bath constraint attribution",
+    "model": "gpt-6.1-sol",
+    "effort": "medium",
+    "job": "c05_domains",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  },
+  {
+    "id": "C06",
+    "title": "Rubisco temperature-calibration evidence audit",
+    "model": "gpt-6.1-sol",
+    "effort": "high",
+    "job": "c06_temperature",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed",
+    "exit_code": null
+  },
+  {
+    "id": "C07",
+    "title": "Source-verified Rubisco linkage repairs",
+    "model": "gpt-6.1-sol",
+    "effort": "medium",
+    "job": "c07_mapping",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  },
+  {
+    "id": "C08",
+    "title": "Missingness-aware 2025 Rubisco screen denominators",
+    "model": "gpt-6.2-astra",
+    "effort": "medium",
+    "job": "c08_selection",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed",
+    "exit_code": 0
+  },
+  {
+    "id": "C09",
+    "title": "Corrected protease depth and candidate stability",
+    "model": "gpt-6.1-sol",
+    "effort": "medium",
+    "job": "c09_depth",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  },
+  {
+    "id": "C10",
+    "title": "Out-of-sample reporter-to-biochemical calibration",
+    "model": "gpt-6.2-astra",
+    "effort": "medium",
+    "job": "c10_calibration",
+    "state": "pending coordinator verification and publication",
+    "counts_toward_ten": false,
+    "verification": null,
+    "publication": null,
+    "human_review": "not performed"
+  }
+]
