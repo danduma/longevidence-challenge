@@ -121,6 +121,8 @@ def validate_review(review, result):
         raise ValidationError("Reviewer approved an unknown followup")
     if review["verdict"] == "accept":
         if result["kind"] == "contribution":
+            from investigations import validate_investigation
+            validate_investigation(review.get("investigation"))
             if any(review.get("checks", {}).get(key) is not True for key in REVIEW_CHECKS):
                 raise ValidationError("Acceptance requires every review check")
         elif result["kind"] == "data_gap" and review.get("data_gate_valid") is not True:
@@ -160,13 +162,25 @@ REVIEW_CONTRACT = """
 Return only JSON: {"verdict":"accept | revise | reject", "reason":"...",
 "strongest_objection":"...", "checks":{"distinct":true,"source_supported":true,
 "reproducible":true,"useful":true,"scope_honest":true,"prior_art_checked":true},
-"data_gate_valid":false,"approved_followups":["offered task ids"]}.
+"data_gate_valid":false,"approved_followups":["offered task ids"],
+"investigation":{"id":"stable-investigation-id","question":"the substantive research question",
+"relation":"independent | validation | supersedes | excluded","rationale":"why this is a new investigation or belongs to an existing one"}}.
 Accept a contribution only if ALL six checks are established. A successful script alone
 is not scientific support. Check the actual code, outputs, cached primary sources,
 strongest feasible comparator and the ledger for duplicates. Reject splitting sweeps,
 old results relabelled as new, generic literature summaries or trivial arithmetic.
 Do not demand positive results or human acceptance for a well-supported useful computational
 finding. State limitations and do not equate agent review with human review or biological validation.
+For an accepted computational contribution an investigation assessment is mandatory.
+The distinct check concerns a useful new computational increment; the investigation
+assessment determines whether it is also independent for the target count. Reuse
+the existing investigation id for controls, numerical convergence, sensitivity checks,
+solver repairs, tuning/scoring changes and corrections to that investigation. These may
+be valuable accepted receipts but add NO new investigation count. Consult the ledger's
+investigations list. A new independent id requires a substantive separate question and
+useful answer that can stand apart from validating the earlier claim. Different task names
+or a new metric alone do not establish independence. If new evidence defeats an earlier
+conclusion, describe what is superseded; preserve its receipt instead of erasing history.
 For a data gate, check computations/search alternatives were considered and exact evidence,
 discriminating design, controls and reopening trigger are documented. Gap cards do not count.
 Followups must be meaningfully distinct, feasible, source-grounded and worth doing;

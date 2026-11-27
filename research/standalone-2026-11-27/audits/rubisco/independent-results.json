@@ -1,0 +1,187 @@
+{
+  "scope": "Independent standard-library metrics and raw-workbook checks; no feature inference, alignments or full nested refits.",
+  "manifest_integrity": {
+    "rubisco-repair-feature-path": {
+      "manifest_entries": 25,
+      "mismatches": []
+    },
+    "rubisco-selection-decision": {
+      "manifest_entries": 23,
+      "mismatches": []
+    },
+    "rubisco-table3-sequence-grouped-replay": {
+      "manifest_entries": 22,
+      "mismatches": []
+    },
+    "rubisco-assay-overlap-ranking": {
+      "manifest_entries": 21,
+      "mismatches": []
+    },
+    "rubisco-table3-genus-and-sequence-distance-holdout": {
+      "manifest_entries": 25,
+      "mismatches": []
+    },
+    "rubisco-heldout-label-transfer": {
+      "manifest_entries": 21,
+      "mismatches": []
+    },
+    "rubisco-table3-direct-purge-size-control": {
+      "manifest_entries": 27,
+      "mismatches": []
+    },
+    "rubisco-reference-peer-shrinkage-label-holdback": {
+      "manifest_entries": 21,
+      "mismatches": []
+    },
+    "rubisco-table3-kc-neighbor-transfer-attribution": {
+      "manifest_entries": 20,
+      "mismatches": []
+    },
+    "rubisco-peer-availability-stress-test": {
+      "manifest_entries": 20,
+      "mismatches": []
+    },
+    "rubisco-kc-donor-group-weighting": {
+      "manifest_entries": 20,
+      "mismatches": []
+    },
+    "rubisco-kc-trimer-group-balanced-loss": {
+      "manifest_entries": 24,
+      "mismatches": []
+    },
+    "rubisco-kc-equal-heldout-group-scoring": {
+      "manifest_entries": 25,
+      "mismatches": []
+    },
+    "rubisco-kc-equal-group-inner-selection": {
+      "manifest_entries": 24,
+      "mismatches": []
+    },
+    "rubisco-kc-inner-group-rmse-selection": {
+      "manifest_entries": 18,
+      "mismatches": []
+    },
+    "rubrum-prr1-sequence-lineage": {
+      "manifest_entries": 20,
+      "mismatches": []
+    }
+  },
+  "selection": {
+    "all": {
+      "n": 261,
+      "winner": "ANC_3",
+      "labels": 131,
+      "changed_winners": {}
+    },
+    "extant": {
+      "n": 259,
+      "winner": "RBC2_36",
+      "labels": 131,
+      "changed_winners": {
+        "CA105": "RBC8_39",
+        "CA128": "RBCSeed_3",
+        "CA187": "RBC8_39",
+        "CA199": "RBC9_23",
+        "CA209": "RBC4_11",
+        "CA58": "RBCSeed_3",
+        "CA73": "RBC4_11",
+        "CA99": "RBC8_39"
+      }
+    },
+    "top_extant_shared_labels": [],
+    "top_extant_normalized_gap": 0.07142857142857117
+  },
+  "blend_from_individual_predictions": {
+    "ratio": 0.2652866022395968,
+    "inclusive": 0.26253446635606664,
+    "midpoint": 0.2575563752618345,
+    "tuned": 0.2594666009860845
+  },
+  "kc_from_individual_predictions": {
+    "direct/ridge/row": {
+      "rho": 0.39977112057557146,
+      "rmse": 0.246300886530703
+    },
+    "direct/ridge/group": {
+      "rho": 0.39977112057557146,
+      "rmse": 0.246300886530703
+    },
+    "direct/ridge/error": {
+      "rho": 0.4184979249092469,
+      "rmse": 0.24704541201430266
+    },
+    "direct/ridge_balanced/row": {
+      "rho": 0.3920394304929339,
+      "rmse": 0.24640404518315157
+    },
+    "direct/ridge_balanced/group": {
+      "rho": 0.4029792332285706,
+      "rmse": 0.24451128471060163
+    },
+    "direct/ridge_balanced/error": {
+      "rho": 0.41468204994909774,
+      "rmse": 0.24603638895374266
+    },
+    "direct/knn/row": {
+      "rho": 0.24042002336162313,
+      "rmse": 0.29472705817700007
+    },
+    "direct/knn/group": {
+      "rho": 0.2578468766397825,
+      "rmse": 0.29371043473708447
+    },
+    "direct/knn/error": {
+      "rho": 0.25566079126349833,
+      "rmse": 0.2937338864611813
+    },
+    "direct/knn_nearest/row": {
+      "rho": 0.31690277827925,
+      "rmse": 0.27326306959819197
+    },
+    "direct/knn_nearest/group": {
+      "rho": 0.3044688298154979,
+      "rmse": 0.2817612939281589
+    },
+    "direct/knn_nearest/error": {
+      "rho": 0.2883196208864364,
+      "rmse": 0.27901525691063156
+    },
+    "direct/knn_median/row": {
+      "rho": 0.3198487976095877,
+      "rmse": 0.27313649883826496
+    },
+    "direct/knn_median/group": {
+      "rho": 0.2765912578577635,
+      "rmse": 0.285256061001856
+    },
+    "direct/knn_median/error": {
+      "rho": 0.29610419937836463,
+      "rmse": 0.27898821145217034
+    },
+    "component/ridge/row": {
+      "rho": 0.367372276700633,
+      "rmse": 0.2511719221065031
+    },
+    "component/ridge/group": {
+      "rho": 0.367372276700633,
+      "rmse": 0.2511719221065031
+    },
+    "component/ridge/error": {
+      "rho": 0.3706928059707182,
+      "rmse": 0.2511024238088692
+    },
+    "component/knn/row": {
+      "rho": 0.46923903260068917,
+      "rmse": 0.2677622019975369
+    },
+    "component/knn/group": {
+      "rho": 0.46923903260068917,
+      "rmse": 0.2677622019975369
+    },
+    "component/knn/error": {
+      "rho": 0.3683164948574056,
+      "rmse": 0.25580091135224403
+    }
+  },
+  "all_checks_passed": true
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "task_id": "protease-unseen-context-baseline",
+    "id": "protease-held-position-calibration",
+    "question": "Does pair-specific reporter AUC add predictive value beyond appropriately matched position-context baselines?",
+    "rationale": "supported conditional computational investigation Under fixed hard context, training-population restriction reverses context-only versus reporter ordering; grouped training-only selection recovers the restricted fits on this frozen panel.",
+    "relation": "independent",
+    "audit_source": "audits/protease/assessment.json",
+    "supported_scope": "Under fixed hard context, training-population restriction reverses context-only versus reporter ordering; grouped training-only selection recovers the restricted fits on this frozen panel.",
+    "unresolved_objection": "Context uses the same study's held-position reporter summaries, so these folds do not establish positions unseen to all prior profiling."
+  },
+  {
+    "task_id": "rubisco-repair-feature-path",
+    "id": "rubisco-table3-input-reconstruction",
+    "question": "Which feature path reconstructs Table 3 and what changes after the specific CGA009 sequence repair?",
+    "rationale": "Count one input-reconstruction/correction investigation: historical metadata normalization and t12 versus paper-described feature path resolve reproducibility and permit a matched downstream repair test. Frozen-parameter control belongs to that same investigation. Do not count the already-established C07 accession correction again; this count rests on the separate release reconstruction increment.",
+    "relation": "independent",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "Final-layer ESM2-t12 residue means and historical metadata reproduce both Table 3 endpoints within 0.000015 log10 prediction units and recover all ten fold parameter choices. Replacing only the focal vector lowers KC Spearman from 0.605059 to 0.598916 with archived settings and to 0.597812 with retuning. Specificity remains 0.753 at publication precision, and both focal errors increase under either fit.",
+    "unresolved_objection": "The historical launch command and serialized feature cache remain unverified. The numerical match supports a reconstruction of the two Table 3 endpoints under the archived row-wise splits, which allow sequence and likely conspecific overlap. The result establishes sensitivity to the repair within that benchmark. Generalization to independent enzymes, human review, and biological validation remain unestablished."
+  },
+  {
+    "task_id": "rubisco-selection-decision",
+    "id": "rubisco-screen-candidate-confirmation",
+    "question": "Which measured Rubisco candidate choice survives assay-label influence and available calibration uncertainty?",
+    "rationale": "Anchor one individual-confirmation investigation. Assay omission robustness adds useful evidence beyond the already-published ANC_3 maximum. The follow-on overlap fit qualifies the same extant candidate choice.",
+    "relation": "independent",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "For one confirmation slot on the released 30 \u00b0C saturating-CO\u2082 endpoint, ANC_3 is the defensible target if reconstructed candidates are eligible. It leads before and after reference normalization and after all 131 single-label omissions. The extant leader changes under eight omissions and the two highest extant point estimates share no assay label.",
+    "unresolved_objection": "Robustness to single-label omissions and a shared multiplier leaves candidate-specific and preparation-specific bias unbounded. The SD and SD/\u221aN scenarios have no confidence-coverage interpretation and exclude 79 singleton candidates. The 182 unresolved records also lack ranking bounds. The recommendation therefore applies to confirmation among measured candidates on the released screen."
+  },
+  {
+    "task_id": "cryo-objective-and-endpoint",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "independent",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Supported finite-grid correction to thermal-only comparisons: actual Maxwell stress through first coldest-heart \u221235 \u00b0C crossing; loading and duty ablated separately.",
+    "unresolved_objection": "Fixed-duty uniform control is superseded as the strongest comparator by joint tuning. Sub-kPa grading advantages are not resolved physical benefits."
+  },
+  {
+    "task_id": "protease-external-position-context-sensitivity",
+    "id": "protease-held-position-calibration",
+    "question": "Does pair-specific reporter AUC add predictive value beyond appropriately matched position-context baselines?",
+    "rationale": "supported robustness control; no additional distinct investigation External qualitative graded context narrows the hard-rule finding; reporter advantage survives tested matched comparisons.",
+    "relation": "validation",
+    "audit_source": "audits/protease/assessment.json",
+    "supported_scope": "External qualitative graded context narrows the hard-rule finding; reporter advantage survives tested matched comparisons.",
+    "unresolved_objection": "Same data/endpoint/folds/question as parent; provenance and form change together; illustrative anchor values are not independent rates. P5 comparator materially changes headline gains."
+  },
+  {
+    "task_id": "rubisco-table3-sequence-grouped-replay",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Anchor one relatedness-and-baseline investigation, separate from reconstructing the released pipeline. Asks what predictive value survives realistic holdouts and feasible sequence comparators.",
+    "relation": "independent",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "With identical repaired inputs and target rows, pooled ESM2 Spearman fell from 0.753 to 0.720 for specificity and from 0.598 to 0.503 for KC on the primary grouped partition. Both models beat the training mean on log10 RMSE. A tuned trimer-count kernel ridge beat ESM2 on pooled Spearman and log10 RMSE for both endpoints on all five grouped partitions.",
+    "unresolved_objection": "Close homologs and shared assay studies can still cross folds, and the random-to-grouped differences change sign across partitions of the same panel. The results cannot quantify a causal penalty from overlap or establish distant transfer. An exploratory nested edit-distance KNN check, motivated by [Iqbal et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9833099/), also beat the trimer on both metrics for the primary specificity split (Spearman 0.751 versus 0.734 and log10 RMSE 0.108 versus 0.122). The trimer comparison remains valid, but the strongest simple comparator depends on the endpoint and partition."
+  },
+  {
+    "task_id": "rubisco-assay-overlap-ranking",
+    "id": "rubisco-screen-candidate-confirmation",
+    "question": "Which measured Rubisco candidate choice survives assay-label influence and available calibration uncertainty?",
+    "rationale": "Refinement of the individual-confirmation investigation: connectivity and reference-dependent sign address the exact unresolved RBC2_36 versus RBC8_39 ranking. Algebraically estimable comparison is useful, but is not a second enzyme discovery or independent investigation.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "RBC2_36 and RBC8_39 are connected through other candidates even after excluding the R. rubrum reference, and no single assay-label omission breaks that connection. The peer-only log-rate fit favors RBC8_39, while the reference-inclusive fit favors RBC2_36. Each sign survives all single-label omissions in its own model.",
+    "unresolved_objection": "The two candidates were measured using different preparation formats, and RBC8_39 has only two assay labels. A common label effect can absorb preparation-specific or candidate-specific variation, and the raw additive fit gives a different ordering. Connectivity and deletion stability establish properties of the fitted model. This agent audit provides computational verification only. Independent human review and biological validation remain outstanding."
+  },
+  {
+    "task_id": "rubrum-prr1-sequence-lineage",
+    "id": "rubisco-assay-temperature-identifiability",
+    "question": "Can historical construct identity and matched measurements separate assay-format and temperature effects?",
+    "rationale": "Useful source-identity validation within the still data-gated assay/temperature investigation; no independent investigation credit. Preserve the clone-specific identity reconciliation as a useful supported source result. Conservatively group with the historical assay-temperature identifiability investigation that generated it: establishing whether McNevin is sequence-comparable is necessary validation of that investigation. Do not add a second count for an already-known residue discrepancy. If a genuinely separate accession/clone correction objective is documented, a standalone source-identity family is defensible, but must not also be counted in the calibration family.",
+    "relation": "excluded",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "The documented pRR1 parent pRR2119 is explicitly named in archived GenBank K01999.1. Its coding sequence and the reported core of a pRR1 descendant both match the released 2025 Rr control at all 466 residues. The replacement accession X00286.1 and reviewed P04718 instead have His91 where Rr has Asp91.",
+    "unresolved_objection": "The encoded-core match is inferred from clone lineage. The 2007 working stock and mature assay proteins lack direct sequence verification in the inspected evidence. Preparation, active-site quantitation and assay format differ, so the historical series cannot identify the 2025 preparation\u2019s temperature response or isolate an assay-format effect. This agent audit supplies documentary and computational verification only."
+  },
+  {
+    "task_id": "cryo-uniform-robust-margin",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "A feasible locally tuned uniform surround slightly beats the released graded schedule on four native grids under its release rate policy.",
+    "unresolved_objection": "Graded schedule was not equally retuned under the event objective; tiny paired gains lack continuum error control. Strict uniform and graded are not universally ranked."
+  },
+  {
+    "task_id": "cryo-emg308-equal-loading-window-transfer",
+    "id": "CRYO-B-EMG308-temperature-window-transfer",
+    "question": "Do released EMG308 temperature-resolved traces improve cross-volume warming-time prediction, and which physical explanations are identifiable?",
+    "rationale": "Same S22A smaller-to-larger timing investigation; the heat-capacity comparator refines the empirical finding.",
+    "relation": "independent",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Temperature-resolved smaller-bag timing beats all tested constants on one released held-out 2 L curve; Figure 7c/S22B aggregate reuse identified.",
+    "unresolved_objection": "One curve per volume, dependent windows/probes, exploratory cutoffs, uncertain run lineage and one-second sampling preclude stable external predictive ranking."
+  },
+  {
+    "task_id": "rubisco-table3-genus-and-sequence-distance-holdout",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Refinement of the same transfer investigation: strengthens its relatedness boundary. Large component/sample-size changes demand the next direct-purge control before interpreting loss.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On fixed Table 3 test rows, pooled ESM2 Spearman fell from 0.720 to 0.129 for specificity and from 0.503 to 0.239 for KC under joint genus and 95% global identity component exclusion. The strictest rule retained 26\u201337 training rows per fold. Trimer ridge ranked specificity best and alignment-identity KNN ranked KC best under that rule.",
+    "unresolved_objection": "At 95%, transitive links place 166 of 214 benchmark rows in one component and leave only 26\u201337 training rows per outer fold. The observed rank decline combines greater sequence separation, reduced training size, and changed training composition. Literal genus labels and retained fragments further limit phylogenetic interpretation."
+  },
+  {
+    "task_id": "rubisco-heldout-label-transfer",
+    "id": "rubisco-repeat-cell-reference-calibration",
+    "question": "Can repeat-cell and reference-peer information improve prediction of held-out screen measurements?",
+    "rationale": "Anchor one repeat-cell calibration investigation. Changes from in-sample leader ranking to predicting held-out raw readings on connected repeat candidates; it can be useful even when no unique fastest candidate can be chosen.",
+    "relation": "independent",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On 535 matched held-out cells, peer-only offsets had higher log-rate RMSE than both reference baselines in both preparations. Adding the Rr standard to the peer fit improved purified RMSE under both cell and candidate weighting and worsened lysate RMSE. The small pooled cell-weighted gain reversed under equal candidate weighting or omission of either of two labels from scoring.",
+    "unresolved_objection": "The purified gain shrinks to 0.0028 log units under equal candidate weighting. The folds share training data, and the label-omission check leaves fitted predictions fixed. On the narrower common-support lysate subset, even the candidate-only predictor slightly beats the published-reference reconstruction. The benchmark ordering is specific to the released repeat-cell panel with contemporaneous controls and peers. It leaves transfer to new batches, intrinsic rates, and candidate rankings unresolved."
+  },
+  {
+    "task_id": "cryo-margin-grid-origin-sensitivity",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Fixed lattice shifts change all-time startup-floor classification and sampled stress order.",
+    "unresolved_objection": "Rate limiter is near \u2212150 \u00b0C, below glass transition; phase sampling is finite. Native phantom fit changes across spacings, so this is not same-geometry convergence."
+  },
+  {
+    "task_id": "cryo-emg308-cp-only-window-explanation",
+    "id": "CRYO-B-EMG308-temperature-window-transfer",
+    "question": "Do released EMG308 temperature-resolved traces improve cross-volume warming-time prediction, and which physical explanations are identifiable?",
+    "rationale": "Same S22A smaller-to-larger timing investigation; the heat-capacity comparator refines the empirical finding.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Published heat-capacity proxy helps full-span constant-power timing but cannot explain post-transition slowdown; stronger empirical transfer still wins.",
+    "unresolved_objection": "Same target traces and dependent windows as preceding record; water/LM5 formulation mismatch prevents identifying actual power change or heat capacity. Mechanism remains unidentifiable."
+  },
+  {
+    "task_id": "rubisco-table3-direct-purge-size-control",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Necessary control for relatedness-and-baseline investigation. Same test labels/folds/models and direct dependence on component-purge result; distinguishes some training composition/count effects, not a new investigation.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On the prior fixed Table 3 folds, direct genus and 95% sequence-identity exclusion recovered 7\u201333 training rows per fold. ESM2 pooled Spearman remained below the exact/species reference for specificity (0.207 versus 0.720) and KC (0.062 versus 0.503). At identical outer training row counts, KC identity KNN reached 0.467 with component purging versus a median 0.216 across 64 draws from the direct pool. Every draw ranked below the component fit.",
+    "unresolved_objection": "Matching outer row counts leaves training composition, inner fit sizes and retuning coupled. The result is conditional on one fixed, row-weighted historical panel, a first-token genus proxy and gap-inclusive global identity. Draw quantiles describe subsampling on those folds. The audit provides computational evidence without human review or biological validation."
+  },
+  {
+    "task_id": "rubisco-reference-peer-shrinkage-label-holdback",
+    "id": "rubisco-repeat-cell-reference-calibration",
+    "question": "Can repeat-cell and reference-peer information improve prediction of held-out screen measurements?",
+    "rationale": "Necessary model comparison and label-held tuning validation within repeat-cell calibration. Adds a stronger fixed midpoint and qualifies the chosen adjustment, without starting another independent investigation.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "A blend tuned on separate recorded labels improved equal-candidate log-rate RMSE over both fixed endpoints. A fixed 50:50 blend of the same endpoints scored better than the tuned blend on identical support.",
+    "unresolved_objection": "The 0.00191 RMSE advantage is descriptive and depends on one five-block partition of one workbook. The tuned blend scored better in three of the five blocks when scored separately, and the blocks share candidates and observations. The aggregate comparison does not establish superiority on independent batches, true turnover, or candidate rankings. This is agent computational review."
+  },
+  {
+    "task_id": "rubisco-table3-kc-neighbor-transfer-attribution",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Retrospective explanatory diagnostic inside the same KC comparator investigation. Fixed-k donor tracing and group substitutions explain the inherited gap, with no independent future-data test.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "At exactly one neighbor on the same 197 test rows, component and full direct exclusion yield pooled Spearman 0.4733 and 0.2706. All 115 donor switches also change the transferred label. Substituting the component predictions for six Limonium rows recovers 35% of the gap. The top five exact/species groups jointly recover 70%.",
+    "unresolved_objection": "The groups were selected retrospectively on one fixed, row-weighted historical partition. The swaps measure influence on pooled Spearman and can rerank every row, so the gains do not provide an additive or causal decomposition. The gap reverses at k=10. The audit replays cached alignments and fits and provides computational evidence only, without human review or biological validation."
+  },
+  {
+    "task_id": "cryo-heart-wall-contact-continuous-gap",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Heated CPA state removes coarse startup depression; resistance-only and unheated-gap controls isolate conditional source effect.",
+    "unresolved_objection": "Heuristic directional volumes and full face areas; refined initial source/capacity largely explains pass. Not a biological rate feasibility finding."
+  },
+  {
+    "task_id": "rubisco-peer-availability-stress-test",
+    "id": "rubisco-repeat-cell-reference-calibration",
+    "question": "Can repeat-cell and reference-peer information improve prediction of held-out screen measurements?",
+    "rationale": "Deployment-condition validation of that same midpoint. Sparse-peer stress test limits its practical benefit; zero-peer support loss partly follows from the inherited candidate-only connectivity rule.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On the same 375 held-out purified cells, reducing the available same-label peers to one raised the fixed midpoint log-RMSE from 0.25756 to 0.26510 on connected masks. The direct Rr ratio scored 0.26529. A direct fallback kept all 385 ratio-eligible cells covered.",
+    "unresolved_objection": "Zero-peer disconnection follows from the candidate-only support rule, and uniform singleton masking may differ from real missingness. An exploratory fit allowing paths through Rr gave a one-peer midpoint RMSE of 0.26166 across all 385 cells, still close to the direct ratio\u2019s 0.26342. At zero peers, the Rr-bridged fit and its midpoint scored 0.27224 and 0.26448, respectively, both worse than the direct ratio. That audit already addresses the offered follow-up\u2019s central comparison."
+  },
+  {
+    "task_id": "rubisco-kc-donor-group-weighting",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Donor multiplicity robustness control inside the same inherited KC benchmark comparison. Changing the voting rule does not warrant an independent investigation count.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On the same 197 held-out rows, nested nearest-group KNN lowers direct-pool log10 KC RMSE from 0.2980 to 0.2799 and raises pooled Spearman from 0.2317 to 0.2391. Trimer ridge still leads at 0.2570 RMSE and 0.3788 Spearman. The group cap leaves the nested component-purge predictions unchanged.",
+    "unresolved_objection": "The cap can replace repeated rows with more distant groups, so the contrast measures the full neighbor-selection rule rather than pure reweighting of an unchanged donor set. The rank gain depends on retuning, and nearest-group KNN wins within-fold rank in three of five folds. The trimer lead is therefore specific to pooled scoring on this historical, row-weighted partition. Verification was computational and provides no human review or biological validation."
+  },
+  {
+    "task_id": "cryo-fixed-shape-interface-volume-check",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Integrated phase volumes/apertures and fixed physical shape recover startup pass, validating the previous heuristic against a more geometric model.",
+    "unresolved_objection": "Two-point centroid transport is not a proven continuum interface scheme. Result near analytic source/capacity baseline; same correction, not another scientific advance."
+  },
+  {
+    "task_id": "rubisco-kc-trimer-group-balanced-loss",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Training-loss multiplicity robustness control for that same stronger comparator and gap; dependency on donor-weighting result and same split/panel is explicit.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "Across the same 197 direct-pool Table 3 KC rows, balancing the nested trimer ridge fit changes pooled Spearman from 0.378783 to 0.364963 and log10 KC RMSE from 0.257000 to 0.257579. Both ridge fits lead the strongest capped KNN, which scores 0.242032 and 0.279651. Keeping the unweighted alpha choices instead gives balanced ridge 0.373630 and 0.255990.",
+    "unresolved_objection": "The lead depends on the evaluation unit. Balanced ridge beats median-group KNN by within-fold rank in only two of five folds, and pooled scoring gives larger held-out groups more influence. Holding numerical alpha fixed also changes the penalty relative to total loss weight, so the small RMSE change cannot be attributed to group weighting alone. The evidence covers one retrospective benchmark partition. This agent audit establishes neither human review nor biological validation."
+  },
+  {
+    "task_id": "cryo-fixed-interface-coupled-stress-event",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "All three schedules pass tested post-transition thermal screens to the event; numerical transfer swaps runner-up stress ranking.",
+    "unresolved_objection": "Single coarse mechanical grid and point-based transfer; absolute score shifts exceed small schedule gaps, though this alone does not bound paired error."
+  },
+  {
+    "task_id": "rubisco-kc-equal-heldout-group-scoring",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Evaluation-unit robustness control of the same frozen KC predictions. Essential correction to pooled-row interpretation, not a new biological or benchmark investigation.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On 197 frozen out-of-fold KC predictions from 155 exact-sequence/species groups, component-purged nested identity KNN leads pooled rank under both weighting rules. Full-direct ordinary trimer ridge keeps lower log10 RMSE in that comparison. Within the common full direct pool, the ridge rank lead over nested median-group KNN shrinks from 0.13675 to 0.07992. A retrospective fixed three-neighbor component fit achieves lower RMSE than either nested fit.",
+    "unresolved_objection": "The comparison is descriptive for one historical panel, one fold assignment, and one grouping rule. Pooled rank includes cross-fold comparisons, nested fits were tuned with row-weighted validation, and the fixed-k and matched-draw extrema were chosen retrospectively. The results therefore leave prospective model preference and sampling uncertainty unresolved. This was an agent computational audit. Human review and biological validation remain unestablished."
+  },
+  {
+    "task_id": "cryo-phase-overlap-transfer-stress-convergence",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Affine-reproducing transfer and fixed donor histories retain runner-up sign changes under mechanical refinement.",
+    "unresolved_objection": "Refinement still changes stair-step geometry, phase assignment, averaging and score support; affine reproduction is not accuracy proof for actual histories."
+  },
+  {
+    "task_id": "rubisco-kc-equal-group-inner-selection",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Inner-metric alignment control inside the same benchmark comparison. Addresses mismatch left by equal-group rescoring; eight setting changes are an increment within the investigation.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On 197 KC rows in 155 exact-sequence/species groups, changing only the inner rank weights altered 8 of 35 fold-by-model settings. Component KNN kept every choice and remained the nested rank leader. Ordinary trimer ridge kept every choice in both pools. In the direct pool, balanced ridge improved slightly, while median-group KNN lost 0.04326 in pooled rank and gained 0.01212 in log10 RMSE.",
+    "unresolved_objection": "The result is conditional on one historical panel, one fold assignment and inherited grouping and alignment caches. Pooled rank includes cross-fold comparisons. Retrospective component k=1 gives higher rank (0.48602), and component k=3 gives lower log10 RMSE (0.23139) than nested selection. The embedding references use frozen row-tuned predictions. The supported conclusion concerns sensitivity to the inner objective within the tested arms. Sampling uncertainty, external transfer and biological validation remain untested. This is an agent audit."
+  },
+  {
+    "task_id": "cryo-interface-fitted-mechanics-paired-stress",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Fixed analytic outer boundary does not remove native score reversal on two fitted levels.",
+    "unresolved_objection": "Traction-free fitted specimen replaces weak exterior/wall; center phase/history and points change; cube map is singular at boundary. Cannot attribute earlier reversal solely to geometry."
+  },
+  {
+    "task_id": "rubisco-kc-inner-group-rmse-selection",
+    "id": "rubisco-table3-relatedness-and-baselines",
+    "question": "What generalization remains in Table 3 after relatedness-aware splits and feasible sequence/context baselines?",
+    "rationale": "Endpoint-alignment control inside the same benchmark comparison. Tests whether inner RMSE recovers retrospective fixed-k diagnostic; does not warrant another investigation count.",
+    "relation": "validation",
+    "audit_source": "audits/rubisco/assessment.json",
+    "supported_scope": "On 197 KC rows in 155 scoring groups, equal-group error tuning lowered component KNN outer log10 RMSE from 0.26776 to 0.25580 and reduced pooled Spearman from 0.46924 to 0.36832. It recovered 32.9% of the RMSE gap to the retrospective fixed k=3 reference, which scored 0.23139 RMSE and 0.39422 Spearman.",
+    "unresolved_objection": "The evidence comes from one historical panel and one inherited fold assignment. Only two outer folds changed their selected k, and the fixed k=3 reference was identified retrospectively. The replay is conditional on the cached mapping, identities, and groups. These agent checks establish computational results on that panel. External transfer, human review, and biological validation remain unestablished."
+  },
+  {
+    "task_id": "cryo-fitted-common-physical-stress-sampling",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "Shared point clouds expose strong corner sensitivity and revoke universal tuned-uniform winner assertions across scoring rules.",
+    "unresolved_objection": "Cloud locations and weights vary together; new volume normalization is a different score from upstream native sample-count objective. Two clouds do not establish continuum peak."
+  },
+  {
+    "task_id": "cryo-fitted-map-conditioning-controlled-rescore",
+    "id": "CRYO-A-uniform-versus-graded-thermomechanical-benchmark",
+    "question": "Does graded loading offer a resolved thermomechanical advantage over a tuned mass-matched uniform surround under physical stopping and adequate numerical controls?",
+    "rationale": "Same grading-versus-uniform decision and inherited schedules/phantom/solver lineage. Isolating a numerical dependency or repairing its implementation improves this investigation rather than creating a new independent advance.",
+    "relation": "validation",
+    "audit_source": "audits/cryo/assessment.json",
+    "supported_scope": "On matched support, filtering old fields and remeshing yield different coarse orders; regular-map refinement still reverses graded/strict rank.",
+    "unresolved_objection": "Mesh sizes, phase labels, projected temperature and center Maxwell memory change together. Minimum tuned-uniform smooth lead 0.112 kPa is not a converged advantage."
+  }
+]

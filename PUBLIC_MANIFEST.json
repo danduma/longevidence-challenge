@@ -45,7 +45,7 @@
   },
   {
     "file": "README.md",
-    "sha256": "849c87cbd6a17bd407605bef727212f619a06771b3bc7dcd28b709b32cff0982"
+    "sha256": "c8b65c50b726d8d7438071828bf8d834d16211ce3ba8d057328a37423d77270b"
   },
   {
     "file": "REVIEWING.md",
@@ -61,7 +61,7 @@
   },
   {
     "file": "docs/superpowers/plans/2026-11-27-standalone-research-loop.md",
-    "sha256": "42d1e025452abd24632c0a953f7cc5ec9d6875c45562cfd36b5b5021c1a32ba2"
+    "sha256": "82ddd3d6b5d8098efecf66c282a63291c9c881bdad8535f470dc2cf0e1e29cf4"
   },
   {
     "file": "research/FINDINGS.md",
@@ -77,7 +77,7 @@
   },
   {
     "file": "research/README.md",
-    "sha256": "f104ba81f7fa3fc1a9ece251180ace4b32241cb3999fc857754b783b62b56f63"
+    "sha256": "113324ca1c9c4fa2aa8e925f868a26c39b770a818bdab85c34072583fadcb3b0"
   },
   {
     "file": "research/REFUSALS.md",
@@ -4828,6 +4828,62 @@
     "sha256": "1461bbb0337fed8e58da5a7f856fde1427df1945b27351e2aad29e635c3978ec"
   },
   {
+    "file": "research/standalone-2026-11-27/DATA_NEEDED.md",
+    "sha256": "c51c65dff776103deae6211e49610cea53908de64d3e6f4a2dff23a4e441bfa4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/README.md",
+    "sha256": "b5a285aec27b7ff4894dfde765efc29c43a1daf5308b73453591554cc817e8e3"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/cryo/assessment.json",
+    "sha256": "81284c1301ac57df680a1bef648e8c07f1612e1266c5f5e7ef8f09075cc0e455"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/cryo/independent-check.json",
+    "sha256": "5709080284895adc49ef61f4e40e4c1849df035af5dd88c593603b3958c6d954"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/cryo/report.md",
+    "sha256": "c01bbbecb7739e4a5f678a6ca59023abc4e7442646a39cea7a45682c7d295a9d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/protease/assessment.json",
+    "sha256": "a9b703eb653df306b60b42dfd72399183d6a811f7f0928a933b471bb1bb7314c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/protease/independent_check.json",
+    "sha256": "0b1c1919cc5499209a8d755b168735093115ed63632a5fddd634a9eedef7fa53"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/protease/report.md",
+    "sha256": "362a986bf3f9e4fe7627fd53ac19b88a2456c63372253e06cd0a42e6cd169b69"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/rubisco/assessment.json",
+    "sha256": "22db7c69af38a744184f72bdb4f14c8d930809b2585ad5f5bd5521e1afe983be"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/rubisco/independent-results.json",
+    "sha256": "c531c7461d997b1a9f7e4b348d0283b7e0f49d800c1b4f1f14f76f0f55d7e2e1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/audits/rubisco/report.md",
+    "sha256": "c2610210e8dd0e110fc67d8a54ff64c39e5e2621fa6d60548ef85aae85a7d523"
+  },
+  {
+    "file": "research/standalone-2026-11-27/data-gaps.json",
+    "sha256": "88ebe938bfe18670d04db3138160a4d852337de6cd00a3662a63f20a9f96204e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/investigation-assessments.json",
+    "sha256": "477f35ebdb2b43476f386b8221765035807dc9b5250606753ab06645bd3712e2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/receipts.json",
+    "sha256": "fdd967f551fbc24ef6dd0c30c1d24bc22fd97d9e906c8f480b2686fb12264ad1"
+  },
+  {
     "file": "site/README.md",
     "sha256": "853bd3d28e8032b4776e85ae2249abc6c600941b591b39de3a4ff30aaf5b4a11"
   },
@@ -4977,7 +5033,7 @@
   },
   {
     "file": "skills/auditing-research-contributions/SKILL.md",
-    "sha256": "e2a0e091cee8c51d76999f9a99ee9025f5bf514ad4b35165edbb146257b12942"
+    "sha256": "a339bd94142d421fa43cac51a2433d16d6e03328291ec8cdbdde46b4d127527f"
   },
   {
     "file": "skills/auditing-research-contributions/agents/openai.yaml",
@@ -4993,15 +5049,19 @@
   },
   {
     "file": "standalone/README.md",
-    "sha256": "f6fd5b5c72c8f40aa728c5d4f7d2ec4b451b092ea1314d62a99f184139e44b8d"
+    "sha256": "7802c186921e228be7c500cd86a466eaac19ddbc735daaac0d202eddb3d656c7"
+  },
+  {
+    "file": "standalone/investigations.py",
+    "sha256": "5f9cc03de7c347f642f74661c3a2b485084c27b2d56fdab4e6ce3569283e36f0"
   },
   {
     "file": "standalone/loop.py",
-    "sha256": "c7930a5917baa970cafc887f1379b0fe68556ad07d03309d3d0a794f7f38ad6f"
+    "sha256": "107eee3fca60a240ec773d2a9b69084fe33b457951b5f3641df1b417855665e0"
   },
   {
     "file": "standalone/protocol.py",
-    "sha256": "6956e6b2bfc151e6d3d467dd1b8427a3c0806bf13542e571da75df22ce11dcea"
+    "sha256": "22e6ef5d3722768b8845292acd4ae060942ff50ab5f4a4e7743d353cc9a1557f"
   },
   {
     "file": "standalone/seeds.json",
@@ -5009,6 +5069,6 @@
   },
   {
     "file": "standalone/test_loop.py",
-    "sha256": "ec187d255e82ebb6368ac35074f7452be50064f6335628b49d6dc8f27b9ea382"
+    "sha256": "6484b45aef3f5f6ca470f3594800ed68527e73b8571100e7b7f5b69c22c726f9"
   }
 ]

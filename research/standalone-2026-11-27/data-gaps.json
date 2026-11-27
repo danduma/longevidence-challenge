@@ -1,0 +1,415 @@
+[
+  {
+    "task_id": "rubisco-assay-identifiability",
+    "job": "jobs/rubisco-assay-identifiability-1-1795740086645484000",
+    "gap": {
+      "candidate_producers": [
+        {
+          "capability": "Published the screen and Rubrum control normalization.",
+          "confidence": "High for published screen capability. Fit is inferred.",
+          "name": "Milo Lab, Weizmann Institute of Science",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663927/",
+          "strategic_fit": "Likely best placed to recover original construct and assay identifiers and reproduce the coupled arm."
+        },
+        {
+          "capability": "Published both microbial turnover formats and a radiometric active-site recalibration.",
+          "confidence": "High for demonstrated methods. Fit is inferred.",
+          "name": "Oliver Mueller-Cajar and Tsai collaborators",
+          "source_url": "https://link.springer.com/article/10.1038/s44318-025-00419-y",
+          "strategic_fit": "Likely able to link the corrected radiometric method to a matched comparison."
+        }
+      ],
+      "controls": "Match dissolved gases, saturation, activation, pH at assay temperature and Mg conditions. Record raw rates and a shared independent active-site estimate, retain the unnormalized Rr control and test for readout linearity or coupling limitations.",
+      "existing_evidence": "Eleven reported literature overlaps at 25 \u00b0C versus the 30 \u00b0C screen. The geometric comparison is 1.436 before and 2.129 after fixed-Q10 adjustment. Data 2 provides 180 matching rows without a crossed assay-temperature field. McNevin provides a within-format 1.66-fold temperature contrast for a historical recombinant Rubrum preparation.",
+      "experimental_unit": "Independent preparation of a verified construct, split across all conditions. Wells and titration points are technical observations within a preparation.",
+      "inconclusive": "Unresolved sequence identity, saturation or active-site discrepancies, or paired intervals spanning the prespecified material differences.",
+      "minimum_design": "Measure direct and coupled turnover at 25 and 30 \u00b0C on split aliquots of independently prepared material. Include Rr and a sequence-verified nonreference anchor such as PCC 6301. Four cells identify the interaction. Three genuinely matched cells identify additive contrasts under a no-interaction assumption.",
+      "missing_data": "Per-preparation raw carboxylation readouts and active-site estimates for both formats at both temperatures, with verified construct and condition correspondence.",
+      "precision_basis": "Use pilot paired log-contrast variation across independent preparations and a prespecified smallest rate difference that would affect benchmark interpretation.",
+      "question": "What are the 25\u219230 \u00b0C changes within each format and the direct-to-coupled ratios at each temperature for the same microbial enzyme preparations?",
+      "refutes": "A material ratio-of-ratios departure from one or material construct heterogeneity would refute a shared temperature-independent correction over the sampled conditions. A precise within-format temperature ratio incompatible with sqrt(2.2) would refute that temperature adjustment locally.",
+      "reopen_trigger": "Public per-preparation crossed turnover data or a verified exact-construct fixed-format temperature bridge with documented gas and normalization settings.",
+      "supports": "Tightly estimated compatible direct/coupled ratios at both temperatures, stable across tested preparations and constructs, would support a common format correction over that sampled range. Compare each within-format temperature ratio with sqrt(2.2).",
+      "why_insufficient": "The published diagonal also varies gases, preparation and active-site measurement. The McNevin series constrains temperature within its own radiometric preparation, and the Davidi/Tsai format comparison changes temperature and protocol simultaneously.",
+      "work_possible_now": "Resolve the pRR1 lineage from public clone and sequence records and inspect the unretrieved numerical Synechococcus and Thermosynechococcus records if openly available."
+    },
+    "sources": [
+      {
+        "path": "sources/depins.xml",
+        "read_scope": "Full article XML, 2025 version of record, retrieved 2026-11-27",
+        "role": "Screen conditions, Rr normalization and calibration methods",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663927/"
+      },
+      {
+        "path": "sources/raw.zip",
+        "read_scope": "Downloaded 2025 supplement archive, retrieved 2026-11-27, Data 2 inspected",
+        "role": "Raw rate and assay-label inventory",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12663927/supplementaryFiles"
+      },
+      {
+        "path": "sources/library.csv",
+        "read_scope": "Full data at e1c9ed94, retrieved 2026-11-27",
+        "role": "Unadjusted and adjusted calibration inputs",
+        "url": "https://gitlab.com/milo-lab-public/rubisco_is_slow/-/raw/e1c9ed945864a0744e81b9cfdbfeb609ccf67907/data/rubisco_library.csv"
+      },
+      {
+        "path": "sources/calibration.ipynb",
+        "read_scope": "Full code at e1c9ed94, retrieved 2026-11-27",
+        "role": "Unit-slope calibration and release columns",
+        "url": "https://gitlab.com/milo-lab-public/rubisco_is_slow/-/raw/e1c9ed945864a0744e81b9cfdbfeb609ccf67907/1_regression_measured_lit.ipynb"
+      },
+      {
+        "path": "sources/gitcommits.json",
+        "read_scope": "Recent public commit metadata retrieved 2026-11-27",
+        "role": "Bounded release history check",
+        "url": "https://gitlab.com/api/v4/projects/milo-lab-public%2Frubisco_is_slow/repository/commits?per_page=12"
+      },
+      {
+        "path": "sources/gitissues.json",
+        "read_scope": "Public API empty result retrieved 2026-11-27",
+        "role": "Public issue check",
+        "url": "https://gitlab.com/api/v4/projects/milo-lab-public%2Frubisco_is_slow/issues"
+      },
+      {
+        "path": "sources/mcnevin-methods.txt",
+        "read_scope": "Paraphrased methods excerpt from 2007 author-hosted PDF, retrieved 2026-11-27",
+        "role": "Source identity and radiometric temperature series",
+        "url": "https://biology-assets.anu.edu.au/CMS/FileUploads/file/Farquhar/258McNevin3Rubiscos.pdf"
+      },
+      {
+        "path": "sources/mcnevin_fig2.jpg",
+        "read_scope": "Original McNevin 2007 Figure 2 image, retrieved 2026-11-27",
+        "role": "Measured 25 and 30 \u00b0C values read from Arrhenius plot",
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0021925820621421-gr2.jpg"
+      },
+      {
+        "path": "sources/davidi.xml",
+        "read_scope": "2020 full article XML, retrieved 2026-11-27, methods inspected",
+        "role": "Closest microbial cross-format baseline and its temperatures",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7507306/"
+      },
+      {
+        "path": "sources/tsai.html",
+        "read_scope": "2025 version of record HTML, retrieved 2026-11-27",
+        "role": "Radiometric recalculation and CABP quantification discrepancy",
+        "url": "https://link.springer.com/article/10.1038/s44318-025-00419-y"
+      },
+      {
+        "path": "sources/form1.html",
+        "read_scope": "2024 version of record HTML, retrieved 2026-11-27",
+        "role": "Explicit disclosure of different temperatures and assay formats",
+        "url": "https://link.springer.com/article/10.1038/s44318-024-00119-z"
+      },
+      {
+        "path": "sources/sales.xml",
+        "read_scope": "2020 full article XML, retrieved 2026-11-27, comparative methods and findings inspected",
+        "role": "Matched-temperature format comparison in plant material",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501812/"
+      },
+      {
+        "path": "sources/boyd-excerpt.txt",
+        "read_scope": "Paraphrased Boyd 2019 publisher excerpts, retrieved 2026-11-27",
+        "role": "Plant precedent for testing format by temperature",
+        "url": "https://academic.oup.com/jxb/article/70/1/231/5164292"
+      },
+      {
+        "path": "sources/iniguez-excerpt.txt",
+        "read_scope": "Paraphrased 2021 publisher index excerpts, retrieved 2026-11-27",
+        "role": "Method variability and literature temperature normalization",
+        "url": "https://doi.org/10.1093/jxb/erab356"
+      },
+      {
+        "path": "sources/later.html",
+        "read_scope": "2026 version of record HTML, retrieved 2026-11-27, kinetics methods inspected",
+        "role": "Later NADH survey with radiometric active-site calibration",
+        "url": "https://www.nature.com/articles/s41467-026-73982-5"
+      },
+      {
+        "path": "sources/zhu.html",
+        "read_scope": "1998 publisher preview retrieved 2026-11-27",
+        "role": "Synechococcus temperature-series lead",
+        "url": "https://link.springer.com/article/10.1023/A:1006020424581"
+      },
+      {
+        "path": "sources/gubernator.html",
+        "read_scope": "2008 publisher preview retrieved 2026-11-27",
+        "role": "Thermosynechococcus candidate lead",
+        "url": "https://link.springer.com/article/10.1007/s11120-007-9240-7"
+      },
+      {
+        "path": "sources/forum-excerpt.txt",
+        "read_scope": "Indexed public specialist Q&A excerpt paraphrased 2026-11-27",
+        "role": "Assay readout discussion without usable calibration measurements",
+        "url": "https://www.researchgate.net/post/Is-there-any-protocol-to-measure-activity-of-RuBisCO-without-involving-radioactivity-Non-radioactive-assay-method"
+      },
+      {
+        "path": "sources/milo-excerpt.txt",
+        "read_scope": "Browsed homepage excerpt paraphrased 2026-11-27",
+        "role": "Lab research context",
+        "url": "https://www.weizmann.ac.il/plants/milo/"
+      }
+    ],
+    "review": {
+      "approved_followups": [
+        "rubrum-prr1-sequence-lineage"
+      ],
+      "checks": {
+        "distinct": true,
+        "prior_art_checked": true,
+        "reproducible": true,
+        "scope_honest": true,
+        "source_supported": true,
+        "useful": true
+      },
+      "data_gate_valid": true,
+      "reason": "The 11-overlap calculation and the 1.436 and 2.129 ratios duplicate archived results. The distinct contribution is the audit of 180 matching raw-workbook rows, which supplies no crossed assay-temperature comparison, and the recovery of a within-format microbial temperature comparator from McNevin Figure 2. I inspected the figure, reproduced the numerical outputs read-only, and checked the result against C06, the ledger, and the Davidi/Tsai comparison. The data gate is valid for separating the effects in the calibration cohort. The audit documents computational and search alternatives, the missing evidence, a discriminating design with matched preparations and controls, and a reopening trigger. This is an agent audit of existing evidence.",
+      "strongest_objection": "The roughly 1.66-fold McNevin contrast comes from digitized points in one historical radiometric preparation. It lacks preparation-level uncertainty and a verified construct and protocol match to the 2025 reference. Davidi/Tsai still couples a format change with a temperature change. Even a confirmed pRR1 sequence match would strengthen only the within-format comparison. The [published pRR1 clone lineage](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/0014-5793%2890%2980879-N) gives the offered follow-up a concrete starting point.",
+      "verdict": "accept"
+    },
+    "manifest": {
+      "analysis.py": "8c843e24fe597d668f41116abed547c581e5849bcc6acb983ed366114ebf7285",
+      "report.md": "2eef332031a57f3b81cb505dd795105b40973fee8cdc36854a3e3a6289d2bd5f",
+      "results.json": "8790eff9dd7af5333c87c895fce52483a2c7fc35e891f4bc3b5ee116926cc913",
+      "review.json": "947d100bbd0a553429bbef80ffaad4f7274478e1917b154cc983c3030fbec9df",
+      "sources/boyd-excerpt.txt": "152f2c563cd54c82ae3f3e7a77ce03e48dcc4256725cab09b80190b339994d34",
+      "sources/calibration.ipynb": "81908754e21ad09da9effb6f86097c7807f13995e84edb6361aad5aac7ab44e3",
+      "sources/davidi.xml": "e1e3d4163348f63371db02e6cef9c1ddf23f4b69bb6d19a60668a21db8bce113",
+      "sources/depins.xml": "357f1065029d4b7f777e0e05dccb114a7b5de58c11f1d3e3f6c7012dcd401d47",
+      "sources/form1.html": "56492cbda7565d673fd7a7835d2d8fef599854d4e02a89447e795d0919bbd04c",
+      "sources/forum-excerpt.txt": "15bb92d3d7bba37909ffb25d5fd1fe14b1b30dc8b47b36089437b648b81a89df",
+      "sources/gitcommits.json": "3a9a691c3e5fbba8fd19ea2a08835f6d901353dbf588e5e95f4f6b3d347d7696",
+      "sources/gitissues.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "sources/gubernator.html": "0746efd3e0d73128c4ced499a3696b17f14a04eafceeed55bf1813370b76022e",
+      "sources/iniguez-excerpt.txt": "ea40e4a9a8c37b3a4b64ff0f0cf137ebb81dc4cc926863dd1592771ed714aca5",
+      "sources/later.html": "b0826ca3b734902e4e43bc5f8ac146ce4763c0854e49c9ce11ddadda2a21fb0c",
+      "sources/library.csv": "5e3116dbf5aa4cdc77b01b326e291170692eac1032c9dc8e8db8e1e69690acdf",
+      "sources/mcnevin-methods.txt": "a23901d26a41ba3ac15e8e638786b880c814d7d17e3bfa8d4373c3be00289de8",
+      "sources/mcnevin-pixels.json": "106104e742adafbac517d7c488b18ee8c67720269834ac6b89d2474e8a254bdc",
+      "sources/mcnevin_fig2.jpg": "652e7aecbca13eeb4a338643ec0e96df13ffcf04c4f3ed5d5652e7f3f77c957d",
+      "sources/milo-excerpt.txt": "217be32f62ceb89703c65fe829625397144bdb9410efd1b097a941afea7abecc",
+      "sources/raw.zip": "9085235bff1bd4e817104961c6596c4b98b0c87aa6ea0b97e53f8104fe91e39f",
+      "sources/sales.xml": "35fd4359516fd740b70604216a3d01bac22bfdf3e693a6a62f2c983e43035704",
+      "sources/tsai.html": "a72ab9b6ed93a2f7fde40495cba0026fc841df788bea031a7347307703c7de22",
+      "sources/zhu.html": "f3f40c3475a6d56230af5d3fc7fff664328c5c510c1a8894b342b7d3407139cc",
+      "submission.json": "0468cf59dad6faa0b4d27568cdf2601fdf1731c5cc282ec1b7f83772f13866bd",
+      "task.json": "951327ff1a0200a15c7be613704a6d3a05ac4220584f88e53f8bf46549f6f79c",
+      "verify.py": "cd259437dabecc804e523cd2750ad7e0522d4f9dd7aaf721109f2db44fd92ce8"
+    },
+    "human_review": false
+  },
+  {
+    "task_id": "cryo-measurement-bridge",
+    "job": "jobs/cryo-measurement-bridge-2-1795741518413786000",
+    "gap": {
+      "candidate_producers": [
+        {
+          "capability": "Organ imaging, thermometry and solution calorimetry across kidney and liter-scale studies",
+          "confidence": "High inferred capability fit. Existence of a matched package is unverified.",
+          "name": "ATP-Bio / University of Minnesota organ nanowarming team",
+          "source_url": "https://atp-bio.org/press-release-landmark-study-demonstrates-first-successful-long-term-cryopreservation-and-nanowarming-of-human-scale-kidneys/",
+          "strategic_fit": "A specimen-keyed release could connect measurements within the team\u2019s organ-banking work"
+        },
+        {
+          "capability": "Publicly describes organ perfusion, nanoparticle delivery and rewarming development",
+          "confidence": "Moderate inferred fit. Specific assay and paired dataset capabilities are unverified.",
+          "name": "Until",
+          "source_url": "https://www.untillabs.com/science-technology",
+          "strategic_fit": "A paired model-validation release aligns with the stated technology direction"
+        }
+      ],
+      "controls": "Calibration phantoms, unspiked Fe backgrounds, CPA-only RF and thermal controls, independent heat-transfer calibration, and matched particle preparation and medium for SAR and the warmed organ.",
+      "existing_evidence": "Relative SWIFT with a cross-study dry-weight anchor, bulk MPI, adjacent-fluid and sparse core thermometry, a warm EMG308 vial reference and separate phase-specific solution calibrations.",
+      "experimental_unit": "Whole organ per warming run, grouped by donor where paired. Voxels, probes and time samples are repeated measurements.",
+      "inconclusive": "Map, probe, SAR or boundary uncertainty spans the predicted differences, or the released records cannot be joined at specimen level.",
+      "minimum_design": "Start with existing records if available. Couple a calibrated prewarming image to core, peripheral and bag thermometry in common coordinates with run metadata. Independently calibrate SAR and boundary terms. Hold out complete organs and compare against uniform loading at the same total Fe and a mass-matched two-region reconstruction when region volumes are known.",
+      "missing_data": "A specimen-keyed absolute prewarming Fe map in mg/mL of bulk voxel, registered segmentation and probe locations, loaded regional dry mass per volume with Fe background, matched particle/CPA/field SAR across the observed temperature range, and measured bag loading, geometry, initial state and boundary history.",
+      "precision_basis": "Propagate Fe assay, map, registration, probe, SAR and boundary uncertainty. Use the separation between candidate predictions for prespecified window crossings and gradients to set required precision.",
+      "question": "Can an absolute prewarming iron map and an independently calibrated heating law predict spatial thermometry on held-out intact organs?",
+      "refutes": "With adequate precision the map-based prediction misses measured gradients or crossings or fails to improve on the mass-matched baseline under the same fixed SAR and boundary terms.",
+      "reopen_trigger": "Release of the 2021 segmented volumes and model assignments would reopen mass closure. A specimen-keyed package joining absolute loading, independent matched SAR, registered thermometry and boundary records would reopen the organ benchmark.",
+      "supports": "On held-out organs the registered map plus independently fixed SAR and boundary terms predicts prespecified spatial gradients and temperature crossings beyond propagated uncertainty and outperforms a mass-matched uniform baseline.",
+      "why_insufficient": "Bulk Fe does not resolve tissue compartments. MRI and CT signals need particle-specific absolute calibration. Temperature depends on concentration, SAR, heat capacity and heat exchange. The phase-specific sIONP assay cannot calibrate the EMG308 warming traces. The matched EMG308 reference is a warm vial measurement, and the linked models are for cooling.",
+      "work_possible_now": "The matched warm EMG308 anchor supports the fixed-input bag diagnostic executed here. The released S22A equal-concentration traces can test whether temperature-window net heating transfers across bag volumes. That comparison remains conditional on heat capacity and cannot isolate particle SAR or validate the organ model."
+    },
+    "sources": [
+      {
+        "path": "sources/k21.snapshot",
+        "read_scope": "Version of record HTML, relevant results and methods, 2026-11-27 UTC",
+        "role": "Relative SWIFT contrast, bulk anchor and organ thermometry comparison",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8498880/"
+      },
+      {
+        "path": "sources/k21-supp.pdf",
+        "read_scope": "Complete publisher PDF, SAR and model methods, Fig. S9 and Table S6, 2026-11-27 UTC",
+        "role": "Dry mass, regional loads, idealized geometry and model boundaries",
+        "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8498880.1/ADVS-8-2101691-s001.pdf"
+      },
+      {
+        "path": "sources/gao.snapshot",
+        "read_scope": "Version of record HTML, Fig. 7 and ICP-OES methods, 2026-11-27 UTC",
+        "role": "EMG308 and sIONP dry-weight assay assignments",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7029634/"
+      },
+      {
+        "path": "sources/heart.snapshot",
+        "read_scope": "Version of record HTML, relevant results and methods, 2026-11-27 UTC",
+        "role": "Heart MPI fiducial and bulk calibration, solution heating and central probe",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7793590/"
+      },
+      {
+        "path": "sources/rat.snapshot",
+        "read_scope": "Version of record HTML, Fig. 2 and thermal methods, 2026-11-27 UTC",
+        "role": "CT radiodensity and adjacent-fluid probe",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10256770/"
+      },
+      {
+        "path": "sources/rat-supp.xlsx",
+        "read_scope": "Publisher workbook, Fig. 2 rewarming dimensions and endpoints, 2026-11-27 UTC",
+        "role": "Representative temperature series and available join fields",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-38824-8/MediaObjects/41467_2023_38824_MOESM4_ESM.xlsx"
+      },
+      {
+        "path": "sources/rat-data.xlsx",
+        "read_scope": "Publisher workbook, sheet inventory and headers, 2026-11-27 UTC",
+        "role": "Statistics release distinct from the thermal workbook",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-023-38824-8/MediaObjects/41467_2023_38824_MOESM6_ESM.xlsx"
+      },
+      {
+        "path": "sources/liter.snapshot",
+        "read_scope": "Version of record HTML, Figs. 6\u20137, methods and availability, 2026-11-27 UTC",
+        "role": "EMG308 warming preparation and probe conditions, separate sIONP calibration",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12474906/"
+      },
+      {
+        "path": "sources/liter-supp.docx",
+        "read_scope": "Publisher supplement from the PMC archive, SAR section, Figs. S19\u201322 and Table S3, 2026-11-27 UTC",
+        "role": "Warm EMG308 and cryogenic sIONP assays, formulation and warming bag geometry",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-63483-2/MediaObjects/41467_2025_63483_MOESM1_ESM.docx"
+      },
+      {
+        "path": "sources/liter-data.xlsx",
+        "read_scope": "Complete publisher workbook, Figs. 5\u20137 and S19\u201322 blocks, 2026-11-27 UTC",
+        "role": "Warm EMG308 reference, sIONP phase averages and bag traces",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-63483-2/MediaObjects/41467_2025_63483_MOESM4_ESM.xlsx"
+      },
+      {
+        "path": "sources/zenodo.json",
+        "read_scope": "Version 1 metadata and file inventory, 2026-11-27 UTC",
+        "role": "Identifies the 0.5 L, 1 L and 3 L cooling models",
+        "url": "https://zenodo.org/api/records/16716098"
+      },
+      {
+        "path": "sources/pig-html.snapshot",
+        "read_scope": "Cached v1 landing page, indexed full-text excerpts reviewed separately, full text and supplement inaccessible on 2026-11-27 UTC",
+        "role": "Later organ-scale lead and scope of public access",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.07.756990v1"
+      },
+      {
+        "path": "sources/thermal.snapshot",
+        "read_scope": "Complete pinned code, 2026-11-27 UTC",
+        "role": "Region masks, duty and thermal boundaries",
+        "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/src/vitrify/thermal.py"
+      },
+      {
+        "path": "sources/properties.snapshot",
+        "read_scope": "Complete pinned code, 2026-11-27 UTC",
+        "role": "SAR support and Fe-volume conversion",
+        "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/src/vitrify/properties.py"
+      },
+      {
+        "path": "sources/validation.snapshot",
+        "read_scope": "Complete pinned validation note, 2026-11-27 UTC",
+        "role": "Prior disclosure of the low-temperature bracket",
+        "url": "https://raw.githubusercontent.com/Marc-Dvci/Vitrify/1d498ee5c583e0112a762e60892d576ec2e27f57/docs/validation.md"
+      },
+      {
+        "path": "sources/issues.snapshot",
+        "read_scope": "Public issues endpoint response, 2026-11-27 UTC",
+        "role": "Public issue history check",
+        "url": "https://api.github.com/repos/Marc-Dvci/Vitrify/issues?state=all"
+      },
+      {
+        "path": "sources/cryo.download",
+        "read_scope": "Complete 2002-04-14 message, checked 2026-11-27 UTC",
+        "role": "Prior specialist discussion of regional compensation",
+        "url": "https://www.cryonet.org/cgi-bin/dsp.cgi?msg=18925"
+      },
+      {
+        "path": "sources/biostasis.snapshot",
+        "read_scope": "2017 specialist column, checked 2026-11-27 UTC",
+        "role": "Prior discussion of vascular hot spots and glass-transition warming",
+        "url": "https://www.biostasis.com/new-warming-breakthrough-for-cryopreserved-organs/"
+      },
+      {
+        "path": "sources/atp.download",
+        "read_scope": "Public homepage and program links, 2026-11-27 UTC",
+        "role": "Center scope",
+        "url": "https://atp-bio.org/"
+      },
+      {
+        "path": "sources/atp-pig.html",
+        "read_scope": "Public producer release, 2026-11-27 UTC",
+        "role": "Center and University of Minnesota capability evidence",
+        "url": "https://atp-bio.org/press-release-landmark-study-demonstrates-first-successful-long-term-cryopreservation-and-nanowarming-of-human-scale-kidneys/"
+      },
+      {
+        "path": "sources/until.download",
+        "read_scope": "Public perfusion and rewarming sections, 2026-11-27 UTC",
+        "role": "Stated technology direction",
+        "url": "https://www.untillabs.com/science-technology"
+      }
+    ],
+    "review": {
+      "approved_followups": [
+        "cryo-emg308-equal-loading-window-transfer"
+      ],
+      "checks": {
+        "distinct": true,
+        "prior_art_checked": true,
+        "reproducible": true,
+        "scope_honest": true,
+        "source_supported": true,
+        "useful": true
+      },
+      "data_gate_valid": true,
+      "reason": "Accept the scoped organ data gate. A fresh read-only rerun reproduced the archived results. The prior attempt already established the Gao assay-arm mismatch and conditional kidney mass closure. This revision adds a source-supported test of whether the matched warm EMG308 vial calibration transfers to bag thermometry. The published cryogenic calibration uses sIONP, and the fixed EMG308 reference underpredicts warming across all six probe traces by the reported ratios of 1.18\u20131.41. The gate identifies the missing specimen-level measurements and defines a held-out organ comparison against mass-matched uniform and two-region loading, with independent heating and boundary controls and an explicit reopening trigger. The offered equal-loading holdout tests whether window-specific net warming transfers across bag volumes, beyond the paper's aggregate comparison.",
+      "strongest_objection": "The residual comes from an audit-selected \u221220 to 0 \u00b0C window in two example bag runs. The six probes are repeated measurements. Approximate heat capacity, vial-to-bag SAR transfer, direct RF heating and boundary exchange can all contribute. The authors' Fig. S20 estimates near-zero eddy heating of comparable magnitude under surrogate assumptions, so the residual cannot identify a heating term. The gate is limited to inspected public records. The porcine supplement remained unverified, and the [porcine preprint](https://www.biorxiv.org/content/10.64898/2026.10.07.756990v1.full) says raw data are available on request. This agent audit establishes neither human review nor biological validation.",
+      "verdict": "accept"
+    },
+    "manifest": {
+      "analysis.py": "46b8e4a71dafe562497d7c8f4112b131ccafc458a410d27dd7c72cb58f1eb2bc",
+      "report.md": "66b455d83c3cfb817d6ff8efdb962003c02d85ad39a1768a2ae54e3b222b812e",
+      "results.json": "8c002e2500e6820a1f1fed634fb0644bb6a72df9009d9daec2d654b04bf39bbc",
+      "review.json": "f4045a62fd3c95d21c86787904a726e527428ef3c13c32234c9e92c13ac70d49",
+      "sources/LICENSE.snapshot": "5b53c732328cdc5e52a274a07af805a60c46342d42caffe9f708815cf997bec3",
+      "sources/atp-pig.html": "aa0bc34049dee8bbd583235c20ac2ff030bb4311e92458c571d722618fe40b7d",
+      "sources/atp.download": "ecff4da0c06967403d72b80f952072f1d33d10aeb89dfcdef49c12bc553185bf",
+      "sources/biostasis.snapshot": "30f1434f83a8468aef49c87dbf03201173ee8c716c350eaf9517326b0a67543b",
+      "sources/cryo.download": "17fbe8ec9cbbd66ece9a006a735275e45458a3c74df9d1f13c26b9fd3f846ef7",
+      "sources/gao.snapshot": "f8d688012b8f04f25e9f904269817bf400066233d9b47dc04b9637d75b0b7b6a",
+      "sources/heart.snapshot": "9b4f96ab6a20c5e8f17048864f97db0a61072175d589e1f686e75d33ad6d124a",
+      "sources/issues.snapshot": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d",
+      "sources/k21-supp.pdf": "f8821bdb9a82dc54cdd00728487b53c22a7b6c4087d3d456e3ec975de1fd14c2",
+      "sources/k21-supp.txt": "7f93971c3943be4d6f95a66033c93afe4410210003c6a0b2b41e623a416d8eda",
+      "sources/k21.snapshot": "496465a3509f8d07b5b0e3e9fc6855e53becd8f289d26c2931023e23d27b6593",
+      "sources/liter-data.xlsx": "c059e1beef528efd5a3aa04fc51d039d64e1c8583376a3596160e837069d2898",
+      "sources/liter-supp.docx": "63336d3e3e002e1bfda535e3609aa2758e89a3c360176a79e28b324188ee4059",
+      "sources/liter-supp.txt": "8e63cbb8247b91201cbe6e96ff9bef1f9f2cf13486f922ffb755ed95c80cc8ea",
+      "sources/liter.snapshot": "c28c8f10e8ba1b60196204ff7917561df926c504242d38dd548df4229baf36a1",
+      "sources/pig-html.snapshot": "2009c18f96185ad2eb8aa36244397d25f034997430b555271ecf7f7c755839f3",
+      "sources/properties.snapshot": "335eb11a069df351d484c748c1c1acf41b28577def690eafbc96732ff04a996b",
+      "sources/rat-data.xlsx": "db17997b99a449df965c9e6e45ecc91314575d1d944c9e6b12933f09dee8abe3",
+      "sources/rat-supp.xlsx": "ec391e530ec28d6487fc06e0e07d7928e8fd561198af544b0ba48c5f4a35feea",
+      "sources/rat.snapshot": "8a08f6dd54d7bd1c0dec774eaea4f67f1395093564f05d01aa72abc83c31f773",
+      "sources/thermal.snapshot": "c93c699dd92b4e99a21e29dd615fad5e397bd6d929c0c6f37c256007d8c3c791",
+      "sources/until.download": "201e0c18caf670ed43ee721d9c79e5081310bb1d1108123a96d128f24a5ba5f0",
+      "sources/validation.snapshot": "f3bffdb7c4ab321ad7df13f698381a18b077d4d6eddd0d4a910cae0f7a13a79b",
+      "sources/zenodo.json": "64d4b97f0540005fd578741e4966a10c37ab645d790bf78596ec81d1c1d9b84a",
+      "submission.json": "53f80e9d0c123e33018f4c18753efe69187181231981a6230f8a82a98d2ff59d",
+      "task.json": "4f5e20ceb48f8cf82a5a6535df57895e5167ece6bf36850114cae2402eeb6d91",
+      "verify.py": "bee2d4064cef90c85527a284803bd0fe3c16e6a2e269e6a08f18cace2df94fb3",
+      "workbook.py": "d41d2e146d9bb06c85dc68c7ec8704d9a331b680aace54360f7ad03eb26924fe"
+    },
+    "human_review": false
+  }
+]

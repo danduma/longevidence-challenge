@@ -1,0 +1,77 @@
+{
+  "rows": 780,
+  "signed_negative": 170,
+  "hard_rule_fold_rmse": {
+    "P6": {
+      "all_mean": 0.07118008745577753,
+      "all_linear": 0.12449295578956494,
+      "restricted_mean": 0.07302144602237463,
+      "restricted_linear": 0.0715266179670091
+    },
+    "P5": {
+      "all_mean": 0.47969464233715337,
+      "all_linear": 0.47969464233715337,
+      "restricted_mean": 0.47969464233715337,
+      "restricted_linear": 0.47969464233715337
+    },
+    "P4": {
+      "all_mean": 0.1492485826786037,
+      "all_linear": 0.15764595498600525,
+      "restricted_mean": 0.16151332262634374,
+      "restricted_linear": 0.1395997158736199
+    },
+    "P3": {
+      "all_mean": 0.20770516797224112,
+      "all_linear": 0.2752874839552974,
+      "restricted_mean": 0.1338715339933692,
+      "restricted_linear": 0.13161660343944837
+    },
+    "P2": {
+      "all_mean": 0.22760453091795174,
+      "all_linear": 0.1960959885873598,
+      "restricted_mean": 0.1441558847466052,
+      "restricted_linear": 0.1030866715770135
+    },
+    "P1": {
+      "all_mean": 0.04145384730744651,
+      "all_linear": 0.04145384730744651,
+      "restricted_mean": 0.04145384730744651,
+      "restricted_linear": 0.04145384730744651
+    },
+    "P1'": {
+      "all_mean": 0.22191779778847165,
+      "all_linear": 0.21138784686280312,
+      "restricted_mean": 0.2223008978475212,
+      "restricted_linear": 0.15742089051680697
+    }
+  },
+  "hard_rule_mean_rmse": {
+    "all_mean": 0.19982923663680652,
+    "all_linear": 0.2122941028322329,
+    "restricted_mean": 0.1794302249829734,
+    "restricted_linear": 0.16062842700264254
+  },
+  "external_p5_canonical_prediction_rmse": 0.47969464233715337,
+  "external_mean_rmse_with_matched_p5_replacement": {
+    "baseline_equal": 0.24248535678683983,
+    "baseline_selected": 0.21804447040942815,
+    "baseline_fixed": 0.21804447040942815,
+    "linear_equal": 0.22635747342796889,
+    "linear_selected": 0.19825583057062418,
+    "linear_fixed": 0.19825583057062418,
+    "isotonic_equal": 0.22678935935833833,
+    "isotonic_selected": 0.20135565216255305,
+    "isotonic_fixed": 0.20135565216255305
+  },
+  "perrc_pair_labels": [
+    "TEVESNp on ENLYFES",
+    "TEVESNp on ENLYFQS",
+    "TEVEp on ENLYFES",
+    "TEVEp on ENLYFQS"
+  ],
+  "perrc_substitution_positions": [
+    "P1"
+  ],
+  "perrc_trainable_held_position_folds": 0,
+  "scope": "Hard-rule means and OLS independently fitted from CSV. External P5 diagnostic replaces exactly one saved fold; other external folds are not independently refitted. PERRC labels independently parsed from workbook. This does not validate reporter correction, fluorescence conversion or biological transport."
+}

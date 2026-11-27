@@ -6,6 +6,8 @@ Small, public contributions to longevity evidence and computational biology rese
 
 **Research update:** [What survived our skeptical audit](research/reassessment-2026-11-26/README.md). Ten reproducible analyses did not establish ten meaningful advances. Read the [lessons](research/reassessment-2026-11-26/LESSONS.md), [next steps](research/reassessment-2026-11-26/NEXT.md), and reusable [research-audit skill](skills/auditing-research-contributions/SKILL.md).
 
+**Standalone run update:** [Thirty computational receipts, seven investigations](research/standalone-2026-11-27/README.md). Reproducibility and separate agent review do not make every follow-up an independent contribution. The target of 100 remains open.
+
 You can check a paper, rerun a calculation, review a claim, report earlier work or improve the explanation. There is no requirement to find something new. Every contribution starts with its evidence and stated limits.
 
 ## Start here

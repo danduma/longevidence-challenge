@@ -1,0 +1,83 @@
+{
+  "audit_date": "2026-11-27",
+  "runtime_mutated": false,
+  "accepted_rows_inspected": 2,
+  "recommended_accepted_distinct_investigations": 1,
+  "additional_pending_technical_audit_families": 1,
+  "human_review": false,
+  "biological_validation": false,
+  "counting_rule": "Count questions/investigations, not task rows, model variants, controls, replays or sensitivity tables. Useful technical audit eligibility remains subject to the agreed target criteria and a new ordinary review.",
+  "tasks": [
+    {
+      "task_id": "protease-unseen-context-baseline",
+      "runtime_status": "accepted",
+      "classification": "supported conditional computational investigation",
+      "family": "protease-held-position-calibration",
+      "recommended_count": 1,
+      "surviving_increment": "Under fixed hard context, training-population restriction reverses context-only versus reporter ordering; grouped training-only selection recovers the restricted fits on this frozen panel.",
+      "strongest_objection": "Context uses the same study's held-position reporter summaries, so these folds do not establish positions unseen to all prior profiling.",
+      "support": [
+        "independent_check.json:hard_rule_mean_rmse",
+        "jobs/protease-unseen-context-baseline-4-1795738443929731000/report.md",
+        "jobs/protease-unseen-context-baseline-4-1795738443929731000/review.json"
+      ],
+      "needed": "Carry information-set qualification; combine external-context robustness in same family; external panel/practical margin needed for transport claims."
+    },
+    {
+      "task_id": "protease-external-position-context-sensitivity",
+      "runtime_status": "accepted",
+      "classification": "supported robustness control; no additional distinct investigation",
+      "family": "protease-held-position-calibration",
+      "recommended_count": 0,
+      "surviving_increment": "External qualitative graded context narrows the hard-rule finding; reporter advantage survives tested matched comparisons.",
+      "strongest_objection": "Same data/endpoint/folds/question as parent; provenance and form change together; illustrative anchor values are not independent rates. P5 comparator materially changes headline gains.",
+      "support": [
+        "independent_check.json:external_mean_rmse_with_matched_p5_replacement",
+        "jobs/protease-external-position-context-sensitivity-1-1795742732589119000/report.md",
+        "jobs/protease-external-position-context-sensitivity-1-1795742732589119000/review.json"
+      ],
+      "needed": "Attach to parent investigation; no separate target increment."
+    },
+    {
+      "task_id": "protease-reporter-calibration-independent-benchmark-inventory",
+      "runtime_status": "needs_attention",
+      "classification": "supported release-specific technical audit; broader data gate unestablished",
+      "family": "protease-independent-benchmark-eligibility",
+      "recommended_count": 0,
+      "potential_additional_count_after_new_review": 1,
+      "surviving_increment": "Publisher PERRC workbook contains only P1 noncanonical biochemical coverage and cannot train held-position validation folds; concentration-sensitive RFU replay cautions against endpoint substitution.",
+      "strongest_objection": "A bounded release coverage finding was submitted as a global data gap; Yi supplement and quantitative bridge remain unresolved.",
+      "support": [
+        "independent_check.json:perrc_pair_labels",
+        "independent_check.json:perrc_trainable_held_position_folds",
+        "jobs/protease-reporter-calibration-independent-benchmark-inventory-3-1795742415106326000/review.json"
+      ],
+      "smallest_unblock": "Resubmit verified PERRC coverage audit as ordinary contribution with exact release-specific claim, full required fields, limitations and fresh verifier; leave global data gate open.",
+      "resumed_instructions": "resume_instructions.md"
+    }
+  ],
+  "independent_check": {
+    "script": "independent_check.py",
+    "output": "independent_check.json",
+    "producer_modules_imported": false,
+    "scope": "Independent CSV group/mean/OLS fit and workbook label coverage. External P5 matched diagnostic recomputes P5 from CSV and uses saved other folds. No upstream AUC or biological validation."
+  },
+  "external_sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3005794/",
+      "access": "full browser text; relevant structural results read",
+      "supports": "qualitative P5 tolerance/P4 dependence, not numeric anchors"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11129917/",
+      "access": "full browser text; relevant results/discussion read",
+      "supports": "context-dependent cleavage and exceptions to hard rules"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12301959/",
+      "access": "fresh browser interstitial; cached XML and workbook inspected",
+      "supports": "access failure does not establish absence"
+    }
+  ],
+  "report": "report.md"
+}

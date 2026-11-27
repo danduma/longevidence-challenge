@@ -39,6 +39,12 @@ class Contracts(unittest.TestCase):
         with self.assertRaises(ValidationError):
             validate_review(review, {"kind": "contribution"})
 
+    def test_acceptance_needs_an_explicit_investigation_assessment(self):
+        with self.assertRaises(ValidationError):
+            validate_review(dict(verdict="accept", reason="Pass", strongest_objection="Conditional",
+                                 checks={k: True for k in REVIEW_CHECKS}, approved_followups=[]),
+                            {"kind": "contribution"})
+
     def test_review_cannot_invent_followups(self):
         with self.assertRaises(ValidationError):
             validate_review(dict(verdict="reject", reason="Known", strongest_objection="Known",
@@ -207,10 +213,13 @@ class Verification(unittest.TestCase):
 
 class EpisodeIntegration(unittest.TestCase):
     """Offline protocol fixtures test infrastructure, never real research output."""
-    def run_fixture(self, mode):
-        temp = tempfile.TemporaryDirectory()
-        self.addCleanup(temp.cleanup)
-        root = Path(temp.name)
+    def run_fixture(self, mode, existing=None, key="test"):
+        if existing is None:
+            temp = tempfile.TemporaryDirectory()
+            self.addCleanup(temp.cleanup)
+            root = Path(temp.name)
+        else:
+            root = existing.root.parent
         driver = root / "fixture_agent.py"
         driver.write_text('''import json,sys
 from pathlib import Path
@@ -218,22 +227,69 @@ output=Path(sys.argv[1]); mode=sys.argv[2]
 if output.name == "review.json":
  if mode == "tamper": Path("report.md").write_text("altered after verification")
  verdict="reject" if mode == "reject" else "accept"
- answer=dict(verdict=verdict,reason="Offline infrastructure fixture only",strongest_objection="Synthetic fixture has no scientific value",checks={k:True for k in ["distinct","source_supported","reproducible","useful","scope_honest","prior_art_checked"]},approved_followups=[])
+ answer=dict(verdict=verdict,reason="Offline infrastructure fixture only",strongest_objection="Synthetic fixture has no scientific value",checks={k:True for k in ["distinct","source_supported","reproducible","useful","scope_honest","prior_art_checked"]},approved_followups=[],investigation=dict(id="fixture-family",question="Does the fixture prove the protocol?",relation="independent" if json.loads(Path("task.json").read_text())["id"] == "test" else "validation",rationale="Same synthetic investigation, not another scientific contribution."))
+ if mode == "new": answer["investigation"]=dict(id="fixture-other",question="Does an independent fixture prove a separate contract?",relation="independent",rationale="Separate synthetic question for testing counting only")
+ if mode == "orphan": answer["investigation"]["relation"]="validation"
 else:
  Path("source.txt").write_text("Offline fixture source; not actual research")
  Path("report.md").write_text("A synthetic infrastructure test, not a scientific contribution")
  Path("data.json").write_text("[1,2,3]")
  Path("results.json").write_text('{"mean":2.0}')
  Path("verify.py").write_text("import json,statistics\\nfrom pathlib import Path\\nassert statistics.mean(json.loads(Path('data.json').read_text())) == json.loads(Path('results.json').read_text())['mean']\\n")
- answer=dict(kind="contribution",title="Synthetic fixture",summary="Infrastructure test only",prior_art="Known arithmetic",limitations="No scientific value; tests protocol only",sources=[dict(url="https://example.org/fixture",path="source.txt",read_scope="synthetic fixture",role="test only")],artifacts=["report.md","data.json","results.json","verify.py"],verification=[["python3","verify.py"]],claim="Fixture mean equals two",increment="fixture",decision_changed="fixture",verification_scope="fixture",followups=[])
+ answer=dict(kind="contribution",title="Synthetic fixture",summary="Infrastructure test only",prior_art="Known arithmetic",limitations="No scientific value; tests protocol only",sources=[dict(url="https://example.org/fixture",path="source.txt",read_scope="synthetic fixture",role="test only")],artifacts=["report.md","data.json","results.json","verify.py"],verification=[["python3","verify.py"]],claim="Fixture mean equals two for "+json.loads(Path("task.json").read_text())["id"],increment="fixture",decision_changed="fixture",verification_scope="fixture",followups=[])
 output.write_text(json.dumps(answer))
 ''')
-        store = Store(root / "run")
-        self.addCleanup(store.close)
-        store.add(task())
+        store = existing or Store(root / "run")
+        if existing is None:
+            self.addCleanup(store.close)
+        store.add(task(key, "Fixture question " + key))
         runner = Runner(store, root, [sys.executable, str(driver), "{output}", mode])
         runner.episode(store.claim())
         return store
+
+    def test_validation_receipts_do_not_inflate_investigation_count(self):
+        store = self.run_fixture("accept")
+        self.run_fixture("accept", store, "control")
+        self.assertEqual(store.status()["verified_records"], 2)
+        self.assertEqual(store.status()["verified_contributions"], 1)
+        data = store.export()
+        self.assertEqual(len(data["investigations"]), 1)
+        self.assertEqual(len(data["contributions"]), 2)
+        self.assertTrue(store.audit()["ok"])
+
+    def test_existing_receipts_need_counting_assessment_and_preserve_history(self):
+        store = self.run_fixture("accept")
+        with store.db:
+            store.db.execute("DELETE FROM investigation_reviews")
+        self.assertEqual(store.status()["verified_records"], 1)
+        self.assertEqual(store.status()["verified_contributions"], 0)
+        self.assertEqual(store.status()["unassessed_records"], 1)
+        assessment = dict(id="corrected-family", question="Corrected question", relation="independent", rationale="Independent audit of old counting")
+        store.assess_investigation("test", assessment)
+        assessment["relation"] = "excluded"
+        assessment["rationale"] = "Later evidence defeats this inference"
+        store.assess_investigation("test", assessment)
+        self.assertEqual(store.status()["verified_contributions"], 0)
+        self.assertEqual(store.db.execute("SELECT count(*) FROM investigation_reviews").fetchone()[0], 2)
+        self.assertEqual(store.status()["verified_records"], 1)
+
+    def test_new_independent_question_can_increment_target(self):
+        store = self.run_fixture("accept")
+        self.run_fixture("new", store, "independent")
+        self.assertEqual(store.status()["verified_records"], 2)
+        self.assertEqual(store.status()["verified_contributions"], 2)
+
+    def test_new_id_cannot_duplicate_existing_investigation_question(self):
+        store = self.run_fixture("accept")
+        with self.assertRaises(ValidationError):
+            store.assess_investigation("test", dict(id="renamed", question=" DOES the fixture PROVE the protocol? ", relation="independent", rationale="Renaming is not a new investigation"))
+        self.assertEqual(store.status()["verified_contributions"], 1)
+
+    def test_failed_investigation_assignment_rolls_back_receipt_acceptance(self):
+        store = self.run_fixture("orphan")
+        self.assertEqual(store.status()["verified_records"], 0)
+        self.assertEqual(store.status()["verified_contributions"], 0)
+        self.assertEqual(store.status()["tasks"], {"pending": 1})
 
     def test_real_subprocess_protocol_accepts_only_after_checks_and_review(self):
         store = self.run_fixture("accept")

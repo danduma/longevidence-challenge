@@ -31,6 +31,7 @@ python3 standalone/loop.py --root /absolute/path/to/research-run audit
 python3 standalone/loop.py --root /absolute/path/to/research-run export
 python3 standalone/loop.py --root /absolute/path/to/research-run stop
 python3 standalone/loop.py --root /absolute/path/to/research-run reopen TASK_ID --reason 'New matched measurements released at SOURCE'
+python3 standalone/loop.py --root /absolute/path/to/research-run assess --file investigation-assessments.json
 ```
 
 The live console reports each completed episode. `research.sqlite` is the state owner. Named events record task selection, worker starts/finishes, verification, rejection, recovery, errors, queue expansion, waiting and target completion. The event sequence provides a resume cursor for another consumer. Short SQLite transactions and WAL separate live status reads from long worker processes; no database transaction remains open during inference.
@@ -57,6 +58,10 @@ One distinct, useful investigation counts once after all of these gates:
 This is **computational verification plus agent review**. It does not prove worldwide novelty, establish biological validation, count as independent experimental replication or confer human acceptance. The human-accepted count stays zero; this minimal runner has no mechanism that awards it.
 
 A well-supported correction or useful negative result can count. Parameter rows, folds, downloads, routine reproductions, generated tasks, generic literature summaries, rejected candidates, infrastructure tests and data-gap cards cannot count. Exact duplicate questions and claims are blocked by SQLite uniqueness constraints; semantic duplication is an explicit reviewer responsibility. There is no perfect automatic novelty detector.
+
+`verified_records` counts accepted computational receipts. `verified_contributions` counts distinct investigations with explicit counting assessments; this is the counter used for the target. A reviewer must assign a stable investigation identity and explain whether a receipt answers an independent question, validates an existing investigation, supersedes earlier evidence or is excluded from the target. Controls, solver repairs, convergence checks and scoring/tuning variants normally remain in their parent investigation. Their receipts and reviews remain visible.
+
+Older receipts are preserved on upgrade and remain uncounted until assessed. Stop the runner before `assess` or manual `reopen`, then restart it with the same run command. Assessment files contain a list of objects with `task_id`, investigation `id`, `question`, `relation` and `rationale`. Corrections append new assessments rather than overwriting old ones. The [first cross-record audit](../research/standalone-2026-11-27/README.md) groups 30 receipts into seven investigations; numerical acceptance alone had overcounted the work.
 
 The audit command checks hashes of accepted evidence. A hash audit establishes integrity, not scientific correctness. Read the scripts, review the assumptions and rerun the recorded commands when reviewing a finding independently.
 

@@ -45,4 +45,6 @@ Recommend the smallest next experiment or controlled comparison that could chang
 
 Keep submission decisions separate from question resolution. Rejecting a claim or an alleged data gate leaves the question open when useful work remains. A missing released cache does not establish an irreducible data gap before feasible public regeneration paths are tested; distinguish missing provenance, inaccessible existing data, unavailable compute and genuinely new measurements.
 
+For automated campaigns, bind counts to stable investigation questions, not accepted task rows. Necessary controls, convergence checks, solver repairs and corrections normally update the same investigation. Preserve their receipts and append superseding assessments. A reviewer agreeing that each local increment is useful does not establish that the increments are independent contributions; inspect the complete dependency chain before promoting a batch count.
+
 For the concrete failures that motivated these rules, read [the case study](references/longevidence-case.md). Use it when choosing baselines, interpreting temperature screens, or deciding whether a source repair has demonstrated impact; it is evidence from one effort, not a universal scientific rule.

@@ -4,6 +4,8 @@ Start with the [skeptical reassessment](reassessment-2026-11-26/README.md), [les
 
 Run the portable [cryopreservation benchmark](cryopreservation/README.md) to reproduce the four central cases without local workspace paths or LLM access. The reference folder contains the extended sweep and interval-comparison results.
 
+The [27 November standalone-run audit](standalone-2026-11-27/README.md) groups the first 30 accepted computational receipts into seven investigations, preserves their reviews, and publishes two [measurement and experiment briefs](standalone-2026-11-27/DATA_NEEDED.md). The target of 100 distinct contributions is still open.
+
 `archive/` retains authored reports, analysis code and derived results from the broader exploratory work. Original reports are historical records: the corrected synthesis controls interpretation, especially the rejected measured-heart inference and the weakened raw protease conclusion. Archived scripts reflect their original research environment and may need input acquisition/path adaptation; they are not represented as a portable one-command suite. Large third-party inputs are retrieved from primary sources rather than relicensed or mirrored. Source URLs/digests are in `source-downloads.json` and individual reports. Original primary papers must also be cited.
 
 No CLI transcripts, credentials, IP hashes, private operational notes, compiled environments or paid-source downloads are included. Public `runs.json` records model/configuration/timing outcomes without machine paths. Those omissions are privacy/runtime exclusions, not hidden scientific acceptance evidence.

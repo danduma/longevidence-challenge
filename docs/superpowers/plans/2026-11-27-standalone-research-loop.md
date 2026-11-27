@@ -28,7 +28,7 @@ No OmniHarness code, configuration, credentials bridge, goal API or process is r
 ## Task 2: Real agent execution and independent review
 
 - [x] Implement configurable producer/reviewer processes, bounded episodes, preserved logs, timeouts and retry states.
-- [x] Implement fresh reproducibility checks, hash-pinned evidence, separate reviewer verdicts, honest target counts and safe restart.
+- [ ] Implement fresh reproducibility checks, hash-pinned evidence, separate reviewer verdicts, honest target counts and safe restart. **Reopened on resume:** numerical receipts pass, but accepted follow-ups need investigation-level counting rather than one count per receipt.
 - [x] Implement validated follow-up queue expansion, explicit data gates, re-open and watch operation.
 
 **Verification:** focused integration tests plus a real direct-provider episode; no mocked success is counted as research.
@@ -43,6 +43,7 @@ No OmniHarness code, configuration, credentials bridge, goal API or process is r
 ## Task 4: Execute toward 100 verified contributions
 
 - [x] Run the standalone coordinator with target 100 and record real outcomes.
+- [ ] Audit accepted records for shared investigations and superseded conclusions; enforce one count per investigation without discarding evidence.
 - [ ] Reach 100 distinct contributions passing evidence, reproducibility and separate review gates.
 - [ ] Verify final ledger and update this checklist with evidence and any remaining gates.
 
@@ -54,7 +55,7 @@ No OmniHarness code, configuration, credentials bridge, goal API or process is r
 - Six source-grounded initial questions; a seventh follow-up was approved by the separate reviewer.
 - Real protease candidate passed fresh computational verification, then received **revise**, not acceptance: its reviewer identified another feasible sequence-informed comparator. The candidate does **not** count. Its evidence and review remain in the runtime ledger.
 - The original first job exposed a shell-network restriction; explicit workspace network access resolved it. A later artifact-directory contract failure was reproduced in a failing test, fixed by hashing individual contained files, and safely retried. Neither failure became a scientific data gate.
-- Current verified contribution count: **0 / 100**. The coordinator is continuing. The 100-contribution and final-ledger gates remain unchecked.
+- Initial publication snapshot: **0 / 100**. On automatic session resume, the detached coordinator remains alive (PID 93735) and has 30 accepted computational receipts, two data gates, one task needing attention and one running task. All 30 receipt manifests pass a fresh integrity audit. Distinct investigation count is under an independent cross-record audit; 30 accepted receipts must not be presented as 30 distinct contributions. The 100-contribution and final-ledger gates remain unchecked.
 - Verification: 25 standalone tests pass; 20 existing API/review tests pass; compilation and diff checks pass. A real earlier protease verifier passed, and a deliberately corrupted result copy failed. Real public export includes the revision history and excludes operational prompts/credential identifiers.
 - No claim of human acceptance, biological validation, 100 completed findings, website deployment or automatic public outreach.
 - First source publication: commit `6e9e495`; [CI run 45913545083](https://github.com/danduma/longevidence-challenge/actions/runs/45913545083) passed the standalone suite, API suite and existing thermal benchmark.

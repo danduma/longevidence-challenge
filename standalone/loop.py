@@ -18,6 +18,7 @@ from urllib.request import Request, urlopen
 from protocol import (ValidationError, RESULT_CONTRACT, REVIEW_CONTRACT,
                       validate_task, validate_result, validate_review,
                       question_key, evidence_manifest, confined)
+from investigations import InvestigationStore
 
 HERE = Path(__file__).resolve().parent
 TERMINAL = {"accepted", "data_gated", "exhausted", "rejected", "needs_attention"}
@@ -89,7 +90,7 @@ class RunnerLock:
         self.file.close()
 
 
-class Store:
+class Store(InvestigationStore):
     def __init__(self, root):
         self.root = Path(root).resolve()
         self.root.mkdir(parents=True, exist_ok=True)
@@ -116,6 +117,7 @@ class Store:
             if column not in columns:
                 self.db.execute(f"ALTER TABLE tasks ADD COLUMN {column} INTEGER NOT NULL DEFAULT 0")
         self.db.commit()
+        self.init_investigations()
 
     def close(self):
         self.db.close()
@@ -198,6 +200,7 @@ class Store:
                             (encoded(record), now(), task_id))
             self.event("contribution.verified", task_id, prev=row[0], next="accepted",
                        reason="reproduction_and_separate_agent_review", human_review=False)
+            self._assess_investigation(task_id, record["review"]["investigation"])
 
     def recover(self):
         # A hard-killed coordinator may leave a provider/check process alive.
@@ -236,7 +239,7 @@ class Store:
 
     def status(self):
         return dict(tasks=dict(self.db.execute("SELECT status,count(*) FROM tasks GROUP BY status")),
-                    verified_contributions=self.db.execute("SELECT count(*) FROM contributions").fetchone()[0],
+                    **self.investigation_counts(),
                     human_accepted_contributions=0,
                     last_event=self.db.execute("SELECT max(seq) FROM events").fetchone()[0] or 0)
 
@@ -259,11 +262,20 @@ class Store:
         contributions = [dict(task_id=r[0], **json.loads(r[1])) for r in self.db.execute("SELECT task_id,record FROM contributions ORDER BY created")]
         data = dict(generated=now(), status=self.status(),
                     meaning="Verified means fresh executable checks plus separate agent review; no human acceptance or novelty guarantee.",
-                    tasks=tasks, contributions=contributions, events=self.events())
+                    tasks=tasks, contributions=contributions,
+                    investigations=self.investigation_summaries(), events=self.events())
         atomic_json(public / "ledger.json", data)
         lines = ["# Standalone research ledger", "", data["meaning"], "",
-                 f"Verified contributions: **{len(contributions)}**. Target: **100**. Human accepted: **0**.", "",
-                 "## Contributions", ""]
+                 f"Verified investigations: **{data['status']['verified_contributions']} / 100**. Accepted computational receipts: **{len(contributions)}**. Human accepted: **0**.", "",
+                 "Controls, refinements and superseded results remain visible; they do not add investigation counts.", "",
+                 "## Investigations", ""]
+        for investigation in data["investigations"]:
+            lines += [f"### {investigation['id']}", "", investigation["question"], "",
+                      f"Counted: {investigation['counted']}. Latest receipt: `{investigation['latest_receipt']}`.", ""]
+            for member in investigation["members"]:
+                lines += [f"- `{member['task_id']}` ({member['relation']}): {member['rationale']}"]
+            lines += [""]
+        lines += ["## Computational receipts", ""]
         for record in contributions:
             c = record["contribution"]
             lines += [f"### {record['task_id']}: {c['title']}", "", c["claim"], "",
@@ -553,7 +565,7 @@ You may approve none. This is task selection, not completed research or a contri
         with RunnerLock(self.store.root):
             atomic_json(self.store.root / "runner.json", dict(pid=os.getpid(), birth=process_birth(os.getpid()), started=now()))
             self.store.recover()
-            source_digest = hashlib.sha256(Path(__file__).read_bytes() + (HERE / "protocol.py").read_bytes()).hexdigest()
+            source_digest = hashlib.sha256(b"".join((HERE / name).read_bytes() for name in ("loop.py", "protocol.py", "investigations.py"))).hexdigest()
             self.store.note("runner.started", target=target, watch=watch, pid=os.getpid(), source_sha256=source_digest)
             while self.store.status()["verified_contributions"] < target:
                 if max_episodes is not None and episodes >= max_episodes:
@@ -607,6 +619,8 @@ def main():
     reopen = sub.add_parser("reopen")
     reopen.add_argument("task_id")
     reopen.add_argument("--reason", required=True)
+    assess = sub.add_parser("assess")
+    assess.add_argument("--file", type=Path, required=True, help="JSON list of task_id plus investigation assessment fields")
     args = parser.parse_args()
     store = Store(args.root)
     def interrupted(_signum, _frame):
@@ -645,6 +659,15 @@ def main():
         elif args.action == "reopen":
             with RunnerLock(store.root):
                 store.reopen(args.task_id, args.reason)
+                result = store.export()["status"]
+        elif args.action == "assess":
+            with RunnerLock(store.root):
+                assessments = json.loads(args.file.read_text())
+                if not isinstance(assessments, list):
+                    raise ValidationError("Assessments must be a list")
+                with store.db:
+                    for assessment in assessments:
+                        store._assess_investigation(assessment["task_id"], assessment)
                 result = store.export()["status"]
         else:
             result = store.export()["status"]

@@ -1,0 +1,121 @@
+{
+  "empirical_raw_workbook_check": {
+    "one_L_MAE_s": 0.867307187166618,
+    "best_tested_constant_MAE_s": 1.9728762901041426,
+    "two_L_windows_s": [
+      8.369565217391303,
+      11.578947368421053,
+      11.986270022883295,
+      11.196687370600413,
+      13.126984126984125,
+      14.333333333333334,
+      16.844444444444445
+    ]
+  },
+  "latest_trace_reaggregation": [
+    {
+      "family": "cube",
+      "level": 0,
+      "all": {
+        "graded_minus_strict_kPa": [
+          150.43025916506667,
+          152.84042329753083
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          -8.313721216553859,
+          -8.536495138213468
+        ]
+      },
+      "interior": {
+        "graded_minus_strict_kPa": [
+          -1.5145469714789215,
+          -1.195637582921563
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          1.4305666107793513,
+          1.6463730630857754
+        ]
+      }
+    },
+    {
+      "family": "regular",
+      "level": 0,
+      "all": {
+        "graded_minus_strict_kPa": [
+          8.658638698494542,
+          6.220905196257263
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          1.02557718826597,
+          1.1325927854491056
+        ]
+      },
+      "interior": {
+        "graded_minus_strict_kPa": [
+          8.658638698494542,
+          6.220905196257263
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          1.02557718826597,
+          1.1325927854491056
+        ]
+      }
+    },
+    {
+      "family": "cube",
+      "level": 1,
+      "all": {
+        "graded_minus_strict_kPa": [
+          84.78647706982383,
+          79.50072740731775
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          -5.383418922418969,
+          -3.7038493869131344
+        ]
+      },
+      "interior": {
+        "graded_minus_strict_kPa": [
+          -3.039149242523763,
+          -3.258976438276477
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          -0.3072197702340418,
+          -0.44837924610192204
+        ]
+      }
+    },
+    {
+      "family": "regular",
+      "level": 1,
+      "all": {
+        "graded_minus_strict_kPa": [
+          -2.2935735029927855,
+          -2.1064572434552247
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          0.19084924642061196,
+          0.11168786647522211
+        ]
+      },
+      "interior": {
+        "graded_minus_strict_kPa": [
+          -2.2935735029927855,
+          -2.1064572434552247
+        ],
+        "tuned_lead_over_runnerup_kPa": [
+          0.19084924642061196,
+          0.11168786647522211
+        ]
+      }
+    }
+  ],
+  "strict_myocardium_initial_source_capacity_rate_C_min": 52.60605180421059,
+  "cube_map_corner_J_times_radial_vector": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "mask_normalization_offset_kPa": 0.13049481201424756,
+  "scope": "Cheap source/aggregation/analytic checks only; no new thermal or equilibrium solves."
+}
