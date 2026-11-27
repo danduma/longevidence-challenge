@@ -5298,5 +5298,183 @@
       "verify.py": "e573277485644634305f54865661e9e1ef4be067cc85c54cea21a645bec39549"
     },
     "human_review": false
+  },
+  {
+    "task_id": "protease-reporter-calibration-independent-benchmark-inventory",
+    "created": "2026-11-27T07:18:01.436283+00:00",
+    "job": "jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000",
+    "contribution": {
+      "artifacts": [
+        "report.md",
+        "analysis.py",
+        "verify.py",
+        "results.json"
+      ],
+      "claim": "ACS Figshare item 29104880 v1 contains four biochemical enzyme\u2013substrate pairs matching PERRC Table 1. Both noncanonical pairs vary P1, giving zero trainable held-position folds. The replayed same-concentration RFU slope ratio varies with concentration.",
+      "decision_changed": "Exclude this PERRC release from the independent multi-position validation benchmark and retain it for endpoint-specific P1 descriptive analysis.",
+      "followups": [],
+      "increment": "Reconciles every workbook pair with Table 1 and establishes that even a complete recognition-site join leaves the training-only restricted context baseline without noncanonical training positions. This is the bounded revision of the existing audit.",
+      "kind": "contribution",
+      "limitations": "Reporter and biochemical data can be linked at the recognition-site level. Full construct identity across assays is unestablished. The RFU slope replay illustrates concentration sensitivity, leaving quantitative endpoint equivalence unresolved. The Yi supplement was inaccessible and the public search was bounded. Calibration performance, human acceptance and biological validation were unevaluated.",
+      "prior_art": "Checked the ledger, C10 reassessment, ProtRec normalization code, PERRC manuscript and supplements, and the earlier Kostallas, Yi, S\u00e1nchez, Denard and Li evidence and indexed ResearchGate discussion. The PERRC workbook-to-Table 1 eligibility audit adds release-specific evidence distinct from the within-ProtRec calibration and the other release inventories. This revision supersedes attempt 3 in the same audit family.",
+      "sources": [
+        {
+          "path": "sources/perrc.xml",
+          "read_scope": "PMC12301959.1 manuscript XML, relevant Results, Methods, Figure 5 and Table 1 read; checked 2026-11-27",
+          "role": "Reporter normalization and published kinetic pair keys",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12301959/"
+        },
+        {
+          "path": "sources/perrc-index.json",
+          "read_scope": "Publisher supplement listing, four items; checked 2026-11-27",
+          "role": "Scope of the PERRC publisher deposit",
+          "url": "https://api.figshare.com/v2/articles?resource_doi=10.1021/acssynbio.5c00154"
+        },
+        {
+          "path": "sources/sb5c00154_si_001.xlsx",
+          "read_scope": "Figshare v1, CC BY-NC 4.0. Complete workbook, sheet and fields inspected; checked 2026-11-27",
+          "role": "Reporter plate-reader export",
+          "url": "https://doi.org/10.1021/acssynbio.5c00154.s001"
+        },
+        {
+          "path": "sources/sb5c00154_si_002.xlsx",
+          "read_scope": "ACS Figshare item 29104880 v1, complete workbook, CC BY-NC 4.0, checked 2026-11-27. SHA-256 658c250e8142897f23595dba8b651a69f0234ce920bae1b96e2ca859b7bf3ddb.",
+          "role": "Independent early RFU slope replay and coverage",
+          "url": "https://doi.org/10.1021/acssynbio.5c00154.s002"
+        },
+        {
+          "path": "sources/sb5c00154_si_003.xlsx",
+          "read_scope": "Figshare v1, CC BY-NC 4.0. Complete workbook, sheet and fields inspected; checked 2026-11-27",
+          "role": "Reporter plate-reader export",
+          "url": "https://doi.org/10.1021/acssynbio.5c00154.s003"
+        },
+        {
+          "path": "sources/sb5c00154_si_004.pdf",
+          "read_scope": "Figshare v1, CC BY-NC 4.0. Complete supplement, figure captions and inventory read; checked 2026-11-27",
+          "role": "Labels biochemical and reporter panels",
+          "url": "https://doi.org/10.1021/acssynbio.5c00154.s004"
+        },
+        {
+          "path": "sources/sb0c00452_si_001.pdf",
+          "read_scope": "Publisher supplement, Figures S4\u2013S6 captions and inventory, CC BY-NC 4.0; checked 2026-11-27",
+          "role": "Canonical-only biochemical site in the Denard YESS 2.0 release",
+          "url": "https://doi.org/10.1021/acssynbio.0c00452.s001"
+        },
+        {
+          "path": "sources/cb6b00547_si_001.pdf",
+          "read_scope": "Publisher supplement, Figures S4\u2013S6 captions and inventory, CC BY-NC 4.0; checked 2026-11-27",
+          "role": "Multi-position reporter evidence and separate Kex2 biochemistry",
+          "url": "https://doi.org/10.1021/acschembio.6b00547.s001"
+        },
+        {
+          "path": "sources/yi-publisher-response",
+          "read_scope": "HTTP 403 response on publisher route, supplement inaccessible; checked 2026-11-27",
+          "role": "Access limit only",
+          "url": "https://www.pnas.org/doi/suppl/10.1073/pnas.1215994110/suppl_file/pnas.1215994110_SI.pdf"
+        },
+        {
+          "path": "sources/forum-notes.txt",
+          "read_scope": "Indexed specialist thread, paraphrase; checked 2026-11-27",
+          "role": "Qualitative context only",
+          "url": "https://www.researchgate.net/post/I_have_a_protein_tagged_with_MBP_maltose_binding_proteinwith_a_TEV_cleavage_site_between_MBP_and_prot_How_to_improve_the_cleavage_of_the_tag"
+        },
+        {
+          "path": "sources/CFXassay_LH.R",
+          "read_scope": "Pinned R code from prior snapshot, normalization section; checked 2026-11-27",
+          "role": "Reference biochemical endpoint",
+          "url": "https://github.com/JeschekLab/ProtRec/blob/8b9a1865108fa44c3e0a24ac20a59754222847ca/2%20Data%20analysis%20(Lukas%20Huber)/CFX%20in%20vitro%20assay/CFXassay_LH.R"
+        },
+        {
+          "path": "sources/kostallas-fig4.png",
+          "read_scope": "2011 published figure image from prior snapshot; checked 2026-11-27",
+          "role": "Conversion time-course coverage",
+          "url": "https://doi.org/10.1371/journal.pone.0016136.g004"
+        },
+        {
+          "path": "sources/kostallas-table1.png",
+          "read_scope": "2011 published table image from prior snapshot; checked 2026-11-27",
+          "role": "Reporter coverage",
+          "url": "https://doi.org/10.1371/journal.pone.0016136.t001"
+        },
+        {
+          "path": "sources/sanchez-publisher-si1.pdf",
+          "read_scope": "2020 publisher supplement PDF, relevant captions and inventory read; checked 2026-11-27",
+          "role": "Cross-check of supplement scope",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-019-0665-7/MediaObjects/41592_2019_665_MOESM1_ESM.pdf"
+        },
+        {
+          "path": "sources/yi-table1-extracted.txt",
+          "read_scope": "2013 full article PDF, Results and Table 1 read, local PDFKit table extract; checked 2026-11-27",
+          "role": "Kinetics-side position bound and qualitative FACS overlap in article",
+          "url": "https://iverson.cm.utexas.edu/courses/310M/Handouts/136.%20YESS%20protease%20engineering%20system%20copy.pdf"
+        }
+      ],
+      "summary": "The four biochemical pairs in the PERRC workbook match manuscript Table 1. Both noncanonical pairs vary P1, leaving zero trainable held-position folds. For the parent, the same-concentration noncanonical-to-canonical RFU slope ratio is 1.3934 at 50 \u00b5M and 0.5602 at 25 \u00b5M.",
+      "title": "PERRC\u2019s released biochemical panel cannot support held-position validation",
+      "verification": [
+        [
+          "python3",
+          "verify.py"
+        ]
+      ],
+      "verification_scope": "The independent verifier checks the workbook SHA-256, reconciles the workbook with manuscript Table 1, enumerates held-position coverage, and recomputes the RFU slope ratios using exact arithmetic. The verifier and the analysis replay ran successfully in this job and the replay matched results.json."
+    },
+    "review": {
+      "approved_followups": [],
+      "checks": {
+        "distinct": true,
+        "prior_art_checked": true,
+        "reproducible": true,
+        "scope_honest": true,
+        "source_supported": true,
+        "useful": true
+      },
+      "data_gate_valid": false,
+      "investigation": {
+        "id": "protease-independent-benchmark-eligibility",
+        "question": "Can the released PERRC reporter and biochemical panels support an external held-position calibration benchmark with a comparator fitted only on training positions?",
+        "rationale": "The ledger\u2019s counted investigation asks whether reporter AUC improves prediction within ProtRec. This audit addresses a separate dataset and decision by establishing that PERRC lacks the positional coverage required for that external comparison. It replaces attempt 3\u2019s rejected data-gap classification within the same eligibility audit family. The historical receipt should be preserved, and the resubmission adds only one investigation count.",
+        "relation": "independent"
+      },
+      "reason": "Accept the bounded PERRC release audit as the first accepted receipt for this benchmark eligibility question. The workbook checksum matched, the read-only verifier passed, and a fresh analysis replay matched the saved results. The four workbook pairs reconcile with manuscript Table 1. Both noncanonical pairs vary P1, so holding out P1 leaves zero noncanonical training positions even if every reporter pair can be joined. The relevant comparator is the training-only restricted context fit. The reassessment\u2019s stronger same-motif comparator requires training outcomes for the test motifs, which are unavailable in this split. The result supports excluding this release from multi-position validation. External calibration performance, human review, and biological validation remain unestablished.",
+      "strongest_objection": "The scripts and numerical outputs are byte-for-byte identical to attempt 3. This submission corrects the classification of that previously unaccepted audit and warrants a single receipt for the underlying work. Its coverage bound applies to the inspected release. The Yi supplement remains inaccessible, full reporter\u2013FRET construct identity is unresolved, and the concentration-dependent fluorescence slopes do not establish equivalence to ProtRec\u2019s normalized initial-rate endpoint. The broader data gate remains open.",
+      "verdict": "accept"
+    },
+    "verification": [
+      {
+        "command": [
+          "python3",
+          "verify.py"
+        ],
+        "log": "verification-0.log",
+        "returncode": 0
+      }
+    ],
+    "manifest": {
+      "analysis.py": "9a14f9ddfcd0232237f50a1e9e505dd8e5c14fc629e667a445a634d80d10e769",
+      "report.md": "a2e71446b8b0be61c05e8f205ed2a5bfd8558f125cb631549288a8aefce3ebca",
+      "results.json": "f090ab1413bd5f4c5d75b3031f52a09aae181482eefcd73ca0e33594cb0ae118",
+      "review.json": "d0d59c2b5ba0b6203a36f84bbeac2067d8c06a05447ba5bde0fa6c7f47d4e792",
+      "sources/CFXassay_LH.R": "aa2f72d8bd33b90c46ed158d01f6229c2a87cc34ebb006c37589a5dd9181e8a2",
+      "sources/cb6b00547_si_001.pdf": "748b999af9ebe711e53e90221608d423a0c800faa23f3658242440abd32fdbe6",
+      "sources/forum-notes.txt": "8a14ee1d54d948e8120b9e53bcb707ddf5ac24d7a5c091df421a5129524d98e7",
+      "sources/kostallas-fig4.png": "9e904a718fb224807ec884a97153d079a3666655ab0763d642b17f5b904b36fc",
+      "sources/kostallas-table1.png": "e8b3863672d28f78283b4e5f26b5bd6a5369cac3d5364c97b88243218ce3a276",
+      "sources/perrc-index.json": "108bb4d704ea5533595a292eba2e157e4bd1faed2cfe7457a9e9f01d83d280bb",
+      "sources/perrc.xml": "679b7f40b0657847be6cb789a74a08c98e2783a9ad03b8a74f6bab20f475d41f",
+      "sources/sanchez-publisher-si1.pdf": "61b6fa9cb7f7927d27caa652ed6c41803fd9442e298d6f6915794ac2893a83c7",
+      "sources/sb0c00452_si_001.pdf": "14c51cae11bfcd069d42bea76288a697fd0eea0bd17edd32662dcf86f13c8ced",
+      "sources/sb5c00154_si_001.xlsx": "061969c0181cbf979a37966688591f77f8a7d1afb320f4a7d0755ceb15bdea81",
+      "sources/sb5c00154_si_002.xlsx": "658c250e8142897f23595dba8b651a69f0234ce920bae1b96e2ca859b7bf3ddb",
+      "sources/sb5c00154_si_003.xlsx": "0760494939e0775a60061eab60efe5c69bdb62e542b96820612872b7d89d7b00",
+      "sources/sb5c00154_si_004.pdf": "fe7df0ca847563126b41f344987bd203b23ef599349817c157a5d87a4e89b9db",
+      "sources/yi-publisher-response": "6f55c127626e63a58e5c4f4e70900bef02f7de6d0b64d1da0aa1e122ed700e0b",
+      "sources/yi-table1-extracted.txt": "fd1bc8e9ffab13156bb73aeea74c131401cf8c93ec6b51493ff204bbed7959c2",
+      "submission.json": "640a2246e78c4cf55ab824d06389291d0e4edae855139c799c3bcd636feae747",
+      "task.json": "69774203bf861744d7e922ceded773504b7035ea2ffe8ad6e3cc53d669dc8d91",
+      "verification-0.log": "64084070cc04d31fdc98597eb04fd6966e4c4471d5c2c31c2128946ceba2a612",
+      "verify.py": "179231d7a81b2d0113ef270eca0a0040cfe1a6b9cde0e3ad94d58f98d39cdd61"
+    },
+    "human_review": false
   }
 ]

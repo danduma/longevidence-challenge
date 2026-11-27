@@ -411,6 +411,8 @@ research and computational work. Existing C01-C10 findings are NOT new contribut
 Check primary/code evidence and relevant specialist forums (not just Reddit). Search logs
 and gap cards are not discoveries. Compare the strongest feasible baseline. State a
 distinct useful increment; a null result can be useful, a routine rerun is not a new contribution.
+Useful new controls or solver checks may be accepted as computational receipts within an
+existing investigation. They do not add a contribution count; do not invent a new investigation for them.
 Do not split one question by rows, thresholds, folds, datasets or parameter values to inflate counts.
 Write portable scripts, cached permitted inputs, results and a humane report. Avoid private paths
 in artifacts. A fresh verifier must independently recompute the decisive result, assert it and

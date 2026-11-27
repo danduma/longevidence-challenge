@@ -298,5 +298,15 @@
     "audit_source": "audits/cryo/assessment.json",
     "supported_scope": "On matched support, filtering old fields and remeshing yield different coarse orders; regular-map refinement still reverses graded/strict rank.",
     "unresolved_objection": "Mesh sizes, phase labels, projected temperature and center Maxwell memory change together. Minimum tuned-uniform smooth lead 0.112 kPa is not a converged advantage."
+  },
+  {
+    "task_id": "protease-reporter-calibration-independent-benchmark-inventory",
+    "id": "protease-independent-benchmark-eligibility",
+    "question": "Can the released PERRC reporter and biochemical panels support an external held-position calibration benchmark with a comparator fitted only on training positions?",
+    "rationale": "The ledger\u2019s counted investigation asks whether reporter AUC improves prediction within ProtRec. This audit addresses a separate dataset and decision by establishing that PERRC lacks the positional coverage required for that external comparison. It replaces attempt 3\u2019s rejected data-gap classification within the same eligibility audit family. The historical receipt should be preserved, and the resubmission adds only one investigation count.",
+    "relation": "independent",
+    "audit_source": "jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/PUBLIC_STATUS.md",
+    "supported_scope": "ACS Figshare item 29104880 v1 contains four biochemical enzyme\u2013substrate pairs matching PERRC Table 1. Both noncanonical pairs vary P1, giving zero trainable held-position folds. The replayed same-concentration RFU slope ratio varies with concentration.",
+    "unresolved_objection": "The scripts and numerical outputs are byte-for-byte identical to attempt 3. This submission corrects the classification of that previously unaccepted audit and warrants a single receipt for the underlying work. Its coverage bound applies to the inspected release. The Yi supplement remains inaccessible, full reporter\u2013FRET construct identity is unresolved, and the concentration-dependent fluorescence slopes do not establish equivalence to ProtRec\u2019s normalized initial-rate endpoint. The broader data gate remains open."
   }
 ]

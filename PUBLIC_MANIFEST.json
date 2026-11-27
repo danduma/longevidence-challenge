@@ -61,7 +61,7 @@
   },
   {
     "file": "docs/superpowers/plans/2026-11-27-standalone-research-loop.md",
-    "sha256": "82ddd3d6b5d8098efecf66c282a63291c9c881bdad8535f470dc2cf0e1e29cf4"
+    "sha256": "a04a914d0c7bc598a615f6a54f993dcea0505df6634662596d98a7695e8d10b8"
   },
   {
     "file": "research/FINDINGS.md",
@@ -4833,7 +4833,7 @@
   },
   {
     "file": "research/standalone-2026-11-27/README.md",
-    "sha256": "b5a285aec27b7ff4894dfde765efc29c43a1daf5308b73453591554cc817e8e3"
+    "sha256": "fba88acf535f978e8119269aa172805be72bedc224b398d7b6f250f314f124f5"
   },
   {
     "file": "research/standalone-2026-11-27/audits/cryo/assessment.json",
@@ -4877,11 +4877,1035 @@
   },
   {
     "file": "research/standalone-2026-11-27/investigation-assessments.json",
-    "sha256": "477f35ebdb2b43476f386b8221765035807dc9b5250606753ab06645bd3712e2"
+    "sha256": "5e713e7c4462a325d2f2a67d476911d69b272b04ae6babd87fe1ace8a39d9df9"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/PUBLIC_FILES.json",
+    "sha256": "69898cd50b889eddbfed59929f6b68bf9a73dbe69064a2237fc3b034f98977c2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/PUBLIC_STATUS.md",
+    "sha256": "923c41b3224a8378126cf0a77fdf6e15edbe61a73d30ec90446ce1bdb99a9c17"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/analysis.py",
+    "sha256": "7819de35a537b3ea01cf5a5bbd80ce09d530888ab1fda39f31ca5a566e7e3d4d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/report.md",
+    "sha256": "f5d65397d56e8fa52fbd05295e939d685b79831ed8390b350d5c66e88b40cb08"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/verify.py",
+    "sha256": "9a39f4f63061f2dd7ab8622c87b7f79d07510b3f9c906b2c9c5c37696300ed34"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-cp-only-window-explanation-1-1795749771865661000/workbook.py",
+    "sha256": "d41d2e146d9bb06c85dc68c7ec8704d9a331b680aace54360f7ad03eb26924fe"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/PUBLIC_FILES.json",
+    "sha256": "665e2bf76ab3a7de1b523c71ea0103e266a98cafe5b678bade6bc0afc89575af"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/PUBLIC_STATUS.md",
+    "sha256": "2b005ee95a913c857489ccedb4ed64edb593c29141c31e5542582dc3c18cf523"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/analysis.py",
+    "sha256": "c72edd185710e640939f47acdbe612514f93599dc5a524d84b02f6f86c3c0ba3"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/report.md",
+    "sha256": "3d7ae679820df4ec7ce1d19cc257db80d544dc88395242b48d865dcd5bb5c45a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/verify.py",
+    "sha256": "696426b38c10f03691b10f3fc61b11f5ca3a6da33c413db338eb8f57c8925cc9"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-emg308-equal-loading-window-transfer-2-1795745878994968000/workbook.py",
+    "sha256": "d41d2e146d9bb06c85dc68c7ec8704d9a331b680aace54360f7ad03eb26924fe"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/PUBLIC_FILES.json",
+    "sha256": "8bf92ff1421349cd3efd058e7c3b290c458ccf32a4e957e452efb828b67be993"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/PUBLIC_STATUS.md",
+    "sha256": "29f8fa6cb6c7b561fff286dee4017f1ca03a085aaba6d0f2e48cc1eb680dc06e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/analysis.py",
+    "sha256": "0c49ecce36cdcea270f02f00e464f3477d116c89aa725e7f05ace30b605ae9f7"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/check_claim.py",
+    "sha256": "55aaa377ab18218109d8fb83be6cfe8cf43e1021433b2fab5623ab18968cf6bd"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/coupled.py",
+    "sha256": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/fitted.py",
+    "sha256": "d17f5c3883eef061ec38828a045c66a3e152c82dcd394e76a690b9c67833350e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/heat_cache.py",
+    "sha256": "f647e5135e8464eefa5bc166d5c6a4d90461a6dd9addc85ce86fbdd3f610a0da"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/mechanics.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/report.md",
+    "sha256": "41dddbb64f109e02aa9f2d440334b818ae8d226208909750cab1b7e68acb07ea"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/thermal_graph.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/verify.py",
+    "sha256": "be21f97cf855df94462a1593799af3434a3104dc834d43670350697b017e8c5b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-common-physical-stress-sampling-1-1795759119436103000/verify.sh",
+    "sha256": "627e942383ddc0fd9c1aef1e8c74b8da83c91f68c7331779c30806bed6fff48c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/PUBLIC_FILES.json",
+    "sha256": "338a1ef6438170011ce32d284bf34ecf76206b6d63aed6b6debaa094d42a0ce5"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/PUBLIC_STATUS.md",
+    "sha256": "4f5c991c6047b422ffe4a3cd3bf257d929612ea712e6b4a105d18afbf6e6cace"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/analysis.py",
+    "sha256": "19235807af02b2bd78e8320b1d731a5a0455503c472cea01a84babc88110eb9b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/coupled.py",
+    "sha256": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/fitted.py",
+    "sha256": "d17f5c3883eef061ec38828a045c66a3e152c82dcd394e76a690b9c67833350e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/heat_cache.py",
+    "sha256": "f647e5135e8464eefa5bc166d5c6a4d90461a6dd9addc85ce86fbdd3f610a0da"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/inherited.py",
+    "sha256": "be92cdcc2ea7d7785f1b7dd00dfa6f69944174ea2896576c80a1b33518dd1d3d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/mechanics.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/regular.py",
+    "sha256": "77a21c2365718e6e638b5656ab671fcf48ca1cbd08b8e6d0ec0ee5fde5455421"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/report.md",
+    "sha256": "cd1d198ca3f60c88100d862515733b7d846952ea96fd2de163e88b2976cec72b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/run_verification.py",
+    "sha256": "177484f4422a9da09ec5288e7f76bf2f54047c14e49d073e81b991615b62515d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/summarize_results.py",
+    "sha256": "d5197c3d6485a5715ab4e0d5035d80bc6f6d8e0fb22447c406f0ccfc5b79da5e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/thermal_graph.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fitted-map-conditioning-controlled-rescore-2-1795760595654922000/verify.py",
+    "sha256": "e573277485644634305f54865661e9e1ef4be067cc85c54cea21a645bec39549"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/PUBLIC_FILES.json",
+    "sha256": "d6357d05d9bc41e610806bc41778d6f86f4b99f136d5a59aefa127b95de316de"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/PUBLIC_STATUS.md",
+    "sha256": "9e90c0236d89d78cbb5d1de7e19afdca05122d93b0537a24d81627650c682a4a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/analysis.py",
+    "sha256": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/baseline.py",
+    "sha256": "3ca98e95100a869b32bacd209d3d46bed7eb7c359b2c2267420580368111e58b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/check_masks.py",
+    "sha256": "2a71a2cf23504838f1cc8e610c2c782d3ecd68fcbd9c84ba83c2fed0d7a327c9"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/mechanics.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/report.md",
+    "sha256": "c5eba4242d78939ad3c846fe6e24e88573981e50b6cff2e25f5c348633806d04"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/thermal_graph.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/verify.py",
+    "sha256": "7e93ef67d63124e4df3acb28ac9f2f967898ef1ff319f208ba01c989b9f6ea3a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-interface-coupled-stress-event-1-1795754785389980000/verify.sh",
+    "sha256": "9350465800c470936e56bffbffcb4cc7b21242cfec1274aef5a841f8068e13cc"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/PUBLIC_FILES.json",
+    "sha256": "0c3ef84afe35edabecd8d2d4cdd68d291c57bd29e2b012e38310ce90cdd75d4b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/PUBLIC_STATUS.md",
+    "sha256": "1b9f14dae523b9b3746601d62ce8cb128dd5add375e23f56432b5d6227fc3e7c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/analysis.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/report.md",
+    "sha256": "079bfc3de6bf34727ea4cb3e05480fb8aff3e8711ac73ccccb14216719666281"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/verify.py",
+    "sha256": "fe6b92b516476a079d220ddf7e9193e0213d52f9b23066272ffee2ca5f9451dd"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/verify.sh",
+    "sha256": "468276836c318e693dcecef3ea036c7763aea28cf7dc960fc510119698330024"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-fixed-shape-interface-volume-check-2-1795753667837133000/verify_matched.py",
+    "sha256": "adcc61c451fd57611730ac0e6304243a95ca4597fe44c18ad3815aaddfc11a52"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/PUBLIC_FILES.json",
+    "sha256": "5a2d760664794400f4b3540f44b1718eff151cd3b30ac62f8f17a7a7684374d4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/PUBLIC_STATUS.md",
+    "sha256": "bbd5444ca1fe13cc9acf84160c938eb9c5b8ac846dbd865c34e57bca430710bf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/analysis.py",
+    "sha256": "8abe50af21d6fd6f6a33094023ca7bc4017f76d127578d0c41feab8ed6536d17"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/lattice.py",
+    "sha256": "0818ff9a8aa421b448e29565abdac6141476dd23e7dd24ad1a193fa6e199502e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/report.md",
+    "sha256": "3367aa3513934edea9005fd18c0091e80e421c1d0073806f03b6edf2f4baaa23"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/verify.py",
+    "sha256": "56b2804b793c8d20067fc8ab3e7e126e6a29bd26c927390b8b2c610085c7f5ea"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-heart-wall-contact-continuous-gap-2-1795751514092085000/verify.sh",
+    "sha256": "0774532ebe42d765da3ccb201c65aedb98f402f7983da9abcc83b7906de80b08"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/PUBLIC_FILES.json",
+    "sha256": "8ef4c5b38ca27da3a36ba161656ad876754983b7ebcd32a25a0590b862b74199"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/PUBLIC_STATUS.md",
+    "sha256": "b055a4f04c7eb9f56c402d6fd41645e3a9baaa08841dde5d50ad1f31ffe584b1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/analysis.py",
+    "sha256": "6a47a2def657af105eed3843ed102f280b8966c54c2fba10b029c5db4e22208c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/coupled.py",
+    "sha256": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/heat_cache.py",
+    "sha256": "f647e5135e8464eefa5bc166d5c6a4d90461a6dd9addc85ce86fbdd3f610a0da"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/mechanics.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/report.md",
+    "sha256": "e1cd8037a9120dda78558940685e59a5fdbeeede833b993eb7ff7c4e4e5af881"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/thermal_graph.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/verify.py",
+    "sha256": "0e9b1e9480700180f86e1a6217b1a29c172e85e38eddcbdb9c94cab2b2a412ac"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-interface-fitted-mechanics-paired-stress-1-1795758181811175000/verify.sh",
+    "sha256": "78b4493bcb7dc1640349bb14c6200750a48ac4c4a56fd6891b4c4c46ca3d3693"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/PUBLIC_FILES.json",
+    "sha256": "48451730b5d718ff0c265ea5a24d918065c0b5fe64f972fe9ecb9348edbdf7d4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/PUBLIC_STATUS.md",
+    "sha256": "242174d44a5a83085c863bf18a51990eca2695b96960fef14885bc5c492aff7d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/analysis.py",
+    "sha256": "14945f434429cfd69554aecaec3a40a67f3b800d23c0d4d5b8b78e9f95627c24"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/assemble_submission.py",
+    "sha256": "5ff7a714e917351bdd55497e795df6b564231971770443196310a58df47b4b49"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/attribution.md",
+    "sha256": "b913120cd74b2b078765ccaf45cdf771f7ab7cacb29efd6aa521486084fd6b3f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/forward.py",
+    "sha256": "728ee07cd0d7f8abb595f0b9b4e379149c7375afb9285165d0bf2cf2d078ce67"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/report.md",
+    "sha256": "0782a5242ab0955fc340d0d293816bfd0558dd8309ed2c9ae638b342f27101a8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/summarize_results.py",
+    "sha256": "e3c34e70fd24efe26f35cc446aaa9587980f20fa41764d228d14c6e5d27aec3d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/verify.py",
+    "sha256": "ce5d54539dafa388b13ca0547036f7e90b6e843a14f693650186c228e7b29183"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-margin-grid-origin-sensitivity-1-1795747113850646000/verify.sh",
+    "sha256": "ca3cf9fad421aff7bd6ee9b3b35e6d8fbbae5fa616623058e61323a41a3876ae"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/PUBLIC_FILES.json",
+    "sha256": "360b085be03a57479ef355c232edd0091ffa7eca6512fe5ea8dc75d141089633"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/PUBLIC_STATUS.md",
+    "sha256": "a6cb1dc06e3230d0634a851e7a2097176027e89b5daddd3678dfd058db0535ee"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/analysis.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/margin.py",
+    "sha256": "f067e1106d5d3cc97f961d4052b76b988add698d01f7b89f27452635cbbdfda2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/report.md",
+    "sha256": "4d2409fd03a99d6fffaea4c9d04e7a4f75e15fd8348c6f42bda4ffba9fc06bf1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/verify.py",
+    "sha256": "6014a967d09b64673d07a0cbea877a0a2bb3c756e4e04347edc839e067cde123"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-objective-and-endpoint-2-1795740524601560000/verify.sh",
+    "sha256": "90562590c0b89d5bcc11ff5cc81abc9227e939d6bb74769ecc8167c5d6797830"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/PUBLIC_FILES.json",
+    "sha256": "1a3e1de0f66299b5e61002147bc966a8df82591c30637881212cd9ecab03d978"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/PUBLIC_STATUS.md",
+    "sha256": "bde32b9678c6089d8b0430e0b91ebb69e356f31128b7e798603d90a640522e9e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/analysis.py",
+    "sha256": "d4be9c11bd26a54015f2072c6a10f798ae471167edbfbca5e98288177438faef"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/coupled.py",
+    "sha256": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/cut_geometry.py",
+    "sha256": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/evaluate.py",
+    "sha256": "fc6b9f24b6869031a68f2de5fd11e62d1acd58521b5fd48a1e5fccd80a45798d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/gap_model.py",
+    "sha256": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/generate.sh",
+    "sha256": "ab05b66fa58323486924619502dab3a0de94c265f8e30ffe0292240a5640261c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/heat_cache.py",
+    "sha256": "f647e5135e8464eefa5bc166d5c6a4d90461a6dd9addc85ce86fbdd3f610a0da"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/lattice.py",
+    "sha256": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/mechanics.py",
+    "sha256": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/overlap.py",
+    "sha256": "74fadf9057f89e9240ea3f3172eac10152835e766a36776bcb011c6710f8f806"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/report.md",
+    "sha256": "4e5482ab5cad70356845a7555f59bdbddb12aed9822ece530b3a2df2084e439b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/thermal_graph.py",
+    "sha256": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/verify.py",
+    "sha256": "6da06b829ea965dd84b9d8a0b67b9c941617fdf6720ab9d7840cd855f6468ee1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-phase-overlap-transfer-stress-convergence-1-1795756247830605000/verify.sh",
+    "sha256": "da090bdf088b8b4c78bc2bbd294940e65b78f62316af0fd01f5a181a242194c8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/PUBLIC_FILES.json",
+    "sha256": "a2a7419d9383828537d57561d768ae819edc786ed272165ed4a71b7f3be88ef8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/PUBLIC_STATUS.md",
+    "sha256": "5583e8044281dbebe5590d058d6b9c954235798a4fe83f7e3152abb0199a34e1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/analysis.py",
+    "sha256": "728ee07cd0d7f8abb595f0b9b4e379149c7375afb9285165d0bf2cf2d078ce67"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/attribution.md",
+    "sha256": "42431f75c30ce238055b4392db577a83f6038779c49259179618f8a6efd13e6c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/diagnose.py",
+    "sha256": "00e057f8c9aae64c603a2d682776f438f4bcc1bfdf4334f2c2309ba22e417908"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/report.md",
+    "sha256": "068cda7b6da21346a6445397a706a8a03e9b11f3ddb4e288e5903d8880022508"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/requirements.txt",
+    "sha256": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/search.py",
+    "sha256": "3fdac2092ab51f5af8d21bbb6b2d8a760ad6fc692f28d41044e7423894651cd6"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/verify.py",
+    "sha256": "c0b19836286d3e8c24796caa13d2092f2e11be33d6e3bca1e5a936b9898aafe8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/verify.sh",
+    "sha256": "694947dd88fb4c9238fda7895c228e20738e8c0db71ee64bec8c78bc36203050"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/cryo-uniform-robust-margin-1-1795744333604004000/verify_quick.py",
+    "sha256": "e7616f369215a04ea0e6d174c20d6c49d3044b87d420305864e4d71ee086243f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/PUBLIC_FILES.json",
+    "sha256": "5d7ddad11eb30322df3af90e288d0c7516679829d5862ee975c1eb4051340a5a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/PUBLIC_STATUS.md",
+    "sha256": "c74ee13f527f63c0825ad1ad2d6eba6008c390c2eac1479bc04041f238ac9f34"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/analysis.py",
+    "sha256": "61cf977a55534dedb09e66d49c5cb2c9232da531e9c33933b135d6ee7b342999"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/legacy.py",
+    "sha256": "ed1c3b184284b7d4ea09b3d58064590cb9c97404060e0a21ac95b0515d78c783"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/report.md",
+    "sha256": "2af4bf1b76146d244c8ab09ea1c18fdad8feddc180cd486dc049c67e55718431"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-external-position-context-sensitivity-1-1795742732589119000/verify.py",
+    "sha256": "c06cbafacf6b5415d9a2c4e3d7a17467e9f3768f9a0d9de925a7d9ed5125f38d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/PUBLIC_FILES.json",
+    "sha256": "ce77bbd6ba713f8790428d74e1383dc447c02c22c84d1bed5b687759905424e3"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/PUBLIC_STATUS.md",
+    "sha256": "55abeafc26a1be0220b99f216157fc6fa1c7564f1f5d22c42508304f7a2d7bd6"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/analysis.py",
+    "sha256": "9a14f9ddfcd0232237f50a1e9e505dd8e5c14fc629e667a445a634d80d10e769"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/report.md",
+    "sha256": "a2e71446b8b0be61c05e8f205ed2a5bfd8558f125cb631549288a8aefce3ebca"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-reporter-calibration-independent-benchmark-inventory-1-1795763737490782000/verify.py",
+    "sha256": "179231d7a81b2d0113ef270eca0a0040cfe1a6b9cde0e3ad94d58f98d39cdd61"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-unseen-context-baseline-4-1795738443929731000/PUBLIC_FILES.json",
+    "sha256": "86172cadbd47ddcb14d54beba559e42468ef22661c5f35652d6bbcb561d9038c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-unseen-context-baseline-4-1795738443929731000/PUBLIC_STATUS.md",
+    "sha256": "37edc1d397721802e6b61792db34d8559ad72c87b899c2594b0aea95221cfd4d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-unseen-context-baseline-4-1795738443929731000/analysis.py",
+    "sha256": "de38e0da6b07d77e40a1329605dd1583bd7fd32be7bc5261ff49525130111476"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-unseen-context-baseline-4-1795738443929731000/report.md",
+    "sha256": "b02423e48f7803ed9c3fadae12415568aaa8864eb95fd77d665cce70d56df672"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/protease-unseen-context-baseline-4-1795738443929731000/verify.py",
+    "sha256": "0d217de0afff31ccb800e01ec19ebdbf63288f33cd271ec617189b8524c138a2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/PUBLIC_FILES.json",
+    "sha256": "4b9610c329c39a768939b8b4a68640393ac6f3418d0ed68fd3f224d8aa7bde2e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/PUBLIC_STATUS.md",
+    "sha256": "d21c6651df1396547d4185a644117c1559bcdfe393a8291e025d20ca6119cbf4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/analysis.py",
+    "sha256": "29ebd1fccd3bc630f7e2c5770f99c7ae57797f630780d9ca96acd53d6df16d97"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/read_assays.py",
+    "sha256": "ac4bac1d5223cbc53811db9b5ff2e4127dca59c4b34d9ad8eb798df76a68ebbf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/report.md",
+    "sha256": "94d5fca35f61d03ddcc86ff397d17aa48675264e85fe7bf354d3b468e9b8f0ff"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-assay-overlap-ranking-1-1795743601599975000/verify.py",
+    "sha256": "243980310b1e3d241f3bcdd5f126d16ef9215ae36881ad06e64ca721a7eb978b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/PUBLIC_FILES.json",
+    "sha256": "0612d898808817f72f836d8712d52683dac18f44aa0fe4430b22f2748bdccfee"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/PUBLIC_STATUS.md",
+    "sha256": "f30f3e2118c0d98498b1db0302782cf4edca3d9f18391e6251fd15b714111940"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/analysis.py",
+    "sha256": "ee59c0ad8b867019ec6039a4376f3f6ca656d122918030e9f1bb5e14d0cbbc4b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/read_assays.py",
+    "sha256": "ac4bac1d5223cbc53811db9b5ff2e4127dca59c4b34d9ad8eb798df76a68ebbf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/report.md",
+    "sha256": "5a5a523b1d239f8abebffa4ef71c5287601955e2c452e36f8cd1bca34fd031a8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-heldout-label-transfer-2-1795746882869077000/verify.py",
+    "sha256": "da27e5f4d94b809a3415d7096db800ea32d67227c2cf9d274d6860cc41fd0032"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-donor-group-weighting-1-1795752241031637000/PUBLIC_FILES.json",
+    "sha256": "7a18a5ed9015af167836729d01e1d592fd8b603d12ec3b98221c70c287a00389"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-donor-group-weighting-1-1795752241031637000/PUBLIC_STATUS.md",
+    "sha256": "7e520a73340e53db344539afa0e8a92b1e2f26d2a7980c715d5b5f8b4de69fd3"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-donor-group-weighting-1-1795752241031637000/analysis.py",
+    "sha256": "e1fe1bf3d42812eefc6ac2653289ce6eef43f2a3626021baf2e44e6828d20678"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-donor-group-weighting-1-1795752241031637000/report.md",
+    "sha256": "41190c02ad072f6b9ddfc1b61ea6d5e0880e050929c544fa3fd256f8821d16f7"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-donor-group-weighting-1-1795752241031637000/verify.py",
+    "sha256": "8c7a4ee76ee36281d94a0238c8120953500beab6083e059c0ab3d94e0d61ba6d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-group-inner-selection-1-1795757842950459000/PUBLIC_FILES.json",
+    "sha256": "d762065ec35ea5f6485ea6de957f52ac57a738f05da051028b7002777e0c7c6f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-group-inner-selection-1-1795757842950459000/PUBLIC_STATUS.md",
+    "sha256": "ebbc47645f2fd267ba4f33437012d63d8967ba96deeb26e12f34cc3701086c45"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-group-inner-selection-1-1795757842950459000/analysis.py",
+    "sha256": "6eb54369d345f349a271a209f55d06a2b324366c3c1bfe340b40d5e78d0fe262"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-group-inner-selection-1-1795757842950459000/report.md",
+    "sha256": "1d8f226ab3a8511b5a3b76fc7b30bcd464dd97f65068d40de1bed2ad5a4971a4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-group-inner-selection-1-1795757842950459000/verify.py",
+    "sha256": "f991d05b92f32141eaf50430f0da1a8dba813031627502714eaf8da566f67b76"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-heldout-group-scoring-2-1795755970618333000/PUBLIC_FILES.json",
+    "sha256": "b9bf0c7b215b838ea5c33c33c7ab491f946c11854c5fa77292ce226df058be74"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-heldout-group-scoring-2-1795755970618333000/PUBLIC_STATUS.md",
+    "sha256": "e36d2023033156e30bc5904d66b54bc96314cf357e5cb58a8db57477640775bf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-heldout-group-scoring-2-1795755970618333000/analysis.py",
+    "sha256": "714d949481c28c74302a316cfe4a6efe9921146765a2996c0fe9b00eb0769e2f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-heldout-group-scoring-2-1795755970618333000/report.md",
+    "sha256": "5b6f07272de09e24654ac28140b19d84cba34ad338b373af4a396f4c3e1ea74f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-equal-heldout-group-scoring-2-1795755970618333000/verify.py",
+    "sha256": "38847982ee5b41b33404d52887075d8e7687cf9fa40c7a9f256a6c7015ac4c4e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-inner-group-rmse-selection-1-1795758900990224000/PUBLIC_FILES.json",
+    "sha256": "c766ed0be745c1be30ea9e468e3b2ed9b8178a0a4af5b017511e062f2814a651"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-inner-group-rmse-selection-1-1795758900990224000/PUBLIC_STATUS.md",
+    "sha256": "82fcd82397c14067567871bf06f5e3a819692f8490c075a52596a9cdd2d0754f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-inner-group-rmse-selection-1-1795758900990224000/analysis.py",
+    "sha256": "05061cf1372292208ee670eef6d2cefea1c5331a75cb97d63ba6fd08123e3f39"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-inner-group-rmse-selection-1-1795758900990224000/report.md",
+    "sha256": "2ce28e1249c16b7d8db87fc60e5661078d687afb875f2448df428e15e51696fd"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-inner-group-rmse-selection-1-1795758900990224000/verify.py",
+    "sha256": "d56a41f35d9d708d0f7a115158150794de43dcc329069ca64ecac0867ca42df8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/PUBLIC_FILES.json",
+    "sha256": "bdfa0d778e0dac82091e5f8ba0ca6f25fae013eaa9f9c86f4cc92c1b98427375"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/PUBLIC_STATUS.md",
+    "sha256": "22ccd2b4a0385601b82ec7b9af2e91ca8201c949f898fbfb85d7fa382747d5f5"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/analysis.py",
+    "sha256": "cac19859a7ff88216aa32c64868908236ed447716b89d533e7d26c7e0bd18b18"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/donor_knn.py",
+    "sha256": "7499eda2bf0be8b4cd6a33b3be31d901d02dae60a9c88ef46c420ae7654d249a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/report.md",
+    "sha256": "3ad8bca4f7764e564422ca1c34566004bc2f5be9a4e31b789c6da5238547f541"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-kc-trimer-group-balanced-loss-1-1795754474534774000/verify.py",
+    "sha256": "938f5709a070ce39753ba182886264258f752631c1ee129876bd560449a0a8df"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/PUBLIC_FILES.json",
+    "sha256": "c41f81dc23e10d1a27ce17a2dc8cfac1243df5aac7ba8b782676924af3e5cd40"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/PUBLIC_STATUS.md",
+    "sha256": "92e558b6674c8a176dad79fef0a0f4820495a5991de62e732a39685ddfe85581"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/analysis.py",
+    "sha256": "0c6f43e676844248ab6dc33789def0cfe1a118def05fb95d7ed499184e28781e"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/read_assays.py",
+    "sha256": "ac4bac1d5223cbc53811db9b5ff2e4127dca59c4b34d9ad8eb798df76a68ebbf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/report.md",
+    "sha256": "098cfb2353c30b60a1c540fe0cb145a2dde2772afb11fcf1475bda388693c549"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-peer-availability-stress-test-1-1795751846802515000/verify.py",
+    "sha256": "d2e65f352f4419096b5d31113399a968b2e989e30d5406a9ce08494c01a00c62"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/PUBLIC_FILES.json",
+    "sha256": "67306b918dce7165522829d00ef439afcc1db91b0e8d854e5f86e162a7067498"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/PUBLIC_STATUS.md",
+    "sha256": "0d96140c910ea4b67f25cdf6f94f61f3d06a6555b58985145cece09e3f7a3375"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/analysis.py",
+    "sha256": "db8a76d2328c787972b22bc91db28a3413c02579e37539356557c9997096be43"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/read_assays.py",
+    "sha256": "ac4bac1d5223cbc53811db9b5ff2e4127dca59c4b34d9ad8eb798df76a68ebbf"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/report.md",
+    "sha256": "fef79e3f3558ee67645803025ad641e29d3d59d6021bee14b5ee5504c0ef6009"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-reference-peer-shrinkage-label-holdback-1-1795750677704222000/verify.py",
+    "sha256": "156278c149c2dd87c47eb3d3280887d9ea12ba391ef6b60306edaba2609c201a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/PUBLIC_FILES.json",
+    "sha256": "15417b844b33e285966c28a78d877f5d4fda476034a0c7295d275a728f830fa8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/PUBLIC_STATUS.md",
+    "sha256": "03b2604279004b9ff2d49720fc81f443588369f32b198a6fdf40ae042e3c87f1"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/analysis.py",
+    "sha256": "c38a5bab56bd1e079a866595e02e38a6b77649b79c7a371d07d6abb8dd9d2b25"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/report.md",
+    "sha256": "9999f05c05672ed139119652be12f43690c45521ad9e8ce8dfaadcecf08514f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/requirements.txt",
+    "sha256": "78b2d645a4046b05c0b8570b94e2e39184b03c5a619fead4c24d6ec3112cf852"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/verify.py",
+    "sha256": "74a04df40709131875a89cb07c81f957f1f8c2efbc182c138d7ef577a4da9a29"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-repair-feature-path-2-1795738707035958000/verify.sh",
+    "sha256": "2312e2c67daa37d1372f3eb6c8ae0ed547f38d09720e2a9b65f7d87d9adf2bba"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/PUBLIC_FILES.json",
+    "sha256": "14e0cd92ad6e5e796e980b88e1c7ea18e5f5a6ebda8f2c1da62588b3a73ae536"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/PUBLIC_STATUS.md",
+    "sha256": "5de982b38e4e3690bbd236888c29baa33e5c4517bd2230d36a83d9681227f17b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/analysis.py",
+    "sha256": "4f60bdbdba6dd60595d507d74bc4ff2f21f54af30a36c53c96786e38f421fcf6"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/read_assays.py",
+    "sha256": "cb6f0d4683952e9725f32e3ed130a87bd855f00ad44716acfadea49179d42dfb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/report.md",
+    "sha256": "79332bbf0be55948713cba1713cc7e1cd17972e4fe76247238cf0ac583d1795d"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-selection-decision-1-1795738998090854000/verify.py",
+    "sha256": "fb8bd1dbbbd70f7685d68d85686fbeee9da0f297e7af113272843979879131fc"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/PUBLIC_FILES.json",
+    "sha256": "b436ed7d6eeae72150f571fbed7b26d302cbec5f58774ce6e64820e60aa3faa4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/PUBLIC_STATUS.md",
+    "sha256": "e60c1ba312b021595d764b67ed492729581f754db2766ccadac21c9a81667834"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/analysis.py",
+    "sha256": "aa09670120d7b19216bd07004f7f56ab5a76154849859d7dde210c085da257c9"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/independent_helpers.py",
+    "sha256": "ee82270acb0b2946fe2f0c766f8a66c8da312c76460d7f8f59a73e7f7c32231f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/prior_component.py",
+    "sha256": "38697bf5bb6880243bd69fd2ca007a73cf390f8d59802462fd108a6316f1c03f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/prior_grouped.py",
+    "sha256": "4e55f762a28b8f9204b332c07dad312844b916b0e806e7062fce911e9191613c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/report.md",
+    "sha256": "89e79fb3d63c5b5d2facf47a3a81708c97a67110493ee3cda9be7f49844634f2"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/requirements.txt",
+    "sha256": "18edda85a47057bac7920beea5535bd317f09bc8fb17e34037c72cf054121049"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/verify.py",
+    "sha256": "c59a6232116854a38a4c71fb1cb9bcc954470e7962764458c3be71e58bd2e962"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-direct-purge-size-control-1-1795750116063429000/verify.sh",
+    "sha256": "ef59843b64134277acc861edbd2a1b242cf2253a1ac148dda16805e56b0b3f15"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/PUBLIC_FILES.json",
+    "sha256": "2aa738d65a443ddc2d7f0f61bb12b4c8942615f22f200afdaa5f933140ba42c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/PUBLIC_STATUS.md",
+    "sha256": "9aef66341034c8dc0a5706449e2863f441e7dd2f8d87fc15e39df1885b9a2814"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/analysis.py",
+    "sha256": "38697bf5bb6880243bd69fd2ca007a73cf390f8d59802462fd108a6316f1c03f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/prior_grouped.py",
+    "sha256": "4e55f762a28b8f9204b332c07dad312844b916b0e806e7062fce911e9191613c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/protocol.md",
+    "sha256": "18fac876e2b21db7c155406305269c32b44e1dd2cfe83f55fca06e41209dc1ba"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/report.md",
+    "sha256": "b3dd39b066608b6183eb48fb1b6facf3e239c4bb63d2bf954f1bd3cdbada3a31"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/requirements.txt",
+    "sha256": "18edda85a47057bac7920beea5535bd317f09bc8fb17e34037c72cf054121049"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/verify.py",
+    "sha256": "5d2b49dc623050f764fb30c95d4e0a68fa6abbb65e4ff118fcf2ffebe8fd462f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-genus-and-sequence-distance-holdout-1-1795746129959066000/verify.sh",
+    "sha256": "77a5bd33414cb2c765ed121930e51e63b2790cabc5467f8519c0664e8484d102"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-kc-neighbor-transfer-attribution-1-1795751248744098000/PUBLIC_FILES.json",
+    "sha256": "c7f116df59a090931e0401f4c294eedf588b81fe21950263b60a158f28be4648"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-kc-neighbor-transfer-attribution-1-1795751248744098000/PUBLIC_STATUS.md",
+    "sha256": "7e66d051fe1c5d204813eb03418343258e2b2d2459b8f1bafa4d5ef2e68b6961"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-kc-neighbor-transfer-attribution-1-1795751248744098000/analysis.py",
+    "sha256": "0efa9dd552c3b3553201179f81ea7822903730f124b8742e972ec814d1e09b1b"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-kc-neighbor-transfer-attribution-1-1795751248744098000/report.md",
+    "sha256": "4e1dac7c808cc54dad81824d0926581f6f77b49f3bd44511d0dcd3b958ac2077"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-kc-neighbor-transfer-attribution-1-1795751248744098000/verify.py",
+    "sha256": "d1363dd0a8d4cd56dd7938595e743e96ec2af3871361d7c3ba6bd0289c7e396f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/PUBLIC_FILES.json",
+    "sha256": "7381c6c3da098cd59f7be440379b2fdd37668788c3a32251b747663a02922e88"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/PUBLIC_STATUS.md",
+    "sha256": "263c2f585f7cf88ec1ff37d89e1f84ab805da6207e602281d0a35fbe721637c0"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/analysis.py",
+    "sha256": "4e55f762a28b8f9204b332c07dad312844b916b0e806e7062fce911e9191613c"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/protocol.md",
+    "sha256": "6ed9ac288d8d3e18254a543632a0a19d2605496a4b46115931bcc1b8043ac0f8"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/report.md",
+    "sha256": "f288a8018a6beeb202635800dae31ca875abf62a53303291c27d0ae327dd7296"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/requirements.txt",
+    "sha256": "654caee407d1cae96094a011bdb04ae9d0e81c022dcd2b433c77e66417e89179"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/verify.py",
+    "sha256": "c24e1aa0cc9485db360896058ecdd74819bf122b37fc8c754f1d91d8cde17ca9"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubisco-table3-sequence-grouped-replay-1-1795743045206544000/verify.sh",
+    "sha256": "77a5bd33414cb2c765ed121930e51e63b2790cabc5467f8519c0664e8484d102"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubrum-prr1-sequence-lineage-1-1795743997590911000/PUBLIC_FILES.json",
+    "sha256": "493ffd939b5cd2131970ebebf1aacf75b3a0912c77aaee5f1932d4167f73f9f4"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubrum-prr1-sequence-lineage-1-1795743997590911000/PUBLIC_STATUS.md",
+    "sha256": "cf527a2c81e4c6a386946a42989c18576232144c86c192a6c6de7f3cc1f5ae4a"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubrum-prr1-sequence-lineage-1-1795743997590911000/analysis.py",
+    "sha256": "34ef524597e62bb3d5aa77d46dcd1c5a202ff733f6da6044b0f5bcd54ec8d5eb"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubrum-prr1-sequence-lineage-1-1795743997590911000/report.md",
+    "sha256": "5680d76cffba94c00d5d555cd9af3ac1d7913f489e5ce62e717159638bcb628f"
+  },
+  {
+    "file": "research/standalone-2026-11-27/jobs/rubrum-prr1-sequence-lineage-1-1795743997590911000/verify.py",
+    "sha256": "efd776d1e896818ca83c9ad19a5345cd43262794f01fed5263d34922dcedbb1e"
   },
   {
     "file": "research/standalone-2026-11-27/receipts.json",
-    "sha256": "fdd967f551fbc24ef6dd0c30c1d24bc22fd97d9e906c8f480b2686fb12264ad1"
+    "sha256": "56b0f156415d0f55dde1128d7be4d4fe4dcb49b2528a16e81cdb5162ed3be25f"
   },
   {
     "file": "site/README.md",
@@ -5057,7 +6081,7 @@
   },
   {
     "file": "standalone/loop.py",
-    "sha256": "107eee3fca60a240ec773d2a9b69084fe33b457951b5f3641df1b417855665e0"
+    "sha256": "8eeec088df5b6d45aa3f2435586ab30538904561431b292f8da3a3c84041d971"
   },
   {
     "file": "standalone/protocol.py",

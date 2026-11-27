@@ -2,6 +2,8 @@
 
 27 November 2026. This is a dated snapshot, not a live counter. **The first 30 accepted computational records support seven distinct investigations under our one-investigation counting rule.** They do not establish 30 scientific advances, human acceptance or biological validation. The target of 100 distinct verified contributions remains incomplete.
 
+**Post-audit continuation:** the reopened PERRC release-eligibility audit has passed fresh reproduction and separate review as a bounded contribution. The snapshot now contains **31 receipts across eight counted investigations**. It corrects a previously unaccepted data-gap classification rather than counting repeated scripts as new work. The inspected release lacks the positional coverage for the specified external held-position benchmark; broader data availability and cross-assay equivalence remain unresolved. Its receipt, review and declared scripts are included below.
+
 The detached standalone coordinator continued while the interactive agent was unavailable. On resumption, all 30 accepted receipt manifests passed an integrity audit. Three separate domain audits then examined scientific questions, dependency chains, sources and later qualifications. Independent standard-library checks of raw workbook values, selected prediction metrics and stress-score aggregation were rerun successfully. These checks do not reproduce all model inference, nested training or finite-element solves.
 
 | Investigation | Surviving scope |
@@ -19,6 +21,8 @@ The pRR1 clone-lineage record remains useful source validation for the still dat
 The two reviewed gaps have [readable measurement and experiment briefs](DATA_NEEDED.md) and [structured records](data-gaps.json), including evidence that would support or refute the claims, remaining computational work, reopening triggers and source-backed producer candidates. They add no contribution count.
 
 Read the detailed [Rubisco audit](audits/rubisco/report.md), [protease audit](audits/protease/report.md) and [cryopreservation audit](audits/cryo/report.md). Their adjacent JSON files record per-task classifications and independent-check results. Source URLs and evidence digests are retained. Third-party source bytes, model weights, environments and private provider transcripts are not mirrored here; this snapshot is an assessment record, not a standalone download of every reproduction input. Evidence job paths refer to the retained operational run.
+
+Declared analysis scripts and reports are also available under [jobs/](jobs/), using the receipt paths. Each directory has `PUBLIC_STATUS.md` linking back to the controlling assessment and `PUBLIC_FILES.json` listing copied-file hashes. Those files match the original receipts exactly. Read the cross-record audit first: later validation qualifies or supersedes some earlier interpretations. Source inputs, model weights, dependencies and cached helper modules may still need separate acquisition or path adaptation; this published subset is not represented as a portable one-command suite. Original attribution and third-party license terms remain applicable.
 
 The stalled independent-protease benchmark inventory should return to ordinary review as a bounded release-coverage finding, with its wider data gate unestablished. A valid narrower result is not automatic acceptance: it must still pass reproduction, review and investigation-level counting.
 

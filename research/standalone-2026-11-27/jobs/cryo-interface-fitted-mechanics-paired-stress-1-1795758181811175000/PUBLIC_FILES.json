@@ -1,0 +1,14 @@
+{
+  "report.md": "e1cd8037a9120dda78558940685e59a5fdbeeede833b993eb7ff7c4e4e5af881",
+  "analysis.py": "6a47a2def657af105eed3843ed102f280b8966c54c2fba10b029c5db4e22208c",
+  "verify.py": "0e9b1e9480700180f86e1a6217b1a29c172e85e38eddcbdb9c94cab2b2a412ac",
+  "verify.sh": "78b4493bcb7dc1640349bb14c6200750a48ac4c4a56fd6891b4c4c46ca3d3693",
+  "requirements.txt": "7f25d6435e8b664fe179e4cc57ec7c36b61c9f32ad9c7285a1723e3612b4cd2d",
+  "heat_cache.py": "f647e5135e8464eefa5bc166d5c6a4d90461a6dd9addc85ce86fbdd3f610a0da",
+  "cut_geometry.py": "b51896ba061437fa08640035e5e86f843256a0edde8d7676f07b6a6bdd8460f2",
+  "coupled.py": "66c1210b65f621a33cfa356ef88eaf16282f2a48bd99239624aa75a0310fe377",
+  "thermal_graph.py": "f20fcaba509b41c94edfcdfc0f02923c734e45e71fd06df6de7095b40ab0e26d",
+  "lattice.py": "fa7ab8ba45702e2b1fc9365a6f347e857b158ea3c9b776f63bee78d0cf9300c1",
+  "gap_model.py": "53f082afd3b7a9eab421b302698b7e6f156d7a4500d209cb318c7107d65a25c0",
+  "mechanics.py": "1a819c65289a85d529e623c8effe535fa3c5834f0531a3685a027728f8e983fb"
+}

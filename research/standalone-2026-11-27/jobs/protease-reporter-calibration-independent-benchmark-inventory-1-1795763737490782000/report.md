@@ -1,0 +1,29 @@
+# PERRC’s released biochemical panel cannot support held-position validation
+
+The closest alternative is the 2025 PERRC study. Its Figure 5 has a cellular reporter normalized to optical density, background and substrate-only controls. Its biochemical workbook contains four enzyme–substrate pairs, the same four as Table 1. Both noncanonical pairs vary P1. Leaving P1 out leaves zero noncanonical training positions. This is a coverage limit even if every biochemical row joins to the corresponding GFP measurement at the recognition-site level. The constructs differ between peptide FRET and cellular GFP. The reference enzyme in Figure 5 has no corresponding rows in the FRET workbook. [PERRC paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12301959/) · [FRET workbook](https://doi.org/10.1021/acssynbio.5c00154.s002)
+
+The audited ACS Figshare workbook is item 29104880, version 1, file `sb5c00154_si_002.xlsx`. Its SHA-256 is `658c250e8142897f23595dba8b651a69f0234ce920bae1b96e2ca859b7bf3ddb`. The independent verifier reconciles all four workbook keys with manuscript Table 1. This supersedes the earlier data-gap classification within the same PERRC audit.
+
+The sheet contains 72 time-trace columns and 70 archived slope cells. The raw values cover 90–300 seconds, in 15-second steps. Refit each trace with an intercept, average the two technical-well slopes at each selected concentration, and divide by the mean canonical slope in the same enzyme and concentration. The two largest shared concentrations illustrate why an endpoint-equivalence rule matters.
+
+| PERRC enzyme label | Noncanonical / canonical RFU slope at 50 µM | At 25 µM | Table 1 catalytic-efficiency ratio |
+|---|---:|---:|---:|
+| TEVEp | 1.3934 | 0.5602 | 2.2 |
+| TEVESNp | 16.8552 | 10.4063 | 64.9 |
+
+These are descriptive replays on archived fluorescence values. The RFU ratio has a canonical denominator, but the inspected materials did not establish a peptide-specific fluorescence-to-product conversion or match ProtRec's cell-free cleavage measurement. The parent ratio also crosses 1 across the two concentrations. The sensitivity is a check on substituting endpoints and provides no population-level inference. We did not infer missing archived slopes for the authors' nonlinear fit, fit a transfer model, or treat duplicate wells as independent runs. The other two PERRC workbooks are reporter plate-reader exports. The supporting PDF labels S8 and S9 as the in-vitro panels for the same two enzymes. [Publisher supplements](https://doi.org/10.1021/acssynbio.5c00154.s004)
+
+## Other public evidence
+
+- The Denard YESS 2.0 publisher supplement resolves the earlier indexed-only check. Its Figs. S4–S6 use a single canonical recognition site for synthetic-peptide kinetics or tagged-protein cleavage, even though the display cassette has a counterselection site. [YESS 2.0 supplement](https://doi.org/10.1021/acssynbio.0c00452.s001)
+- Li et al. supply multi-position reporter profiles in supplement Fig. S4. The supplement's independent in-vitro cleavage comparison in Fig. S6 concerns Kex2, while the TEV specificity profiles are based on reporter sequencing. This does not extend the biochemical positions available for the TEV constructs in Yi Table 1. The Yi supplement publisher request returned HTTP 403, so the bound for Yi is restricted to Table 1. [Li supplement](https://doi.org/10.1021/acschembio.6b00547.s001) · [Yi article](https://doi.org/10.1073/pnas.1215994110)
+- Prior snapshots place Kostallas's matched singleton substitutions at P6, with conversion time courses. Sánchez and Ting's supplementary captions describe multi-position reporter profiling and separate biochemical series using fixed substrates. Combining the Kostallas and PERRC examples would make position track study and readout. [Kostallas Figure 4](https://doi.org/10.1371/journal.pone.0016136.g004) · [Sánchez and Ting supplement](https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-019-0665-7/MediaObjects/41592_2019_665_MOESM1_ESM.pdf)
+- A ResearchGate tag-cleavage discussion raised substrate accessibility and scaffold context. The inspected index supplied no paired dataset. [ResearchGate discussion](https://www.researchgate.net/post/I_have_a_protein_tagged_with_MBP_maltose_binding_proteinwith_a_TEV_cleavage_site_between_MBP_and_prot_How_to_improve_the_cleavage_of_the_tag)
+
+## Benchmark decision
+
+Exclude this PERRC release from the multi-position external benchmark and retain it for endpoint-specific P1 description. Endpoint equivalence remains unresolved. The external held-position test still needs matched reporter and canonical-relative biochemical early-rate data across positions within an independent study. Fit the frozen context-only comparator on training positions and use the same splits, input availability and rows for the reporter-augmented fit. The same-motif comparator from the held-enzyme analysis depends on training outcomes for the exact test motifs and is unavailable under a genuinely unseen-position split. Decide the relevant gain before inspecting held-position performance. [ProtRec code](https://github.com/JeschekLab/ProtRec)
+
+Run `python3 analysis.py` to emit the results and `python3 verify.py` to verify them independently. The verifier checks the publisher checksum, compares workbook pair keys against manuscript Table 1, and uses exact rational arithmetic for the slopes. It verifies numerical coverage and replay only. The source classifications and the bounded search remain manual. No forecast comparison, human review, or biological validation was performed.
+
+The PERRC, YESS 2.0 and Li publisher supplements retain their ACS Figshare CC BY-NC 4.0 terms. The PMC PERRC manuscript snapshot is sourced from its text-and-data-mining release. The inputs retain source attribution in their metadata or in the submission. No broader redistribution rights are claimed.
